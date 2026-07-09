@@ -2,57 +2,26 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="SalaPad">
-<meta name="format-detection" content="telephone=no">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>SalaPad</title>
-
-<link rel="stylesheet" href="style.css">
-
-<head>
-<meta charset="UTF-8">
-
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="SalaPad">
-<meta name="format-detection" content="telephone=no">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
 <title>SalaPad</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<div id="fotoAtual" class="foto"></div>
-<div id="fotoProxima" class="foto"></div>
+<div id="slideshow"></div>
+<div id="overlay"></div>
 
-<div id="sombra"></div>
-
-<div id="topo">
-    <div>
-        <div id="hora">--:--</div>
-        <div id="data">carregando...</div>
-    </div>
-
-    <div id="clima">
-        <div id="iconeClima">☀️</div>
-        <div id="temperatura">--°C</div>
-        <div id="cidade">São Paulo</div>
-    </div>
+<div id="info">
+    <div id="hora"></div>
+    <div id="data"></div>
 </div>
 
-<div id="rodape">
-    <div id="mensagem">SalaPad</div>
+<div id="clima">
+    <div id="temperatura"></div>
+    <div id="cidade">São Paulo</div>
 </div>
 
-<script src="config.js"></script>
 <script src="script.js"></script>
 
 </body>
