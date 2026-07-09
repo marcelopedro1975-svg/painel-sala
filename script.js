@@ -20,10 +20,29 @@ fotos = embaralharFotos(fotos);
 var slide = document.getElementById("slideshow");
 var indice = 0;
 document.getElementById("cidade").innerHTML = CONFIG.cidade;
+function preCarregarProximaFoto() {
+    var proximoIndice = indice + 1;
 
+    if (proximoIndice >= fotos.length) {
+        proximoIndice = 0;
+    }
+
+    var img = new Image();
+    img.src = fotos[proximoIndice];
+}
 function mostrarFoto() {
 
-    slide.style.opacity = 0;
+    slide.style.opacity = 1;
+
+    indice++;
+
+    if (indice >= fotos.length) {
+
+        indice = 0;
+
+    }
+
+    preCarregarProximaFoto();
 
     setTimeout(function () {
 
@@ -53,6 +72,7 @@ function mostrarFoto() {
 }
 
 mostrarFoto();
+preCarregarProximaFoto();
 setInterval(mostrarFoto, CONFIG.intervaloFotos);
 
 function atualizarHora() {
