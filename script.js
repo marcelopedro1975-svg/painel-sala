@@ -67,7 +67,7 @@ function mostrarFoto() {
 
         }
 
-    }, 1500);
+    }, 500);
 
 }
 
