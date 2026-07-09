@@ -1,10 +1,4 @@
-var fotos = [
-    "fotos/IMG_20250511_123636.jpg",
-    "fotos/IMG_20260403_114501.jpg",
-    "fotos/IMG-20250509-WA0308.jpg",
-    "fotos/IMG-20250612-WA0226.jpg",
-    "fotos/IMG-20250612-WA0235.jpg"
-];
+var fotos = FOTOS;
 
 var slide = document.getElementById("slideshow");
 var indice = 0;
