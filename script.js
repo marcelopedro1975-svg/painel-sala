@@ -33,7 +33,7 @@ function mostrarFoto() {
 }
 
 mostrarFoto();
-setInterval(mostrarFoto, 30000);
+setInterval(mostrarFoto, 5000);
 
 function atualizarHora() {
     var agora = new Date();
@@ -58,13 +58,15 @@ function atualizarTemperatura() {
 
     xhr.open(
         "GET",
-        "https://api.open-meteo.com/v1/forecast?latitude=-23.5505&longitude=-46.6333&current=temperature_2m",
-        true
+        "https://api.open-meteo.com/v1/forecast?latitude=-23.5505&longitude=-46.6333&current=temperature_2m,weather_code", true
     );
 
     xhr.onload = function () {
         if (xhr.status === 200) {
-            var dados = JSON.parse(xhr.responseText);
+            var dados = JSON.parse(xhr.responseText); var codigo = dados.current.weather_code;
+
+            document.getElementById("iconeClima").innerHTML =
+                obterIconeClima(codigo);
 
             document.getElementById("temperatura").innerHTML =
                 Math.round(dados.current.temperature_2m) + "°C";
@@ -78,6 +80,35 @@ function atualizarTemperatura() {
     };
 
     xhr.send();
+}
+
+function obterIconeClima(codigo) {
+
+    if (codigo === 0)
+        return "☀️";
+
+    if (codigo === 1 || codigo === 2)
+        return "🌤️";
+
+    if (codigo === 3)
+        return "☁️";
+
+    if (codigo >= 45 && codigo <= 48)
+        return "🌫️";
+
+    if (codigo >= 51 && codigo <= 67)
+        return "🌧️";
+
+    if (codigo >= 71 && codigo <= 77)
+        return "❄️";
+
+    if (codigo >= 80 && codigo <= 82)
+        return "🌦️";
+
+    if (codigo >= 95)
+        return "⛈️";
+
+    return "🌡️";
 }
 
 atualizarTemperatura();

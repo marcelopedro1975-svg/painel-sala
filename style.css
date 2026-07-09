@@ -64,3 +64,9 @@ html, body {
     font-size:22px;
     opacity:.8;
 }
+
+#iconeClima {
+    font-size: 42px;
+    line-height: 1;
+    margin-bottom: 4px;
+}
