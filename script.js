@@ -17,7 +17,11 @@ function embaralharFotos(lista) {
 }
 
 fotos = embaralharFotos(fotos);
-var slide = document.getElementById("slideshow");
+var slideA = document.getElementById("slideA");
+var slideB = document.getElementById("slideB");
+var slideAtual = slideA;
+var proximoSlide = slideB;
+
 var indice = 0;
 document.getElementById("cidade").innerHTML = CONFIG.cidade;
 function preCarregarProximaFoto() {
@@ -32,43 +36,38 @@ function preCarregarProximaFoto() {
 }
 function mostrarFoto() {
 
-    slide.style.opacity = 1;
+    var imagem = new Image();
 
-    indice++;
+    imagem.onload = function () {
 
-    if (indice >= fotos.length) {
+        proximoSlide.style.webkitAnimation = "none";
+        proximoSlide.style.animation = "none";
 
-        indice = 0;
-
-    }
-
-    preCarregarProximaFoto();
-
-    setTimeout(function () {
-
-        slide.style.webkitAnimation = "none";
-        slide.style.animation = "none";
-
-        slide.style.backgroundImage =
+        proximoSlide.style.backgroundImage =
             "url('" + fotos[indice] + "')";
 
-        slide.offsetHeight;
+        proximoSlide.offsetHeight;
 
-        slide.style.webkitAnimation = "kenburns 30s linear infinite alternate";
-        slide.style.animation = "kenburns 30s linear infinite alternate";
+        proximoSlide.style.webkitAnimation = "kenburns 30s linear infinite alternate";
+        proximoSlide.style.animation = "kenburns 30s linear infinite alternate";
 
-        slide.style.opacity = 1;
+        proximoSlide.className = "slide ativo";
+        slideAtual.className = "slide";
+
+        var temporario = slideAtual;
+        slideAtual = proximoSlide;
+        proximoSlide = temporario;
 
         indice++;
 
         if (indice >= fotos.length) {
-
             indice = 0;
-
         }
 
-    }, 500);
+        preCarregarProximaFoto();
+    };
 
+    imagem.src = fotos[indice];
 }
 
 mostrarFoto();
