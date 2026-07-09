@@ -8,6 +8,7 @@ var fotos = [
 
 var slide = document.getElementById("slideshow");
 var indice = 0;
+document.getElementById("cidade").innerHTML = CONFIG.cidade;
 
 function mostrarFoto() {
 
@@ -41,7 +42,7 @@ function mostrarFoto() {
 }
 
 mostrarFoto();
-setInterval(mostrarFoto, 35000);
+setInterval(mostrarFoto, CONFIG.intervaloFotos);
 
 function atualizarHora() {
     var agora = new Date();
@@ -66,7 +67,7 @@ function atualizarTemperatura() {
 
     xhr.open(
         "GET",
-        "https://api.open-meteo.com/v1/forecast?latitude=-23.5505&longitude=-46.6333&current=temperature_2m,weather_code", true
+        "https://api.open-meteo.com/v1/forecast?latitude=" + CONFIG.latitude + "&longitude=" + CONFIG.longitude + "&current=temperature_2m,weather_code", true
     );
 
     xhr.onload = function () {
@@ -120,4 +121,4 @@ function obterIconeClima(codigo) {
 }
 
 atualizarTemperatura();
-setInterval(atualizarTemperatura, 1800000);
+setInterval(atualizarTemperatura, CONFIG.intervaloClima);
