@@ -15,8 +15,16 @@ function mostrarFoto() {
 
     setTimeout(function () {
 
+        slide.style.webkitAnimation = "none";
+        slide.style.animation = "none";
+
         slide.style.backgroundImage =
             "url('" + fotos[indice] + "')";
+
+        slide.offsetHeight;
+
+        slide.style.webkitAnimation = "kenburns 30s linear infinite alternate";
+        slide.style.animation = "kenburns 30s linear infinite alternate";
 
         slide.style.opacity = 1;
 
@@ -33,7 +41,7 @@ function mostrarFoto() {
 }
 
 mostrarFoto();
-setInterval(mostrarFoto, 5000);
+setInterval(mostrarFoto, 35000);
 
 function atualizarHora() {
     var agora = new Date();
