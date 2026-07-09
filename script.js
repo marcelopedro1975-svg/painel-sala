@@ -1,5 +1,22 @@
 var fotos = FOTOS;
+function embaralharFotos(lista) {
+    var i = lista.length;
+    var j;
+    var temp;
 
+    while (i > 0) {
+        j = Math.floor(Math.random() * i);
+        i--;
+
+        temp = lista[i];
+        lista[i] = lista[j];
+        lista[j] = temp;
+    }
+
+    return lista;
+}
+
+fotos = embaralharFotos(fotos);
 var slide = document.getElementById("slideshow");
 var indice = 0;
 document.getElementById("cidade").innerHTML = CONFIG.cidade;
