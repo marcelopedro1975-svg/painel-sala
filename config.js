@@ -8,6 +8,12 @@ var CONFIG = {
 
     intervaloFotos: 35000,
 
-    intervaloClima: 1800000
+    intervaloClima: 1800000,
+
+    modoNoturno: true,
+
+    horaInicioModoNoturno: 22,
+
+    horaFimModoNoturno: 6
 
 };
