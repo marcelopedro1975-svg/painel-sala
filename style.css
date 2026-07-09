@@ -16,6 +16,7 @@ html, body {
     background:black;
     background-size:cover;
     background-position:center;
+    transition: opacity 1.5s ease-in-out;
 }
 
 #overlay {

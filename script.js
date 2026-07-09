@@ -10,13 +10,26 @@ var slide = document.getElementById("slideshow");
 var indice = 0;
 
 function mostrarFoto() {
-    slide.style.backgroundImage = "url('" + fotos[indice] + "')";
 
-    indice++;
+    slide.style.opacity = 0;
 
-    if (indice >= fotos.length) {
-        indice = 0;
-    }
+    setTimeout(function () {
+
+        slide.style.backgroundImage =
+            "url('" + fotos[indice] + "')";
+
+        slide.style.opacity = 1;
+
+        indice++;
+
+        if (indice >= fotos.length) {
+
+            indice = 0;
+
+        }
+
+    }, 1500);
+
 }
 
 mostrarFoto();
