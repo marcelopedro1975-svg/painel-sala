@@ -206,6 +206,14 @@ function ocultarPainelInformativo() {
 
 var painelInformativoVisivel = null;
 
+var noticiasTeste = [
+    "Mercado financeiro atualiza projeções para inflação e crescimento econômico.",
+    "Bolsa encerra o dia em alta após divulgação de novos indicadores.",
+    "Previsão do tempo indica mudança nas temperaturas nos próximos dias."
+];
+
+var indiceNoticia = 0;
+
 function controlarPainelInformativo() {
     var agora = new Date();
     var minuto = agora.getMinutes();
@@ -214,7 +222,7 @@ function controlarPainelInformativo() {
         if (painelInformativoVisivel !== true) {
             exibirPainelInformativo(
                 "NOTÍCIAS",
-                "Mercado financeiro atualiza projeções para inflação e crescimento econômico."
+                noticiasTeste[indiceNoticia]
             );
 
             painelInformativoVisivel = true;
@@ -228,5 +236,21 @@ function controlarPainelInformativo() {
     }
 }
 
+function trocarNoticia() {
+    if (painelInformativoVisivel === true) {
+        indiceNoticia++;
+
+        if (indiceNoticia >= noticiasTeste.length) {
+            indiceNoticia = 0;
+        }
+
+        exibirPainelInformativo(
+            "NOTÍCIAS",
+            noticiasTeste[indiceNoticia]
+        );
+    }
+}
+
 controlarPainelInformativo();
 setInterval(controlarPainelInformativo, 30000);
+setInterval(trocarNoticia, 15000);
