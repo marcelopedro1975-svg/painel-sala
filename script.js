@@ -203,3 +203,30 @@ function ocultarPainelInformativo() {
 
     painel.className = "oculto";
 }
+
+var painelInformativoVisivel = null;
+
+function controlarPainelInformativo() {
+    var agora = new Date();
+    var minuto = agora.getMinutes();
+
+    if (minuto < 60) {
+        if (painelInformativoVisivel !== true) {
+            exibirPainelInformativo(
+                "NOTÍCIAS",
+                "Mercado financeiro atualiza projeções para inflação e crescimento econômico."
+            );
+
+            painelInformativoVisivel = true;
+        }
+    } else {
+        if (painelInformativoVisivel !== false) {
+            ocultarPainelInformativo();
+
+            painelInformativoVisivel = false;
+        }
+    }
+}
+
+controlarPainelInformativo();
+setInterval(controlarPainelInformativo, 30000);
