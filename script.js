@@ -128,7 +128,8 @@ function atualizarTemperatura() {
 
     xhr.onload = function () {
         if (xhr.status === 200) {
-            var dados = JSON.parse(xhr.responseText); var codigo = dados.current.weather_code;
+            var dados = JSON.parse(xhr.responseText);
+            var codigo = dados.current.weather_code;
 
             document.getElementById("iconeClima").innerHTML =
                 obterIconeClima(codigo);
@@ -179,22 +180,24 @@ function obterIconeClima(codigo) {
 atualizarTemperatura();
 setInterval(atualizarTemperatura, CONFIG.intervaloClima);
 
-function exibirPainelInformativo(titulo, conteudo) {
+function exibirPainelInformativo(titulo, fonte, conteudo) {
 
-    var painel = document.getElementById("painelInformativo");
     var tituloPainel = document.getElementById("tituloPainel");
+    var fontePainel = document.getElementById("fontePainel");
     var conteudoPainel = document.getElementById("conteudoPainel");
 
-    painel.className = "oculto";
+    conteudoPainel.className = "oculto";
 
     setTimeout(function () {
 
         tituloPainel.innerHTML = titulo;
+        fontePainel.innerHTML = fonte;
         conteudoPainel.innerHTML = conteudo;
 
-        painel.className = "visivel";
+        conteudoPainel.className = "visivel";
 
-    }, 800);
+    }, 600);
+
 }
 
 function ocultarPainelInformativo() {
@@ -222,6 +225,7 @@ function controlarPainelInformativo() {
         if (painelInformativoVisivel !== true) {
             exibirPainelInformativo(
                 "NOTÍCIAS",
+                "Agência Brasil",
                 noticiasTeste[indiceNoticia]
             );
 
@@ -246,6 +250,7 @@ function trocarNoticia() {
 
         exibirPainelInformativo(
             "NOTÍCIAS",
+            "Agência Brasil",
             noticiasTeste[indiceNoticia]
         );
     }

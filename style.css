@@ -148,8 +148,30 @@ body {
     opacity: 0.8;
 }
 
+#fontePainel {
+    font-size: 13px;
+    opacity: .65;
+
+    margin-bottom: 6px;
+
+    letter-spacing: .5px;
+}
+
 #conteudoPainel {
     font-size: 23px;
     font-weight: 300;
     line-height: 1.2;
+
+    opacity: 1;
+
+    -webkit-transition: opacity .6s ease-in-out;
+    transition: opacity .6s ease-in-out;
+}
+
+#conteudoPainel.oculto {
+    opacity: 0;
+}
+
+#conteudoPainel.visivel {
+    opacity: 1;
 }
