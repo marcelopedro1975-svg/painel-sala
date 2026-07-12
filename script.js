@@ -178,3 +178,28 @@ function obterIconeClima(codigo) {
 
 atualizarTemperatura();
 setInterval(atualizarTemperatura, CONFIG.intervaloClima);
+
+function exibirPainelInformativo(titulo, conteudo) {
+
+    var painel = document.getElementById("painelInformativo");
+    var tituloPainel = document.getElementById("tituloPainel");
+    var conteudoPainel = document.getElementById("conteudoPainel");
+
+    painel.className = "oculto";
+
+    setTimeout(function () {
+
+        tituloPainel.innerHTML = titulo;
+        conteudoPainel.innerHTML = conteudo;
+
+        painel.className = "visivel";
+
+    }, 800);
+}
+
+function ocultarPainelInformativo() {
+
+    var painel = document.getElementById("painelInformativo");
+
+    painel.className = "oculto";
+}

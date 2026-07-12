@@ -103,6 +103,7 @@ body {
     line-height: 1;
     margin-bottom: 4px;
 }
+
 #painelInformativo {
     position: absolute;
 
@@ -121,13 +122,26 @@ body {
     color: white;
     text-shadow: 0 1px 6px black;
 
+    opacity: 1;
+
+    -webkit-transition: opacity 0.8s ease-in-out;
+    transition: opacity 0.8s ease-in-out;
+
     z-index: 10;
+}
+
+#painelInformativo.oculto {
+    opacity: 0;
+}
+
+#painelInformativo.visivel {
+    opacity: 1;
 }
 
 #tituloPainel {
     margin-bottom: 7px;
 
-    font-size: 15px;
+    font-size: 17px;
     font-weight: bold;
     letter-spacing: 1.5px;
 
