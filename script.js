@@ -89,8 +89,34 @@ function atualizarHora() {
         });
 }
 
+function atualizarHora() {
+    var agora = new Date();
+
+    var horas = agora.getHours();
+    var minutos = agora.getMinutes();
+
+    if (horas < 10) {
+        horas = "0" + horas;
+    }
+
+    if (minutos < 10) {
+        minutos = "0" + minutos;
+    }
+
+    document.getElementById("hora").innerHTML =
+        horas + ":" + minutos;
+
+    document.getElementById("data").innerHTML =
+        agora.toLocaleDateString("pt-BR", {
+            weekday: "long",
+            day: "numeric",
+            month: "long",
+            year: "numeric"
+        });
+}
+
 atualizarHora();
-setInterval(atualizarHora, 1000);
+setInterval(atualizarHora, 30000);
 
 function atualizarTemperatura() {
     var xhr = new XMLHttpRequest();

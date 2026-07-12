@@ -62,19 +62,22 @@ body {
 
 #info {
     position: absolute;
-    left: 40px;
-    top: 40px;
+    left: 30px;
+    bottom: 25px;
     color: white;
     text-shadow: 0 0 12px black;
+    z-index: 10;
 }
 
 #hora {
-    font-size: 90px;
+    font-size: 54px;
     font-weight: 200;
+    line-height: 1;
 }
 
 #data {
-    font-size: 30px;
+    font-size: 22px;
+    margin-top: 8px;
 }
 
 #clima {
