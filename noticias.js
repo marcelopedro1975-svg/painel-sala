@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "STF bloqueia R$ 6 milhões de Eduardo Cunha por indicação de emendas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Revalida 2026/1: divulgado resultado final da primeira etapa do exame"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Luisa Stefani e Gabriela Dabrowski são vice-campeãs em Wimbledon"
     },
     {
@@ -38,5 +46,37 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Argentina elimina Suíça e enfrenta Inglaterra na semifinal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiro Guto Miguel é campeão de duplas em Wimbledon Juvenil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "UnB vai sediar encontro nacional de pesquisadores negros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Basquete Feminino: TV Brasil transmite neste domingo semifinal da LBF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jayden Adams, jogador da seleção sul-africana, morre aos 25 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ayrton Senna é reconhecido oficialmente como Herói da Pátria"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inverno pode trazer gatilhos para crises de asma e requer cuidados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes manda soltar ex-prefeito de Belford Roxo, após prisão com fuzil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil perde por 3 a 0 para Tailândia na Liga das Nações de Vôlei"
     }
 ];

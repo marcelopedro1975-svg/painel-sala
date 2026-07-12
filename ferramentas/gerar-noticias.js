@@ -2,25 +2,71 @@ var https = require("https");
 var fs = require("fs");
 var path = require("path");
 
-var urlFeed =
-    "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml";
+var feeds = [
+    {
+        nome: "Últimas Notícias",
+        url: "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+    },
+    {
+        nome: "Economia",
+        url: "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml"
+    },
+    {
+        nome: "Política",
+        url: "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"
+    },
+    {
+        nome: "Internacional",
+        url: "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml"
+    },
+    {
+        nome: "Saúde",
+        url: "https://agenciabrasil.ebc.com.br/rss/saude/feed.xml"
+    },
+    {
+        nome: "Esportes",
+        url: "https://agenciabrasil.ebc.com.br/rss/esportes/feed.xml"
+    },
+    {
+        nome: "Educação",
+        url: "https://agenciabrasil.ebc.com.br/rss/educacao/feed.xml"
+    },
+    {
+        nome: "Justiça",
+        url: "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml"
+    }
+];
 
-var arquivoSaida = path.join(__dirname, "..", "noticias.js");
+var arquivoSaida = path.join(
+    __dirname,
+    "..",
+    "noticias.js"
+);
 
 var quantidadeNoticias = 20;
+var noticiasEncontradas = [];
+var feedsConcluidos = 0;
 
 function decodificarEntidades(texto) {
+    if (!texto) {
+        return "";
+    }
+
     return texto
         .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
         .replace(/&amp;/g, "&")
         .replace(/&quot;/g, '"')
+        .replace(/&#034;/g, '"')
         .replace(/&#039;/g, "'")
         .replace(/&#39;/g, "'")
         .replace(/&apos;/g, "'")
         .replace(/&lt;/g, "<")
         .replace(/&gt;/g, ">")
+        .replace(/&nbsp;/g, " ")
         .replace(/&#8211;/g, "–")
         .replace(/&#8212;/g, "—")
+        .replace(/&#8216;/g, "‘")
+        .replace(/&#8217;/g, "’")
         .replace(/&#8220;/g, "“")
         .replace(/&#8221;/g, "”")
         .replace(/&#8230;/g, "…");
@@ -33,6 +79,18 @@ function limparTexto(texto) {
         .trim();
 }
 
+function normalizarTitulo(texto) {
+    return limparTexto(texto)
+        .toLowerCase()
+        .replace(/[áàâãä]/g, "a")
+        .replace(/[éèêë]/g, "e")
+        .replace(/[íìîï]/g, "i")
+        .replace(/[óòôõö]/g, "o")
+        .replace(/[úùûü]/g, "u")
+        .replace(/ç/g, "c")
+        .replace(/[^a-z0-9]/g, "");
+}
+
 function escaparJavaScript(texto) {
     return texto
         .replace(/\\/g, "\\\\")
@@ -41,37 +99,96 @@ function escaparJavaScript(texto) {
         .replace(/\n/g, " ");
 }
 
-function extrairNoticias(xml) {
+function extrairCampo(item, nomeCampo) {
+    var expressao = new RegExp(
+        "<" + nomeCampo + "[^>]*>([\\s\\S]*?)<\\/" +
+        nomeCampo + ">",
+        "i"
+    );
+
+    var resultado = item.match(expressao);
+
+    if (resultado && resultado[1]) {
+        return limparTexto(resultado[1]);
+    }
+
+    return "";
+}
+
+function extrairNoticias(xml, nomeFeed) {
     var noticias = [];
-    var itens = xml.match(/<item>[\s\S]*?<\/item>/g);
+    var itens = xml.match(
+        /<item\b[^>]*>[\s\S]*?<\/item>/gi
+    );
+
     var i;
-    var resultadoTitulo;
     var titulo;
+    var dataTexto;
+    var dataPublicacao;
 
     if (!itens) {
         return noticias;
     }
 
-    for (
-        i = 0;
-        i < itens.length && noticias.length < quantidadeNoticias;
-        i++
-    ) {
-        resultadoTitulo = itens[i].match(
-            /<title>([\s\S]*?)<\/title>/
+    for (i = 0; i < itens.length; i++) {
+        titulo = extrairCampo(
+            itens[i],
+            "title"
         );
 
-        if (resultadoTitulo && resultadoTitulo[1]) {
-            titulo = limparTexto(resultadoTitulo[1]);
+        dataTexto = extrairCampo(
+            itens[i],
+            "pubDate"
+        );
 
-            if (titulo !== "") {
-                noticias.push({
-                    fonte: "Agência Brasil",
-                    titulo: titulo
-                });
-            }
+        dataPublicacao = new Date(
+            dataTexto
+        ).getTime();
+
+        if (isNaN(dataPublicacao)) {
+            dataPublicacao = 0;
+        }
+
+        if (titulo !== "") {
+            noticias.push({
+                fonte: "Agência Brasil",
+                editoria: nomeFeed,
+                titulo: titulo,
+                data: dataPublicacao
+            });
         }
     }
+
+    return noticias;
+}
+
+function removerDuplicadas(noticias) {
+    var resultado = [];
+    var titulosEncontrados = {};
+    var i;
+    var chave;
+
+    for (i = 0; i < noticias.length; i++) {
+        chave = normalizarTitulo(
+            noticias[i].titulo
+        );
+
+        if (
+            chave !== "" &&
+            !titulosEncontrados[chave]
+        ) {
+            titulosEncontrados[chave] = true;
+            resultado.push(noticias[i]);
+        }
+    }
+
+    return resultado;
+}
+
+function ordenarPorData(noticias) {
+    noticias.sort(function (a, b) {
+        return b.data - a.data;
+    });
 
     return noticias;
 }
@@ -82,12 +199,21 @@ function gerarArquivo(noticias) {
 
     for (i = 0; i < noticias.length; i++) {
         conteudo += "    {\n";
-        conteudo += '        fonte: "' +
-            escaparJavaScript(noticias[i].fonte) +
+
+        conteudo +=
+            '        fonte: "' +
+            escaparJavaScript(
+                noticias[i].fonte
+            ) +
             '",\n';
-        conteudo += '        titulo: "' +
-            escaparJavaScript(noticias[i].titulo) +
+
+        conteudo +=
+            '        titulo: "' +
+            escaparJavaScript(
+                noticias[i].titulo
+            ) +
             '"\n';
+
         conteudo += "    }";
 
         if (i < noticias.length - 1) {
@@ -106,73 +232,175 @@ function gerarArquivo(noticias) {
     );
 }
 
-console.log("Buscando notícias da Agência Brasil...");
+function concluirGeracao() {
+    var noticiasFinais;
 
-https.get(urlFeed, function (resposta) {
-    var xml = "";
+    noticiasFinais = removerDuplicadas(
+        noticiasEncontradas
+    );
+
+    noticiasFinais = ordenarPorData(
+        noticiasFinais
+    );
 
     if (
-        resposta.statusCode >= 300 &&
-        resposta.statusCode < 400 &&
-        resposta.headers.location
+        noticiasFinais.length >
+        quantidadeNoticias
     ) {
-        console.log("O feed foi redirecionado.");
-        console.log("Execute novamente se necessário.");
-        resposta.resume();
-        process.exit(1);
+        noticiasFinais =
+            noticiasFinais.slice(
+                0,
+                quantidadeNoticias
+            );
     }
 
-    if (resposta.statusCode !== 200) {
+    if (noticiasFinais.length === 0) {
+        console.log("");
         console.log(
-            "ERRO: o feed respondeu com status " +
-            resposta.statusCode
+            "ERRO: nenhuma notícia foi encontrada."
         );
 
-        resposta.resume();
+        console.log(
+            "O arquivo noticias.js anterior foi preservado."
+        );
+
         process.exit(1);
     }
 
-    resposta.setEncoding("utf8");
+    gerarArquivo(noticiasFinais);
 
-    resposta.on("data", function (parte) {
-        xml += parte;
-    });
+    console.log("");
+    console.log(
+        noticiasFinais.length +
+        " notícias diferentes encontradas."
+    );
 
-    resposta.on("end", function () {
-        var noticias = extrairNoticias(xml);
+    console.log("");
+    console.log(
+        "Arquivo noticias.js gerado com sucesso."
+    );
+}
 
-        if (noticias.length === 0) {
-            console.log(
-                "ERRO: nenhuma notícia foi encontrada."
+function verificarConclusao() {
+    feedsConcluidos++;
+
+    if (feedsConcluidos >= feeds.length) {
+        concluirGeracao();
+    }
+}
+
+function baixarFeed(feed, url, redirecionamentos) {
+    https.get(url, function (resposta) {
+        var xml = "";
+        var novaUrl;
+
+        if (
+            resposta.statusCode >= 300 &&
+            resposta.statusCode < 400 &&
+            resposta.headers.location
+        ) {
+            resposta.resume();
+
+            if (redirecionamentos >= 5) {
+                console.log(
+                    "ERRO em " +
+                    feed.nome +
+                    ": muitos redirecionamentos."
+                );
+
+                verificarConclusao();
+                return;
+            }
+
+            novaUrl = resposta.headers.location;
+
+            if (
+                novaUrl.indexOf("http") !== 0
+            ) {
+                novaUrl =
+                    "https://agenciabrasil.ebc.com.br" +
+                    novaUrl;
+            }
+
+            baixarFeed(
+                feed,
+                novaUrl,
+                redirecionamentos + 1
             );
 
-            console.log(
-                "O arquivo noticias.js anterior foi preservado."
-            );
-
-            process.exit(1);
+            return;
         }
 
-        gerarArquivo(noticias);
+        if (resposta.statusCode !== 200) {
+            console.log(
+                "Feed " +
+                feed.nome +
+                " respondeu com status " +
+                resposta.statusCode +
+                "."
+            );
 
-        console.log("");
+            resposta.resume();
+            verificarConclusao();
+            return;
+        }
+
+        resposta.setEncoding("utf8");
+
+        resposta.on("data", function (parte) {
+            xml += parte;
+        });
+
+        resposta.on("end", function () {
+            var noticiasDoFeed;
+
+            noticiasDoFeed = extrairNoticias(
+                xml,
+                feed.nome
+            );
+
+            console.log(
+                feed.nome +
+                ": " +
+                noticiasDoFeed.length +
+                " notícias."
+            );
+
+            noticiasEncontradas =
+                noticiasEncontradas.concat(
+                    noticiasDoFeed
+                );
+
+            verificarConclusao();
+        });
+    }).on("error", function (erro) {
         console.log(
-            noticias.length + " notícias encontradas."
+            "ERRO ao acessar " +
+            feed.nome +
+            ": " +
+            erro.message
         );
 
-        console.log("");
-        console.log(
-            "Arquivo noticias.js gerado com sucesso."
-        );
+        verificarConclusao();
     });
-}).on("error", function (erro) {
-    console.log(
-        "ERRO ao acessar o feed: " + erro.message
-    );
+}
+
+function iniciarGeracao() {
+    var i;
 
     console.log(
-        "O arquivo noticias.js anterior foi preservado."
+        "Buscando notícias da Agência Brasil..."
     );
 
-    process.exit(1);
-});
+    console.log("");
+
+    for (i = 0; i < feeds.length; i++) {
+        baixarFeed(
+            feeds[i],
+            feeds[i].url,
+            0
+        );
+    }
+}
+
+iniciarGeracao();
