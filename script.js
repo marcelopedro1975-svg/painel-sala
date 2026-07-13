@@ -253,3 +253,10 @@ function trocarNoticia() {
 controlarPainelInformativo();
 setInterval(controlarPainelInformativo, 30000);
 setInterval(trocarNoticia, 15000);
+/* ==========================
+   ATUALIZAÇÃO AUTOMÁTICA
+========================== */
+
+setInterval(function () {
+    location.reload();
+}, CONFIG.intervaloAtualizacaoPagina);
