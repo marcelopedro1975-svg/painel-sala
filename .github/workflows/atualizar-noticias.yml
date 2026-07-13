@@ -1,0 +1,44 @@
+name: Atualizar notícias
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "7 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Gerar notícias
+        run: node ferramentas/gerar-noticias.js
+
+      - name: Verificar alterações
+        id: verificar
+        run: |
+          if git diff --quiet noticias.js; then
+            echo "alterado=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "alterado=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Salvar notícias atualizadas
+        if: steps.verificar.outputs.alterado == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add noticias.js
+          git commit -m "Atualiza notícias automaticamente"
+          git push
