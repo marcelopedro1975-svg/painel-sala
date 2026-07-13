@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Invictas, seleções do Brasil jogam oitavas do Mundial de vôlei sentado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsa cai 1,2%, e dólar sobe para R$ 5,13 com tensão global"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cantor e compositor João Bosco completa 80 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rivalidade entre Argentina e Inglaterra extrapola as quatro linhas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Homem é morto durante ação do serviço de imigração dos EUA no Maine"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Operação resgata 29 trabalhadores em condições análogas à escravidão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil envia ajuda humanitária a Cuba em meio ao cerco dos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso se aproxima do recesso sem votar PEC 6x1 e PL da Misoginia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ANP cria app para motorista conferir qualidade de posto de combustível"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confiança da indústria cai ao menor nível desde a pandemia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes suspende visitas de Flávio a Bolsonaro na prisão domiciliar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enare: inscrição para residência com pré-requisito termina na 4ª feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após 36 anos, Copa volta a reunir apenas campeões nas semifinais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições para o Fies do segundo semestre começam na terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Boletim Focus: mercado reduz expectativa de inflação para 5,16%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cidade do Rio proíbe publicidade de bets em espaços públicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caminhos da Reportagem destaca semelhanças entre Brasil e Cabo Verde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fatores sociais e estruturais empurram mulheres para cesarianas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STF bloqueia R$ 6 milhões de Eduardo Cunha por indicação de emendas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Revalida 2026/1: divulgado resultado final da primeira etapa do exame"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Luisa Stefani e Gabriela Dabrowski são vice-campeãs em Wimbledon"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vivências de brasileiros na pandemia são tema de mostra em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBGE inicia coleta da Pesquisa Nacional de Saúde 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil perde para os Estados Unidos por 3 a 0 no vôlei feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projeto de música e valorização do mangue conscientiza alunos no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil estreia documentário Manual Básico da Educação Financeira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prouni recebe inscrições até este domingo para o 2º semestre de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 25 milhões; confira números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Afogamentos estão entre principais causas de mortes de crianças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Argentina elimina Suíça e enfrenta Inglaterra na semifinal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro Guto Miguel é campeão de duplas em Wimbledon Juvenil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "UnB vai sediar encontro nacional de pesquisadores negros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Basquete Feminino: TV Brasil transmite neste domingo semifinal da LBF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jayden Adams, jogador da seleção sul-africana, morre aos 25 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ayrton Senna é reconhecido oficialmente como Herói da Pátria"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inverno pode trazer gatilhos para crises de asma e requer cuidados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes manda soltar ex-prefeito de Belford Roxo, após prisão com fuzil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil perde por 3 a 0 para Tailândia na Liga das Nações de Vôlei"
     }
 ];
