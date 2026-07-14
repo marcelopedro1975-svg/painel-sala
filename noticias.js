@@ -1,11 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "SUS oferta insulina glargina para crianças, adolescentes e idosos"
+        titulo: "Brasil vai às quartas do Mundial de vôlei sentado nos dois naipes"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "ONU Mulheres oferece formação digital gratuita; saiba como participar"
+        titulo: "IBGE prevê safra de 347,4 milhões de toneladas para 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Safra de grãos deve alcançar 360,1 milhões de toneladas, estima Conab"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais de 54% dos graduandos já abandonaram curso para cuidar dos filhos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudo alerta para avanço de bactéria em criações de peixes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo registra baixas temperaturas na madrugada em várias cidades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conselho eleva de 30% para 32% teor de etanol na gasolina por 180 dias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPF denuncia policiais rodoviários por morte de adolescente no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Educação política passa a integrar currículo escolar brasileiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas atingem Nordeste, Norte e pontos isolados do Centro-Oeste"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado em R$ 25 milhões nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caso Marielle: Moraes determina cumprimento imediato de penas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lote especial de restituição do IRPF começa a ser pago nesta quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gripe: Anvisa aprova nova vacina com 73% de eficácia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS oferta insulina glargina para crianças, adolescentes e idosos"
     },
     {
         fonte: "Agência Brasil",
@@ -25,58 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "ECA completa 36 anos entre avanços e desafios para proteger crianças"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TJSP absolve empresário Thiago Brennand de acusação de estupro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Invictas, seleções do Brasil jogam oitavas do Mundial de vôlei sentado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsa cai 1,2%, e dólar sobe para R$ 5,13 com tensão global"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rivalidade entre Argentina e Inglaterra extrapola as quatro linhas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Homem é morto durante ação do serviço de imigração dos EUA no Maine"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil envia ajuda humanitária a Cuba em meio ao cerco dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso se aproxima do recesso sem votar PEC 6x1 e PL da Misoginia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ANP cria app para motorista conferir qualidade de posto de combustível"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confiança da indústria cai ao menor nível desde a pandemia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes suspende visitas de Flávio a Bolsonaro na prisão domiciliar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enare: inscrição para residência com pré-requisito termina na 4ª feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após 36 anos, Copa volta a reunir apenas campeões nas semifinais"
     }
 ];
