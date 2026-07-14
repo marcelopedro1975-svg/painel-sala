@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "SUS oferta insulina glargina para crianças, adolescentes e idosos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONU Mulheres oferece formação digital gratuita; saiba como participar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reação ao racismo contra jogadores negros na Copa vai além do futebol"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Como uma Copa América moldou a \"Scaloneta\" e transformou Lionel Messi"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fies: inscrições para edição do segundo semestre vão até 17 de julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Taxa da Prova Nacional Docente (PND) deve ser paga nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "ECA completa 36 anos entre avanços e desafios para proteger crianças"
     },
     {
@@ -21,19 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cantor e compositor João Bosco completa 80 anos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rivalidade entre Argentina e Inglaterra extrapola as quatro linhas"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Homem é morto durante ação do serviço de imigração dos EUA no Maine"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Operação resgata 29 trabalhadores em condições análogas à escravidão"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Após 36 anos, Copa volta a reunir apenas campeões nas semifinais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inscrições para o Fies do segundo semestre começam na terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Boletim Focus: mercado reduz expectativa de inflação para 5,16%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cidade do Rio proíbe publicidade de bets em espaços públicos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem destaca semelhanças entre Brasil e Cabo Verde"
     }
 ];
