@@ -1,4 +1,9 @@
+/* ==========================
+   FOTOS
+========================== */
+
 var fotos = FOTOS;
+
 function embaralharFotos(lista) {
     var i = lista.length;
     var j;
@@ -17,91 +22,89 @@ function embaralharFotos(lista) {
 }
 
 fotos = embaralharFotos(fotos);
+
 var slideA = document.getElementById("slideA");
 var slideB = document.getElementById("slideB");
+
 var slideAtual = slideA;
 var proximoSlide = slideB;
 
-var indice = 0;
-document.getElementById("cidade").innerHTML = CONFIG.cidade;
+var indiceFoto = 0;
+
 function preCarregarProximaFoto() {
-    var proximoIndice = indice + 1;
+    var proximoIndice = indiceFoto + 1;
+    var img;
 
     if (proximoIndice >= fotos.length) {
         proximoIndice = 0;
     }
 
-    var img = new Image();
+    img = new Image();
     img.src = fotos[proximoIndice];
 }
-function mostrarFoto() {
 
+function mostrarFoto() {
     var imagem = new Image();
 
     imagem.onload = function () {
-
         proximoSlide.style.webkitAnimation = "none";
         proximoSlide.style.animation = "none";
 
         proximoSlide.style.backgroundImage =
-            "url('" + fotos[indice] + "')";
+            "url('" + fotos[indiceFoto] + "')";
 
         proximoSlide.offsetHeight;
 
-        proximoSlide.style.webkitAnimation = "kenburns 30s linear infinite alternate";
-        proximoSlide.style.animation = "kenburns 30s linear infinite alternate";
+        proximoSlide.style.webkitAnimation =
+            "kenburns 30s linear infinite alternate";
+
+        proximoSlide.style.animation =
+            "kenburns 30s linear infinite alternate";
 
         proximoSlide.className = "slide ativo";
         slideAtual.className = "slide";
 
         var temporario = slideAtual;
+
         slideAtual = proximoSlide;
         proximoSlide = temporario;
 
-        indice++;
+        indiceFoto++;
 
-        if (indice >= fotos.length) {
-            indice = 0;
+        if (indiceFoto >= fotos.length) {
+            indiceFoto = 0;
         }
 
         preCarregarProximaFoto();
     };
 
-    imagem.src = fotos[indice];
+    imagem.src = fotos[indiceFoto];
 }
 
 mostrarFoto();
 preCarregarProximaFoto();
-setInterval(mostrarFoto, CONFIG.intervaloFotos);
 
-function atualizarHora() {
-    var agora = new Date();
+setInterval(
+    mostrarFoto,
+    CONFIG.intervaloFotos
+);
 
-    document.getElementById("hora").innerHTML =
-        agora.toLocaleTimeString("pt-BR");
+/* ==========================
+   RELÓGIO E DATA
+========================== */
 
-    document.getElementById("data").innerHTML =
-        agora.toLocaleDateString("pt-BR", {
-            weekday: "long",
-            day: "numeric",
-            month: "long",
-            year: "numeric"
-        });
+function adicionarZero(numero) {
+    if (numero < 10) {
+        return "0" + numero;
+    }
+
+    return numero;
 }
 
 function atualizarHora() {
     var agora = new Date();
-
-    var horas = agora.getHours();
-    var minutos = agora.getMinutes();
-
-    if (horas < 10) {
-        horas = "0" + horas;
-    }
-
-    if (minutos < 10) {
-        minutos = "0" + minutos;
-    }
+    var horas = adicionarZero(agora.getHours());
+    var minutos = adicionarZero(agora.getMinutes());
 
     document.getElementById("hora").innerHTML =
         horas + ":" + minutos;
@@ -116,143 +119,290 @@ function atualizarHora() {
 }
 
 atualizarHora();
-setInterval(atualizarHora, 30000);
+
+setInterval(
+    atualizarHora,
+    30000
+);
+
+/* ==========================
+   CLIMA
+========================== */
+
+document.getElementById("cidade").innerHTML =
+    CONFIG.cidade;
+
+function obterIconeClima(codigo) {
+    if (codigo === 0) {
+        return "☀️";
+    }
+
+    if (codigo === 1 || codigo === 2) {
+        return "🌤️";
+    }
+
+    if (codigo === 3) {
+        return "☁️";
+    }
+
+    if (codigo >= 45 && codigo <= 48) {
+        return "🌫️";
+    }
+
+    if (codigo >= 51 && codigo <= 67) {
+        return "🌧️";
+    }
+
+    if (codigo >= 71 && codigo <= 77) {
+        return "❄️";
+    }
+
+    if (codigo >= 80 && codigo <= 82) {
+        return "🌦️";
+    }
+
+    if (codigo >= 95) {
+        return "⛈️";
+    }
+
+    return "🌡️";
+}
 
 function atualizarTemperatura() {
     var xhr = new XMLHttpRequest();
 
-    xhr.open(
-        "GET",
-        "https://api.open-meteo.com/v1/forecast?latitude=" + CONFIG.latitude + "&longitude=" + CONFIG.longitude + "&current=temperature_2m,weather_code", true
-    );
+    var url =
+        "https://api.open-meteo.com/v1/forecast" +
+        "?latitude=" + CONFIG.latitude +
+        "&longitude=" + CONFIG.longitude +
+        "&current=temperature_2m,weather_code";
+
+    xhr.open("GET", url, true);
 
     xhr.onload = function () {
+        var dados;
+        var codigo;
+
         if (xhr.status === 200) {
-            var dados = JSON.parse(xhr.responseText);
-            var codigo = dados.current.weather_code;
+            dados = JSON.parse(xhr.responseText);
+            codigo = dados.current.weather_code;
 
             document.getElementById("iconeClima").innerHTML =
                 obterIconeClima(codigo);
 
             document.getElementById("temperatura").innerHTML =
-                Math.round(dados.current.temperature_2m) + "°C";
+                Math.round(
+                    dados.current.temperature_2m
+                ) + "°C";
         } else {
-            document.getElementById("temperatura").innerHTML = "--°";
+            document.getElementById("temperatura").innerHTML =
+                "--°";
         }
     };
 
     xhr.onerror = function () {
-        document.getElementById("temperatura").innerHTML = "--°";
+        document.getElementById("temperatura").innerHTML =
+            "--°";
     };
 
     xhr.send();
 }
 
-function obterIconeClima(codigo) {
-
-    if (codigo === 0)
-        return "☀️";
-
-    if (codigo === 1 || codigo === 2)
-        return "🌤️";
-
-    if (codigo === 3)
-        return "☁️";
-
-    if (codigo >= 45 && codigo <= 48)
-        return "🌫️";
-
-    if (codigo >= 51 && codigo <= 67)
-        return "🌧️";
-
-    if (codigo >= 71 && codigo <= 77)
-        return "❄️";
-
-    if (codigo >= 80 && codigo <= 82)
-        return "🌦️";
-
-    if (codigo >= 95)
-        return "⛈️";
-
-    return "🌡️";
-}
-
 atualizarTemperatura();
-setInterval(atualizarTemperatura, CONFIG.intervaloClima);
 
-function exibirPainelInformativo(titulo, fonte, conteudo) {
+setInterval(
+    atualizarTemperatura,
+    CONFIG.intervaloClima
+);
 
-    var tituloPainel = document.getElementById("tituloPainel");
-    var fontePainel = document.getElementById("fontePainel");
-    var conteudoPainel = document.getElementById("conteudoPainel");
+/* ==========================
+   PAINEL INFORMATIVO
+========================== */
+
+var painelInformativoVisivel = false;
+var temporizadorPainel = null;
+
+function exibirPainelInformativo(
+    titulo,
+    fonte,
+    conteudo
+) {
+    var painel =
+        document.getElementById("painelInformativo");
+
+    var tituloPainel =
+        document.getElementById("tituloPainel");
+
+    var fontePainel =
+        document.getElementById("fontePainel");
+
+    var conteudoPainel =
+        document.getElementById("conteudoPainel");
+
+    painel.className = "visivel";
+    painelInformativoVisivel = true;
 
     conteudoPainel.className = "oculto";
 
     setTimeout(function () {
-
         tituloPainel.innerHTML = titulo;
         fontePainel.innerHTML = fonte;
         conteudoPainel.innerHTML = conteudo;
 
         conteudoPainel.className = "visivel";
-
     }, 600);
-
 }
 
 function ocultarPainelInformativo() {
-
-    var painel = document.getElementById("painelInformativo");
+    var painel =
+        document.getElementById("painelInformativo");
 
     painel.className = "oculto";
+    painelInformativoVisivel = false;
 }
 
-var painelInformativoVisivel = null;
+/* ==========================
+   FORMATAÇÃO DO MERCADO
+========================== */
+
+function montarLinhaMercado(item) {
+    return (
+        '<div class="linhaMercado">' +
+            '<span class="nomeMercado">' +
+                item.nome +
+            "</span>" +
+            '<span class="valorMercado">' +
+                item.valor +
+            "</span>" +
+            '<span class="variacaoMercado">' +
+                item.variacao +
+            "</span>" +
+        "</div>"
+    );
+}
+
+function montarConteudoMercado(lista) {
+    var conteudo = "";
+    var i;
+
+    for (i = 0; i < lista.length; i++) {
+        conteudo += montarLinhaMercado(lista[i]);
+    }
+
+    return conteudo;
+}
+
+function mostrarMercadoBrasil() {
+    exibirPainelInformativo(
+        "MERCADO",
+        "Bitcoin em dólar e índices brasileiros",
+        montarConteudoMercado(MERCADO_BRASIL)
+    );
+
+    temporizadorPainel = setTimeout(
+        mostrarMercadoEUA,
+        CONFIG.duracaoMercadoBrasil
+    );
+}
+
+function mostrarMercadoEUA() {
+    exibirPainelInformativo(
+        "MERCADO EUA",
+        "Principais índices americanos",
+        montarConteudoMercado(MERCADO_EUA)
+    );
+
+    temporizadorPainel = setTimeout(
+        iniciarCicloNoticias,
+        CONFIG.duracaoMercadoEUA
+    );
+}
+
+/* ==========================
+   NOTÍCIAS
+========================== */
 
 var indiceNoticia = 0;
+var noticiasExibidasNoCiclo = 0;
 
-function controlarPainelInformativo() {
-    var agora = new Date();
-    var minuto = agora.getMinutes();
+function mostrarNoticiaAtual() {
+    if (
+        !NOTICIAS ||
+        NOTICIAS.length === 0
+    ) {
+        exibirPainelInformativo(
+            "NOTÍCIAS",
+            "SalaPad",
+            "Nenhuma notícia disponível."
+        );
 
-    if (minuto < 60) {
-        if (painelInformativoVisivel !== true) {
-            exibirPainelInformativo(
-                "NOTÍCIAS",
-                NOTICIAS[indiceNoticia].fonte,
-                NOTICIAS[indiceNoticia].titulo
-            );
-
-            painelInformativoVisivel = true;
-        }
-    } else {
-        if (painelInformativoVisivel !== false) {
-            ocultarPainelInformativo();
-
-            painelInformativoVisivel = false;
-        }
+        return;
     }
+
+    if (indiceNoticia >= NOTICIAS.length) {
+        indiceNoticia = 0;
+    }
+
+    exibirPainelInformativo(
+        "NOTÍCIAS",
+        NOTICIAS[indiceNoticia].fonte,
+        NOTICIAS[indiceNoticia].titulo
+    );
 }
 
 function trocarNoticia() {
-    if (painelInformativoVisivel === true) {
-        indiceNoticia++;
+    indiceNoticia++;
+    noticiasExibidasNoCiclo++;
 
-        if (indiceNoticia >= NOTICIAS.length) {
-            indiceNoticia = 0;
-        }
+    if (
+        noticiasExibidasNoCiclo >=
+        CONFIG.quantidadeNoticiasAntesMercado
+    ) {
+        mostrarMercadoBrasil();
+        return;
+    }
 
-        exibirPainelInformativo(
-            "NOTÍCIAS",
-            NOTICIAS[indiceNoticia].fonte,
-            NOTICIAS[indiceNoticia].titulo
-        );
+    mostrarNoticiaAtual();
+
+    temporizadorPainel = setTimeout(
+        trocarNoticia,
+        CONFIG.intervaloNoticias
+    );
+}
+
+function iniciarCicloNoticias() {
+    noticiasExibidasNoCiclo = 0;
+
+    mostrarNoticiaAtual();
+
+    temporizadorPainel = setTimeout(
+        trocarNoticia,
+        CONFIG.intervaloNoticias
+    );
+}
+
+/* ==========================
+   CONTROLE DE EXIBIÇÃO
+========================== */
+
+function iniciarPainelInformativo() {
+    if (CONFIG.painelSempreVisivel === true) {
+        iniciarCicloNoticias();
+        return;
+    }
+
+    var agora = new Date();
+    var minuto = agora.getMinutes();
+
+    if (minuto < 20) {
+        iniciarCicloNoticias();
+    } else {
+        ocultarPainelInformativo();
     }
 }
 
-controlarPainelInformativo();
-setInterval(controlarPainelInformativo, 30000);
-setInterval(trocarNoticia, 15000);
+iniciarPainelInformativo();
+
 /* ==========================
    ATUALIZAÇÃO AUTOMÁTICA
 ========================== */

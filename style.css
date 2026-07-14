@@ -175,3 +175,38 @@ body {
 #conteudoPainel.visivel {
     opacity: 1;
 }
+/* ==========================
+   MERCADO
+========================== */
+
+.linhaMercado {
+    display: table;
+    width: 100%;
+    margin-top: 5px;
+
+    font-size: 17px;
+    line-height: 1.25;
+}
+
+.nomeMercado,
+.valorMercado,
+.variacaoMercado {
+    display: table-cell;
+    white-space: nowrap;
+}
+
+.nomeMercado {
+    width: 40%;
+    text-align: left;
+}
+
+.valorMercado {
+    width: 35%;
+    text-align: right;
+}
+
+.variacaoMercado {
+    width: 25%;
+    padding-left: 12px;
+    text-align: right;
+}
