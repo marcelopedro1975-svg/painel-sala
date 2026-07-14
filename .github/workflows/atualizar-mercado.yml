@@ -1,0 +1,46 @@
+name: Atualizar mercado
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Gerar dados do mercado
+        env:
+          BRAPI_TOKEN: ${{ secrets.BRAPI_TOKEN }}
+        run: node ferramentas/gerar-mercado.js
+
+      - name: Verificar alterações
+        id: verificar
+        run: |
+          if git diff --quiet mercado.js; then
+            echo "alterado=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "alterado=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Salvar mercado atualizado
+        if: steps.verificar.outputs.alterado == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mercado.js
+          git commit -m "Atualiza mercado automaticamente"
+          git push
