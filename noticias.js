@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Invictas, seleções do Brasil jogam oitavas do Mundial de vôlei sentado"
+        titulo: "Eleições 2026: saiba os próximos passos para oficializar candidaturas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Palmeiras conquista Ladies Cup antes da volta do Brasileiro Feminino"
+        titulo: "PF indicia Careca do INSS e mais 47 por esquema de descontos ilegais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bolsa cai 1,2%, e dólar sobe para R$ 5,13 com tensão global"
+        titulo: "Aumento do eleitorado idoso pauta campanhas, mas abstenção é desafio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cantor e compositor João Bosco completa 80 anos"
+        titulo: "Dinheiro esquecido em bancos cai para R$ 6,2 bilhões, diz BC"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rivalidade entre Argentina e Inglaterra extrapola as quatro linhas"
+        titulo: "Campanha pede à Fifa Copa do Mundo sem publicidade de refrigerante"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Homem é morto durante ação do serviço de imigração dos EUA no Maine"
+        titulo: "Venezuela já contabiliza 4.734 mortos e 16 mil feridos após terremotos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Operação resgata 29 trabalhadores em condições análogas à escravidão"
+        titulo: "Pedido de vista adia votação da Política de Minerais Críticos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil envia ajuda humanitária a Cuba em meio ao cerco dos EUA"
+        titulo: "CNPE reconhece interesse público em suspensão das dívidas de Angra 3"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Congresso se aproxima do recesso sem votar PEC 6x1 e PL da Misoginia"
+        titulo: "Jogos Parasul-Americanos: Brasil e Argentina decidem futebol de cegos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "ANP cria app para motorista conferir qualidade de posto de combustível"
+        titulo: "MEI garante aposentadoria e outros benefícios do INSS; veja quais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Confiança da indústria cai ao menor nível desde a pandemia"
+        titulo: "Dino dá 30 dias para Congresso explicar destinação de emendas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Moraes suspende visitas de Flávio a Bolsonaro na prisão domiciliar"
+        titulo: "Gasolina com 32% de etanol deve ser R$ 0,03 mais barata"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Enare: inscrição para residência com pré-requisito termina na 4ª feira"
+        titulo: "Sem previsão de acordo, prazo para tarifaço dos EUA vence esta quarta"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Após 36 anos, Copa volta a reunir apenas campeões nas semifinais"
+        titulo: "TSE sugere selo para premiar institutos de pesquisas eleitorais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inscrições para o Fies do segundo semestre começam na terça-feira"
+        titulo: "Trump recua e desiste de cobrar taxa sobre navios no Estreito de Ormuz"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Boletim Focus: mercado reduz expectativa de inflação para 5,16%"
+        titulo: "Brasil vai às quartas do Mundial de vôlei sentado nos dois naipes"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cidade do Rio proíbe publicidade de bets em espaços públicos"
+        titulo: "IBGE prevê safra de 347,4 milhões de toneladas para 2026"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem destaca semelhanças entre Brasil e Cabo Verde"
+        titulo: "Safra de grãos deve alcançar 360,1 milhões de toneladas, estima Conab"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fatores sociais e estruturais empurram mulheres para cesarianas"
+        titulo: "Mais de 54% dos graduandos já abandonaram curso para cuidar dos filhos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF bloqueia R$ 6 milhões de Eduardo Cunha por indicação de emendas"
+        titulo: "Estudo alerta para avanço de bactéria em criações de peixes"
     }
 ];
