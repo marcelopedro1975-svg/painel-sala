@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "ECA completa 36 anos entre avanços e desafios para proteger crianças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TJSP absolve empresário Thiago Brennand de acusação de estupro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Invictas, seleções do Brasil jogam oitavas do Mundial de vôlei sentado"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Caminhos da Reportagem destaca semelhanças entre Brasil e Cabo Verde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fatores sociais e estruturais empurram mulheres para cesarianas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF bloqueia R$ 6 milhões de Eduardo Cunha por indicação de emendas"
     }
 ];
