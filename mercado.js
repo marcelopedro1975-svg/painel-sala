@@ -2,26 +2,26 @@ var MERCADO_BRASIL = [
     {
         nome: "Bitcoin",
         simbolo: "BTC",
-        valor: "US$ 118.450",
-        variacao: "▲ 1,25%"
+        valor: "US$ 64.966",
+        variacao: "▲ 4,38%"
     },
     {
         nome: "Dólar",
         simbolo: "USD",
-        valor: "R$ 5,41",
-        variacao: "▼ 0,18%"
+        valor: "R$ 5,07",
+        variacao: "▼ 0,86%"
     },
     {
         nome: "IFIX",
-        simbolo: "IFIX",
-        valor: "3.582",
-        variacao: "▲ 0,42%"
+        simbolo: "IFIX.SA",
+        valor: "3.831,38",
+        variacao: "▲ 0,04%"
     },
     {
         nome: "Ibovespa",
-        simbolo: "IBOV",
-        valor: "142.380",
-        variacao: "▲ 0,67%"
+        simbolo: "^BVSP",
+        valor: "176.641",
+        variacao: "▲ 0,51%"
     }
 ];
 
