@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Operação mira lavagem de R$ 100 milhões provenientes de facções"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IRPF: lote especial restituição de restituição começa a ser pago hoje"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF faz operação contra supostas fraudes envolvendo crédito consignado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio de Janeiro funde secretarias de Agricultura e de Pesca"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalhadores nascidos em setembro e outubro recebem abono salarial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rodoviários do Rio participam de audiência de conciliação"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena acumula para R$ 30 milhões; confira os números sorteados"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Senado aprova MP com novas regras do frete mínimo rodoviário"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE de Alagoas lança HQ para orientar idosos contra desinformação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Financiamentos de projetos rurais sustentáveis terão juros mais baixos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ação busca isenção de IPTU para templos de matriz africana em Manaus"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPRJ mira cobrança ilegal para autorizar festas em barcos em Búzios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com invencibilidade recorde, Espanha vai à final da Copa após 16 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: saiba os próximos passos para oficializar candidaturas"
     }
 ];
