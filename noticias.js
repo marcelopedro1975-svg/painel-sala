@@ -1,6 +1,54 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Chile declara estado de emergência até dia 21 devido a tempestades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS adquire tecnologia para produzir principal remédio contra o HIV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino intima partidos a explicar controle de emendas parlamentares"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Divulgado resultado da primeira chamada do Prouni segundo semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Belo Horizonte proíbe publicidade de bets em espaços públicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Duelo entre Argentina e Inglaterra é prova de fogo contra o racismo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Comitê faz operação em São Paulo contra fraude no ICMS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Unicef: 13,5 milhões de crianças não recebem vacina no 1° ano de vida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Setor de serviços cai 0,4% em maio por recuo na área de transportes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enare: inscrição para residência com pré-requisito termina hoje"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Artigo: Como dar conta da comunicação pública?"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ingestão de água é importante no inverno para evitar doença dos rins"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Operação mira lavagem de R$ 100 milhões provenientes de facções"
     },
     {
@@ -21,14 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rodoviários do Rio participam de audiência de conciliação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 30 milhões; confira os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil chama tarifa dos EUA de \"injusta\" em nova reunião"
     },
     {
@@ -38,45 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Nova MP poderá ser editada, se EUA confirmarem tarifaço"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes nega pedido de Bacellar para ser julgado em sessão presencial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "FGC ainda tem R$ 1,83 bi para devolver a clientes do grupo Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OAB pede que STF autorize comunicação entre Flávio e Jair Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo deve recorrer ao STF sobre PEC de agentes de saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE atualiza aplicativo e-Título e libera novas funcionalidades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai para R$ 5,07, no menor nível em um mês"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Finalista da Copa masculina, Espanha pode \"unificar\" títulos mundiais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova em dois turnos PEC da aposentadoria dos agentes de saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Como Argentina e Inglaterra chegam à semifinal da Copa do Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova MP com novas regras do frete mínimo rodoviário"
     }
 ];
