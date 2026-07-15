@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fazenda vai endurecer restrições para sites de bets, diz ministro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara aprova créditos extras para defesa civil e meio ambiente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan pede a Alcolumbre cautela em promulgar PEC de agente de saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara aprova uso de indumentárias tradicionais em fotos de documentos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dívidas rurais serão reguladas por medida provisória"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Projeção oficial de inflação sobe para 5,1%, com estouro da meta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Votação do Estatuto do Aprendiz é adiada após pedidos de vista na CAS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Chile declara estado de emergência até dia 21 devido a tempestades"
     },
     {
@@ -13,7 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Divulgado resultado da primeira chamada do Prouni segundo semestre"
+        titulo: "Confira resultado da primeira chamada do Prouni segundo semestre"
     },
     {
         fonte: "Agência Brasil",
@@ -41,42 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Artigo: Como dar conta da comunicação pública?"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ingestão de água é importante no inverno para evitar doença dos rins"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Operação mira lavagem de R$ 100 milhões provenientes de facções"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IRPF: lote especial restituição de restituição começa a ser pago hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF faz operação contra supostas fraudes envolvendo crédito consignado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio de Janeiro funde secretarias de Agricultura e de Pesca"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trabalhadores nascidos em setembro e outubro recebem abono salarial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil chama tarifa dos EUA de \"injusta\" em nova reunião"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil anuncia jogadores que disputarão 3ª semana da Liga das Nações"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nova MP poderá ser editada, se EUA confirmarem tarifaço"
     }
 ];
