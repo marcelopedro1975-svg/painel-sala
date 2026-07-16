@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Senado aprova penas maiores em crimes contra professores e médicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sindicato pede ao TSE ingresso em ação da EBC contra remoção do acervo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Número de mortos em terremotos na Venezuela passa de 4,8 mil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mandante da morte de Marielle, Domingos Brazão perde cargo no TCE-RJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com outra virada incrível, Argentina despacha Inglaterra e vai à final"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rodoviários do Rio não chegam a acordo com patrões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cacique Raoni tem alta hospitalar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsonaro não sabia que carta seria publicada por Flávio, diz defesa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara reconhece hip hop como manifestação da cultura nacional"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fazenda vai endurecer restrições para sites de bets, diz ministro"
     },
     {
@@ -10,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Durigan pede a Alcolumbre cautela em promulgar PEC de agente de saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara aprova uso de indumentárias tradicionais em fotos de documentos"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira resultado da primeira chamada do Prouni segundo semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Belo Horizonte proíbe publicidade de bets em espaços públicos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Duelo entre Argentina e Inglaterra é prova de fogo contra o racismo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comitê faz operação em São Paulo contra fraude no ICMS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Unicef: 13,5 milhões de crianças não recebem vacina no 1° ano de vida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Setor de serviços cai 0,4% em maio por recuo na área de transportes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enare: inscrição para residência com pré-requisito termina hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ingestão de água é importante no inverno para evitar doença dos rins"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Operação mira lavagem de R$ 100 milhões provenientes de facções"
     }
 ];
