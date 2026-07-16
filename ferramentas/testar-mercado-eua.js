@@ -2,10 +2,19 @@ var https = require("https");
 
 var apiKey = process.env.TWELVE_DATA_API_KEY;
 
-var pesquisas = [
-    "S&P 500",
-    "Nasdaq Composite",
-    "Dow Jones Industrial Average"
+var simbolos = [
+    {
+        nome: "S&P 500",
+        simbolo: "SPX"
+    },
+    {
+        nome: "Nasdaq Composite",
+        simbolo: "IXIC"
+    },
+    {
+        nome: "Dow Jones Industrial Average",
+        simbolo: "DJI"
+    }
 ];
 
 function baixarJson(url) {
@@ -49,79 +58,26 @@ function baixarJson(url) {
     });
 }
 
-function mostrarResultados(nomePesquisa, dados) {
-    var resultados;
-    var i;
-    var item;
-
-    console.log("");
-    console.log("==========================");
-    console.log("Pesquisa: " + nomePesquisa);
-    console.log("==========================");
-
-    if (
-        !dados ||
-        !dados.data ||
-        dados.data.length === 0
-    ) {
-        console.log(
-            "Nenhum resultado encontrado."
-        );
-
-        return;
-    }
-
-    resultados = dados.data;
-
-    for (
-        i = 0;
-        i < resultados.length && i < 10;
-        i++
-    ) {
-        item = resultados[i];
-
-        console.log("");
-        console.log(
-            "Símbolo: " + item.symbol
-        );
-
-        console.log(
-            "Nome: " + item.instrument_name
-        );
-
-        console.log(
-            "Tipo: " + item.instrument_type
-        );
-
-        console.log(
-            "País: " + item.country
-        );
-
-        console.log(
-            "Bolsa: " + item.exchange
-        );
-    }
-}
-
-function pesquisarSimbolo(nomePesquisa) {
+function testarSimbolo(item) {
     var url =
-        "https://api.twelvedata.com/symbol_search" +
+        "https://api.twelvedata.com/quote" +
         "?symbol=" +
-        encodeURIComponent(nomePesquisa) +
+        encodeURIComponent(item.simbolo) +
         "&apikey=" +
         encodeURIComponent(apiKey);
 
     return baixarJson(url)
         .then(function (dados) {
-            mostrarResultados(
-                nomePesquisa,
-                dados
-            );
+            console.log("");
+            console.log("==========================");
+            console.log(item.nome);
+            console.log("==========================");
+            console.log(JSON.stringify(dados, null, 2));
         });
 }
 
 function iniciarTeste() {
-    var sequencia;
+    var sequencia = Promise.resolve();
     var i;
 
     if (!apiKey) {
@@ -133,29 +89,23 @@ function iniciarTeste() {
     }
 
     console.log(
-        "Pesquisando índices americanos..."
+        "Testando códigos dos índices americanos..."
     );
 
-    sequencia = Promise.resolve();
-
-    for (i = 0; i < pesquisas.length; i++) {
-        (function (nomePesquisa) {
+    for (i = 0; i < simbolos.length; i++) {
+        (function (item) {
             sequencia = sequencia.then(
                 function () {
-                    return pesquisarSimbolo(
-                        nomePesquisa
-                    );
+                    return testarSimbolo(item);
                 }
             );
-        })(pesquisas[i]);
+        })(simbolos[i]);
     }
 
     sequencia
         .then(function () {
             console.log("");
-            console.log(
-                "Pesquisa concluída."
-            );
+            console.log("Teste concluído.");
         })
         .catch(function (erro) {
             console.log("");
