@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil encerra Jogos Parasul-Americanos com ouro no futebol de cegos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mauro Vieira afirma que EUA queriam abertura total sem contrapartida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Suframa cobra esclarecimentos após vazamento de gás"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa suspende venda de energético Mister Hemp"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil não será afetado por rio atmosférico que atinge o Chile"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "União pagou R$ 696,38 milhões em dívidas de estados e municípios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MP de renegociação de dívidas rurais prevê punições contra fraudes"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Moraes assume presidência temporária do STF a partir desta sexta-feira"
     },
     {
@@ -29,18 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio de R$ 30 milhões nesta quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vazamento de gás leva prefeitura de Manaus a decretar estado de alerta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Xica da Silva, de Cacá Diegues, volta aos cinemas restaurado em 4K"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil diz que não há justificativas para tarifas impostas pelos EUA"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Senado aprova penas maiores em crimes contra professores e médicos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sindicato pede ao TSE ingresso em ação da EBC contra remoção do acervo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Número de mortos em terremotos na Venezuela passa de 4,8 mil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mandante da morte de Marielle, Domingos Brazão perde cargo no TCE-RJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com outra virada incrível, Argentina despacha Inglaterra e vai à final"
     }
 ];
