@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Educação financeira pode ser incluída no currículo escolar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Crédito do FGTS para Santas Casas é prorrogado até 2030"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil bate bicampeã olímpica França na Liga das Nações de vôlei"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça articula ações contra crime organizado em combustíveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bombeiros combatem vazamento de gás no Distrito Industrial de Manaus"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Senado aprova penas maiores em crimes contra professores e médicos"
     },
     {
@@ -21,19 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rodoviários do Rio não chegam a acordo com patrões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cacique Raoni tem alta hospitalar"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Bolsonaro não sabia que carta seria publicada por Flávio, diz defesa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara reconhece hip hop como manifestação da cultura nacional"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SUS adquire tecnologia para produzir principal remédio contra o HIV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino intima partidos a explicar controle de emendas parlamentares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira resultado da primeira chamada do Prouni segundo semestre"
     }
 ];
