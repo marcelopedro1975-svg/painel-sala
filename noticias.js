@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Moraes assume presidência temporária do STF a partir desta sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morre, aos 83 anos, o jornalista Renato Machado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aeronaves, óleo, café e carne estão fora do tarifaço imposto pelos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EBC participa de painéis de futebol feminino em conferência nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vendas no varejo crescem 0,1% de abril para maio, diz IBGE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Indústria brasileira repudia taxação dos Estados Unidos sobre o Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições para Fies terminam nesta sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio de R$ 30 milhões nesta quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vazamento de gás leva prefeitura de Manaus a decretar estado de alerta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Xica da Silva, de Cacá Diegues, volta aos cinemas restaurado em 4K"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil diz que não há justificativas para tarifas impostas pelos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Educação financeira pode ser incluída no currículo escolar"
     },
     {
@@ -14,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça articula ações contra crime organizado em combustíveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bombeiros combatem vazamento de gás no Distrito Industrial de Manaus"
     },
     {
         fonte: "Agência Brasil",
@@ -38,45 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Com outra virada incrível, Argentina despacha Inglaterra e vai à final"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsonaro não sabia que carta seria publicada por Flávio, diz defesa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fazenda vai endurecer restrições para sites de bets, diz ministro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara aprova créditos extras para defesa civil e meio ambiente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan pede a Alcolumbre cautela em promulgar PEC de agente de saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dívidas rurais serão reguladas por medida provisória"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projeção oficial de inflação sobe para 5,1%, com estouro da meta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Votação do Estatuto do Aprendiz é adiada após pedidos de vista na CAS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chile declara estado de emergência até dia 21 devido a tempestades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS adquire tecnologia para produzir principal remédio contra o HIV"
     }
 ];
