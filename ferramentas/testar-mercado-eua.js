@@ -1,25 +1,29 @@
 var https = require("https");
 
-var apiKey = process.env.TWELVE_DATA_API_KEY;
-
-var simbolos = [
+var indices = [
     {
         nome: "S&P 500",
-        simbolo: "SPX"
+        simbolo: "%5EGSPC"
     },
     {
-        nome: "Nasdaq Composite",
-        simbolo: "IXIC"
+        nome: "Nasdaq",
+        simbolo: "%5EIXIC"
     },
     {
-        nome: "Dow Jones Industrial Average",
-        simbolo: "DJI"
+        nome: "Dow Jones",
+        simbolo: "%5EDJI"
     }
 ];
 
 function baixarJson(url) {
     return new Promise(function (resolve, reject) {
-        https.get(url, function (resposta) {
+        var opcoes = {
+            headers: {
+                "User-Agent": "Mozilla/5.0"
+            }
+        };
+
+        https.get(url, opcoes, function (resposta) {
             var conteudo = "";
 
             if (resposta.statusCode !== 200) {
@@ -58,21 +62,50 @@ function baixarJson(url) {
     });
 }
 
-function testarSimbolo(item) {
+function testarIndice(indice) {
     var url =
-        "https://api.twelvedata.com/quote" +
-        "?symbol=" +
-        encodeURIComponent(item.simbolo) +
-        "&apikey=" +
-        encodeURIComponent(apiKey);
+        "https://query1.finance.yahoo.com/v8/finance/chart/" +
+        indice.simbolo +
+        "?interval=1d&range=5d";
 
     return baixarJson(url)
         .then(function (dados) {
+            var resultado;
+            var meta;
+
+            if (
+                !dados ||
+                !dados.chart ||
+                !dados.chart.result ||
+                dados.chart.result.length === 0
+            ) {
+                throw new Error(
+                    "Nenhum resultado para " +
+                    indice.nome
+                );
+            }
+
+            resultado = dados.chart.result[0];
+            meta = resultado.meta;
+
             console.log("");
             console.log("==========================");
-            console.log(item.nome);
+            console.log(indice.nome);
             console.log("==========================");
-            console.log(JSON.stringify(dados, null, 2));
+
+            console.log(
+                "Símbolo: " + meta.symbol
+            );
+
+            console.log(
+                "Valor atual: " +
+                meta.regularMarketPrice
+            );
+
+            console.log(
+                "Fechamento anterior: " +
+                meta.chartPreviousClose
+            );
         });
 }
 
@@ -80,32 +113,26 @@ function iniciarTeste() {
     var sequencia = Promise.resolve();
     var i;
 
-    if (!apiKey) {
-        console.log(
-            "ERRO: TWELVE_DATA_API_KEY não encontrado."
-        );
-
-        process.exit(1);
-    }
-
     console.log(
-        "Testando códigos dos índices americanos..."
+        "Testando índices americanos..."
     );
 
-    for (i = 0; i < simbolos.length; i++) {
-        (function (item) {
+    for (i = 0; i < indices.length; i++) {
+        (function (indice) {
             sequencia = sequencia.then(
                 function () {
-                    return testarSimbolo(item);
+                    return testarIndice(indice);
                 }
             );
-        })(simbolos[i]);
+        })(indices[i]);
     }
 
     sequencia
         .then(function () {
             console.log("");
-            console.log("Teste concluído.");
+            console.log(
+                "Teste concluído com sucesso."
+            );
         })
         .catch(function (erro) {
             console.log("");
