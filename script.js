@@ -259,7 +259,7 @@ function ocultarPainelInformativo() {
         document.getElementById("painelInformativo");
 
     painel.className = "oculto";
-    painelInformativoVisivel = true;
+    painelInformativoVisivel = false;
 }
 
 function pararTemporizadorPainel() {
