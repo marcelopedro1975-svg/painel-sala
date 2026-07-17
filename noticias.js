@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Com gol no último lance, Botafogo bate Santos na volta do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fim da Moratória da Soja pode ampliar destruição da Amazônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 35 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGE-RJ cobra Grupo Master por prejuízo de R$ 640 mi ao Rioprevidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morre a demógrafa Elza Berquó, referência em estudos populacionais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil vence anfitriã China e vai à final do Mundial de vôlei sentado"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa suspende venda de energético Mister Hemp"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "União pagou R$ 696,38 milhões em dívidas de estados e municípios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MP de renegociação de dívidas rurais prevê punições contra fraudes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes assume presidência temporária do STF a partir desta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aeronaves, óleo, café e carne estão fora do tarifaço imposto pelos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EBC participa de painéis de futebol feminino em conferência nos EUA"
     }
 ];
