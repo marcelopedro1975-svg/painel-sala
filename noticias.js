@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Guterres manifesta preocupação com escalada militar no Irã"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nobel da economia diz que impacto da IA no emprego é superestimado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil não deixará de negociar tarifas impostas pelos EUA, diz Durigan"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso de futebol nos Estados Unidos debate Copa Feminina de 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo e Santa Catarina sofrem 52% do impacto do tarifaço dos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apex prevê plano de R$ 130 milhões para diversificar exportações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Milton Nascimento é internado com pneumonia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Eleições: TSE assina acordo com big techs para combater desinformação"
     },
     {
@@ -29,14 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Tempestades e granizo atingem Rio Grande do Sul"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beco da Bossa estreia nesta sexta-feira, às 23h, na Rádio Nacional"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ações pró-armas de Trump devem favorecer facções criminosas no Brasil"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PGE-RJ cobra Grupo Master por prejuízo de R$ 640 mi ao Rioprevidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Morre a demógrafa Elza Berquó, referência em estudos populacionais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil vence anfitriã China e vai à final do Mundial de vôlei sentado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Setores atingidos por tarifaço dos EUA terão novo plano de socorro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar encosta em R$ 5,10 com tarifaço e tensão global"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tarifaço: Fachin diz que STF exercerá suas funções sem pressão externa"
     }
 ];
