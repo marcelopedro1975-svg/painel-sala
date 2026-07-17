@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ações pró-armas de Trump devem favorecer facções criminosas no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dezenove anos após \"banho\", Messi reencontra Yamal em final histórica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Combate aos crimes no setor de combustíveis no Rio terá ação integrada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economia do cuidado é tema de novo episódio de Afiadas desta sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições para edição do segundo semestre do Fies 2026 terminam hoje"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Com gol no último lance, Botafogo bate Santos na volta do Brasileirão"
     },
     {
@@ -37,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Página do TJRJ já teve 3,2 mil pedidos de medidas protetivas em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Espanha leva juventude e Argentina aposta em Messi na decisão da Copa"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Spray de pimenta para mulher é medida paliativa, diz promotora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil encerra Jogos Parasul-Americanos com ouro no futebol de cegos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mauro Vieira afirma que EUA queriam abertura total sem contrapartida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Suframa cobra esclarecimentos após vazamento de gás"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa suspende venda de energético Mister Hemp"
     }
 ];
