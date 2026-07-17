@@ -11,22 +11,18 @@ var CONFIG = {
     intervaloFotos: 35000,
     intervaloClima: 1800000,
     intervaloNoticias: 15000,
+    intervaloControlePainel: 10000,
     intervaloAtualizacaoPagina: 3600000,
-
-    /* Durante o teste:
-       4 notícias de 15 segundos = 1 minuto.
-       Depois Mercado Brasil e Mercado EUA.
-    */
-
-    quantidadeNoticiasAntesMercado: 4,
-    duracaoMercadoBrasil: 15000,
-    duracaoMercadoEUA: 15000,
 
     /* ==========================
        PAINEL INFORMATIVO
     ========================== */
 
-    painelSempreVisivel: true,
+    painelSempreVisivel: false,
+
+    minutoFimNoticias: 20,
+    minutoFimMercadoBrasil: 22,
+    minutoFimMercadoEUA: 24,
 
     /* ==========================
        MODO NOTURNO
