@@ -31,6 +31,18 @@ var urlIbovespa =
 var urlIfix =
     "https://brapi.dev/api/quote/IFIX.SA";
 
+var urlSp500 =
+    "https://query1.finance.yahoo.com/v8/finance/chart/" +
+    "%5EGSPC?interval=1d&range=5d";
+
+var urlNasdaq =
+    "https://query1.finance.yahoo.com/v8/finance/chart/" +
+    "%5EIXIC?interval=1d&range=5d";
+
+var urlDowJones =
+    "https://query1.finance.yahoo.com/v8/finance/chart/" +
+    "%5EDJI?interval=1d&range=5d";
+
 /* ==========================
    REQUISIÇÃO HTTPS
 ========================== */
@@ -54,7 +66,9 @@ function baixarJson(url, cabecalhos) {
                 baixarJson(
                     resposta.headers.location,
                     cabecalhos
-                ).then(resolve).catch(reject);
+                )
+                    .then(resolve)
+                    .catch(reject);
 
                 return;
             }
@@ -150,7 +164,7 @@ function escaparJavaScript(texto) {
 }
 
 /* ==========================
-   LEITURA DOS DADOS
+   BITCOIN
 ========================== */
 
 function lerBitcoin(dados) {
@@ -178,6 +192,10 @@ function lerBitcoin(dados) {
         )
     };
 }
+
+/* ==========================
+   DÓLAR
+========================== */
 
 function lerDolar(dados) {
     var anterior;
@@ -232,6 +250,10 @@ function lerDolar(dados) {
     };
 }
 
+/* ==========================
+   ÍNDICES DA BRAPI
+========================== */
+
 function obterResultadoBrapi(
     dados,
     simboloEsperado
@@ -266,7 +288,7 @@ function obterResultadoBrapi(
     );
 }
 
-function lerIndice(
+function lerIndiceBrapi(
     dados,
     simbolo,
     nome,
@@ -298,6 +320,75 @@ function lerIndice(
         ),
         variacao: formatarVariacao(
             resultado.regularMarketChangePercent
+        )
+    };
+}
+
+/* ==========================
+   ÍNDICES AMERICANOS
+========================== */
+
+function lerIndiceYahoo(
+    dados,
+    nome,
+    simbolo
+) {
+    var resultado;
+    var meta;
+    var valorAtual;
+    var fechamentoAnterior;
+    var variacao;
+
+    if (
+        !dados ||
+        !dados.chart ||
+        !dados.chart.result ||
+        dados.chart.result.length === 0
+    ) {
+        throw new Error(
+            "Nenhum resultado encontrado para " +
+            nome +
+            "."
+        );
+    }
+
+    resultado = dados.chart.result[0];
+    meta = resultado.meta;
+
+    valorAtual = Number(
+        meta.regularMarketPrice
+    );
+
+    fechamentoAnterior = Number(
+        meta.chartPreviousClose
+    );
+
+    if (
+        isNaN(valorAtual) ||
+        isNaN(fechamentoAnterior) ||
+        fechamentoAnterior === 0
+    ) {
+        throw new Error(
+            "Valores inválidos para " +
+            nome +
+            "."
+        );
+    }
+
+    variacao =
+        ((valorAtual - fechamentoAnterior) /
+            fechamentoAnterior) *
+        100;
+
+    return {
+        nome: nome,
+        simbolo: simbolo,
+        valor: formatarNumeroBrasil(
+            valorAtual,
+            0
+        ),
+        variacao: formatarVariacao(
+            variacao
         )
     };
 }
@@ -342,59 +433,44 @@ function montarItem(item, incluirVirgula) {
     return texto;
 }
 
-function gerarArquivo(itensBrasil) {
+function gerarLista(nomeVariavel, itens) {
     var conteudo = "";
     var i;
 
-    conteudo += "var MERCADO_BRASIL = [\n";
+    conteudo +=
+        "var " +
+        nomeVariavel +
+        " = [\n";
 
-    for (i = 0; i < itensBrasil.length; i++) {
+    for (i = 0; i < itens.length; i++) {
         conteudo += montarItem(
-            itensBrasil[i],
-            i < itensBrasil.length - 1
+            itens[i],
+            i < itens.length - 1
         );
     }
 
-    conteudo += "];\n\n";
-
-    /*
-       Mercado EUA permanece com valores de teste.
-       Ele será conectado a uma fonte real na próxima etapa.
-    */
-
-    conteudo += "var MERCADO_EUA = [\n";
-
-    conteudo += montarItem(
-        {
-            nome: "S&P 500",
-            simbolo: "SP500",
-            valor: "6.420",
-            variacao: "▲ 0,51%"
-        },
-        true
-    );
-
-    conteudo += montarItem(
-        {
-            nome: "Nasdaq",
-            simbolo: "NASDAQ",
-            valor: "21.300",
-            variacao: "▲ 0,83%"
-        },
-        true
-    );
-
-    conteudo += montarItem(
-        {
-            nome: "Dow Jones",
-            simbolo: "DOW",
-            valor: "44.820",
-            variacao: "▼ 0,12%"
-        },
-        false
-    );
-
     conteudo += "];\n";
+
+    return conteudo;
+}
+
+function gerarArquivo(
+    itensBrasil,
+    itensEua
+) {
+    var conteudo = "";
+
+    conteudo += gerarLista(
+        "MERCADO_BRASIL",
+        itensBrasil
+    );
+
+    conteudo += "\n";
+
+    conteudo += gerarLista(
+        "MERCADO_EUA",
+        itensEua
+    );
 
     fs.writeFileSync(
         arquivoSaida,
@@ -409,6 +485,7 @@ function gerarArquivo(itensBrasil) {
 
 function iniciarGeracao() {
     var cabecalhosBrapi;
+    var cabecalhosYahoo;
 
     if (!tokenBrapi) {
         console.log(
@@ -428,6 +505,11 @@ function iniciarGeracao() {
 
         "User-Agent":
             "SalaPad-Mercado/1.0"
+    };
+
+    cabecalhosYahoo = {
+        "User-Agent":
+            "Mozilla/5.0"
     };
 
     console.log(
@@ -453,6 +535,21 @@ function iniciarGeracao() {
         baixarJson(
             urlIbovespa,
             cabecalhosBrapi
+        ),
+
+        baixarJson(
+            urlSp500,
+            cabecalhosYahoo
+        ),
+
+        baixarJson(
+            urlNasdaq,
+            cabecalhosYahoo
+        ),
+
+        baixarJson(
+            urlDowJones,
+            cabecalhosYahoo
         )
     ])
         .then(function (respostas) {
@@ -463,7 +560,7 @@ function iniciarGeracao() {
                 lerDolar(respostas[1]);
 
             var ifix =
-                lerIndice(
+                lerIndiceBrapi(
                     respostas[2],
                     "IFIX.SA",
                     "IFIX",
@@ -471,19 +568,47 @@ function iniciarGeracao() {
                 );
 
             var ibovespa =
-                lerIndice(
+                lerIndiceBrapi(
                     respostas[3],
                     "^BVSP",
                     "Ibovespa",
                     0
                 );
 
-            gerarArquivo([
-                bitcoin,
-                dolar,
-                ifix,
-                ibovespa
-            ]);
+            var sp500 =
+                lerIndiceYahoo(
+                    respostas[4],
+                    "S&P 500",
+                    "^GSPC"
+                );
+
+            var nasdaq =
+                lerIndiceYahoo(
+                    respostas[5],
+                    "Nasdaq",
+                    "^IXIC"
+                );
+
+            var dowJones =
+                lerIndiceYahoo(
+                    respostas[6],
+                    "Dow Jones",
+                    "^DJI"
+                );
+
+            gerarArquivo(
+                [
+                    bitcoin,
+                    dolar,
+                    ifix,
+                    ibovespa
+                ],
+                [
+                    sp500,
+                    nasdaq,
+                    dowJones
+                ]
+            );
 
             console.log("");
             console.log(
@@ -504,6 +629,22 @@ function iniciarGeracao() {
             console.log(
                 "Ibovespa atualizado: " +
                 ibovespa.valor
+            );
+
+            console.log("");
+            console.log(
+                "S&P 500 atualizado: " +
+                sp500.valor
+            );
+
+            console.log(
+                "Nasdaq atualizado: " +
+                nasdaq.valor
+            );
+
+            console.log(
+                "Dow Jones atualizado: " +
+                dowJones.valor
             );
 
             console.log("");
