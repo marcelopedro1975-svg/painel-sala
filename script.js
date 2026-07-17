@@ -4,7 +4,7 @@
 
 var fotos = FOTOS;
 
-function embaralharFotos(lista) {
+function embaralharLista(lista) {
     var i = lista.length;
     var j;
     var temp;
@@ -21,7 +21,11 @@ function embaralharFotos(lista) {
     return lista;
 }
 
-fotos = embaralharFotos(fotos);
+fotos = embaralharLista(fotos);
+
+if (typeof NOTICIAS !== "undefined") {
+    NOTICIAS = embaralharLista(NOTICIAS);
+}
 
 var slideA = document.getElementById("slideA");
 var slideB = document.getElementById("slideB");
