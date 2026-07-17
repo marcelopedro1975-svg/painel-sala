@@ -220,8 +220,8 @@ setInterval(
 ========================== */
 
 var painelInformativoVisivel = false;
-var faseAtualPainel = "";
-var temporizadorNoticias = null;
+var cicloPainelAtivo = false;
+var temporizadorPainel = null;
 
 function exibirPainelInformativo(
     titulo,
@@ -259,13 +259,13 @@ function ocultarPainelInformativo() {
         document.getElementById("painelInformativo");
 
     painel.className = "oculto";
-    painelInformativoVisivel = false;
+    painelInformativoVisivel = true;
 }
 
-function pararTemporizadorNoticias() {
-    if (temporizadorNoticias !== null) {
-        clearTimeout(temporizadorNoticias);
-        temporizadorNoticias = null;
+function pararTemporizadorPainel() {
+    if (temporizadorPainel !== null) {
+        clearTimeout(temporizadorPainel);
+        temporizadorPainel = null;
     }
 }
 
@@ -301,8 +301,6 @@ function montarConteudoMercado(lista) {
 }
 
 function mostrarMercadoBrasil() {
-    pararTemporizadorNoticias();
-
     exibirPainelInformativo(
         "MERCADO",
         "Bitcoin em dólar e índices brasileiros",
@@ -311,8 +309,6 @@ function mostrarMercadoBrasil() {
 }
 
 function mostrarMercadoEUA() {
-    pararTemporizadorNoticias();
-
     exibirPainelInformativo(
         "MERCADO EUA",
         "Principais índices americanos",
@@ -325,6 +321,14 @@ function mostrarMercadoEUA() {
 ========================== */
 
 var indiceNoticia = 0;
+var noticiasDesdeUltimoMercado = 0;
+
+/*
+   O primeiro mercado exibido será o brasileiro.
+   Depois alterna para o americano.
+*/
+
+var proximoMercado = "brasil";
 
 function noticiasDisponiveis() {
     return (
@@ -354,124 +358,102 @@ function mostrarNoticiaAtual() {
         NOTICIAS[indiceNoticia].fonte,
         NOTICIAS[indiceNoticia].titulo
     );
-}
 
-function trocarNoticia() {
-    var agora = new Date();
-    var minuto = agora.getMinutes();
+    indiceNoticia++;
 
-    if (
-        CONFIG.painelSempreVisivel !== true &&
-        minuto >= CONFIG.minutoFimNoticias
-    ) {
-        pararTemporizadorNoticias();
-        controlarPainelInformativo();
-        return;
+    if (indiceNoticia >= NOTICIAS.length) {
+        indiceNoticia = 0;
     }
 
-    if (noticiasDisponiveis()) {
-        indiceNoticia++;
-
-        if (indiceNoticia >= NOTICIAS.length) {
-            indiceNoticia = 0;
-        }
-    }
-
-    mostrarNoticiaAtual();
-
-    temporizadorNoticias = setTimeout(
-        trocarNoticia,
-        CONFIG.intervaloNoticias
-    );
-}
-
-function iniciarNoticias() {
-    pararTemporizadorNoticias();
-
-    mostrarNoticiaAtual();
-
-    temporizadorNoticias = setTimeout(
-        trocarNoticia,
-        CONFIG.intervaloNoticias
-    );
+    noticiasDesdeUltimoMercado++;
 }
 
 /* ==========================
-   CONTROLE DO CICLO
+   CICLO: NOTÍCIAS E MERCADOS
 ========================== */
 
-function ativarFaseNoticias() {
-    if (faseAtualPainel === "noticias") {
-        return;
-    }
-
-    faseAtualPainel = "noticias";
-    iniciarNoticias();
-}
-
-function ativarFaseMercadoBrasil() {
-    if (faseAtualPainel === "mercado-brasil") {
-        return;
-    }
-
-    faseAtualPainel = "mercado-brasil";
-    mostrarMercadoBrasil();
-}
-
-function ativarFaseMercadoEUA() {
-    if (faseAtualPainel === "mercado-eua") {
-        return;
-    }
-
-    faseAtualPainel = "mercado-eua";
-    mostrarMercadoEUA();
-}
-
-function ativarFaseOculta() {
-    if (faseAtualPainel === "oculto") {
-        return;
-    }
-
-    faseAtualPainel = "oculto";
-
-    pararTemporizadorNoticias();
-    ocultarPainelInformativo();
-}
-
-function controlarPainelInformativo() {
+function painelDeveFicarVisivel() {
     var agora;
     var minuto;
 
     if (CONFIG.painelSempreVisivel === true) {
-        ativarFaseNoticias();
-        return;
+        return true;
     }
 
     agora = new Date();
     minuto = agora.getMinutes();
 
-    if (minuto < CONFIG.minutoFimNoticias) {
-        ativarFaseNoticias();
+    return minuto < CONFIG.minutoFimPainel;
+}
+
+function mostrarProximoItemPainel() {
+    if (!painelDeveFicarVisivel()) {
+        cicloPainelAtivo = false;
+
+        pararTemporizadorPainel();
+        ocultarPainelInformativo();
+
         return;
     }
+
+    /*
+       Depois de 10 notícias, mostra um mercado.
+    */
 
     if (
-        minuto <
-        CONFIG.minutoFimMercadoBrasil
+        noticiasDesdeUltimoMercado >=
+        CONFIG.noticiasAntesMercado
     ) {
-        ativarFaseMercadoBrasil();
+        noticiasDesdeUltimoMercado = 0;
+
+        if (proximoMercado === "brasil") {
+            mostrarMercadoBrasil();
+            proximoMercado = "eua";
+        } else {
+            mostrarMercadoEUA();
+            proximoMercado = "brasil";
+        }
+    } else {
+        mostrarNoticiaAtual();
+    }
+
+    /*
+       Notícias e mercados permanecem pelo
+       mesmo tempo: 15 segundos.
+    */
+
+    temporizadorPainel = setTimeout(
+        mostrarProximoItemPainel,
+        CONFIG.intervaloPainel
+    );
+}
+
+function iniciarCicloPainel() {
+    if (cicloPainelAtivo === true) {
         return;
     }
 
-    if (
-        minuto <
-        CONFIG.minutoFimMercadoEUA
-    ) {
-        ativarFaseMercadoEUA();
-        return;
-    }
+    cicloPainelAtivo = true;
 
-    ativarFaseOculta();
+    /*
+       Sempre começa com notícias.
+    */
+
+    noticiasDesdeUltimoMercado = 0;
+    proximoMercado = "brasil";
+
+    mostrarProximoItemPainel();
+}
+
+function controlarPainelInformativo() {
+    if (painelDeveFicarVisivel()) {
+        iniciarCicloPainel();
+    } else {
+        cicloPainelAtivo = false;
+
+        pararTemporizadorPainel();
+        ocultarPainelInformativo();
+    }
 }
 
 controlarPainelInformativo();

@@ -10,19 +10,45 @@ var CONFIG = {
 
     intervaloFotos: 35000,
     intervaloClima: 1800000,
-    intervaloNoticias: 15000,
+
+    /*
+       Notícias e mercados usam o mesmo tempo:
+       15000 = 15 segundos
+    */
+
+    intervaloPainel: 15000,
+
+    /*
+       Verifica a cada 10 segundos se o painel
+       deve estar visível ou oculto.
+    */
+
     intervaloControlePainel: 10000,
+
+    /*
+       Recarrega a página a cada hora.
+    */
+
     intervaloAtualizacaoPagina: 3600000,
 
     /* ==========================
-       PAINEL INFORMATIVO
+       CICLO DO PAINEL
     ========================== */
 
     painelSempreVisivel: false,
 
-    minutoFimNoticias: 20,
-    minutoFimMercadoBrasil: 22,
-    minutoFimMercadoEUA: 24,
+    /*
+       O painel aparece do minuto 00 até 19.
+       No minuto 20 ele desaparece.
+    */
+
+    minutoFimPainel: 20,
+
+    /*
+       Depois de 10 notícias, mostra um mercado.
+    */
+
+    noticiasAntesMercado: 10,
 
     /* ==========================
        MODO NOTURNO
