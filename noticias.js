@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Eleições: TSE assina acordo com big techs para combater desinformação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Começam a vigorar hoje regras que exigem alertas em anúncios de bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Terremoto de magnitude 7,4 atinge Puerto Madero, no México"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso entra em recesso com projetos pendentes para o 2º semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Atividade econômica cresceu 0,1% em maio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes marca para 28 de julho depoimento de Flávio Bolsonaro à PF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONU quer promover saúde mental por meio da Copa do Mundo de futebol"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempestades e granizo atingem Rio Grande do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beco da Bossa estreia nesta sexta-feira, às 23h, na Rádio Nacional"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ações pró-armas de Trump devem favorecer facções criminosas no Brasil"
     },
     {
@@ -13,23 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Economia do cuidado é tema de novo episódio de Afiadas desta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Inscrições para edição do segundo semestre do Fies 2026 terminam hoje"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Com gol no último lance, Botafogo bate Santos na volta do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fim da Moratória da Soja pode ampliar destruição da Amazônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 35 milhões; confira os números sorteados"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tarifaço: Fachin diz que STF exercerá suas funções sem pressão externa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Espanha leva juventude e Argentina aposta em Messi na decisão da Copa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empresário Thiago Brennand é condenado a 31 anos de prisão por estupro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entenda a Lei de Reciprocidade, que o Brasil pode adotar contra os EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seleção brasileira de ginástica rítmica é convocada para Mundial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Incidência de VSR em crianças de até 2 anos está em queda, diz Fiocruz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Spray de pimenta para mulher é medida paliativa, diz promotora"
     }
 ];
