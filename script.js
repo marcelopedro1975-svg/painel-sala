@@ -136,13 +136,21 @@ setInterval(
 document.getElementById("cidade").innerHTML =
     CONFIG.cidade;
 
-function obterIconeClima(codigo) {
+function obterIconeClima(codigo, estaDeDia) {
     if (codigo === 0) {
-        return "☀️";
+        if (estaDeDia === 1) {
+            return "☀️";
+        }
+
+        return "🌙";
     }
 
     if (codigo === 1 || codigo === 2) {
-        return "🌤️";
+        if (estaDeDia === 1) {
+            return "🌤️";
+        }
+
+        return "☁️";
     }
 
     if (codigo === 3) {
@@ -179,20 +187,27 @@ function atualizarTemperatura() {
         "https://api.open-meteo.com/v1/forecast" +
         "?latitude=" + CONFIG.latitude +
         "&longitude=" + CONFIG.longitude +
-        "&current=temperature_2m,weather_code";
+        "&current=temperature_2m,weather_code,is_day" +
+        "&timezone=America%2FSao_Paulo";
 
     xhr.open("GET", url, true);
 
     xhr.onload = function () {
         var dados;
         var codigo;
+        var estaDeDia;
 
         if (xhr.status === 200) {
             dados = JSON.parse(xhr.responseText);
+
             codigo = dados.current.weather_code;
+            estaDeDia = dados.current.is_day;
 
             document.getElementById("iconeClima").innerHTML =
-                obterIconeClima(codigo);
+                obterIconeClima(
+                    codigo,
+                    estaDeDia
+                );
 
             document.getElementById("temperatura").innerHTML =
                 Math.round(
@@ -201,12 +216,18 @@ function atualizarTemperatura() {
         } else {
             document.getElementById("temperatura").innerHTML =
                 "--°";
+
+            document.getElementById("iconeClima").innerHTML =
+                "🌡️";
         }
     };
 
     xhr.onerror = function () {
         document.getElementById("temperatura").innerHTML =
             "--°";
+
+        document.getElementById("iconeClima").innerHTML =
+            "🌡️";
     };
 
     xhr.send();
