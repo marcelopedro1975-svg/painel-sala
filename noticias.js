@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "França e Inglaterra disputam terceiro lugar da Copa do Mundo 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Crédito rural financiou R$ 92,4 bi em áreas com alertas ambientais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Irmãos são condenados pela morte do contraventor Fernando Iggnácio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Luta contra o racismo marca a 12ª Marcha das Mulheres Negras no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com novas regras do BC, registros de fraudes financeiras crescem 10%"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Além de Messi e Yamal: os heróis invisíveis de Argentina e Espanha"
     },
     {
@@ -37,15 +57,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MPF pede suspensão do programa Tolerância Zero na orla do Rio"
+        titulo: "Vôlei: Brasil perde para EUA e volta a se complicar na Liga das Nações"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Seleção feminina perde e fica com o vice no Mundial de Vôlei Sentado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vôlei: Brasil perde para EUA e volta a se complicar na Liga das Nações"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil não deixará de negociar tarifas impostas pelos EUA, diz Durigan"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso de futebol nos Estados Unidos debate Copa Feminina de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo e Santa Catarina sofrem 52% do impacto do tarifaço dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Apex prevê plano de R$ 130 milhões para diversificar exportações"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições: TSE assina acordo com big techs para combater desinformação"
     }
 ];
