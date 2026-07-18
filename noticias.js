@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Seleção masculina perde e pode dar adeus à Liga das Nações de vôlei"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cerrado vence e força 3º jogo contra Sampaio por vaga na final da LBF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confusão no Maracanã e \"freguesia\" gaúcha marcam noite de Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes nega pedido para Javier Milei visitar Bolsonaro em casa"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "França e Inglaterra disputam terceiro lugar da Copa do Mundo 2026"
     },
     {
@@ -22,18 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Além de Messi e Yamal: os heróis invisíveis de Argentina e Espanha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite ao vivo DF Instrumental Fest neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Grande Sertão: Veredas faz 70 anos e permanece instigante"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anac alerta para risco de trote com óleo de avião após morte de piloto"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Nobel da economia diz que impacto da IA no emprego é superestimado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil não deixará de negociar tarifas impostas pelos EUA, diz Durigan"
     }
 ];
