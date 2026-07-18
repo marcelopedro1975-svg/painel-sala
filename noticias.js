@@ -1,7 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Guterres manifesta preocupação com escalada militar no Irã"
+        titulo: "Henry Borel: Justiça nega recurso de Jairinho para anular julgamento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes suspende visitas a Bolsonaro na prisão domiciliar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGR defende manutenção da prisão domiciliar concedida a Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar sobe para R$ 5,11, e bolsa fica estável, apesar de tensão global"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsonaro pede autorização para receber Milei na prisão domiciliar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPF pede suspensão do programa Tolerância Zero na orla do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vôlei: Brasil perde para EUA e volta a se complicar na Liga das Nações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seleção feminina perde e fica com o vice no Mundial de Vôlei Sentado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vitória manda Botafogo para lanterna na volta do Brasileiro Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Encantou mas não levou: França de 2026 reivindica lugar na memória"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa Loterias transfere sorteios de sábado para domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -25,10 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Milton Nascimento é internado com pneumonia"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Eleições: TSE assina acordo com big techs para combater desinformação"
     },
     {
@@ -42,41 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Congresso entra em recesso com projetos pendentes para o 2º semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atividade econômica cresceu 0,1% em maio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes marca para 28 de julho depoimento de Flávio Bolsonaro à PF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONU quer promover saúde mental por meio da Copa do Mundo de futebol"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ações pró-armas de Trump devem favorecer facções criminosas no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dezenove anos após \"banho\", Messi reencontra Yamal em final histórica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Combate aos crimes no setor de combustíveis no Rio terá ação integrada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inscrições para edição do segundo semestre do Fies 2026 terminam hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com gol no último lance, Botafogo bate Santos na volta do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGE-RJ cobra Grupo Master por prejuízo de R$ 640 mi ao Rioprevidência"
     }
 ];
