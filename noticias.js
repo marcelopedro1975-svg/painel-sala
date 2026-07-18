@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Jogo no Irã há 10 anos faz campeão mundial ter entrada vetada nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalhadores informais fazem novo ato contra programa Tolerância Zero"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil: Cena Musical apresenta show do cantor pernambucano Almério"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trilha na Rocinha mostra Mata Atlântica e recuperação florestal no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Seleção masculina perde e pode dar adeus à Liga das Nações de vôlei"
     },
     {
@@ -26,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Irmãos são condenados pela morte do contraventor Fernando Iggnácio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Luta contra o racismo marca a 12ª Marcha das Mulheres Negras no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Seleção feminina perde e fica com o vice no Mundial de Vôlei Sentado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vitória manda Botafogo para lanterna na volta do Brasileiro Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Encantou mas não levou: França de 2026 reivindica lugar na memória"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nobel da economia diz que impacto da IA no emprego é superestimado"
     }
 ];
