@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Além de Messi e Yamal: os heróis invisíveis de Argentina e Espanha"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite ao vivo DF Instrumental Fest neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Grande Sertão: Veredas faz 70 anos e permanece instigante"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anac alerta para risco de trote com óleo de avião após morte de piloto"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleições: TSE assina acordo com big techs para combater desinformação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Começam a vigorar hoje regras que exigem alertas em anúncios de bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Terremoto de magnitude 7,4 atinge Puerto Madero, no México"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso entra em recesso com projetos pendentes para o 2º semestre"
     }
 ];
