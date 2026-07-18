@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Anac alerta para risco de trote com óleo de avião após morte de piloto"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Henry Borel: Justiça nega recurso de Jairinho para anular julgamento"
     },
     {
@@ -25,11 +29,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vôlei: Brasil perde para EUA e volta a se complicar na Liga das Nações"
+        titulo: "Seleção feminina perde e fica com o vice no Mundial de Vôlei Sentado"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Seleção feminina perde e fica com o vice no Mundial de Vôlei Sentado"
+        titulo: "Vôlei: Brasil perde para EUA e volta a se complicar na Liga das Nações"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Encantou mas não levou: França de 2026 reivindica lugar na memória"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa Loterias transfere sorteios de sábado para domingo"
     },
     {
         fonte: "Agência Brasil",
