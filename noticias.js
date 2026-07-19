@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Enquanto sediam final da Copa, EUA atacam unidade nuclear no Irã"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: prazo para convenções partidárias começa nesta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em jogo esperado há meses, Argentina e Espanha disputam final da Copa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sedes da Copa em 2030, Espanha e Argentina já preparam nova geração"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Exposição reelabora terror com obras de artistas LGBT+ em Fortaleza"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ato de jogadores argentinos reacende debate sobre domínio das Malvinas"
     },
     {
@@ -26,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TV Brasil: Cena Musical apresenta show do cantor pernambucano Almério"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trilha na Rocinha mostra Mata Atlântica e recuperação florestal no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Além de Messi e Yamal: os heróis invisíveis de Argentina e Espanha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Henry Borel: Justiça nega recurso de Jairinho para anular julgamento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes suspende visitas a Bolsonaro na prisão domiciliar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR defende manutenção da prisão domiciliar concedida a Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar sobe para R$ 5,11, e bolsa fica estável, apesar de tensão global"
     }
 ];
