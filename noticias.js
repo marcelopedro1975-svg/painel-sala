@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Inglaterra leva 3ª lugar e Mbappé vira maior artilheiro das Copas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Jogo no Irã há 10 anos faz campeão mundial ter entrada vetada nos EUA"
     },
     {
@@ -37,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Crédito rural financiou R$ 92,4 bi em áreas com alertas ambientais"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Irmãos são condenados pela morte do contraventor Fernando Iggnácio"
     },
     {
@@ -73,10 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vôlei: Brasil perde para EUA e volta a se complicar na Liga das Nações"
+        titulo: "Seleção feminina perde e fica com o vice no Mundial de Vôlei Sentado"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Seleção feminina perde e fica com o vice no Mundial de Vôlei Sentado"
+        titulo: "Vôlei: Brasil perde para EUA e volta a se complicar na Liga das Nações"
     }
 ];
