@@ -1,11 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Inédito: Brasil cai na 1ª fase da Liga das Nações de vôlei masculino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Projeto mobiliza bibliotecas no combate à violência de gênero"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após veto, campeão mundial é liberado e viaja para ver final da Copa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempo seco intensifica risco de queimadas no interior paulista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Redes de educação devem enviar dados sobre equidade ao MEC até quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula e próximo prêmio é estimado em R$ 42 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Enquanto sediam final da Copa, EUA atacam unidade nuclear no Irã"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Eleições: prazo para convenções partidárias começa nesta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempestades e granizo continuam no Rio Grande do Sul"
     },
     {
         fonte: "Agência Brasil",
@@ -17,19 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Exposição reelabora terror com obras de artistas LGBT+ em Fortaleza"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ato de jogadores argentinos reacende debate sobre domínio das Malvinas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Venda ilegal de documentos históricos preocupa Arquivo Nacional"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio de R$ 35 milhões será sorteado pela Mega-Sena neste domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -38,14 +54,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Jogo no Irã há 10 anos faz campeão mundial ter entrada vetada nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trabalhadores informais fazem novo ato contra programa Tolerância Zero"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil: Cena Musical apresenta show do cantor pernambucano Almério"
     },
     {
         fonte: "Agência Brasil",
@@ -65,18 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "França e Inglaterra disputam terceiro lugar da Copa do Mundo 2026"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Irmãos são condenados pela morte do contraventor Fernando Iggnácio"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Com novas regras do BC, registros de fraudes financeiras crescem 10%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Além de Messi e Yamal: os heróis invisíveis de Argentina e Espanha"
     }
 ];
