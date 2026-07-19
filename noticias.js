@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ato de jogadores argentinos reacende debate sobre domínio das Malvinas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Venda ilegal de documentos históricos preocupa Arquivo Nacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio de R$ 35 milhões será sorteado pela Mega-Sena neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Inglaterra leva 3ª lugar e Mbappé vira maior artilheiro das Copas"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dólar sobe para R$ 5,11, e bolsa fica estável, apesar de tensão global"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsonaro pede autorização para receber Milei na prisão domiciliar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seleção feminina perde e fica com o vice no Mundial de Vôlei Sentado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vôlei: Brasil perde para EUA e volta a se complicar na Liga das Nações"
     }
 ];
