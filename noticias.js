@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Moraes arquiva investigação contra Bolsonaro no caso Abin Paralela"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil exibe semifinal da LBF entre Sampaio Basquete e Cerrado BRB"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE abre prazo para solicitação de voto em trânsito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copa do Mundo 2030 celebrará centenário do torneio com 6 países-sede"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei cria política para fortalecer indústria da saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prouni 2026/2: prazo para confirmar informações termina na sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil terá 158,7 milhões de eleitores aptos a votar em outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sinais do câncer colorretal devem ser checados com rapidez; saiba mais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anvisa aprova novo medicamento para linfoma não Hodgkin"
     },
     {
@@ -21,19 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Tempestade e granizo causam prejuízo a 43 municípios no RS"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mercado reduz expectativa de inflação para 5,15% em 2026"
     },
     {
         fonte: "Agência Brasil",
         titulo: "EUA mantêm ataques; Irã diz que petroleiros explodiram em Ormuz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuva: governo reconhece situação de emergência em municípios do RS"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Inédito: Brasil cai na 1ª fase da Liga das Nações de vôlei masculino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após veto, campeão mundial é liberado e viaja para ver final da Copa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Redes de educação devem enviar dados sobre equidade ao MEC até quarta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enquanto sediam final da Copa, EUA atacam unidade nuclear no Irã"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições: prazo para convenções partidárias começa nesta segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em jogo esperado há meses, Argentina e Espanha disputam final da Copa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sedes da Copa em 2030, Espanha e Argentina já preparam nova geração"
     }
 ];
