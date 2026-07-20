@@ -1,11 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Espanha domina Argentina, vence na prorrogação e leva o bi da Copa"
+        titulo: "Anvisa aprova novo medicamento para linfoma não Hodgkin"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Regulamentação de \"carro voador\" avança com regras sobre ruído"
+        titulo: "Escalada da guerra expõe fracasso do acordo entre Irã e EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo Trump usa desmatamento para impor taxas ao Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economia cresce 0,7% em maio, puxada por consumo das famílias, diz FGV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copa do Mundo Feminina 2027 no Brasil terá 32 seleções"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempestade e granizo causam prejuízo a 43 municípios no RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mercado reduz expectativa de inflação para 5,15% em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EUA mantêm ataques; Irã diz que petroleiros explodiram em Ormuz"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuva: governo reconhece situação de emergência em municípios do RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesquisa mostra que brasileiro projeta futuro da Seleção sem Neymar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 1 recebem Bolsa Família de julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mbappé confirma artilharia da Copa do Mundo e repete marca de 56 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Espanha domina Argentina, vence na prorrogação e leva o bi da Copa"
     },
     {
         fonte: "Agência Brasil",
@@ -13,23 +57,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Projeto mobiliza bibliotecas no combate à violência de gênero"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Após veto, campeão mundial é liberado e viaja para ver final da Copa"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Tempo seco intensifica risco de queimadas no interior paulista"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Redes de educação devem enviar dados sobre equidade ao MEC até quarta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula e próximo prêmio é estimado em R$ 42 milhões"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Sedes da Copa em 2030, Espanha e Argentina já preparam nova geração"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ato de jogadores argentinos reacende debate sobre domínio das Malvinas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inglaterra leva 3ª lugar e Mbappé vira maior artilheiro das Copas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jogo no Irã há 10 anos faz campeão mundial ter entrada vetada nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seleção masculina perde e pode dar adeus à Liga das Nações de vôlei"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cerrado vence e força 3º jogo contra Sampaio por vaga na final da LBF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes nega pedido para Javier Milei visitar Bolsonaro em casa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Irmãos são condenados pela morte do contraventor Fernando Iggnácio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com novas regras do BC, registros de fraudes financeiras crescem 10%"
     }
 ];
