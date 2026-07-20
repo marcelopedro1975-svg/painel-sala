@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Espanha domina Argentina, vence na prorrogação e leva o bi da Copa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Regulamentação de \"carro voador\" avança com regras sobre ruído"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Inédito: Brasil cai na 1ª fase da Liga das Nações de vôlei masculino"
     },
     {
@@ -33,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Tempestades e granizo continuam no Rio Grande do Sul"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Em jogo esperado há meses, Argentina e Espanha disputam final da Copa"
     },
     {
@@ -62,10 +66,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Cerrado vence e força 3º jogo contra Sampaio por vaga na final da LBF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confusão no Maracanã e \"freguesia\" gaúcha marcam noite de Brasileirão"
     },
     {
         fonte: "Agência Brasil",
