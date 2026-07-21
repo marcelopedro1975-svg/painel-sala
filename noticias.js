@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar cai para R$ 5,08, e bolsa recua pela quarta vez consecutiva"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conquista multiétnica: Espanha é bi com atacantes filhos de imigrantes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministério da Justiça abre processo contra site de revenda de ingresso"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino envia à PF explicações de partidos sobre gestão de emendas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tarifaço deve ter efeito limitado na balança comercial brasileira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsonaro recorre ao STF e pede para receber visitas de Flávio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Moraes arquiva investigação contra Bolsonaro no caso Abin Paralela"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mercado reduz expectativa de inflação para 5,15% em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EUA mantêm ataques; Irã diz que petroleiros explodiram em Ormuz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pesquisa mostra que brasileiro projeta futuro da Seleção sem Neymar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 1 recebem Bolsa Família de julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mbappé confirma artilharia da Copa do Mundo e repete marca de 56 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Espanha domina Argentina, vence na prorrogação e leva o bi da Copa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inédito: Brasil cai na 1ª fase da Liga das Nações de vôlei masculino"
     }
 ];
