@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Liga das Nações: seleção feminina pega Japão na quarta em 1º mata-mata"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil envia 690 mil doses de vacinas em ajuda à Venezuela"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flip: Angela Davis e Wole Soyinka são destaques na programação do Sesc"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar cai para R$ 5,08, e bolsa recua pela quarta vez consecutiva"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Governo Trump usa desmatamento para impor taxas ao Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Economia cresce 0,7% em maio, puxada por consumo das famílias, diz FGV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copa do Mundo Feminina 2027 no Brasil terá 32 seleções"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado reduz expectativa de inflação para 5,15% em 2026"
     }
 ];
