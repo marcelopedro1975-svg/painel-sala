@@ -1,6 +1,66 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Quinta reunião entre rodoviários e patrões termina sem acordo no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça do DF manda Virginia apagar publicidade irregular de bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "70 anos de Grande Sertão: Veredas é tema de eventos gratuitos na Flip"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Empresas afetadas por tarifaço terão acesso a socorro de R$ 18,5 bi"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BB simplifica abertura de contas eleitorais por candidatos em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apoiadora oficial da Flip, Rádio MEC faz cobertura especial em Paraty"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entenda a dispensa de entrevista para inscrição no Cadastro Único"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caso Marielle: Dino mantém perda do mandato de Chiquinho Brazão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Decreto adia exigência de CNPJ para autônomos e produtores rurais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNI mantém projeção de alta de 2% do PIB para este ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Luto no cinema brasileiro: morre Luiz Carlos Barreto, aos 98 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo do Diagnóstico de Equidade do MEC termina nesta quarta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça manda prefeitura de São Paulo liberar Uber Moto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE reforça que empresa venezuelana não forneceu urnas ao Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa manda apreender lotes de azeite e doces; veja de quais marcas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Tarifa dos EUA terá efeito limitado sobre etanol brasileiro"
     },
     {
@@ -13,70 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Primeiros poemas da juventude já revelavam grandeza de Orides Fontela"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Orides Fontela: a radicalidade de uma vida dedicada à poesia"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Acusado pelos EUA, Brasil é referência no combate ao trabalho forçado"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Tarifaço: EUA distorcem tema das big techs, afirmam especialistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Casa Paraty será palco da cultura caiçara viva em estreia na Flip 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena não tem ganhador; prêmio sobe para R$ 62 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reciprocidade não é retaliação nem \"olho por olho\", diz Alckmin"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fome mundial atinge 645 milhões de pessoas, diz relatório da ONU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Itamaraty pede a brasileiros que evitem viagens para o Oriente Médio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai para R$ 5,07, menor nível em um mês; bolsa fica estável"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF cumpre mandados contra suspeitos de desviar R$ 45 milhões de contas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Encontro no Rio debate papel da mulher preta em postos de decisão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara diz ao STF que não há irregularidades em indicações de emendas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acordo regulamenta trabalho no comércio em feriados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF intima Jaques Wagner a depor sobre investigações do Banco Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE mantém limite de R$ 133 mi para gastos de campanha presidencial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Marinha desmobiliza hospital de campanha montado na Venezuela"
     }
 ];
