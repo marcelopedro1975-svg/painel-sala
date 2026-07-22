@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Reciprocidade não é retaliação nem \"olho por olho\", diz Alckmin"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fome mundial atinge 645 milhões de pessoas, diz relatório da ONU"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Organizações cobram criação de Comissão da Verdade Indígena"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Itamaraty pede a brasileiros que evitem viagens para o Oriente Médio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONU e Unicef lançam guia para orientar pais sobre perigo da machosfera"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai para R$ 5,07, menor nível em um mês; bolsa fica estável"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF cumpre mandados contra suspeitos de desviar R$ 45 milhões de contas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Encontro no Rio debate papel da mulher preta em postos de decisão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara diz ao STF que não há irregularidades em indicações de emendas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Acordo regulamenta trabalho no comércio em feriados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PF intima Jaques Wagner a depor sobre investigações do Banco Master"
     },
     {
@@ -21,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Milton Nascimento tem alta e deixa hospital depois de cinco dias"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PF apreende carros de luxo em operação contra Careca do INSS"
     },
     {
@@ -37,46 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sambista Geovana busca reparação por apagamento autoral em regravação"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Anvisa aprova medicamentos pediátricos para lúpus e esclerose múltipla"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo nomeia 500 aprovados no CNU para carreiras transversais"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil tem quase 2 milhões de eleitores com deficiência, aponta TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Decreto autoriza atuação das Forças Armadas nas eleições de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Partido Missão oficializa Renan Santos como candidato à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo destina R$ 547 milhões para ressarcir beneficiários do INSS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em convenção nacional, PDT oficializa apoio a Lula nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "União terá de iniciar construção de centro de memória africana no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio mantém condenação de homens que mataram músico"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Modelo do Pix desafia controle financeiro dos EUA sobre o Brasil"
     }
 ];
