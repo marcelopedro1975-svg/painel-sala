@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Tarifa dos EUA terá efeito limitado sobre etanol brasileiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tarifaço de 25% dos EUA sobre o Brasil começa a valer; saiba mais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministério Público processa empresas por escaneamento de íris"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Primeiros poemas da juventude já revelavam grandeza de Orides Fontela"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Orides Fontela: a radicalidade de uma vida dedicada à poesia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Acusado pelos EUA, Brasil é referência no combate ao trabalho forçado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tarifaço: EUA distorcem tema das big techs, afirmam especialistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Casa Paraty será palco da cultura caiçara viva em estreia na Flip 2026"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena não tem ganhador; prêmio sobe para R$ 62 milhões"
     },
     {
@@ -13,15 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Organizações cobram criação de Comissão da Verdade Indígena"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Itamaraty pede a brasileiros que evitem viagens para o Oriente Médio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONU e Unicef lançam guia para orientar pais sobre perigo da machosfera"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Marinha desmobiliza hospital de campanha montado na Venezuela"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP concentra maior parte do eleitorado do país com 21,48% dos votantes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Irã informa ter atacado central de dados da Amazon no Bahrein"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF apreende carros de luxo em operação contra Careca do INSS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com 13 casos de sarampo, São Paulo alerta para reforço na vacinação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PND 2026: divulgado resultado de recursos de atendimento especializado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova medicamentos pediátricos para lúpus e esclerose múltipla"
     }
 ];
