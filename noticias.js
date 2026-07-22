@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena não tem ganhador; prêmio sobe para R$ 62 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Reciprocidade não é retaliação nem \"olho por olho\", diz Alckmin"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa aprova medicamentos pediátricos para lúpus e esclerose múltipla"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil tem quase 2 milhões de eleitores com deficiência, aponta TSE"
     }
 ];
