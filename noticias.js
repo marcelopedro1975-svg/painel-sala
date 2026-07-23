@@ -1,7 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "China surpreende EUA e vai à semi da Liga das Nações de vôlei feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cinema brasileiro se despede de Luiz Carlos Barreto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Acervo histórico do antigo IML do Rio é retirado de prédio na Lapa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Somente três estados têm plano vigente contra o trabalho infantil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "FMI elogia Pix e cobra autonomia financeira do Banco Central"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Federal determina indenização a filho de João Cândido"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CPTM assumirá operação de linhas que falharam e causaram caos em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bets: pedidos em plataforma de autoexclusão crescem 7 vezes na Copa"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mendonça autoriza PF a investigar repasses para filme sobre Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flip: evento de abertura define Orides Fontela como poeta universal"
     },
     {
         fonte: "Agência Brasil",
@@ -17,31 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dez cidades mais violentas do país estão no Nordeste, aponta estudo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça condena shopping paulista por discriminação racial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia investiga com prioridade assassinato de casal em São Vicente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil homenageia Luiz Carlos Barreto"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "IA está presente em 6 de cada 10 órgãos públicos federais e estaduais"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Prouni: prazo para comprovar informações de inscrição termina na sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moradores da Maré poderão produzir filmes pelo celular no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TCU cita risco fiscal dos Correios e defende compensação de custos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai ao menor valor desde junho com alta do petróleo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quinta reunião entre rodoviários e patrões termina sem acordo no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do DF manda Virginia apagar publicidade irregular de bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empresas afetadas por tarifaço terão acesso a socorro de R$ 18,5 bi"
     }
 ];
