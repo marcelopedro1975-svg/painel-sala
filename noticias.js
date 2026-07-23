@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Comitê antecipa geração de energia para evitar impactos do El Niño"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PT aciona TSE contra Flávio Bolsonaro sobre urnas eletrônicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil continua fora do Mapa da Fome, aponta relatório da ONU"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Parreira apresenta melhora e pode deixar UTI até o final de semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TCU cita risco fiscal dos Correios e defende compensação de custos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo do Rio exonera comissionados em autarquia investigada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai ao menor valor desde junho com alta do petróleo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Quinta reunião entre rodoviários e patrões termina sem acordo no Rio"
     },
     {
@@ -21,14 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Apoiadora oficial da Flip, Rádio MEC faz cobertura especial em Paraty"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entenda a dispensa de entrevista para inscrição no Cadastro Único"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Caso Marielle: Dino mantém perda do mandato de Chiquinho Brazão"
     },
     {
@@ -38,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "CNI mantém projeção de alta de 2% do PIB para este ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Luto no cinema brasileiro: morre Luiz Carlos Barreto, aos 98 anos"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tarifa dos EUA terá efeito limitado sobre etanol brasileiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tarifaço de 25% dos EUA sobre o Brasil começa a valer; saiba mais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério Público processa empresas por escaneamento de íris"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acusado pelos EUA, Brasil é referência no combate ao trabalho forçado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tarifaço: EUA distorcem tema das big techs, afirmam especialistas"
     }
 ];
