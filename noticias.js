@@ -1,11 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Três linhas de trens têm funcionamento interrompido em São Paulo"
+        titulo: "Mendonça autoriza PF a investigar repasses para filme sobre Bolsonaro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mortes violentas caem 8,2% no país em 2025; feminicídios aumentam 4%"
+        titulo: "El Niño pode aumentar casos de chikungunya e dengue no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Léo Figueiró assume seleção feminina de basquete após saída de Chatman"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dez cidades mais violentas do país estão no Nordeste, aponta estudo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça condena shopping paulista por discriminação racial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia investiga com prioridade assassinato de casal em São Vicente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil homenageia Luiz Carlos Barreto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IA está presente em 6 de cada 10 órgãos públicos federais e estaduais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prouni: prazo para comprovar informações de inscrição termina na sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moradores da Maré poderão produzir filmes pelo celular no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -25,19 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil continua fora do Mapa da Fome, aponta relatório da ONU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Parreira apresenta melhora e pode deixar UTI até o final de semana"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TCU cita risco fiscal dos Correios e defende compensação de custos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo do Rio exonera comissionados em autarquia investigada"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Empresas afetadas por tarifaço terão acesso a socorro de R$ 18,5 bi"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BB simplifica abertura de contas eleitorais por candidatos em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caso Marielle: Dino mantém perda do mandato de Chiquinho Brazão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Decreto adia exigência de CNPJ para autônomos e produtores rurais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNI mantém projeção de alta de 2% do PIB para este ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo do Diagnóstico de Equidade do MEC termina nesta quarta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça manda prefeitura de São Paulo liberar Uber Moto"
     }
 ];
