@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Três linhas de trens têm funcionamento interrompido em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mortes violentas caem 8,2% no país em 2025; feminicídios aumentam 4%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS: comitê de negociação de preço de medicamentos pode reduzir custos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa paga Bolsa Família de julho a beneficiários com NIS de final 4"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Comitê antecipa geração de energia para evitar impactos do El Niño"
     },
     {
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "70 anos de Grande Sertão: Veredas é tema de eventos gratuitos na Flip"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Empresas afetadas por tarifaço terão acesso a socorro de R$ 18,5 bi"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça manda prefeitura de São Paulo liberar Uber Moto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE reforça que empresa venezuelana não forneceu urnas ao Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa manda apreender lotes de azeite e doces; veja de quais marcas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tarifa dos EUA terá efeito limitado sobre etanol brasileiro"
     }
 ];
