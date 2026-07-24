@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Defesa Civil reconhece situação de emergência em 17 municípios do RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesquisa mostra que vacinação diminuiu prevalência de HPV ente jovens"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil transmite 1ª final entre Sampaio Basquete e Unimed Campinas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Relatório denuncia violência em ações policiais na Baixada Fluminense"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 5 recebem Bolsa Família de julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça do Rio determina bloqueio de contas do Banco Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita libera consulta ao terceiro lote de restituição do IR 2026"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ministro chama tarifa dos EUA de \"indevida\" e promete reação"
     },
     {
@@ -18,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Subsídio de R$ 0,44 por litro da gasolina é prorrogado por 30 dias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF investiga furto de computadores e carros da Receita Federal no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça Federal determina indenização a filho de João Cândido"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bets: pedidos em plataforma de autoexclusão crescem 7 vezes na Copa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça autoriza PF a investigar repasses para filme sobre Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "El Niño pode aumentar casos de chikungunya e dengue no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Léo Figueiró assume seleção feminina de basquete após saída de Chatman"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IA está presente em 6 de cada 10 órgãos públicos federais e estaduais"
     }
 ];
