@@ -1,19 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Linhas de trem que retornaram para CPTM funcionam normalmente em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Consulta pública sobre educação bilíngue de surdos acaba sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sancionada lei que proíbe produção e comercialização de foie gras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prouni 2026/2: prazo para comprovar informação de inscrição acaba hoje"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres podem comprar e usar spray de pimenta para defesa pessoal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival Bonito CineSur promove integração audiovisual sul-americana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Democracia está nas mãos do povo, não em palácios, diz Cármen Lúcia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Defesa Civil reconhece situação de emergência em 17 municípios do RS"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pesquisa mostra que vacinação diminuiu prevalência de HPV ente jovens"
+        titulo: "Pesquisa mostra que vacinação diminuiu prevalência de HPV entre jovens"
     },
     {
         fonte: "Agência Brasil",
         titulo: "TV Brasil transmite 1ª final entre Sampaio Basquete e Unimed Campinas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Relatório denuncia violência em ações policiais na Baixada Fluminense"
     },
     {
         fonte: "Agência Brasil",
@@ -30,10 +54,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ministro chama tarifa dos EUA de \"indevida\" e promete reação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pilotos da Voepass não relatavam falhas nas aeronaves, diz Cenipa"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "CMN aprova crédito de R$ 10 bilhões para inovação no agronegócio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EUA impõem nova tarifa de 12,5% a produtos brasileiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF mira tráfico internacional e lavagem de capitais de até R$ 1 bilhão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "China surpreende EUA e vai à semi da Liga das Nações de vôlei feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "FMI elogia Pix e cobra autonomia financeira do Banco Central"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Federal determina indenização a filho de João Cândido"
     }
 ];
