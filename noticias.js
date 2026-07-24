@@ -1,19 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ministro chama tarifa dos EUA de \"indevida\" e promete reação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pilotos da Voepass não relatavam falhas nas aeronaves, diz Cenipa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Juíza suspende perícia em celular apreendido em cela de Jairinho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STJ libera retomada de cobrança de dívidas do Grupo Manguinhos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Subsídio de R$ 0,44 por litro da gasolina é prorrogado por 30 dias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF investiga furto de computadores e carros da Receita Federal no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estados Unidos isentam 471 produtos de nova tarifa de 12,5%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN regulamenta renegociação de dívidas rurais; veja quem pode aderir"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN aprova crédito de R$ 10 bilhões para inovação no agronegócio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EUA impõem nova tarifa de 12,5% a produtos brasileiros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF mira tráfico internacional e lavagem de capitais de até R$ 1 bilhão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "China surpreende EUA e vai à semi da Liga das Nações de vôlei feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cinema brasileiro se despede de Luiz Carlos Barreto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acervo histórico do antigo IML do Rio é retirado de prédio na Lapa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Somente três estados têm plano vigente contra o trabalho infantil"
     },
     {
         fonte: "Agência Brasil",
@@ -25,19 +57,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CPTM assumirá operação de linhas que falharam e causaram caos em SP"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Bets: pedidos em plataforma de autoexclusão crescem 7 vezes na Copa"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça autoriza PF a investigar repasses para filme sobre Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flip: evento de abertura define Orides Fontela como poeta universal"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "IA está presente em 6 de cada 10 órgãos públicos federais e estaduais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prouni: prazo para comprovar informações de inscrição termina na sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS: comitê de negociação de preço de medicamentos pode reduzir custos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa paga Bolsa Família de julho a beneficiários com NIS de final 4"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comitê antecipa geração de energia para evitar impactos do El Niño"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PT aciona TSE contra Flávio Bolsonaro sobre urnas eletrônicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TCU cita risco fiscal dos Correios e defende compensação de custos"
     }
 ];
