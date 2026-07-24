@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Tarifa de 37,5% dos EUA atinge US$ 6,6 bi em exportações do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça decreta prisão de casal suspeito de roubar e vender remédios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsonaro recorre para anular proibição de visita na prisão domiciliar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Acordo com Arábia Saudita expõe contradição dos EUA na questão nuclear"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministro do STJ é incluído em investigação sobre venda de sentenças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tarifa de 37,5% atingirá quase 4 mil produtos brasileiros, estima CNI"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com precatórios, previsão de déficit primário soma R$ 52 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quartas da Copa do Brasil Feminina terá clássico carioca Fla x Flu"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo desbloqueia R$ 5,7 bi do Orçamento de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Redução do desmatamento contrasta com argumentos dos EUA para tarifaço"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Linhas de trem que retornaram para CPTM funcionam normalmente em SP"
     },
     {
@@ -9,27 +49,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sancionada lei que proíbe produção e comercialização de foie gras"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Prouni 2026/2: prazo para comprovar informação de inscrição acaba hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mulheres podem comprar e usar spray de pimenta para defesa pessoal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival Bonito CineSur promove integração audiovisual sul-americana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Democracia está nas mãos do povo, não em palácios, diz Cármen Lúcia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa Civil reconhece situação de emergência em 17 municípios do RS"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Juíza suspende perícia em celular apreendido em cela de Jairinho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STJ libera retomada de cobrança de dívidas do Grupo Manguinhos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Subsídio de R$ 0,44 por litro da gasolina é prorrogado por 30 dias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estados Unidos isentam 471 produtos de nova tarifa de 12,5%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CMN regulamenta renegociação de dívidas rurais; veja quem pode aderir"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CMN aprova crédito de R$ 10 bilhões para inovação no agronegócio"
     }
 ];
