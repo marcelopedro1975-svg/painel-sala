@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar fica estável em R$ 5,08, mas cai 0,58% na semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita prevê arrecadar R$ 17,2 bilhões com IR sobre dividendos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Coletânea reúne poetas invisibilizadas ao longo de quatro séculos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça condena traficantes que mataram cantora Aline Borel"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alison dos Santos fatura 1º ouro nos 400m no Troféu Brasil com recorde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Subsídio de R$ 0,35 ao diesel não será retomado, diz ministro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidente defende investimento nas Forças Armadas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Tarifa de 37,5% dos EUA atinge US$ 6,6 bi em exportações do Brasil"
     },
     {
@@ -37,14 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Redução do desmatamento contrasta com argumentos dos EUA para tarifaço"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Linhas de trem que retornaram para CPTM funcionam normalmente em SP"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Consulta pública sobre educação bilíngue de surdos acaba sábado"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TV Brasil transmite 1ª final entre Sampaio Basquete e Unimed Campinas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 5 recebem Bolsa Família de julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio determina bloqueio de contas do Banco Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita libera consulta ao terceiro lote de restituição do IR 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro chama tarifa dos EUA de \"indevida\" e promete reação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Juíza suspende perícia em celular apreendido em cela de Jairinho"
     }
 ];
