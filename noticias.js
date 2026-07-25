@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Guterres pede ajuda internacional para Síria devastada pela guerra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres negras exaltam Tereza de Benguela e cobram titulação de terra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reforma tributária impulsiona doações de imóveis a herdeiros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rede de Jornalistas Pretos oferece formação em segurança digital"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes revoga uso de tornozeleira para ex-prefeito de Belford Roxo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNDH manifesta preocupação com camelôs após Programa Tolerância Zero"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Unicef mapeia cidades onde crianças estão expostas a riscos ambientais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar fica estável em R$ 5,08, mas cai 0,58% na semana"
     },
     {
@@ -33,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça decreta prisão de casal suspeito de roubar e vender remédios"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Bolsonaro recorre para anular proibição de visita na prisão domiciliar"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Com precatórios, previsão de déficit primário soma R$ 52 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quartas da Copa do Brasil Feminina terá clássico carioca Fla x Flu"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo desbloqueia R$ 5,7 bi do Orçamento de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consulta pública sobre educação bilíngue de surdos acaba sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prouni 2026/2: prazo para comprovar informação de inscrição acaba hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pesquisa mostra que vacinação diminuiu prevalência de HPV entre jovens"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil transmite 1ª final entre Sampaio Basquete e Unimed Campinas"
     }
 ];
