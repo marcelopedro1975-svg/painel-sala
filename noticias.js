@@ -1,11 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PT lança candidatura de Fernando Haddad ao governo de São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vozinha, goleiro de Cabo Verde na Copa, acerta com Colo Colo do Chile"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vale do Café celebra 70 anos de Mestra Fatinha e encontro dos Jongos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Um terço dos partidos explicou controle de emendas parlamentares"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil bate favorita Itália e terá Turquia na final da Liga das Nações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "João Gomes cancela shows após ser internado por influenza"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival Latinidades celebra Dia da Mulher Afro-latino-americana em NY"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil nega visto para servidores dos EUA que queriam monitorar urnas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mesários têm papel fundamental na garantia do processo eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Guterres pede ajuda internacional para Síria devastada pela guerra"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mulheres negras exaltam Tereza de Benguela e cobram titulação de terra"
+        titulo: "Cidade Amiga do Idoso reconhece políticas públicas municipais"
     },
     {
         fonte: "Agência Brasil",
@@ -13,19 +49,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rede de Jornalistas Pretos oferece formação em segurança digital"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Moraes revoga uso de tornozeleira para ex-prefeito de Belford Roxo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNDH manifesta preocupação com camelôs após Programa Tolerância Zero"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Unicef mapeia cidades onde crianças estão expostas a riscos ambientais"
     },
     {
         fonte: "Agência Brasil",
@@ -34,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Receita prevê arrecadar R$ 17,2 bilhões com IR sobre dividendos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Coletânea reúne poetas invisibilizadas ao longo de quatro séculos"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tarifa de 37,5% dos EUA atinge US$ 6,6 bi em exportações do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsonaro recorre para anular proibição de visita na prisão domiciliar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acordo com Arábia Saudita expõe contradição dos EUA na questão nuclear"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro do STJ é incluído em investigação sobre venda de sentenças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tarifa de 37,5% atingirá quase 4 mil produtos brasileiros, estima CNI"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com precatórios, previsão de déficit primário soma R$ 52 bilhões"
     }
 ];
