@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Maior evento científico da América Latina começa neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fachin repudia fala de Milei contra Moraes e reafirma autonomia do STF"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Vozinha, goleiro de Cabo Verde na Copa, acerta com Colo Colo do Chile"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vale do Café celebra 70 anos de Mestra Fatinha e encontro dos Jongos"
     },
     {
         fonte: "Agência Brasil",
