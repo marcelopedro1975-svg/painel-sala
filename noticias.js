@@ -1,7 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Em artigo em jornal dos EUA, Lula critica postura do país com tarifas"
+        titulo: "Flip: Angela Davis cita pensadores brasileiros e critica gentrificação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Unidade Popular formaliza candidatura de Samara Martins a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após ofensas de Milei a Lula, Itamaraty chama embaixador para consulta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Da periferia para o mundo: concerto marca 20 anos de projeto no Recife"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil sofre virada da Turquia e é vice-campeão da Liga das Nações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PSD oficializa candidatura de Caiado à presidência da República"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ribeirão Preto ainda enfrenta falta de energia após temporal na sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tarifaço: em artigo no Washington Post, Lula critica postura dos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-sena acumula e pagará R$ 78 milhões no próximo sorteio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Guia orienta prefeituras na prevenção de impactos do El Niño"
     },
     {
         fonte: "Agência Brasil",
@@ -17,19 +53,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Nascido há 100 anos, Moacir Santos fundiu ancestralidade e erudição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Maior evento científico da América Latina começa neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fachin repudia fala de Milei contra Moraes e reafirma autonomia do STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Homenagem a Luana Barbosa marca a 11ª Marcha das Mulheres Negras em SP"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +62,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PL oficializa candidatura de Flávio Bolsonaro à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escritora Nathacha Appanah é um dos destaques internacionais da Flip"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Um terço dos partidos explicou controle de emendas parlamentares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil bate favorita Itália e terá Turquia na final da Liga das Nações"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil nega visto para servidores dos EUA que queriam monitorar urnas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mesários têm papel fundamental na garantia do processo eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Guterres pede ajuda internacional para Síria devastada pela guerra"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reforma tributária impulsiona doações de imóveis a herdeiros"
     }
 ];
