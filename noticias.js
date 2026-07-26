@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fachin repudia fala de Milei contra Moraes e reafirma autonomia do STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Homenagem a Luana Barbosa marca a 11ª Marcha das Mulheres Negras em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dupla \"Calderashi\" avança à final do WTT Star Contender em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PL oficializa candidatura de Flávio Bolsonaro à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Escritora Nathacha Appanah é um dos destaques internacionais da Flip"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Projeto leva atendimento médico a comunidades ribeirinhas do Amazonas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio Grande do Sul tem 206 cidades afetadas por fortes chuvas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PT lança candidatura de Fernando Haddad ao governo de São Paulo"
     },
     {
@@ -21,14 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "João Gomes cancela shows após ser internado por influenza"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival Latinidades celebra Dia da Mulher Afro-latino-americana em NY"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil nega visto para servidores dos EUA que queriam monitorar urnas"
     },
     {
@@ -38,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Guterres pede ajuda internacional para Síria devastada pela guerra"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cidade Amiga do Idoso reconhece políticas públicas municipais"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça condena traficantes que mataram cantora Aline Borel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alison dos Santos fatura 1º ouro nos 400m no Troféu Brasil com recorde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Subsídio de R$ 0,35 ao diesel não será retomado, diz ministro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente defende investimento nas Forças Armadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tarifa de 37,5% dos EUA atinge US$ 6,6 bi em exportações do Brasil"
     }
 ];
