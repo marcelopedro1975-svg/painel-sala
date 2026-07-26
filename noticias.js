@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Em artigo em jornal dos EUA, Lula critica postura do país com tarifas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cesárea aumenta risco de câncer de placenta após mola gestacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entenda a mola gestacional, que pode evoluir para câncer de placenta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite neste domingo duelo entre Cruzeiro e Botafogo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nascido há 100 anos, Moacir Santos fundiu ancestralidade e erudição"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Maior evento científico da América Latina começa neste domingo"
     },
     {
@@ -26,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Projeto leva atendimento médico a comunidades ribeirinhas do Amazonas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio Grande do Sul tem 206 cidades afetadas por fortes chuvas"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Reforma tributária impulsiona doações de imóveis a herdeiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes revoga uso de tornozeleira para ex-prefeito de Belford Roxo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar fica estável em R$ 5,08, mas cai 0,58% na semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita prevê arrecadar R$ 17,2 bilhões com IR sobre dividendos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça condena traficantes que mataram cantora Aline Borel"
     }
 ];
