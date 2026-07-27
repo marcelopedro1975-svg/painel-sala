@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Celpe-Bras: inscrição para 2ª edição do exame começa nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Semana começa com alerta amarelo para tempestades no RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 6 recebem Bolsa Família de julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Calderano é campeão do WTT Star Contender e vice na duplas mistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alison vence 400m com barreiras com melhor marca mundial em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ex-presidente do STF, Octavio Gallotti morre aos 95 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Parada Brasília Orgulho traz campanha do voto contra o preconceito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Julho das Pretas: mulheres negras marcham pelas ruas de todo país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres negras marcham no Rio por direitos e pelo bem-viver"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Flip: Angela Davis cita pensadores brasileiros e critica gentrificação"
     },
     {
@@ -13,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Da periferia para o mundo: concerto marca 20 anos de projeto no Recife"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil sofre virada da Turquia e é vice-campeão da Liga das Nações"
     },
     {
@@ -25,19 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ribeirão Preto ainda enfrenta falta de energia após temporal na sexta"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Tarifaço: em artigo no Washington Post, Lula critica postura dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-sena acumula e pagará R$ 78 milhões no próximo sorteio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Guia orienta prefeituras na prevenção de impactos do El Niño"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dupla \"Calderashi\" avança à final do WTT Star Contender em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PL oficializa candidatura de Flávio Bolsonaro à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projeto leva atendimento médico a comunidades ribeirinhas do Amazonas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PT lança candidatura de Fernando Haddad ao governo de São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vozinha, goleiro de Cabo Verde na Copa, acerta com Colo Colo do Chile"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Um terço dos partidos explicou controle de emendas parlamentares"
     }
 ];
