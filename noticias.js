@@ -1,11 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Celpe-Bras: inscrição para 2ª edição do exame começa nesta segunda"
+        titulo: "TSE terá outra reunião com embaixadores para explicar urna eletrônica"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Semana começa com alerta amarelo para tempestades no RS"
+        titulo: "Risco de disseminação do ebola pelo mundo é baixo, diz Tedros Adhanom"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Embaixador da Argentina no Brasil é convocado por Mauro Vieira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas no Rio Grande do Sul atingem mais de 59 mil pessoas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Coleta de dados do Censo Escolar se encerra na sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Começa hoje financiamento de moto e bicicleta pelo Move Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan: dívida do Brasil é menor do que a de grandes economias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempestades e risco de inundações voltam ao Rio Grande do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Acordo Mercosul-China é tratado em conversa entre Lula e Xi Jinping"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mercado reduz para 5,12% expectativa de inflação em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Incêndios florestais ameaçam cidade histórica francesa de Bordeaux"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Celpe-Bras: inscrição para 2ª edição do exame começa nesta segunda"
     },
     {
         fonte: "Agência Brasil",
@@ -25,22 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Parada Brasília Orgulho traz campanha do voto contra o preconceito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Julho das Pretas: mulheres negras marcham pelas ruas de todo país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mulheres negras marcham no Rio por direitos e pelo bem-viver"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flip: Angela Davis cita pensadores brasileiros e critica gentrificação"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Unidade Popular formaliza candidatura de Samara Martins a presidente"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PSD oficializa candidatura de Caiado à presidência da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tarifaço: em artigo no Washington Post, Lula critica postura dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cesárea aumenta risco de câncer de placenta após mola gestacional"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entenda a mola gestacional, que pode evoluir para câncer de placenta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite neste domingo duelo entre Cruzeiro e Botafogo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin repudia fala de Milei contra Moraes e reafirma autonomia do STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dupla \"Calderashi\" avança à final do WTT Star Contender em São Paulo"
     }
 ];
