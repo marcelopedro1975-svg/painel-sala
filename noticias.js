@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Galípolo recebe presidente do BRB em meio a demora em resgate"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil aciona OMC contra tarifas impostas pelos Estados Unidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Remédio injetável que previne HIV pode entrar no SUS até o fim o ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Forças de segurança do RJ terão de fazer recadastramento de armas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP: Defesa Civil reforça ajuda a locais atingidos por temporais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba como vai funcionar a biometria nas eleições deste ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Empreender na terceira idade triplica renda, mostra estudo do Sebrae"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil precisa garantir contrapartidas para receber data centers"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Infecções e mortes por HIV caem, mas falta de recursos ameaça avanços"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes pede explicações após falhas na tornozeleira de Débora do Batom"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar fecha no maior valor em duas semanas com queda no petróleo"
     },
     {
@@ -29,14 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Capivara é morta com flechada na represa de Guarapiranga em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Unesco reconhece Teatros da Amazônia como Patrimônio Mundial Cultural"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "ADPF das favelas altera modelo de combate ao crime no Rio de Janeiro"
     },
     {
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE terá outra reunião com embaixadores para explicar urna eletrônica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Risco de disseminação do ebola pelo mundo é baixo, diz Tedros Adhanom"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Embaixador da Argentina no Brasil é convocado por Mauro Vieira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Coleta de dados do Censo Escolar se encerra na sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entregador pode acessar crédito para moto e bicicleta a partir de hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan: dívida do Brasil é menor do que a de grandes economias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acordo Mercosul-China é tratado em conversa entre Lula e Xi Jinping"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado reduz para 5,12% expectativa de inflação em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Incêndios florestais ameaçam cidade histórica francesa de Bordeaux"
     }
 ];
