@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Universidades tem até sábado para pedir implantação de Cuidoteca"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite jogo Fluminense e Bahia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 8 recebem Bolsa Família de julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes dá 48 horas para Bolsonaro informar se autorizou vídeo com IA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolívia apreende ouro ilegal em jatinho de empresário brasileiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "GAECO denuncia quatro por monitorar autoridades para o PCC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 86 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Produção de petróleo e gás no Brasil cresce 14% no 2º trimestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça autoriza rastreamento de bens de Vorcaro no exterior"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Acordo entre Mercosul e Singapura garante tarifa zero para exportações"
     },
     {
@@ -9,11 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Diretor da OMS diz que Brasil é exemplo mundial por sistema de saúde"
+        titulo: "Festival de Música Rádio Nacional quebra recorde com 1.512 inscrições"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Paraná mantém dois mil pontos sob observação por conta do El Niño"
+        titulo: "Diretor da OMS diz que Brasil é exemplo mundial por sistema de saúde"
     },
     {
         fonte: "Agência Brasil",
@@ -25,15 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Holandês morre durante passeio de barco nas Cataratas do Iguaçu"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Alckmin diz que Milei presta desserviço à Argentina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estado de SP tem previsão de chuvas e ventanias para os próximos dias"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Policiais militares que descumpriam prisão domiciliar são presos no RJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita classifica mais 17 empresas como devedoras contumazes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vendas do Tesouro Direto atingem segundo melhor resultado da história"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes pede manifestação da PGR após Flávio não depor à PF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fórum pede compromisso de candidatos com comunicação democrática"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conselho pede ao MPSP apuração de venda de medicamentos em máquinas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quase metade dos jovens argentinos vive em vulnerabilidade social"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Débora do Batom não violou tornozeleira, diz secretaria de presídios"
     }
 ];
