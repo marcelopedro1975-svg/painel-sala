@@ -1,7 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Universidades tem até sábado para pedir implantação de Cuidoteca"
+        titulo: "Anvisa registra 5 novas canetas de semaglutida para tratar diabetes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MP: ação em São José dos Campos mira lavagem de dinheiro ligada ao PCC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil registra mais de 1,8 milhão de acidentes de trabalho desde 2023"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MP-SP abre investigação na CPTM concedida à Trivia Trens"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil tem estratégia para ciência, tecnologia e inovação até 2034"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "“Racismo foi reduzido a chamar alguém de macaco”, critica escritora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Representação indígena vai além de candidatos eleitos, diz cineasta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jazz Livre desta quarta-feira celebra o centenário de Moacir Santos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Universidades têm até sábado para pedir implantação de Cuidoteca"
     },
     {
         fonte: "Agência Brasil",
@@ -25,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 86 milhões; confira os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Produção de petróleo e gás no Brasil cresce 14% no 2º trimestre"
     },
     {
@@ -41,11 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estados Unidos prorroga por mais um ano emergência contra o Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival de Música Rádio Nacional quebra recorde com 1.512 inscrições"
+        titulo: "Estados Unidos prorrogam por mais um ano emergência contra o Brasil"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Victor Gabriel é suspenso por STJD até que Gabriel Pec volte a treinar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consumidores podem renegociar dívidas bancárias até 31 de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alckmin diz que Milei presta desserviço à Argentina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes dá 48h para Daniel Silveira explicar publicação de vídeo no X"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "De volta ao país após 3 anos, Copa Davis inicia venda de ingressos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eco Invest Brasil promove quinto leilão para financiar inovação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Policiais militares que descumpriam prisão domiciliar são presos no RJ"
     }
 ];
