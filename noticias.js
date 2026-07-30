@@ -1,11 +1,23 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ventos provocam danos na Costa Verde e na região serrana do RJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso"
     },
     {
         fonte: "Agência Brasil",
         titulo: "PSB oficializa candidatura de Alckmin à Vice-Presidência da República"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio de Janeiro tem duas mortes e um desaparecido depois de ventania"
     },
     {
         fonte: "Agência Brasil",
@@ -17,11 +29,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil rejeita prorrogação de emergência nacional dos EUA"
+        titulo: "Força-tarefa resgata 89 pessoas em condições degradantes de trabalho"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Força-tarefa resgata 89 pessoas em condições degradantes de trabalho"
+        titulo: "Brasil rejeita prorrogação de emergência nacional dos EUA"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dívida Pública sobe 2,61% em junho e supera R$ 9,2 trilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ventania causa apagão e paralisa transportes no Rio de Janeiro"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba como cientistas \"curaram\" pacientes infectados com HIV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "UFF recebe maior feira científica da América Latina nesta semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa registra 5 novas canetas de semaglutida para tratar diabetes"
     }
 ];
