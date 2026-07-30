@@ -1,11 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Projeto busca restaurar 600 mil hectares de vegetação nativa no Brasil"
+        titulo: "TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "El Niño: investimentos para conter impactos climáticos somam R$ 1,3 bi"
+        titulo: "PSB oficializa candidatura de Alckmin à Vice-Presidência da República"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EBC lança convocatória do Prêmio TV Brasil Petrobras Para Elas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa Civil reconhece situação de emergência em duas cidades gaúchas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil rejeita prorrogação de emergência nacional dos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Força-tarefa resgata 89 pessoas em condições degradantes de trabalho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai para R$ 5,10, após juros serem mantidos nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pensão alimentícia será recebida de forma automática, via pix"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dívida Pública sobe 2,61% em junho e supera R$ 9,2 trilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ventania causa apagão e paralisa transportes no Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novo sistema alfandegário agiliza desembarque de viajantes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições para Olimpíada de Eficiência Energética estão abertas"
     },
     {
         fonte: "Agência Brasil",
@@ -13,15 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Grupo Arco-Íris denuncia apagamento LGBTI+ nos dados policiais do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil fecha o mês de junho com saldo positivo de 145.161 empregos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Poesia na infância alimenta sensibilidade, diz escritor"
     },
     {
         fonte: "Agência Brasil",
@@ -42,41 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa registra 5 novas canetas de semaglutida para tratar diabetes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MP: ação em São José dos Campos mira lavagem de dinheiro ligada ao PCC"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Universidades têm até sábado para pedir implantação de Cuidoteca"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite jogo Fluminense e Bahia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 8 recebem Bolsa Família de julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes dá 48 horas para Bolsonaro informar se autorizou vídeo com IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolívia apreende ouro ilegal em jatinho de empresário brasileiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "GAECO denuncia quatro por monitorar autoridades para o PCC"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Produção de petróleo e gás no Brasil cresce 14% no 2º trimestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça autoriza rastreamento de bens de Vorcaro no exterior"
     }
 ];
