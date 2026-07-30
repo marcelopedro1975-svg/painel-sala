@@ -1,15 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "SP inicia campanha de multivacinação na segunda-feira (3)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo Central tem déficit de R$ 48,2 bilhões em junho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: campanha Boto Fé no Voto quer combater desinformação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Federação do PT recorre ao TSE para retirar postagens de deep fake"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defensoria do Rio faz campanha de paternidade no metrô"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Plataforma estimula denúncias contra censuras a jornalistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desinformação sobre HIV dificulta tratamento e aumenta preconceito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa paga Bolsa Família de julho a beneficiários com NIS de final 9"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo libera gasoduto da Petrobras para baratear gás industrial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vendaval ainda causa danos a moradores do Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça os finalistas do 3° Prêmio Jabuti Acadêmico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei destina parte do dinheiro de bets para fundo da Polícia Federal"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Arrecadação federal cresce 7,7% em junho e soma R$ 264,4 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Meteorologistas dizem que não é possível associar ventanias ao El Niño"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bombeiros encontram corpo em barco que afundou com ventania em Paraty"
     },
     {
         fonte: "Agência Brasil",
@@ -33,50 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Relatório aponta ação policial como responsável pela violência armada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sobe para três o número de mortes em SP devido à ventania"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "IGP-M tem queda de preços de 1,16% em julho, diz FGV"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Saiba como a urna eletrônica garante a soberania do voto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Antiga sede dos Correios no centro do Rio vai a leilão nesta quinta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PSB oficializa candidatura de Alckmin à Vice-Presidência da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EBC lança convocatória do Prêmio TV Brasil Petrobras Para Elas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil rejeita prorrogação de emergência nacional dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai para R$ 5,10, após juros serem mantidos nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pensão alimentícia será recebida de forma automática, via pix"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dívida Pública sobe 2,61% em junho e supera R$ 9,2 trilhões"
     }
 ];
