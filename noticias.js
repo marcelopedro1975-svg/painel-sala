@@ -1,11 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Ventos provocam danos na Costa Verde e na região serrana do RJ"
+        titulo: "Arrecadação federal cresce 7,7% em junho e soma R$ 264,4 bilhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre"
+        titulo: "Meteorologistas dizem que não é possível associar ventanias ao El Niño"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bombeiros encontram corpo em barco que afundou com ventania em Paraty"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP registra queda de 7,3% no número de homicídios no 1º semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa determina apreensão de lote falsificado de Mounjaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Juros das famílias seguem elevados e chegam a 64% ao ano, diz BC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desemprego no 2º trimestre é 5,4%, o menor já registrado no período"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça dá 90 dias para estado de SP reduzir superlotação de presídio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Relatório aponta ação policial como responsável pela violência armada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sobe para três o número de mortes em SP devido à ventania"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IGP-M tem queda de preços de 1,16% em julho, diz FGV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba como a urna eletrônica garante a soberania do voto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Antiga sede dos Correios no centro do Rio vai a leilão nesta quinta"
     },
     {
         fonte: "Agência Brasil",
@@ -17,27 +61,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio de Janeiro tem duas mortes e um desaparecido depois de ventania"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "EBC lança convocatória do Prêmio TV Brasil Petrobras Para Elas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Defesa Civil reconhece situação de emergência em duas cidades gaúchas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Força-tarefa resgata 89 pessoas em condições degradantes de trabalho"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil rejeita prorrogação de emergência nacional dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dívida Pública sobe 2,61% em junho e supera R$ 9,2 trilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novo sistema alfandegário agiliza desembarque de viajantes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inscrições para Olimpíada de Eficiência Energética estão abertas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa diz que Bolsonaro não autorizou uso de vídeo de IA em convenção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil fecha o mês de junho com saldo positivo de 145.161 empregos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino propõe ampliar responsabilização de parlamentares por emendas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Revalida 2025/2: recurso de resultado preliminar vai até sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba como cientistas \"curaram\" pacientes infectados com HIV"
     }
 ];
