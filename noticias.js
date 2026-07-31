@@ -1,11 +1,75 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Gênero, raça e origem familiar definem mobilidade social, diz estudo"
+        titulo: "Receita adia cronograma de destaque de impostos da reforma tributária"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula e próximo prêmio está estimado em R$ 100 milhões"
+        titulo: "Rio Guaíba se aproxima da cota de alerta em Porto Alegre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fies: pré-selecionados têm até terça para complementar informações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Plataforma oferece escuta em saúde mental para jovens no SUS Digital"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Falsos anúncios sobre Desenrola Brasil enganam usuários nas redes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições para o Prêmio Brasil que Alimenta vão até 7 de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa suspende venda de produtos médicos irregulares"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha alerta sobre imunização contra vírus que causa bronquiolite"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres sob proteção receberão aviso quando agressor se aproximar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Déficit do setor público sobe para R$ 55,3 bilhões em junho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil exibe nesta sexta jogo Unimed Campinas X Sampaio Basquete"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNPJ alfanumérico começa a ser emitido nesta sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Universidades federais têm até sábado para pedir cuidotecas ao MEC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba quanto o trabalhador receberá de lucro do FGTS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 0 recebem Bolsa Família de julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita paga nesta sexta-feira terceiro lote de restituição do IR 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cidades, Transportes e Fazenda lideram desbloqueio do Orçamento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Censo Escolar 2026: coleta de dados da 1ª etapa termina nesta sexta"
     },
     {
         fonte: "Agência Brasil",
@@ -14,69 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a lista de pré-selecionados para o Fies do 2º semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tarifas dos EUA são inconsistentes com regras da OMC, diz Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PCdoB oficializa apoio à candidatura de Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 200 mil continuam sem energia no Rio após vendaval"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CMN institui regime especial para fundos de inovação no Eco Invest"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai ao menor nível em quase dois meses, com alívio externo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo paraguaio convoca embaixador do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP inicia campanha de multivacinação na segunda-feira (3)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo Central tem déficit de R$ 48,2 bilhões em junho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: campanha Boto Fé no Voto quer combater desinformação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Federação do PT recorre ao TSE para retirar postagens de deep fake"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desinformação sobre HIV dificulta tratamento e aumenta preconceito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa paga Bolsa Família de julho a beneficiários com NIS de final 9"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo libera gasoduto da Petrobras para baratear gás industrial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vendaval ainda causa danos a moradores do Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei destina parte do dinheiro de bets para fundo da Polícia Federal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arrecadação federal cresce 7,7% em junho e soma R$ 264,4 bilhões"
     }
 ];
