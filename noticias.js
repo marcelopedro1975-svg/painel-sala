@@ -1,11 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PRTB lança Leonardo Avalanche candidato à Presidência da República"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PP decide ficar neutro na eleição presidencial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SBPC promove Dia da Família na Ciência neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais de 100 mil clientes ainda estão sem energia após vendaval no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP: alta de casos de sarampo aumenta preocupação dos serviços de saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enade 2026: divulgada resposta a pedido de atendimento especializado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival gastronômico leva culinária de 60 países a SP neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Comunidades criam soluções para mitigar efeitos da crise climática"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Receita adia cronograma de destaque de impostos da reforma tributária"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio Guaíba se aproxima da cota de alerta em Porto Alegre"
+        titulo: "Inscrições para a Seleção Petrobras Cultural terminam nesta sexta"
     },
     {
         fonte: "Agência Brasil",
@@ -21,19 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inscrições para o Prêmio Brasil que Alimenta vão até 7 de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Anvisa suspende venda de produtos médicos irregulares"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Campanha alerta sobre imunização contra vírus que causa bronquiolite"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mulheres sob proteção receberão aviso quando agressor se aproximar"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba quanto o trabalhador receberá de lucro do FGTS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 0 recebem Bolsa Família de julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita paga nesta sexta-feira terceiro lote de restituição do IR 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cidades, Transportes e Fazenda lideram desbloqueio do Orçamento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Censo Escolar 2026: coleta de dados da 1ª etapa termina nesta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça mantém suspensão de obras de tirolesa no Pão de Açúcar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a lista de pré-selecionados para o Fies do 2º semestre"
     }
 ];
