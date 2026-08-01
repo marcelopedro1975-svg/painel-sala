@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Centrais sindicais propõem medidas para enfrentar tarifaço dos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil derrota Alemanha e leva título do Desafio Internacional de Judô"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MP investigará PMs que entraram em escola após atividade sobre orixás"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo do Rio cria órgãos que vão coordenar reocupação de territórios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar fecha estável, mas acumula queda de 1,82% em julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "FAB intercepta aeronave suspeita vinda da Bolívia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bandeira tarifária continuará amarela em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caminhos da Reportagem vence o 2º Prêmio ADEP-MG de Jornalismo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estado de São Paulo teve 10% mais feminicídios no 1º semestre de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PRTB lança Leonardo Avalanche candidato à Presidência da República"
     },
     {
@@ -13,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mais de 100 mil clientes ainda estão sem energia após vendaval no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "SP: alta de casos de sarampo aumenta preocupação dos serviços de saúde"
     },
     {
@@ -25,19 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Festival gastronômico leva culinária de 60 países a SP neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comunidades criam soluções para mitigar efeitos da crise climática"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Receita adia cronograma de destaque de impostos da reforma tributária"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inscrições para a Seleção Petrobras Cultural terminam nesta sexta"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Campanha alerta sobre imunização contra vírus que causa bronquiolite"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Déficit do setor público sobe para R$ 55,3 bilhões em junho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil exibe nesta sexta jogo Unimed Campinas X Sampaio Basquete"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNPJ alfanumérico começa a ser emitido nesta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Universidades federais têm até sábado para pedir cuidotecas ao MEC"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba quanto o trabalhador receberá de lucro do FGTS"
     }
 ];
