@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Programa de renegociação de dívidas é prorrogado até 31 de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cresce o número de estabelecimentos na cadeia produtiva da cachaça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça do Rio revoga prisão preventiva do rapper Oruam"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cruzeiro vence Botafogo no Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Participação feminina na direção de filmes permanece abaixo de 20%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Documentário colombiano chama atenção para preservação dos páramos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em São Paulo, rua é renomeada em homenagem à história do samba"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil encerra Internacional de parabadminton com 8 medalhas de ouro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Republicanos lança candidatura de Tarcísio ao governo de São Paulo"
     },
     {
@@ -17,14 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Projeto Vídeo nas Aldeias alerta para risco de perder acervo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Homem é preso no Rio ao desembarcar de voo procedente da Espanha"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Aumento de etanol na gasolina divide opiniões sobre impacto em carros"
     },
     {
@@ -33,15 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega Sena acumula e pode pagar R$ 100 milhões neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "RJ: quase 13 milhões de eleitores estão aptos a votar no 1º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sete dos dez agrotóxicos mais vendidos no Brasil são proibidos na UE"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Semana Mundial do Aleitamento Materno marca início do Agosto Dourado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPRJ debate aplicação da Lei Antifacção no combate ao crime"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Partido Verde oficializa apoio à candidatura de Lula à reeleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Centrais sindicais propõem medidas para enfrentar tarifaço dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil derrota Alemanha e leva título do Desafio Internacional de Judô"
     }
 ];
