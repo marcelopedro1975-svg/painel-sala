@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Republicanos lança candidatura de Tarcísio ao governo de São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Procon-RJ orienta sobre danos em aparelhos por falta de luz"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais de 26 mil imóveis seguem sem energia no estado do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PCB aprova candidatura de Edmilson Costa à presidência da República"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Projeto Vídeo nas Aldeias alerta para risco de perder acervo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Homem é preso no Rio ao desembarcar de voo procedente da Espanha"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aumento de etanol na gasolina divide opiniões sobre impacto em carros"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Aplicativo do Tesouro Direto será desativado a partir de 17 de agosto"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil derrota Alemanha e leva título do Desafio Internacional de Judô"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar fecha estável, mas acumula queda de 1,82% em julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bandeira tarifária continuará amarela em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PRTB lança Leonardo Avalanche candidato à Presidência da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PP decide ficar neutro na eleição presidencial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SBPC promove Dia da Família na Ciência neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP: alta de casos de sarampo aumenta preocupação dos serviços de saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enade 2026: divulgada resposta a pedido de atendimento especializado"
     }
 ];
