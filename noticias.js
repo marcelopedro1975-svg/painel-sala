@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "MPRJ debate aplicação da Lei Antifacção no combate ao crime"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Partido Verde oficializa apoio à candidatura de Lula à reeleição"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Centrais sindicais propõem medidas para enfrentar tarifaço dos EUA"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Caminhos da Reportagem vence o 2º Prêmio ADEP-MG de Jornalismo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estado de São Paulo teve 10% mais feminicídios no 1º semestre de 2026"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa suspende venda de produtos médicos irregulares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha alerta sobre imunização contra vírus que causa bronquiolite"
     }
 ];
