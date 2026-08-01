@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Aplicativo do Tesouro Direto será desativado a partir de 17 de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega Sena acumula e pode pagar R$ 100 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "RJ: quase 13 milhões de eleitores estão aptos a votar no 1º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sete dos dez agrotóxicos mais vendidos no Brasil são proibidos na UE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PSTU oficializa candidatura de Hertz Dias à Presidência da República"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pix Pensão Alimentícia: entenda o que é e como solicitar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil deve aproveitar aliança com China para soberania digital em IA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Waico e Pax Silica: entenda disputa entre China e EUA por futuro da IA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Semana Mundial do Aleitamento Materno marca início do Agosto Dourado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "MPRJ debate aplicação da Lei Antifacção no combate ao crime"
     },
     {
@@ -17,27 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MP investigará PMs que entraram em escola após atividade sobre orixás"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo do Rio cria órgãos que vão coordenar reocupação de territórios"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dólar fecha estável, mas acumula queda de 1,82% em julho"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "FAB intercepta aeronave suspeita vinda da Bolívia"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Bandeira tarifária continuará amarela em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem vence o 2º Prêmio ADEP-MG de Jornalismo"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enade 2026: divulgada resposta a pedido de atendimento especializado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita adia cronograma de destaque de impostos da reforma tributária"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fies: pré-selecionados têm até terça para complementar informações"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Plataforma oferece escuta em saúde mental para jovens no SUS Digital"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Falsos anúncios sobre Desenrola Brasil enganam usuários nas redes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa suspende venda de produtos médicos irregulares"
     }
 ];
