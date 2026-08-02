@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fluminense e Vasco abrem oitavas de final da Copa do Brasil com 0 a 0"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Programa de renegociação de dívidas é prorrogado até 31 de agosto"
     },
     {
@@ -37,14 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Procon-RJ orienta sobre danos em aparelhos por falta de luz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 26 mil imóveis seguem sem energia no estado do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PCB aprova candidatura de Edmilson Costa à presidência da República"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Semana Mundial do Aleitamento Materno marca início do Agosto Dourado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPRJ debate aplicação da Lei Antifacção no combate ao crime"
     }
 ];
