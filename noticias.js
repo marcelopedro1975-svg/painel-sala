@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil é quarto país que mais ampliou turismo internacional, diz OCDE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso volta do recesso sem previsão de plenário nesta semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo vence Vitória e assume liderança do Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Filme sobre a ditadura paraguaia vence festival Bonito CineSur"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caminhadas buscam conscientizar população sobre lipedema"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Amamentação reduz risco de doença cardíaca na mãe"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres formam rede em defesa do clima e dos territórios"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "História do voto: mulheres do RN tiveram feitos inéditos"
     },
     {
@@ -29,18 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Participação feminina na direção de filmes permanece abaixo de 20%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Documentário colombiano chama atenção para preservação dos páramos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em São Paulo, rua é renomeada em homenagem à história do samba"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil encerra Internacional de parabadminton com 8 medalhas de ouro"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "RJ: quase 13 milhões de eleitores estão aptos a votar no 1º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PSTU oficializa candidatura de Hertz Dias à Presidência da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pix Pensão Alimentícia: entenda o que é e como solicitar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil deve aproveitar aliança com China para soberania digital em IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Waico e Pax Silica: entenda disputa entre China e EUA por futuro da IA"
     }
 ];
