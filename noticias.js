@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "História do voto: mulheres do RN tiveram feitos inéditos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conquista do voto feminino no Brasil resistiu à misoginia histórica"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fluminense e Vasco abrem oitavas de final da Copa do Brasil com 0 a 0"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Waico e Pax Silica: entenda disputa entre China e EUA por futuro da IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Semana Mundial do Aleitamento Materno marca início do Agosto Dourado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPRJ debate aplicação da Lei Antifacção no combate ao crime"
     }
 ];
