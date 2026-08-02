@@ -1,7 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Democrata define Wilson Grassi Júnior candidato à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres vão às ruas pela votação do PL da Misoginia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PT oficializa candidatura de Lula à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sampaio Basquete é campeão da Liga Nacional de Basquete Feminino 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres são maioria no setor de seguros, mas minoria na liderança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Carol e Rebecca estão na final do Circuito Mundial de vôlei de praia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudantes de todo o país participam da Jornada de Foguetes 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 135 milhões; confira as dezenas sorteadas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil é quarto país que mais ampliou turismo internacional, diz OCDE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "No Bonito CineSur, Paulo Betti defende regulamentação de streamings"
     },
     {
         fonte: "Agência Brasil",
@@ -13,19 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Filme sobre a ditadura paraguaia vence festival Bonito CineSur"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Caminhadas buscam conscientizar população sobre lipedema"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Amamentação reduz risco de doença cardíaca na mãe"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mulheres formam rede em defesa do clima e dos territórios"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça do Rio revoga prisão preventiva do rapper Oruam"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cruzeiro vence Botafogo no Brasileirão Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil encerra Internacional de parabadminton com 8 medalhas de ouro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Republicanos lança candidatura de Tarcísio ao governo de São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PCB aprova candidatura de Edmilson Costa à presidência da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aumento de etanol na gasolina divide opiniões sobre impacto em carros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aplicativo do Tesouro Direto será desativado a partir de 17 de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "RJ: quase 13 milhões de eleitores estão aptos a votar no 1º turno"
     }
 ];
