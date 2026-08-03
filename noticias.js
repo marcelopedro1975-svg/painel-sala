@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Democrata define Wilson Grassi Júnior candidato à Presidência"
+        titulo: "Brasil vence Chile na estreia do Sul-Americano de basquete feminino"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mulheres vão às ruas pela votação do PL da Misoginia"
+        titulo: "STF derruba restrição a compra de veículos por pessoas com deficiência"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PT oficializa candidatura de Lula à Presidência"
+        titulo: "Ajuda internacional sofre corte de 23,1% em 2025, o maior da história"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sampaio Basquete é campeão da Liga Nacional de Basquete Feminino 2026"
+        titulo: "Estudo sobre hepatites virais traça panorama da doença em onze anos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mulheres são maioria no setor de seguros, mas minoria na liderança"
+        titulo: "Projeto seleciona quatro territórios para rede nacional de afroturismo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Carol e Rebecca estão na final do Circuito Mundial de vôlei de praia"
+        titulo: "Espanha cita grupos “reacionários” e fake news em imigração em Ceuta"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estudantes de todo o país participam da Jornada de Foguetes 2026"
+        titulo: "CNU 2 divulga nova classificação com vagas remanescentes e adicionais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 135 milhões; confira as dezenas sorteadas"
+        titulo: "Fachin: críticas não fragilizam STF, mas fortalecem democracia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil é quarto país que mais ampliou turismo internacional, diz OCDE"
+        titulo: "Dança em Trânsito estreia nesta terça com preços populares no Rio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "No Bonito CineSur, Paulo Betti defende regulamentação de streamings"
+        titulo: "Fies 2026: estudantes devem completar informações até esta terça"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Congresso volta do recesso sem previsão de plenário nesta semana"
+        titulo: "Campanha Nacional de Multivacinação começa nesta segunda"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "São Paulo vence Vitória e assume liderança do Brasileirão Feminino"
+        titulo: "Emissão de notas fiscais com CBS e IBS começa nesta segunda-feira"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Caminhadas buscam conscientizar população sobre lipedema"
+        titulo: "São Paulo inicia multivacinação a partir desta segunda-feira"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Amamentação reduz risco de doença cardíaca na mãe"
+        titulo: "Celpe-Bras: inscrições para segunda edição estão abertas até dia 6"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "História do voto: mulheres do RN tiveram feitos inéditos"
+        titulo: "Copom inicia nesta terça reunião para definir taxa básica de juros"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Conquista do voto feminino no Brasil resistiu à misoginia histórica"
+        titulo: "Petrobras descobre novo poço de gás na margem equatorial da Colômbia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fluminense e Vasco abrem oitavas de final da Copa do Brasil com 0 a 0"
+        titulo: "Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Programa de renegociação de dívidas é prorrogado até 31 de agosto"
+        titulo: "Aberta chamada pública para pesquisas sobre endometriose"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cresce o número de estabelecimentos na cadeia produtiva da cachaça"
+        titulo: "Após recesso, Congresso retoma trabalhos nesta semana"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça do Rio revoga prisão preventiva do rapper Oruam"
+        titulo: "Encceja 2026: alunos já podem consultar cartilha de redação"
     }
 ];
