@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Avante oficializa Augusto Cury como candidato à Presidência"
+        titulo: "CNJ afasta ex-juíza da Lava Jato por dois anos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Trabalhadores das linhas 11, 12 e 13 da CPTM entram em greve"
+        titulo: "Flávio Dino autoriza novo inquérito da PF para investigar Lulinha"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Urna eletrônica é patrimônio da democracia, diz presidente do TSE"
+        titulo: "Emplacamentos de veículos cresceram 10% em julho"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça condena militar por estupro de guerrilheira durante ditadura"
+        titulo: "Barça anuncia Kerolin com valor recorde no futebol feminino brasileiro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Casos de sarampo sobem para 16 em São Paulo"
+        titulo: "Cristo Redentor iluminado na cor laranja alerta contra o feminicídio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fachin vai propor no CNJ regras de conduta para juízes"
+        titulo: "STF inicia análise de leis sobre meio ambiente e terras indígenas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TRE-RJ abre urna para o público e defende segurança do voto eletrônico"
+        titulo: "Operação Lívia combate rede que induzia jovens a suicídio na internet"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil vence Chile na estreia do Sul-Americano de basquete feminino"
+        titulo: "Trabalhadores da CPTM realizam assembleia sobre continuidade da greve"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF derruba restrição a compra de veículos por pessoas com deficiência"
+        titulo: "SP: ventania pode atingir 50 km/h no fim de semana"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ajuda internacional sofre corte de 23,1% em 2025, o maior da história"
+        titulo: "Eventos climáticos extremos desafiam concessionárias de energia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estudo sobre hepatites virais traça panorama da doença em onze anos"
+        titulo: "Moraes pede parecer da PGR sobre proibição de visitas a Bolsonaro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Espanha cita grupos “reacionários” e fake news em imigração em Ceuta"
+        titulo: "CNJ acaba com aposentadoria compulsória como punição máxima para juiz"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fachin: críticas não fragilizam STF, mas fortalecem democracia"
+        titulo: "Lula conversa com Putin sobre comércio e geopolítica"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fies 2026: estudantes devem completar informações até esta terça"
+        titulo: "Ministro Fachin apresenta novas regras de conduta para magistrados"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Campanha Nacional de Multivacinação começa nesta segunda"
+        titulo: "Republicanos se manterá neutro na corrida presidencial"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Emissão de notas fiscais com CBS e IBS começa nesta segunda-feira"
+        titulo: "PCDF investiga suspeitos de planejar atentados no período eleitoral"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "São Paulo inicia multivacinação a partir desta segunda-feira"
+        titulo: "SUS terá 100 mil teleatendimentos mensais para vício em bets"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Celpe-Bras: inscrições para segunda edição estão abertas até dia 6"
+        titulo: "Impacto das telas na saúde mental já é debatido em 80% das escolas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Copom inicia nesta terça reunião para definir taxa básica de juros"
+        titulo: "PF investiga senador Weverton Rocha por suspeita de desvios no INSS"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Petrobras descobre novo poço de gás na margem equatorial da Colômbia"
+        titulo: "ONG culpa Marrocos por “desespero” de imigrantes rumo à Europa"
     }
 ];
