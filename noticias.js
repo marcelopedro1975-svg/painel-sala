@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Avante oficializa Augusto Cury como candidato à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalhadores das linhas 11, 12 e 13 da CPTM entram em greve"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Urna eletrônica é patrimônio da democracia, diz presidente do TSE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça condena militar por estupro de guerrilheira durante ditadura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Casos de sarampo sobem para 16 em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin vai propor no CNJ regras de conduta para juízes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ abre urna para o público e defende segurança do voto eletrônico"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil vence Chile na estreia do Sul-Americano de basquete feminino"
     },
     {
@@ -17,23 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Projeto seleciona quatro territórios para rede nacional de afroturismo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Espanha cita grupos “reacionários” e fake news em imigração em Ceuta"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CNU 2 divulga nova classificação com vagas remanescentes e adicionais"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fachin: críticas não fragilizam STF, mas fortalecem democracia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dança em Trânsito estreia nesta terça com preços populares no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Petrobras descobre novo poço de gás na margem equatorial da Colômbia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aberta chamada pública para pesquisas sobre endometriose"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após recesso, Congresso retoma trabalhos nesta semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Encceja 2026: alunos já podem consultar cartilha de redação"
     }
 ];
