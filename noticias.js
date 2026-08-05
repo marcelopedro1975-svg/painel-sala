@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena não tem ganhador e prêmio sobe para R$ 150 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil repudia revogação de visto de embaixadora nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP: ferroviários mantém greve por falta de garantia de empregos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Edital de R$ 4 milhões contempla projetos de comunicação climática"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TCU envia à Justiça Eleitoral lista de gestores com contas rejeitadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com greve de ferroviários, usuários de trens enfrentam trânsito em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sul, Sudeste e Centro-Oeste têm alerta para tempestades e vendavais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio: delegacias terão sala especial para mulheres vítimas de violência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nova lei cria filtros para recursos e deve reduzir ações no STJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MJ detalha operação para desarticular ataques a Brasília"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "União Brasil decide pela neutralidade na eleição presidencial"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "CNJ afasta ex-juíza da Lava Jato por dois anos"
     },
     {
@@ -17,27 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cristo Redentor iluminado na cor laranja alerta contra o feminicídio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF inicia análise de leis sobre meio ambiente e terras indígenas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Operação Lívia combate rede que induzia jovens a suicídio na internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trabalhadores da CPTM realizam assembleia sobre continuidade da greve"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP: ventania pode atingir 50 km/h no fim de semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eventos climáticos extremos desafiam concessionárias de energia"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ministro Fachin apresenta novas regras de conduta para magistrados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Republicanos se manterá neutro na corrida presidencial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PCDF investiga suspeitos de planejar atentados no período eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS terá 100 mil teleatendimentos mensais para vício em bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Impacto das telas na saúde mental já é debatido em 80% das escolas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF investiga senador Weverton Rocha por suspeita de desvios no INSS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONG culpa Marrocos por “desespero” de imigrantes rumo à Europa"
     }
 ];
