@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Assinatura digital e lacração impedem alteração em sistemas eleitorais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia do Rio faz operações para prender dezenas de integrantes do CV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Paralisação de trens causa congestionamento nas ruas de SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prouni 2026: divulgado resultado de nova chamada para o 2º semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições para exame de proficiência em português terminam quinta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP: segundo dia de greve paralisa parcialmente três linhas da CPTM"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bethânia Amaro estreia no romance dando voz a profissionais do sexo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Livro inédito infantil da poeta Myriam Fraga será lançado na Flipelô"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa Civil do Rio envia alerta severo para ventos fortes"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena não tem ganhador e prêmio sobe para R$ 150 milhões"
     },
     {
@@ -9,27 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "SP: ferroviários mantém greve por falta de garantia de empregos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Edital de R$ 4 milhões contempla projetos de comunicação climática"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TCU envia à Justiça Eleitoral lista de gestores com contas rejeitadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com greve de ferroviários, usuários de trens enfrentam trânsito em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sul, Sudeste e Centro-Oeste têm alerta para tempestades e vendavais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio: delegacias terão sala especial para mulheres vítimas de violência"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Operação Lívia combate rede que induzia jovens a suicídio na internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes pede parecer da PGR sobre proibição de visitas a Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNJ acaba com aposentadoria compulsória como punição máxima para juiz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula conversa com Putin sobre comércio e geopolítica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro Fachin apresenta novas regras de conduta para magistrados"
     }
 ];
