@@ -1,7 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Copa do Brasil pode reunir somente campeões nas quartas de final"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flipelô começa em Salvador com música, poesia e grande participação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maiores campeões, Cruzeiro e Grêmio vão às quartas da Copa do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ideb mostra avanço da educação básica no país"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Redução da taxa de juros ainda é insuficiente, avaliam entidades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio Grande do Sul terá chuva intensa e ventos de até 100 km/h"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Termina a greve nas linhas de trens em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TRE-RJ altera 66 locais de votação por questões de segurança"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "BID amplia para US$ 4 bilhões o fundo para segurança na América Latina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atitude irresponsável, diz Lula após revogação de visto de embaixadora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil rebaixa relação com Argentina após novos insultos de Milei"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Assinatura digital e lacração impedem alteração em sistemas eleitorais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prouni 2026: divulgado resultado de nova chamada para o 2º semestre"
     }
 ];
