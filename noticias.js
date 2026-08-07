@@ -1,7 +1,35 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Transportes antecipam horário de pico no Rio com previsão de ventania"
+        titulo: "Ventania no Rio adia Botafogo x Fluminense pelo Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Candidatos do Encceja 2026 podem consultar o cartão de inscrição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE cria conselho para monitorar desinformação e IA nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cristo, Bondinho e outros pontos turísticos são fechados por ventania"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saeb 2025: Brasil recupera nível pré-pandemia, mas ainda tem gargalos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU pedirá na Justiça a retirada do Discord do ar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cidade de Santos, no litoral de São Paulo, registra ventos de 109 km/h"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trens e metrô adiantam horário de pico no Rio com previsão de ventania"
     },
     {
         fonte: "Agência Brasil",
@@ -17,23 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Prefeitura e estado pedem antecipação do fim do expediente no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fies começa a convocar nesta sexta estudantes em lista de espera"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "RS: Defesa Civil confirma uma morte e cinco feridos após ciclone bomba"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Retiradas da poupança superam depósitos em R$ 7,15 bilhões em julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba quando será o recesso de fim de ano para servidores públicos"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Rio: ex-padre é condenado a 48 anos de prisão por tortura de enteados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trump assina decretos e restringe cidadania por nascimento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Balança comercial de julho tem superávit de US$ 7 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pai e madrasta são presos suspeitos de morte de menino de 3 anos no TO"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Diagnóstico tardio dá poucas chances de cura para o câncer de pulmão"
     }
 ];
