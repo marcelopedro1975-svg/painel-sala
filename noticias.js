@@ -1,47 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Transportes antecipam horário de pico no Rio com previsão de ventania"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cirurgias plásticas de mama no SUS crescem mais de 50% em dez anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino aciona PF após TCU apontar R$ 55,4 milhões em emendas suspeitas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Milei recua em liberar venda de áreas afetadas por incêndios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prefeitura e estado pedem antecipação do fim do expediente no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fies começa a convocar nesta sexta estudantes em lista de espera"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "RS: Defesa Civil confirma uma morte e cinco feridos após ciclone bomba"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Retiradas da poupança superam depósitos em R$ 7,15 bilhões em julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba quando será o recesso de fim de ano para servidores públicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF muda decisão de Moraes e reduz pena de condenada por 8 de janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Estado de São Paulo confirma 23 casos de sarampo; 16 não se vacinaram"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Depoimento de Jaques Wagner à PF é adiado a pedido da defesa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ventania: moradores do Rio acordam sob alerta; saiba o que fazer"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Episódio de Afiadas debate redes sociais e segurança digital"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ciclone bomba continua no Sul e Sudeste do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sala de Concerto, da Rádio MEC, celebra Radamés Gnattali nesta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei amplia punição a crimes sexuais online contra crianças; entenda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Previsão de ventos fortes leva Rio a suspender aulas nesta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "“A gente só recitava poesias de subversão”, diz poeta baiana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sobrecarga doméstica expõe mulheres à violência, dizem especialistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei Maria da Penha completa 20 anos entre avanços e desafios"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Diagnóstico tardio dá poucas chances de cura para o câncer de pulmão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF suspende julgamento de lei que proíbe jogos de azar"
     }
 ];
