@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Familiares celebram legado de primeira medalha paralímpica do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PMs detêm motorista de ônibus em SP após desentendimento no trânsito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desmatamento na Amazônia cai 36,87% no último ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OAB/DF lança \"violentômetro\" sobre estágios da agressão a mulheres"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STM determina perda de patente de militar acusado de transmitir HIV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF julga recursos contra partes da decisão que anulou marco temporal"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ventania no Rio adia Botafogo x Fluminense pelo Brasileirão Feminino"
     },
     {
@@ -22,14 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "AGU pedirá na Justiça a retirada do Discord do ar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cidade de Santos, no litoral de São Paulo, registra ventos de 109 km/h"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trens e metrô adiantam horário de pico no Rio com previsão de ventania"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Depoimento de Jaques Wagner à PF é adiado a pedido da defesa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ninguém acerta Mega-Sena; prêmio acumula para R$ 165 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pix amplia participação nos pagamentos em bares e restaurantes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras tem lucro líquido de R$ 52,4 bi no segundo trimestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio: ex-padre é condenado a 48 anos de prisão por tortura de enteados"
     }
 ];
