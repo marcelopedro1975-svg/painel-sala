@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Copa do Brasil pode reunir somente campeões nas quartas de final"
+        titulo: "Ninguém acerta Mega-Sena; prêmio acumula para R$ 165 milhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Flipelô começa em Salvador com música, poesia e grande participação"
+        titulo: "Pix amplia participação nos pagamentos em bares e restaurantes"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Maiores campeões, Cruzeiro e Grêmio vão às quartas da Copa do Brasil"
+        titulo: "Petrobras tem lucro líquido de R$ 52,4 bi no segundo trimestre"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ideb mostra avanço da educação básica no país"
+        titulo: "Rio: ex-padre é condenado a 48 anos de prisão por tortura de enteados"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Redução da taxa de juros ainda é insuficiente, avaliam entidades"
+        titulo: "Polícia Federal indicia 16 pessoas por queda de avião da Voepass"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio Grande do Sul terá chuva intensa e ventos de até 100 km/h"
+        titulo: "Trump assina decretos e restringe cidadania por nascimento"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CBF reforça paralisação das competições durante Copa Feminina em 2027"
+        titulo: "Balança comercial de julho tem superávit de US$ 7 bilhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lei garante frete mínimo no transporte de cargas; saiba o que muda"
+        titulo: "Pai e madrasta são presos suspeitos de morte de menino de 3 anos no TO"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MPF denuncia empresas por despejo de resíduos na Baía de Guanabara"
+        titulo: "Lei que aumenta punição a crimes digitais contra crianças é sancionada"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ganhadores do Prêmio Grande Otelo destacam emoção de vencer em casa"
+        titulo: "Diagnóstico tardio dá poucas chances de cura para o câncer de pulmão"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Em nova redução, Copom baixa taxa Selic para 14% ao ano"
+        titulo: "STF suspende julgamento de lei que proíbe jogos de azar"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Empresas devem facilitar vacinação de trabalhadores contra o sarampo"
+        titulo: "Mobilizações levam Milei a recuar sobre venda de terras a estrangeiros"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vôlei: São Paulo sedia Mundial de Clubes feminino pelo 2º ano seguido"
+        titulo: "Anvisa proíbe produtos sem registro que prometiam emagrecimento"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF inicia julgamento sobre validade da Lei das Contravenções Penais"
+        titulo: "Leilões de petróleo em outubro terão recorde de áreas em disputa"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PRD e Solidariedade decidem pela neutralidade na eleição presidencial"
+        titulo: "Famílias brasileiras perderam R$ 62,5 bilhões para bets em 2025"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TRE-RJ altera 66 locais de votação por questões de segurança"
+        titulo: "Brasil no Mundo debate migração na Europa e conflito em Jerusalém"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "João Fonseca supera Tsitsipas na estreia do Masters 1000 de Montreal"
+        titulo: "STJ condena ministro Marco Buzzi a perda de cargo por crimes sexuais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bolsonaro pede ao STF para receber os filhos no Dia dos Pais"
+        titulo: "Rio concentra quase um terço de casos de exercício ilegal da medicina"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Milei faz nova tentativa de ampliar venda de terras a estrangeiros"
+        titulo: "Medicamento reduz em até 85% internações no SUS por fibrose cística"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "BID amplia para US$ 4 bilhões o fundo para segurança na América Latina"
+        titulo: "PGR pede perda de cargo para ministro do STJ acusado de crime sexual"
     }
 ];
