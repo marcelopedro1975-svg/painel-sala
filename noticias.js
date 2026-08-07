@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Estado de São Paulo confirma 23 casos de sarampo; 16 não se vacinaram"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Depoimento de Jaques Wagner à PF é adiado a pedido da defesa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ventania: moradores do Rio acordam sob alerta; saiba o que fazer"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Episódio de Afiadas debate redes sociais e segurança digital"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ciclone bomba continua no Sul e Sudeste do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sala de Concerto, da Rádio MEC, celebra Radamés Gnattali nesta sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei amplia punição a crimes sexuais online contra crianças; entenda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Previsão de ventos fortes leva Rio a suspender aulas nesta sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "“A gente só recitava poesias de subversão”, diz poeta baiana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sobrecarga doméstica expõe mulheres à violência, dizem especialistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei Maria da Penha completa 20 anos entre avanços e desafios"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ninguém acerta Mega-Sena; prêmio acumula para R$ 165 milhões"
     },
     {
@@ -17,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Polícia Federal indicia 16 pessoas por queda de avião da Voepass"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Trump assina decretos e restringe cidadania por nascimento"
     },
     {
@@ -33,50 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lei que aumenta punição a crimes digitais contra crianças é sancionada"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Diagnóstico tardio dá poucas chances de cura para o câncer de pulmão"
     },
     {
         fonte: "Agência Brasil",
         titulo: "STF suspende julgamento de lei que proíbe jogos de azar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mobilizações levam Milei a recuar sobre venda de terras a estrangeiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe produtos sem registro que prometiam emagrecimento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Leilões de petróleo em outubro terão recorde de áreas em disputa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Famílias brasileiras perderam R$ 62,5 bilhões para bets em 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil no Mundo debate migração na Europa e conflito em Jerusalém"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STJ condena ministro Marco Buzzi a perda de cargo por crimes sexuais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio concentra quase um terço de casos de exercício ilegal da medicina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Medicamento reduz em até 85% internações no SUS por fibrose cística"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR pede perda de cargo para ministro do STJ acusado de crime sexual"
     }
 ];
