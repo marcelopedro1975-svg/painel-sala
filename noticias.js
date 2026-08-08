@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "AGU se reúne com Discord e cobra proteção de crianças na plataforma"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Familiares celebram legado de primeira medalha paralímpica do Brasil"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE cria conselho para monitorar desinformação e IA nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cristo, Bondinho e outros pontos turísticos são fechados por ventania"
     },
     {
         fonte: "Agência Brasil",
