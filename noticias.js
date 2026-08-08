@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Partidos têm até o dia 15 para registrarem candidaturas nos tribunais"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF muda decisão de Moraes e reduz pena de condenada por 8 de janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estado de São Paulo confirma 23 casos de sarampo; 16 não se vacinaram"
     }
 ];
