@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Colombianas que morreram na queda de helicóptero eram avó, mãe e filha"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena sorteia prêmio acumulado de R$ 165 milhões neste domingo"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STM determina perda de patente de militar acusado de transmitir HIV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF julga recursos contra partes da decisão que anulou marco temporal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ventania no Rio adia Botafogo x Fluminense pelo Brasileirão Feminino"
     }
 ];
