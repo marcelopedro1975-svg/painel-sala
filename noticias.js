@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 165 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cientistas recorrem aos tubarões para melhorar previsão sobre furacões"
     },
     {
@@ -41,14 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Festival Rio Cello leva música a vários espaços do Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agência Nacional de Proteção de Dados investiga plataforma Discord"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF julga recursos contra partes da decisão que anulou marco temporal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ventania no Rio adia Botafogo x Fluminense pelo Brasileirão Feminino"
     }
 ];
