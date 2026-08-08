@@ -1,7 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Diagnóstico precoce da AME é divisor de águas, afirma paciente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Repertório de Caetano Veloso embala show exclusivo na TV Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flipelô lança livro com cartas entre Jorge Amado e Erico Verissimo"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Cirurgias plásticas de mama no SUS crescem mais de 50% em dez anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino aciona PF após TCU apontar R$ 55,4 milhões em emendas suspeitas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Milei recua em liberar venda de áreas afetadas por incêndios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fies começa a convocar nesta sexta estudantes em lista de espera"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Retiradas da poupança superam depósitos em R$ 7,15 bilhões em julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF muda decisão de Moraes e reduz pena de condenada por 8 de janeiro"
     }
 ];
