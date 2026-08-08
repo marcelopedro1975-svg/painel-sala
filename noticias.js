@@ -9,6 +9,14 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Rádio MEC celebra os 70 anos de Leo Gandelman"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fim de semana tem previsão de vendaval no Sudeste e geada no Sul"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Diagnóstico precoce da AME é divisor de águas, afirma paciente"
     },
     {
@@ -34,18 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Familiares celebram legado de primeira medalha paralímpica do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PMs detêm motorista de ônibus em SP após desentendimento no trânsito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desmatamento na Amazônia cai 36,87% no último ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OAB/DF lança \"violentômetro\" sobre estágios da agressão a mulheres"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Cirurgias plásticas de mama no SUS crescem mais de 50% em dez anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino aciona PF após TCU apontar R$ 55,4 milhões em emendas suspeitas"
     }
 ];
