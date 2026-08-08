@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Paulistanos enfrentam filas para tomar vacina contra sarampo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Grande Muralha Verde restaura 1,66 milhão de hectares na África"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula quer mostrar a Trump números de queda do desmatamento na Amazônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Agosto terá dois eclipses; saiba como assistir aos fenômenos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quatro pessoas morrem em queda de helicóptero no Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Moraes nega pedido para que Bolsonaro receba filhos no Dia dos Pais"
     },
     {
@@ -21,23 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "“Brasileiro gosta de ler, mas tem dificuldade de acesso”, diz escritor"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio MEC celebra os 70 anos de Leo Gandelman"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fim de semana tem previsão de vendaval no Sudeste e geada no Sul"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Candidatos do Encceja 2026 podem consultar o cartão de inscrição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE cria conselho para monitorar desinformação e IA nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saeb 2025: Brasil recupera nível pré-pandemia, mas ainda tem gargalos"
     }
 ];
