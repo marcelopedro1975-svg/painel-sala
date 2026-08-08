@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cientistas recorrem aos tubarões para melhorar previsão sobre furacões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tenista Bia Haddad anuncia pausa na carreira neste segundo semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Criatividade de ambulantes é tema de exposição fotográfica no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Paulistanos enfrentam filas para tomar vacina contra sarampo"
     },
     {
@@ -37,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Escritor diz que literatura tem poder de humanizar e levar à reflexão"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF julga recursos contra partes da decisão que anulou marco temporal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ventania no Rio adia Botafogo x Fluminense pelo Brasileirão Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Candidatos do Encceja 2026 podem consultar o cartão de inscrição"
     }
 ];
