@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Escritor diz que literatura tem poder de humanizar e levar à reflexão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "“Brasileiro gosta de ler, mas tem dificuldade de acesso”, diz escritor"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "AGU se reúne com Discord e cobra proteção de crianças na plataforma"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Familiares celebram legado de primeira medalha paralímpica do Brasil"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Cirurgias plásticas de mama no SUS crescem mais de 50% em dez anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino aciona PF após TCU apontar R$ 55,4 milhões em emendas suspeitas"
     }
 ];
