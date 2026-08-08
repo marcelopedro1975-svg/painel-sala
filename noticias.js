@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Moraes nega pedido para que Bolsonaro receba filhos no Dia dos Pais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pai de Lionel Messi morre aos 68 anos na Argentina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival Rio Cello leva música a vários espaços do Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Agência Nacional de Proteção de Dados investiga plataforma Discord"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Escritor diz que literatura tem poder de humanizar e levar à reflexão"
     },
     {
@@ -29,15 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Repertório de Caetano Veloso embala show exclusivo na TV Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flipelô lança livro com cartas entre Jorge Amado e Erico Verissimo"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saeb 2025: Brasil recupera nível pré-pandemia, mas ainda tem gargalos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU pedirá na Justiça a retirada do Discord do ar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cirurgias plásticas de mama no SUS crescem mais de 50% em dez anos"
     }
 ];
