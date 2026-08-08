@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Partidos têm até o dia 15 para registrarem candidaturas nos tribunais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "AGU se reúne com Discord e cobra proteção de crianças na plataforma"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Estado de São Paulo confirma 23 casos de sarampo; 16 não se vacinaram"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Depoimento de Jaques Wagner à PF é adiado a pedido da defesa"
     }
 ];
