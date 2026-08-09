@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Queixas sexuais na menopausa têm tratamento, diz especialista"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Avanço da IA corrói financiamento do jornalismo profissional no Brasil"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Diagnóstico precoce da AME é divisor de águas, afirma paciente"
     }
 ];
