@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rádio Nacional homenageia Dia Internacional dos Povos Indígenas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Diagnóstico precoce da AME é divisor de águas, afirma paciente"
     }
 ];
