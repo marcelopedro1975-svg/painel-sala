@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Polícia registrou 783 mil atendimentos especializados à mulher em 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dia dos pais: combate à misoginia começa pelo exemplo em casa"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rádio Nacional homenageia Dia Internacional dos Povos Indígenas"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Paulistanos enfrentam filas para tomar vacina contra sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Grande Muralha Verde restaura 1,66 milhão de hectares na África"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STM determina perda de patente de militar acusado de transmitir HIV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF julga recursos contra partes da decisão que anulou marco temporal"
     }
 ];
