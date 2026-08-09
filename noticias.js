@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Avanço da IA corrói financiamento do jornalismo profissional no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça abriu as urnas diante da população, diz Nunes Marques"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Diagnóstico precoce da AME é divisor de águas, afirma paciente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana"
     }
 ];
