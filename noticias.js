@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça abriu as urnas diante da população, diz Nunes Marques"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades"
     },
     {
@@ -30,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Colombianas que morreram na queda de helicóptero eram avó, mãe e filha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 165 milhões neste domingo"
     },
     {
         fonte: "Agência Brasil",
