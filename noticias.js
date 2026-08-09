@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rádio Nacional homenageia Dia Internacional dos Povos Indígenas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula quer mostrar a Trump números de queda do desmatamento na Amazônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agosto terá dois eclipses; saiba como assistir aos fenômenos"
     },
     {
         fonte: "Agência Brasil",
