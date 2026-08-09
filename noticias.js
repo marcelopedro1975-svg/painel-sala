@@ -1,7 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Queixas sexuais na menopausa têm tratamento, diz especialista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Memória é fundamental na literatura, diz escritor Milton Hatoum"
     },
     {
         fonte: "Agência Brasil",
@@ -34,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pais estão menos presentes na criação de filhos, aponta estudo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia registrou 783 mil atendimentos especializados à mulher em 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dia dos pais: combate à misoginia começa pelo exemplo em casa"
     },
     {
         fonte: "Agência Brasil",
