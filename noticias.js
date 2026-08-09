@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Projeto aproxima comunidades de equipamentos culturais em Salvador"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street"
     },
     {
@@ -41,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pais estão menos presentes na criação de filhos, aponta estudo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
     }
 ];
