@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Quatro pessoas morrem em queda de helicóptero no Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Moraes nega pedido para que Bolsonaro receba filhos no Dia dos Pais"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STM determina perda de patente de militar acusado de transmitir HIV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF julga recursos contra partes da decisão que anulou marco temporal"
     }
 ];
