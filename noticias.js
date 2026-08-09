@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pais estão menos presentes na criação de filhos, aponta estudo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Polícia registrou 783 mil atendimentos especializados à mulher em 2025"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tenista Bia Haddad anuncia pausa na carreira neste segundo semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Criatividade de ambulantes é tema de exposição fotográfica no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Familiares celebram legado de primeira medalha paralímpica do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STM determina perda de patente de militar acusado de transmitir HIV"
     }
 ];
