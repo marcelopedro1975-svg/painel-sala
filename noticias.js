@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Redes sociais ajudam a despertar interesse por livros, diz escritora"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Partidos têm até o dia 15 para registrarem candidaturas nos tribunais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Familiares celebram legado de primeira medalha paralímpica do Brasil"
     }
 ];
