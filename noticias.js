@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Consulta pública avalia inclusão no SUS de remédio para hipertensão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Região Centro-Oeste tem alerta laranja de perigo para baixa umidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Expectativa do mercado para inflação de 2026 cai para 5,02%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo para solicitação de voto em trânsito vai até dia 20 deste mês"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Relógio da longevidade é tema do Caminhos da Reportagem"
     },
     {
@@ -33,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça abriu as urnas diante da população, diz Nunes Marques"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Moraes nega pedido para que Bolsonaro receba filhos no Dia dos Pais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pai de Lionel Messi morre aos 68 anos na Argentina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
     }
 ];
