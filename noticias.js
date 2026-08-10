@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Relógio da longevidade é tema do Caminhos da Reportagem"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Declaração do imposto sobre imóveis rurais pode ser feita por internet"
     },
     {
@@ -37,14 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
     }
 ];
