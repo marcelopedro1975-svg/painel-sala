@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Redes sociais ajudam a despertar interesse por livros, diz escritora"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
     }
 ];
