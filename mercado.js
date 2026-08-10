@@ -2,8 +2,8 @@ var MERCADO_BRASIL = [
     {
         nome: "Bitcoin",
         simbolo: "BTC",
-        valor: "US$ 63.988",
-        variacao: "▼ 1,76%"
+        valor: "US$ 63.946",
+        variacao: "▼ 1,86%"
     },
     {
         nome: "Dólar",
@@ -14,14 +14,14 @@ var MERCADO_BRASIL = [
     {
         nome: "IFIX",
         simbolo: "IFIX.SA",
-        valor: "3.743,23",
-        variacao: "▼ 0,74%"
+        valor: "3.742,32",
+        variacao: "▼ 0,76%"
     },
     {
         nome: "Ibovespa",
         simbolo: "^BVSP",
-        valor: "172.340",
-        variacao: "▼ 0,10%"
+        valor: "172.180",
+        variacao: "▼ 0,19%"
     }
 ];
 
