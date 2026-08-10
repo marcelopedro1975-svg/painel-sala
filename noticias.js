@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Forte terremoto deixa pelo menos 20 mortos na Colômbia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Prouni 2026: pré-selecionado deve comprovar informação até sexta-feira"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prazo para solicitação de voto em trânsito vai até dia 20 deste mês"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Relógio da longevidade é tema do Caminhos da Reportagem"
     },
     {
         fonte: "Agência Brasil",
