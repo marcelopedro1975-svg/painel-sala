@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Declaração do imposto sobre imóveis rurais pode ser feita por internet"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Controle do colesterol deve começar na infância, alerta cardiologista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME"
     }
 ];
