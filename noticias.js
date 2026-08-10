@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "CBF e clubes aprovam novas regras para competições nacionais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Procon Rio divulga cartilha com orientações sobre riscos das bets"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Expectativa do mercado para inflação de 2026 cai para 5,02%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para solicitação de voto em trânsito vai até dia 20 deste mês"
     }
 ];
