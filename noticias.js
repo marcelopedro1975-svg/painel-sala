@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Procon Rio divulga cartilha com orientações sobre riscos das bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições em curso para mediadores culturais do MAR terminam quarta"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "EUA respondem ao Brasil na OMC e aceitam reunião para consultas"
     },
     {
@@ -13,7 +21,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PF e CGU apuram aplicação de servidores de Maceió no Master"
+        titulo: "PF apura aporte de R$ 97 milhões de previdência de Maceió no Master"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prazo para solicitação de voto em trânsito vai até dia 20 deste mês"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Declaração do imposto sobre imóveis rurais pode ser feita por internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro"
     }
 ];
