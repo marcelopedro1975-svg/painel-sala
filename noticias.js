@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Prouni 2026: pré-selecionado deve comprovar informação até sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desenrola Adimplentes começa a operar nesta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa libera venda de medicamentos por plataformas como iFood e Rapp"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS inclui novo teste para rastreamento de câncer colorretal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempestades causadas por tufão Dolphin atingem leste da China"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Consulta pública avalia inclusão no SUS de remédio para hipertensão"
     },
     {
@@ -29,19 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Projeto aproxima comunidades de equipamentos culturais em Salvador"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Queixas sexuais na menopausa têm tratamento, diz especialista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Memória é fundamental na literatura, diz escritor Milton Hatoum"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tenista Bia Haddad anuncia pausa na carreira neste segundo semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Paulistanos enfrentam filas para tomar vacina contra sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula quer mostrar a Trump números de queda do desmatamento na Amazônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes nega pedido para que Bolsonaro receba filhos no Dia dos Pais"
     }
 ];
