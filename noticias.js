@@ -1,7 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Estações do Metrô de São Paulo recebem campanha de vacinação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jornalistas indígenas lançam manual inédito de comunicação"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Região Centro-Oeste tem alerta laranja de perigo para baixa umidade"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Expectativa do mercado para inflação de 2026 cai para 5,02%"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça abriu as urnas diante da população, diz Nunes Marques"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior"
     }
 ];
