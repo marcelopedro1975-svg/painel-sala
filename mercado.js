@@ -2,8 +2,8 @@ var MERCADO_BRASIL = [
     {
         nome: "Bitcoin",
         simbolo: "BTC",
-        valor: "US$ 65.164",
-        variacao: "▲ 0,61%"
+        valor: "US$ 64.979",
+        variacao: "▲ 0,12%"
     },
     {
         nome: "Dólar",
