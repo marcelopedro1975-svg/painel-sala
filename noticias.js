@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "EUA respondem ao Brasil na OMC e aceitam reunião para consultas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Consulta pública sobre educação a distância vai até sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Banco Central estuda interligar Pix com sistemas de outros países"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF e CGU apuram aplicação de servidores de Maceió no Master"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”"
     },
     {
@@ -29,7 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Desenrola Adimplentes começa a operar nesta segunda-feira"
+        titulo: "Desenrola Adimplentes começa a operar nesta terça-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Queixas sexuais na menopausa têm tratamento, diz especialista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Avanço da IA corrói financiamento do jornalismo profissional no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça abriu as urnas diante da população, diz Nunes Marques"
     }
 ];
