@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Adesivo eleitoral pode levar à perda da cobertura de seguro"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Alunos do Prouni podem solicitar bolsa permanência de R$ 700 por mês"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Expectativa do mercado para inflação de 2026 cai para 5,02%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo para solicitação de voto em trânsito vai até dia 20 deste mês"
     }
 ];
