@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Estações do Metrô de São Paulo recebem campanha de vacinação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Adesivo eleitoral pode levar à perda da cobertura de seguro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alunos do Prouni podem solicitar bolsa permanência de R$ 700 por mês"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Forte terremoto deixa pelo menos 20 mortos na Colômbia"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cientistas recorrem aos tubarões para melhorar previsão sobre furacões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tenista Bia Haddad anuncia pausa na carreira neste segundo semestre"
     }
 ];
