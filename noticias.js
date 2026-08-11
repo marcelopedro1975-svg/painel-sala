@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Agressões domésticas contra mulheres crescem 28,9% em dias de futebol"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Senado aprova plano para fabricação de fertilizantes no Brasil"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "INSS: entenda casos que permitem auxílio e aposentadoria sem carência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BC aponta desaceleração da inflação, mas mantém alerta sobre riscos"
     }
 ];
