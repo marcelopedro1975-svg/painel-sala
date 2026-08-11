@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Festival de cinema de Brasília vive impasse; classe artística repudia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rede de vigilância é essencial para evitar propagação de sarampo em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fluminense domina, vence e complica Botafogo no Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Liesa inicia venda ingressos para carnaval 2027 na Marquês de Sapucaí"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "CBF e clubes aprovam novas regras para competições nacionais"
     },
     {
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Jornalistas indígenas lançam manual inédito de comunicação"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Alunos do Prouni podem solicitar bolsa permanência de R$ 700 por mês"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tempestades causadas por tufão Dolphin atingem leste da China"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consulta pública avalia inclusão no SUS de remédio para hipertensão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Expectativa do mercado para inflação de 2026 cai para 5,02%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para solicitação de voto em trânsito vai até dia 20 deste mês"
     }
 ];
