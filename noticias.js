@@ -1,7 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Câmara municipal é principal lugar onde vereadoras sofrem agressões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Unicef cobra compromisso com a infância do próximo governador do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ministério Público de SP encaminha TAC à plataforma Discord no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiros poderão ver eclipse solar por transmissão na internet"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Discord entrega à AGU proposta para reforçar segurança de crianças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Memória celebra 90 anos da Rádio Nacional"
     },
     {
         fonte: "Agência Brasil",
@@ -26,14 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pediatras se manifestam contrários à redução da maioridade penal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo registra dois novos casos de feminicídio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flipelô reúne 330 mil pessoas e bate recorde de público"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "INPC registra deflação em julho e acumula alta de 4,10% em 12 meses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inflação recua para 0,07% em julho e volta para a meta do governo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão feminino: o que está em jogo na reta final da 1ª fase"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rede de vigilância é essencial para evitar propagação de sarampo em SP"
     }
 ];
