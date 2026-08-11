@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Inflação recua para 0,07% em julho e volta para meta do governo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Frio e chuvas no Sul, seca e calor no Centro-Oeste; confira a previsão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cursos de formação cultural abrem 1,2 mil vagas gratuitas em SP"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inscrições em curso para mediadores culturais do MAR terminam quarta"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "EUA respondem ao Brasil na OMC e aceitam reunião para consultas"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prouni 2026: pré-selecionado deve comprovar informação até sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desenrola Adimplentes começa a operar nesta terça-feira"
     }
 ];
