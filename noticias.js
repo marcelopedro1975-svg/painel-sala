@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Petroleiros pedem Petrobras mais estatal e menor repasse a acionistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quartas de final da Copa do Brasil terá três clássicos estaduais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP registra 18 mortes por febre maculosa em 19 casos confirmados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE se reúne nesta quinta em busca de consenso sobre IA nas eleições"
     },
     {
@@ -25,23 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Frio e chuvas no Sul, seca e calor no Centro-Oeste; confira a previsão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cursos de formação cultural abrem 1,2 mil vagas gratuitas em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio terá dia de temperatura em declínio com chuva e mar de ressaca"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasileirão feminino: o que está em jogo na reta final da 1ª fase"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival de cinema de Brasília vive impasse; classe artística repudia"
     },
     {
         fonte: "Agência Brasil",
