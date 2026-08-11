@@ -1,7 +1,23 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ministério Público de SP encaminha TAC à plataforma Discord no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudante cria jogo para apresentar funções do Ministério Público"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sarampo: entenda sintomas, riscos e quando se vacinar"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Produção de motos tem melhor mês de julho da história, diz Abraciclo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "DF destina R$ 2,77 milhões para festival de cinema de Brasília"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Temperaturas em São Paulo voltam a subir a partir de quarta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "INSS: entenda casos que permitem auxílio e aposentadoria sem carência"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Rede de vigilância é essencial para evitar propagação de sarampo em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fluminense domina, vence e complica Botafogo no Brasileirão Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CBF e clubes aprovam novas regras para competições nacionais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Procon Rio divulga cartilha com orientações sobre riscos das bets"
     }
 ];
