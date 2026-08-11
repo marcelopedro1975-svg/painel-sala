@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileirão feminino: o que está em jogo na reta final da 1ª fase"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Festival de cinema de Brasília vive impasse; classe artística repudia"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SUS inclui novo teste para rastreamento de câncer colorretal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tempestades causadas por tufão Dolphin atingem leste da China"
     }
 ];
