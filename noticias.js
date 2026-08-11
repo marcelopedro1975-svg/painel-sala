@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cursos de formação cultural abrem 1,2 mil vagas gratuitas em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio terá dia de temperatura em declínio com chuva e mar de ressaca"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileirão feminino: o que está em jogo na reta final da 1ª fase"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Desenrola Adimplentes começa a operar nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa libera venda de medicamentos por plataformas como iFood e Rapp"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS inclui novo teste para rastreamento de câncer colorretal"
     }
 ];
