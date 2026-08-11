@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TSE se reúne nesta quinta em busca de consenso sobre IA nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temperaturas em São Paulo voltam a subir a partir de quarta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "INSS: entenda casos que permitem auxílio e aposentadoria sem carência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BC aponta desaceleração da inflação, mas mantém alerta sobre riscos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "INPC registra deflação em julho e acumula alta de 4,10% em 12 meses"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Inflação recua para 0,07% em julho e volta para meta do governo"
     },
     {
@@ -33,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Liesa inicia venda ingressos para carnaval 2027 na Marquês de Sapucaí"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "CBF e clubes aprovam novas regras para competições nacionais"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estações do Metrô de São Paulo recebem campanha de vacinação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alunos do Prouni podem solicitar bolsa permanência de R$ 700 por mês"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Forte terremoto deixa pelo menos 20 mortos na Colômbia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prouni 2026: pré-selecionado deve comprovar informação até sexta-feira"
     }
 ];
