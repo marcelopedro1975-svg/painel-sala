@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Produção de motos tem melhor mês de julho da história, diz Abraciclo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo pede a Alcolumbre que instale comissão sobre MP das Blusinhas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pediatras se manifestam contrários à redução da maioridade penal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo registra dois novos casos de feminicídio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flipelô reúne 330 mil pessoas e bate recorde de público"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Petroleiros pedem Petrobras mais estatal e menor repasse a acionistas"
     },
     {
@@ -37,7 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inflação recua para 0,07% em julho e volta para meta do governo"
+        titulo: "Inflação recua para 0,07% em julho e volta para a meta do governo"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Procon Rio divulga cartilha com orientações sobre riscos das bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EUA respondem ao Brasil na OMC e aceitam reunião para consultas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consulta pública sobre educação a distância vai até sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Banco Central estuda interligar Pix com sistemas de outros países"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF apura aporte de R$ 97 milhões de previdência de Maceió no Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”"
     }
 ];
