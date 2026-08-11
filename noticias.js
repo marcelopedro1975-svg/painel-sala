@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Senado aprova plano para fabricação de fertilizantes no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Calderano supera anfitrião na estreia do Europe Smash na Suécia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Câmara municipal é principal lugar onde vereadoras sofrem agressões"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "DF destina R$ 2,77 milhões para festival de cinema de Brasília"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Governo pede a Alcolumbre que instale comissão sobre MP das Blusinhas"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "BC aponta desaceleração da inflação, mas mantém alerta sobre riscos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "INPC registra deflação em julho e acumula alta de 4,10% em 12 meses"
     }
 ];
