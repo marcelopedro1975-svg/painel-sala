@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "STF ordena suspensão e devolução de penduricalhos \"exorbitantes\""
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saúde inicia migração de dados do SUS para nuvem nacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após AVC isquêmico, líder do PT na Câmara continua internado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sem Censura: Anitta revela trajetória até álbum sobre religião afro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Estudo alerta para subdiagnóstico da doença renal crônica no Brasil"
     },
     {
@@ -29,15 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mapbiomas: menor vegetação nativa expõe mais o país ao El Niño"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rádio Nacional transmite nesta quarta Cruzeiro x Flamengo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Apostador de Alvorada D'Oeste leva prêmio de R$ 3 milhões da Mega-Sena"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Produção de motos tem melhor mês de julho da história, diz Abraciclo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo pede a Alcolumbre que instale comissão sobre MP das Blusinhas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pediatras se manifestam contrários à redução da maioridade penal"
     }
 ];
