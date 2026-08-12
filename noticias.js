@@ -1,15 +1,31 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Anvisa proíbe fabricação e venda de 12 produtos de limpeza"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após terremoto, membros do Mercosul oferecem ajuda à Colômbia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maioria do Supremo decide validar Moratória da Soja"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estado de São Paulo reforça necessidade de vacinação contra o sarampo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Câmara instala comissão sobre PEC da redução da maioridade penal"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "BNDES tem lucro recorde de R$ 9,2 bi no primeiro semestre"
+        titulo: "Estudo mostra jovens conscientes de que internet precisa melhorar"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estudo mostra jovens conscientes de que internet precisa melhorar"
+        titulo: "BNDES tem lucro recorde de R$ 9,2 bi no primeiro semestre"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "ANP atualiza regras para comercialização de biometano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio suspende direitos políticos do ex-governador Garotinho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite nesta quarta Cruzeiro x Flamengo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Líder do PT passa mal e Câmara suspende votações"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova plano para fabricação de fertilizantes no Brasil"
     }
 ];
