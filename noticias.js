@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Transpetro abre concurso público com salário inicial de até R$ 15 mil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ANPD determina que Discord suspenda transmissões ao vivo no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STF ordena suspensão e devolução de penduricalhos \"exorbitantes\""
     },
     {
@@ -33,15 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sul do país tem alerta de perigo para chuva e ventos intensos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça do Rio suspende direitos políticos do ex-governador Garotinho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuvas: Defesa Civil reconhece emergência em 19 municípios do RS"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Sarampo: entenda sintomas, riscos e quando se vacinar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Produção de motos tem melhor mês de julho da história, diz Abraciclo"
     }
 ];
