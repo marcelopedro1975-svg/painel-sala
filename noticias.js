@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Câmara aprova redução de impostos para combustíveis e outros setores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas abre votação popular para craque"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Totalização dos votos é aberta, auditável e segura, diz TSE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Babi e Maria Eduarda brilham em 1º dia do Mundial de Ginástica Rítmica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "No Rio, fonoaudióloga é atingida por tiro no pescoço dentro de ônibus"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "AGU defende arquivamento de processo contra Moraes nos EUA"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF ordena suspensão e devolução de penduricalhos \"exorbitantes\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saúde inicia migração de dados do SUS para nuvem nacional"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após AVC isquêmico, líder do PT na Câmara continua internado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudo alerta para subdiagnóstico da doença renal crônica no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Setor de serviços fica estável em junho e sobe 2% no 1º semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuva forte atinge Pequim durante passagem do tufão Dolphin"
     }
 ];
