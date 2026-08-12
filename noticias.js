@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Estudo alerta para subdiagnóstico da doença renal crônica no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Setor de serviços fica estável em junho e sobe 2% no 1º semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuva forte atinge Pequim durante passagem do tufão Dolphin"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ANP atualiza regras para comercialização de biometano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sul do país tem alerta de perigo para chuva e ventos intensos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça do Rio suspende direitos políticos do ex-governador Garotinho"
     },
     {
@@ -22,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Líder do PT passa mal e Câmara suspende votações"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ondas de calor ainda são negligenciadas no Brasil, diz pesquisadora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agressões domésticas contra mulheres crescem 28,9% em dias de futebol"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pediatras se manifestam contrários à redução da maioridade penal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petroleiros pedem Petrobras mais estatal e menor repasse a acionistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quartas de final da Copa do Brasil terá três clássicos estaduais"
     }
 ];
