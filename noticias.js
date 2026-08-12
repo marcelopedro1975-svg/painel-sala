@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil reduz pobreza, mas amplia desigualdades, mostra estudo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Oposição e Amorim divergem sobre atritos entre Brasil e EUA sob Trump"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Transpetro abre concurso público com salário inicial de até R$ 15 mil"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ministério Público de SP encaminha TAC à plataforma Discord no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudante cria jogo para apresentar funções do Ministério Público"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sarampo: entenda sintomas, riscos e quando se vacinar"
     }
 ];
