@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça do Rio suspende direitos políticos do ex-governador Garotinho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas: Defesa Civil reconhece emergência em 19 municípios do RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mapbiomas: menor vegetação nativa expõe mais o país ao El Niño"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rádio Nacional transmite nesta quarta Cruzeiro x Flamengo"
     },
     {
@@ -33,15 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Unicef cobra compromisso com a infância do próximo governador do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ministério Público de SP encaminha TAC à plataforma Discord no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiros poderão ver eclipse solar por transmissão na internet"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Quartas de final da Copa do Brasil terá três clássicos estaduais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP registra 18 mortes por febre maculosa em 19 casos confirmados"
     }
 ];
