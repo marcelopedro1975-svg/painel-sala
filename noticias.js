@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Câmara instala comissão sobre PEC da redução da maioridade penal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BNDES tem lucro recorde de R$ 9,2 bi no primeiro semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudo mostra jovens conscientes de que internet precisa melhorar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Manifestações contra ação da polícia bloqueiam vias do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil reduz pobreza, mas amplia desigualdades, mostra estudo"
     },
     {
@@ -33,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sem Censura: Anitta revela trajetória até álbum sobre religião afro"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Estudo alerta para subdiagnóstico da doença renal crônica no Brasil"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Senado aprova plano para fabricação de fertilizantes no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Calderano supera anfitrião na estreia do Europe Smash na Suécia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara municipal é principal lugar onde vereadoras sofrem agressões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério Público de SP encaminha TAC à plataforma Discord no Brasil"
     }
 ];
