@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PGR é contra recurso de Bolsonaro para voltar a receber visitas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPF pede ações de segurança para voos de helicóptero no Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Consumidores poderão escolher fornecedores de energia a partir de 2027"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Câmara aprova redução de impostos para combustíveis e outros setores"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Transpetro abre concurso público com salário inicial de até R$ 15 mil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ANPD determina que Discord suspenda transmissões ao vivo no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF ordena suspensão e devolução de penduricalhos \"exorbitantes\""
     }
 ];
