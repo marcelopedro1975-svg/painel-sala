@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "AGU defende arquivamento de processo contra Moraes nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Doação de sangue: espera para quem fez tatuagem e piercing será menor"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STJ reconhece Crimes de Maio como grave violação e rejeita prescrição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cerimônia em São Paulo revela vencedores do 3º Prêmio Jabuti Acadêmico"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anvisa proíbe fabricação e venda de 12 produtos de limpeza"
     },
     {
@@ -21,19 +37,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estudo mostra jovens conscientes de que internet precisa melhorar"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "BNDES tem lucro recorde de R$ 9,2 bi no primeiro semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Manifestações contra ação da polícia bloqueiam vias do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil reduz pobreza, mas amplia desigualdades, mostra estudo"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Chuva forte atinge Pequim durante passagem do tufão Dolphin"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ANP atualiza regras para comercialização de biometano"
     }
 ];
