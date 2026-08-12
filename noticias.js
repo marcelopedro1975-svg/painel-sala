@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite nesta quarta Cruzeiro x Flamengo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Apostador de Alvorada D'Oeste leva prêmio de R$ 3 milhões da Mega-Sena"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SP registra 18 mortes por febre maculosa em 19 casos confirmados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE se reúne nesta quinta em busca de consenso sobre IA nas eleições"
     }
 ];
