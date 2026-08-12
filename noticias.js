@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Apostador de Alvorada D'Oeste leva prêmio de R$ 3 milhões da Mega-Sena"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Líder do PT passa mal e Câmara suspende votações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ondas de calor ainda são negligenciadas no Brasil, diz pesquisadora"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Agressões domésticas contra mulheres crescem 28,9% em dias de futebol"
     },
     {
@@ -26,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileiros poderão ver eclipse solar por transmissão na internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Discord entrega à AGU proposta para reforçar segurança de crianças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Memória celebra 90 anos da Rádio Nacional"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE se reúne nesta quinta em busca de consenso sobre IA nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "INSS: entenda casos que permitem auxílio e aposentadoria sem carência"
     }
 ];
