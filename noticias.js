@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "WSL: Ítalo Ferreira domina tubos em Teahupo’o e avança às semifinais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Audiência no STF sobre empréstimo ao BRB termina sem avanços"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PM do RJ prende 13 em ação contra Comando Vermelho; 4 morreram"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "“Nunca vai ser o suficiente”, diz Gagliasso de filmes sobre a ditadura"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cai diferença entre homens e mulheres no acesso ao emprego formal"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prouni: prazo para confirmar dados de inscrição termina nesta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conab estima safra de grãos de 360,8 milhões de toneladas em 2025/26"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vendas no comércio crescem 0,5% em junho e sobem 1,9% no 1º semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil no Mundo debate corrida espacial, eleições nos EUA e Gaza"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Farmácia Popular pode oferecer exames e testes rápidos"
     }
 ];
