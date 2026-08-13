@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Senado aprova alívio de imposto sobre combustíveis; texto vai à sanção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Libertadores: Palmeiras cede empate no fim e tropeça no Cerro Porteño"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Juventudes periféricas querem usar voto como ferramenta de mudança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso adia instalação de comissão sobre MP da \"taxa das blusinhas\""
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cinefoot celebra filme de Joaquim Salles sobre time do Amapá"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PGR é contra recurso de Bolsonaro para voltar a receber visitas"
     },
     {
@@ -29,23 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "No Rio, fonoaudióloga é atingida por tiro no pescoço dentro de ônibus"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "AGU defende arquivamento de processo contra Moraes nos EUA"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Doação de sangue: espera para quem fez tatuagem e piercing será menor"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STJ reconhece Crimes de Maio como grave violação e rejeita prescrição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cerimônia em São Paulo revela vencedores do 3º Prêmio Jabuti Acadêmico"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "BNDES tem lucro recorde de R$ 9,2 bi no primeiro semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Oposição e Amorim divergem sobre atritos entre Brasil e EUA sob Trump"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Transpetro abre concurso público com salário inicial de até R$ 15 mil"
     }
 ];
