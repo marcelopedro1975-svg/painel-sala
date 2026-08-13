@@ -1,15 +1,31 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cai diferença entre homens e mulheres no acesso ao emprego formal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Publicadas novas regras para atividades de residência médica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Calderano derrota japonês e vai às oitavas do Europe Smash, na Suécia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mais de 5 milhões de brasileiros estão impedidos de apostar em bets"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Entidades cobram propostas de candidatos contra violência infantil"
+        titulo: "COP17 da Desertificação chega à Mongólia, país assolado pelo problema"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Relatório aponta 258 indígenas assassinados e mais violência em 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades cobram propostas de candidatos contra violência infantil"
     },
     {
         fonte: "Agência Brasil",
@@ -26,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fluminense demite técnico Zubeldia após 0 a 0 em casa na Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agência climática prevê 90% de chance de El Niño muito forte"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Farmácia Popular pode oferecer exames e testes rápidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça torna réus acusados de praticar extorsão com falsos anúncios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cuba celebra 100 anos de Fidel Castro sob ataque dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cruzeiro e Flamengo empatam pelas oitavas de final da Libertadores"
     }
 ];
