@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mais de 5 milhões de brasileiros estão impedidos de apostar em bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades cobram propostas de candidatos contra violência infantil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Relatório aponta 258 indígenas assassinados e mais violência em 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Segunda maior refinaria do país reduz preço da gasolina em 11,3%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE determina que filiação de Flávio ao PL seja restabelecida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara aprova lei com medidas para promover futebol feminino no país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fluminense demite técnico Zubeldia após 0 a 0 em casa na Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Agência climática prevê 90% de chance de El Niño muito forte"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Câmara aprova regras para programas de fidelidade com milhas ou pontos"
     },
     {
@@ -17,15 +49,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PM faz operações contra o CV na Região Metropolitana do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Prouni: prazo para confirmar dados de inscrição termina nesta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Decisão do STF sobre leis que limitam incentivos da soja preocupa ONGs"
     },
     {
         fonte: "Agência Brasil",
@@ -34,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Vendas no comércio crescem 0,5% em junho e sobem 1,9% no 1º semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia Federal prende presidente da Conafer"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Cruzeiro e Flamengo empatam pelas oitavas de final da Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova alívio de imposto sobre combustíveis; texto vai à sanção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Libertadores: Palmeiras cede empate no fim e tropeça no Cerro Porteño"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso adia instalação de comissão sobre MP da \"taxa das blusinhas\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cinefoot celebra filme de Joaquim Salles sobre time do Amapá"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR é contra recurso de Bolsonaro para voltar a receber visitas"
     }
 ];
