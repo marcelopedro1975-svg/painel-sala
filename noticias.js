@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Vendas no comércio crescem 0,5% em junho e sobem 1,9% no 1º semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil no Mundo debate corrida espacial, eleições nos EUA e Gaza"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Farmácia Popular pode oferecer exames e testes rápidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Onda de calor eleva temperaturas em grande parte do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia Federal faz operação contra lavagem de dinheiro de bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estado procura imóvel para guarda temporária do acervo do antigo IML"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rio registra em julho 34 tiroteios envolvendo facções criminosas"
     },
     {
@@ -33,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Juventudes periféricas querem usar voto como ferramenta de mudança"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Congresso adia instalação de comissão sobre MP da \"taxa das blusinhas\""
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Câmara aprova redução de impostos para combustíveis e outros setores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas abre votação popular para craque"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Totalização dos votos é aberta, auditável e segura, diz TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Babi e Maria Eduarda brilham em 1º dia do Mundial de Ginástica Rítmica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU defende arquivamento de processo contra Moraes nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Doação de sangue: espera para quem fez tatuagem e piercing será menor"
     }
 ];
