@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Senado aprova empréstimos de US$ 1,8 bi para estados e municípios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PM faz operações contra o CV na Região Metropolitana do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Prouni: prazo para confirmar dados de inscrição termina nesta sexta"
     },
     {
@@ -34,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Polícia Federal faz operação contra lavagem de dinheiro de bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estado procura imóvel para guarda temporária do acervo do antigo IML"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio registra em julho 34 tiroteios envolvendo facções criminosas"
     },
     {
         fonte: "Agência Brasil",
