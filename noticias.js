@@ -1,7 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Conab estima safra de grãos de 360,8 milhões de toneladas em 2025/26"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Vendas no comércio crescem 0,5% em junho e sobem 1,9% no 1º semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia Federal prende presidente da Conafer"
     },
     {
         fonte: "Agência Brasil",
@@ -34,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça torna réus acusados de praticar extorsão com falsos anúncios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio MEC transmite concerto da Filarmônica de MG em homenagem a Verdi"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Consumidores poderão escolher fornecedores de energia a partir de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara aprova redução de impostos para combustíveis e outros setores"
     }
 ];
