@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Prouni: prazo para confirmar dados de inscrição termina nesta sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ambientalistas criticam decisão do STF sobre Moratória da Soja"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Conab estima safra de grãos de 360,8 milhões de toneladas em 2025/26"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Festa Literária de Niterói celebra intelectual Lélia Gonzalez"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça torna réus acusados de praticar extorsão com falsos anúncios"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "MPF pede ações de segurança para voos de helicóptero no Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consumidores poderão escolher fornecedores de energia a partir de 2027"
     }
 ];
