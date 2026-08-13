@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Câmara aprova regras para programas de fidelidade com milhas ou pontos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE nega hackeamento após Flávio aparecer filiado ao Missão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tupi, pioneiro do pré-sal, chega ao recorde de 4 bilhões de barris"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Senado aprova empréstimos de US$ 1,8 bi para estados e municípios"
     },
     {
@@ -13,7 +25,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ambientalistas criticam decisão do STF sobre Moratória da Soja"
+        titulo: "Decisão do STF sobre leis que limitam incentivos da soja preocupa ONGs"
     },
     {
         fonte: "Agência Brasil",
@@ -34,14 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Farmácia Popular pode oferecer exames e testes rápidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Onda de calor eleva temperaturas em grande parte do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia Federal faz operação contra lavagem de dinheiro de bets"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PGR é contra recurso de Bolsonaro para voltar a receber visitas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPF pede ações de segurança para voos de helicóptero no Rio de Janeiro"
     }
 ];
