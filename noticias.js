@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rio registra em julho 34 tiroteios envolvendo facções criminosas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festa Literária de Niterói celebra intelectual Lélia Gonzalez"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça torna réus acusados de praticar extorsão com falsos anúncios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio MEC transmite concerto da Filarmônica de MG em homenagem a Verdi"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cuba celebra 100 anos de Fidel Castro sob ataque dos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cruzeiro e Flamengo empatam pelas oitavas de final da Libertadores"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Doação de sangue: espera para quem fez tatuagem e piercing será menor"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe fabricação e venda de 12 produtos de limpeza"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após terremoto, membros do Mercosul oferecem ajuda à Colômbia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Maioria do Supremo decide validar Moratória da Soja"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estado de São Paulo reforça necessidade de vacinação contra o sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara instala comissão sobre PEC da redução da maioridade penal"
     }
 ];
