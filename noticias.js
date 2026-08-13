@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "STF dá 2 anos para Congresso regulamentar mineração em terra indígena"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPRJ investiga empresas de apostas online por golpes de R$ 1,4 bilhão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rock in Rio e organização Ação da Cidadania se unem no combate à fome"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "WSL: Ítalo Ferreira domina tubos em Teahupo’o e avança às semifinais"
     },
     {
@@ -37,14 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Relatório aponta 258 indígenas assassinados e mais violência em 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entidades cobram propostas de candidatos contra violência infantil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Segunda maior refinaria do país reduz preço da gasolina em 11,3%"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Senado aprova empréstimos de US$ 1,8 bi para estados e municípios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prouni: prazo para confirmar dados de inscrição termina nesta sexta"
     }
 ];
