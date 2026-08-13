@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cruzeiro e Flamengo empatam pelas oitavas de final da Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Senado aprova alívio de imposto sobre combustíveis; texto vai à sanção"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Câmara instala comissão sobre PEC da redução da maioridade penal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BNDES tem lucro recorde de R$ 9,2 bi no primeiro semestre"
     }
 ];
