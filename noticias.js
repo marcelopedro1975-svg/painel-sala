@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Europe Smash: Calderano vence de novo e terá Félix Lebrun nas quartas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Multivacinação em São Paulo inclui 20 imunizantes em 645 municípios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Criptografia do Discord dificulta monitoramento de lives, aponta ANPD"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Missão pede investigação sobre filiação falsa de Flávio ao partido"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Galípolo critica empresas que pressionam para usar FGC"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE suspende novas filiações após registros indevidos no sistema"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia Civil recupera oito obras de Matisse roubadas em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fenaj e Abraji criticam ação contra jornalista no Maranhão"
     }
 ];
