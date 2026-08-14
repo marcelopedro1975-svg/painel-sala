@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Pesquisa de polipílula para prevenção do AVC busca 8,5 mil voluntários"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Europe Smash: Calderano vence de novo e terá Félix Lebrun nas quartas"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ex-policial do Rio é condenado a 28 anos de prisão por feminicídio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Galípolo critica empresas que pressionam para usar FGC"
     }
 ];
