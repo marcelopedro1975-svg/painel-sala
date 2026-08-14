@@ -1,7 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fazenda libera empréstimo com aval da União de R$ 12,9 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Enade divulga resultado de recurso sobre atendimento especializado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cláudio Castro é alvo da segunda fase da Operação Sem Refino"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "MPRJ investiga empresas de apostas online por golpes de R$ 1,4 bilhão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "WSL: Ítalo Ferreira domina tubos em Teahupo’o e avança às semifinais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Audiência no STF sobre empréstimo ao BRB termina sem avanços"
     }
 ];
