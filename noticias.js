@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Vôlei brasileiro passa a exigir teste genético para atletas mulheres"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Pesquisa de polipílula para prevenção do AVC busca 8,5 mil voluntários"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "UFRJ revoga titulo de Doutor Honoris Causa de embaixador americano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-policial do Rio é condenado a 28 anos de prisão por feminicídio"
     }
 ];
