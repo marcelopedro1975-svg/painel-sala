@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Alcolumbre destrava PEC do fim da 6x1 após conversas com Lula"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "BC decreta liquidação extrajudicial de instituições do Grupo Simpala"
     },
     {
@@ -41,14 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Último capítulo da série \"Afiadas\" aborda violência digital"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Concertos da Orquestra Ouro Preto terão Alceu Valença e Samuel Rosa"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "UFRJ revoga titulo de Doutor Honoris Causa de embaixador americano"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF dá 2 anos para Congresso regulamentar mineração em terra indígena"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPRJ investiga empresas de apostas online por golpes de R$ 1,4 bilhão"
     }
 ];
