@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "BC decreta liquidação extrajudicial de instituições do Grupo Simpala"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo ouvirá empresários para decidir se aplicará lei contra EUA"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fazenda libera empréstimo com aval da União de R$ 12,9 bilhões"
     },
     {
@@ -41,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presídios combatem entrada de itens proibidos para facções criminosas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "UFRJ revoga titulo de Doutor Honoris Causa de embaixador americano"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF dá 2 anos para Congresso regulamentar mineração em terra indígena"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPRJ investiga empresas de apostas online por golpes de R$ 1,4 bilhão"
     }
 ];
