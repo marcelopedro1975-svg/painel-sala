@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Bolsonaro pede ao STF para se consultar com a nora, que é dentista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Amcham defende que adoção de reciprocidade contra os EUA seja evitada"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Vôlei brasileiro passa a exigir teste genético para atletas mulheres"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Em 11 estados, desemprego está abaixo da média do país; veja quais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil transmite Atlético-MG x Grêmio pelo Brasileirão Feminino A1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "UFRJ revoga titulo de Doutor Honoris Causa de embaixador americano"
     }
 ];
