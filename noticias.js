@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Missão pede investigação sobre filiação falsa de Flávio ao partido"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "OEA enviará missão internacional para acompanhar eleições no Brasil"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enade divulga resultado de recurso sobre atendimento especializado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cláudio Castro é alvo da segunda fase da Operação Sem Refino"
     },
     {
         fonte: "Agência Brasil",
