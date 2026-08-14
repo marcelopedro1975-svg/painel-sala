@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Enade divulga resultado de recurso sobre atendimento especializado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Erupção do Etna prolonga fechamento de aeroporto na Sicília"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudante deve comprovar até hoje informações de inscrição no Prouni"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Em 11 estados, desemprego está abaixo da média do país; veja quais"
     },
     {
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ex-policial do Rio é condenado a 28 anos de prisão por feminicídio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Curta na Praça leva filmes gratuitos a bairros e cidades do RJ"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Audiência no STF sobre empréstimo ao BRB termina sem avanços"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cai diferença entre homens e mulheres no acesso ao emprego formal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Publicadas novas regras para atividades de residência médica"
     }
 ];
