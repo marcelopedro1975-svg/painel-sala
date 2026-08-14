@@ -1,11 +1,31 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Em 11 estados, desemprego está abaixo da média do país; veja quais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil transmite Atlético-MG x Grêmio pelo Brasileirão Feminino A1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dez estados e o DF estão sob alerta de perigo para baixa umidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Último capítulo da série \"Afiadas\" aborda violência digital"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Concertos da Orquestra Ouro Preto terão Alceu Valença e Samuel Rosa"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Presídios combatem entrada de itens proibidos para facções criminosas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "UFRJ revoga titulo de Doutor Honoris Causa de embaixador amerericano"
+        titulo: "UFRJ revoga titulo de Doutor Honoris Causa de embaixador americano"
     },
     {
         fonte: "Agência Brasil",
@@ -26,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Polícia Civil recupera oito obras de Matisse roubadas em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 38 milhões; confira os números sorteados"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Publicadas novas regras para atividades de residência médica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Calderano derrota japonês e vai às oitavas do Europe Smash, na Suécia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 5 milhões de brasileiros estão impedidos de apostar em bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Segunda maior refinaria do país reduz preço da gasolina em 11,3%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE determina que filiação de Flávio ao PL seja restabelecida"
     }
 ];
