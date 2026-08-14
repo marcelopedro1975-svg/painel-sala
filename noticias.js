@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Galípolo critica empresas que pressionam para usar FGC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE suspende novas filiações após registros indevidos no sistema"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia Civil recupera oito obras de Matisse roubadas em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 38 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fenaj e Abraji criticam ação contra jornalista no Maranhão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo abre processo de reciprocidade contra tarifas dos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STF dá 2 anos para Congresso regulamentar mineração em terra indígena"
     },
     {
@@ -21,14 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PM do RJ prende 13 em ação contra Comando Vermelho; 4 morreram"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "“Nunca vai ser o suficiente”, diz Gagliasso de filmes sobre a ditadura"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Cai diferença entre homens e mulheres no acesso ao emprego formal"
     },
     {
@@ -42,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mais de 5 milhões de brasileiros estão impedidos de apostar em bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "COP17 da Desertificação chega à Mongólia, país assolado pelo problema"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Câmara aprova regras para programas de fidelidade com milhas ou pontos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE nega hackeamento após Flávio aparecer filiado ao Missão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tupi, pioneiro do pré-sal, chega ao recorde de 4 bilhões de barris"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova empréstimos de US$ 1,8 bi para estados e municípios"
     }
 ];
