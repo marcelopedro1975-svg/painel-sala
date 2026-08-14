@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "OEA enviará missão internacional para acompanhar eleições no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Na era da IA, inclusão digital deve ser crítica, defende educadora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan rebate críticas de inércia sobre crise do BRB"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula diz que só acatará indicação de embaixador dos EUA após eleições"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Alcolumbre destrava PEC do fim da 6x1 após conversas com Lula"
     },
     {
@@ -41,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dez estados e o DF estão sob alerta de perigo para baixa umidade"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "UFRJ revoga titulo de Doutor Honoris Causa de embaixador americano"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fenaj e Abraji criticam ação contra jornalista no Maranhão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo abre processo de reciprocidade contra tarifas dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF dá 2 anos para Congresso regulamentar mineração em terra indígena"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPRJ investiga empresas de apostas online por golpes de R$ 1,4 bilhão"
     }
 ];
