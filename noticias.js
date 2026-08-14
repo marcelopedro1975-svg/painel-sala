@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Presídios combatem entrada de itens proibidos para facções criminosas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "UFRJ revoga titulo de Doutor Honoris Causa de embaixador amerericano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ex-policial do Rio é condenado a 28 anos de prisão por feminicídio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Curta na Praça leva filmes gratuitos a bairros e cidades do RJ"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Galípolo critica empresas que pressionam para usar FGC"
     },
     {
@@ -33,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rock in Rio e organização Ação da Cidadania se unem no combate à fome"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "WSL: Ítalo Ferreira domina tubos em Teahupo’o e avança às semifinais"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE determina que filiação de Flávio ao PL seja restabelecida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara aprova lei com medidas para promover futebol feminino no país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fluminense demite técnico Zubeldia após 0 a 0 em casa na Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara aprova regras para programas de fidelidade com milhas ou pontos"
     }
 ];
