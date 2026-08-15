@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PF prende no Rio suspeito de golpe que fez idosa perder R$ 37 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras anuncia descoberta de petróleo na Foz do Amazonas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Bolsonaro pede ao STF para se consultar com a nora, que é dentista"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Erupção do Etna prolonga fechamento de aeroporto na Sicília"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudante deve comprovar até hoje informações de inscrição no Prouni"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em 11 estados, desemprego está abaixo da média do país; veja quais"
     }
 ];
