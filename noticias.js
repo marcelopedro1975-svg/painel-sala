@@ -1,11 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Terremoto na Indonésia deixa pelo menos 47 mortos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Risco de desertificação no Brasil ameaça segurança hídrica e alimentar"
+        titulo: "Desertificação no Brasil ameaça segurança hídrica e alimentar"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Alcolumbre destrava PEC do fim da 6x1 após conversas com Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BC decreta liquidação extrajudicial de instituições do Grupo Simpala"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo ouvirá empresários para decidir se aplicará lei contra EUA"
     }
 ];
