@@ -1,15 +1,31 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Publicação lembra 50 anos do atentado à sede da ABI na ditadura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Show exclusivo resgata clássicos do cancioneiro nacional na TV Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Prédio desaba em São Bernardo do Campo e deixa cinco feridos"
+        titulo: "TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1"
+        titulo: "Prédio desaba em São Bernardo do Campo e deixa cinco feridos"
     },
     {
         fonte: "Agência Brasil",
@@ -34,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desertificação no Brasil ameaça segurança hídrica e alimentar"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Europe Smash: Calderano vence de novo e terá Félix Lebrun nas quartas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Multivacinação em São Paulo inclui 20 imunizantes em 645 municípios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Missão pede investigação sobre filiação falsa de Flávio ao partido"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OEA enviará missão internacional para acompanhar eleições no Brasil"
     }
 ];
