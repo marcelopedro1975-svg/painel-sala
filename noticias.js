@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Exposição imersiva celebra 140 anos do nascimento de Tarsila do Amaral"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Terremoto na Indonésia deixa pelo menos 47 mortos"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula diz que só acatará indicação de embaixador dos EUA após eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alcolumbre destrava PEC do fim da 6x1 após conversas com Lula"
     }
 ];
