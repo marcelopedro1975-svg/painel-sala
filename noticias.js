@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Risco de desertificação no Brasil ameaça segurança hídrica e alimentar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eventos em Porto Alegre se manifestam contra a intolerância religiosa"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Prazo para registro de candidaturas às eleições termina neste sábado"
     },
     {
@@ -37,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Criptografia do Discord dificulta monitoramento de lives, aponta ANPD"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Missão pede investigação sobre filiação falsa de Flávio ao partido"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Governo ouvirá empresários para decidir se aplicará lei contra EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fazenda libera empréstimo com aval da União de R$ 12,9 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enade divulga resultado de recurso sobre atendimento especializado"
     }
 ];
