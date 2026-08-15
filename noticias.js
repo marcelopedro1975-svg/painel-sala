@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Prazo para registro de candidaturas às eleições termina neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PF prende no Rio suspeito de golpe que fez idosa perder R$ 37 milhões"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enade divulga resultado de recurso sobre atendimento especializado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Erupção do Etna prolonga fechamento de aeroporto na Sicília"
     }
 ];
