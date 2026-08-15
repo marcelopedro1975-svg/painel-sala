@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ginástica rítmica: Brasil é bronze e garante vaga em Los Angeles 2028"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Exposição imersiva celebra 140 anos do nascimento de Tarsila do Amaral"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Durigan rebate críticas de inércia sobre crise do BRB"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula diz que só acatará indicação de embaixador dos EUA após eleições"
     }
 ];
