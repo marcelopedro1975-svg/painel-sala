@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nova regra da CBV afeta participação de Tifanny na Superliga de vôlei"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ginástica rítmica: Brasil é bronze e garante vaga em Los Angeles 2028"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "OEA enviará missão internacional para acompanhar eleições no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Na era da IA, inclusão digital deve ser crítica, defende educadora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan rebate críticas de inércia sobre crise do BRB"
     }
 ];
