@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prédio desaba em São Bernardo do Campo e deixa cinco feridos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1"
     },
     {
@@ -33,15 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eventos em Porto Alegre se manifestam contra a intolerância religiosa"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Prazo para registro de candidaturas às eleições termina neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF prende no Rio suspeito de golpe que fez idosa perder R$ 37 milhões"
     },
     {
         fonte: "Agência Brasil",
