@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ondas da Rádio Nacional transmitem partida entre Vasco e Santos"
     },
     {
@@ -37,11 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1"
+        titulo: "Prédio desaba em São Bernardo do Campo e deixa cinco feridos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Prédio desaba em São Bernardo do Campo e deixa cinco feridos"
+        titulo: "TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bolsonaro pede ao STF para se consultar com a nora, que é dentista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Amcham defende que adoção de reciprocidade contra os EUA seja evitada"
     }
 ];
