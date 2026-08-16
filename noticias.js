@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil faz história e leva dois ouros no Mundial de ginástica rítmica"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE determina remoção de vídeo que associa Lula ao PCC e ao CV"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prazo para registro de candidaturas às eleições termina neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras anuncia descoberta de petróleo na Foz do Amazonas"
     }
 ];
