@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileiro Feminino: São Paulo goleia, iguala líder e afunda Botafogo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão: Chapecoense busca empate com Bahia em jogo de seis gols"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Perto de completar 50 anos, Festival Guarnicê de Cinema começa dia 20"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil faz história e leva dois ouros no Mundial de ginástica rítmica"
     },
     {
@@ -37,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Da Amazônia à Europa, seca avança e movimenta debates na COP17"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Campanha eleitoral nas ruas e propaganda virtual começam neste domingo"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para registro de candidaturas às eleições termina neste sábado"
     }
 ];
