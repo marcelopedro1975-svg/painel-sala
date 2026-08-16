@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-sena acumula para R$ 45 milhões; confira os números"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nove pessoas morrem em tombamento de ônibus em Petrópolis"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Projeto mapeia caminhos para economia verde no Nordeste"
     },
     {
@@ -30,18 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Publicação lembra 50 anos do atentado à sede da ABI na ditadura"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Show exclusivo resgata clássicos do cancioneiro nacional na TV Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bolsonaro pede ao STF para se consultar com a nora, que é dentista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Amcham defende que adoção de reciprocidade contra os EUA seja evitada"
     }
 ];
