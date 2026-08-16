@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ondas da Rádio Nacional transmitem partida entre Vasco e Santos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja as agendas dos candidatos à presidência para este domingo (16)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Da Amazônia à Europa, seca avança e movimenta debates na COP17"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Campanha eleitoral nas ruas e propaganda virtual começam neste domingo"
     },
     {
@@ -41,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Exposição imersiva celebra 140 anos do nascimento de Tarsila do Amaral"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Terremoto na Indonésia deixa pelo menos 47 mortos"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Amcham defende que adoção de reciprocidade contra os EUA seja evitada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vôlei brasileiro passa a exigir teste genético para atletas mulheres"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pesquisa de polipílula para prevenção do AVC busca 8,5 mil voluntários"
     }
 ];
