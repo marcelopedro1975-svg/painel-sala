@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TSE determina remoção de vídeo que associa Lula ao PCC e ao CV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Exposição do Muhcab celebra resistência da Pequena África, no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-sena acumula para R$ 45 milhões; confira os números"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Petrobras anuncia descoberta de petróleo na Foz do Amazonas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsonaro pede ao STF para se consultar com a nora, que é dentista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Amcham defende que adoção de reciprocidade contra os EUA seja evitada"
     }
 ];
