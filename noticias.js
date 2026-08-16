@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Projeto mapeia caminhos para economia verde no Nordeste"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino"
     },
     {
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prédio desaba em São Bernardo do Campo e deixa cinco feridos"
     },
     {
         fonte: "Agência Brasil",
