@@ -1,7 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Inscrição para vestibular da Fuvest abre na próxima segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesquisadores encontram plantas consideradas extintas há 30 anos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileiro Feminino: São Paulo goleia, iguala líder e afunda Botafogo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vítimas de tombamento de ônibus em Petrópolis são do sexo feminino"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Nova regra da CBV afeta participação de Tifanny na Superliga de vôlei"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ginástica rítmica: Brasil é bronze e garante vaga em Los Angeles 2028"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Terremoto na Indonésia deixa pelo menos 47 mortos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum"
     }
 ];
