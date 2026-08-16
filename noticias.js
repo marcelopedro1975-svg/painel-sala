@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Campanha eleitoral nas ruas e propaganda virtual começam neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pesquisa de polipílula para prevenção do AVC busca 8,5 mil voluntários"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Europe Smash: Calderano vence de novo e terá Félix Lebrun nas quartas"
     }
 ];
