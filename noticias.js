@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Candidatos iniciam campanha presidencial em redutos eleitorais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tifanny se pronuncia após regra que veta trans no vôlei: \"Retrocesso\""
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Inscrição para vestibular da Fuvest abre na próxima segunda-feira"
     },
     {
@@ -34,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Exposição do Muhcab celebra resistência da Pequena África, no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-sena acumula para R$ 45 milhões; confira os números"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nove pessoas morrem em tombamento de ônibus em Petrópolis"
     },
     {
         fonte: "Agência Brasil",
