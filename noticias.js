@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Santos desencanta no 2º tempo e atropela o Vasco pelo Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Candidatos iniciam campanha presidencial em redutos eleitorais"
     },
     {
@@ -41,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Exposição do Muhcab celebra resistência da Pequena África, no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Projeto mapeia caminhos para economia verde no Nordeste"
     },
     {
@@ -77,6 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Nova regra da CBV afeta participação de Tifanny na Superliga de vôlei"
+        titulo: "Terremoto na Indonésia deixa pelo menos 47 mortos"
     }
 ];
