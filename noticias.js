@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Durigan defende que Brasil deve ampliar relações comerciais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dino determina afastamento do presidente do TCE do Maranhão"
     },
     {
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Filho de Mãe Bernadete desiste de candidatura a deputado federal na BA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Discord suspende lives para atender medidas determinadas pela ANPD"
     },
     {
         fonte: "Agência Brasil",
