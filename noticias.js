@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Anvisa aprova novas canetas de semaglutida, incluindo a 1ª genérica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Encceja é no próximo domingo; saiba como consultar locais de provas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrópolis: ônibus não podia fazer transporte interestadual, diz ANTT"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Pelo PT, Lula busca reeleição com foco em pautas sociais"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Visitantes abrem vantagem na briga por acesso ao Brasileirão Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rodada ajuda e Flamengo volta a depender apenas de si no Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Santos desencanta no 2º tempo e atropela o Vasco pelo Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Candidatos iniciam campanha presidencial em redutos eleitorais"
     }
 ];
