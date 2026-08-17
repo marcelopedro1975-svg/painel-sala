@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dino determina afastamento do presidente do TCE do Maranhão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil é campeão geral do Grand Prix de judô no Peru com 11 medalhas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Moraes autoriza Bolsonaro a sair da prisão domiciliar para dentista"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Em 13 anos, MG tirou 5,6 mil pessoas de trabalho análogo à escravidão"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Palacete Imperial acumula denúncias de abandono no centro do Rio"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "IBC-Br recuou 0,6% em junho, diz Banco Central"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos candidatos à Presidência desta segunda-feira"
     }
 ];
