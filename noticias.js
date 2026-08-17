@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Pelo PT, Lula busca reeleição com foco em pautas sociais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PSTU tem o professor de história Hertz Dias como presidenciável"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Filho mais velho de Bolsonaro, Flávio disputa a Presidência pelo PL"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tesouro pagou R$ 152,46 milhões em dívidas de estados e municípios"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Aplicativo do Tesouro Direto é desativado a partir desta segunda-feira"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Candidatos iniciam campanha presidencial em redutos eleitorais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tifanny se pronuncia após regra que veta trans no vôlei: \"Retrocesso\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inscrição para vestibular da Fuvest começa nesta segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro Feminino: São Paulo goleia, iguala líder e afunda Botafogo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão: Chapecoense busca empate com Bahia em jogo de seis gols"
     }
 ];
