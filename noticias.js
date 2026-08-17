@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Palacete Imperial acumula denúncias de abandono no centro do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anvisa aprova novas canetas de semaglutida, incluindo a 1ª genérica"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Surto de ebola na República do Congo é o mais mortal do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Visitantes abrem vantagem na briga por acesso ao Brasileirão Feminino"
     }
 ];
