@@ -1,11 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Moraes autoriza Bolsonaro a sair da prisão domiciliar para dentista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidente do TSE defende urna eletrônica em reunião com embaixadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ pede que eleitores confiram se locais de votação se mantêm"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Uso de medicamento oferecido no SUS reduz casos de malária no Brasil"
     },
     {
         fonte: "Agência Brasil",
         titulo: "TSE lança campanha para estimular participação nas eleições 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Riotur abre inscrições em 24 de agosto para desfile de blocos em 2027"
     },
     {
         fonte: "Agência Brasil",
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Petrópolis: ônibus não podia fazer transporte interestadual, diz ANTT"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Pelo PT, Lula busca reeleição com foco em pautas sociais"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos candidatos à Presidência desta segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE recebe embaixadores nesta segunda para defender urna eletrônica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trabalhadores nascidos em novembro e dezembro recebem abono salarial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado mantém estáveis projeções para inflação, juros, PIB e dólar"
     }
 ];
