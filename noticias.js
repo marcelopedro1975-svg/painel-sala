@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Pelo Avante, escritor Augusto Cury estreia em disputas presidenciais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Termina na quinta-feira prazo para solicitação de voto em trânsito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Indonésia: buscas por vítimas de tremor seguem no Dia da Independência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio Grande do Sul inicia semana com alerta para forte tempestade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Surto de ebola na República do Congo é o mais mortal do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa Civil reconhece situação de emergência em oito municípios do RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fenômeno das bikes elétricas é tema do Caminhos da Reportagem"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Busca por memória e justiça marca três anos da morte de Mãe Bernadete"
     },
     {
@@ -29,11 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inscrição para vestibular da Fuvest abre na próxima segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pesquisadores encontram plantas consideradas extintas há 30 anos"
+        titulo: "Inscrição para vestibular da Fuvest começa nesta segunda-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Projeto mapeia caminhos para economia verde no Nordeste"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ondas da Rádio Nacional transmitem partida entre Vasco e Santos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja as agendas dos candidatos à presidência para este domingo (16)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha eleitoral nas ruas e propaganda virtual começam neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Terremoto na Indonésia deixa pelo menos 47 mortos"
     }
 ];
