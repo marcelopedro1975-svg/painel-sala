@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Aplicativo do Tesouro Direto é desativado a partir desta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IBC-Br recuou 0,6% em junho, diz Banco Central"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos candidatos à Presidência desta segunda-feira"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio Grande do Sul inicia semana com alerta para forte tempestade"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Surto de ebola na República do Congo é o mais mortal do país"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileirão: Chapecoense busca empate com Bahia em jogo de seis gols"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil faz história e leva dois ouros no Mundial de ginástica rítmica"
     }
 ];
