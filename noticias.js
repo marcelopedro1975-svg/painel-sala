@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mercado mantém estáveis projeções para inflação, juros, PIB e dólar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PCB traz Edmilson Costa como candidato à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Clariana Barão é a candidata do Democracia Cristã à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Pelo Avante, escritor Augusto Cury estreia em disputas presidenciais"
     },
     {
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Busca por memória e justiça marca três anos da morte de Mãe Bernadete"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "COP17 começa na Mongólia com foco em seca, terra e financiamento"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil faz história e leva dois ouros no Mundial de ginástica rítmica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE determina remoção de vídeo que associa Lula ao PCC e ao CV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projeto mapeia caminhos para economia verde no Nordeste"
     }
 ];
