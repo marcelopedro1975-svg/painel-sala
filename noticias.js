@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Uso de medicamento oferecido no SUS reduz casos de malária no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE lança campanha para estimular participação nas eleições 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "FGV estima que PIB desacelerou e cresceu 0,3% no segundo trimestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Filho de Mãe Bernadete desiste de candidatura a deputado federal na BA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Discord suspende lives para atender medidas determinadas pela ANPD"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em 13 anos, MG tirou 5,6 mil pessoas de trabalho análogo à escravidão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Palacete Imperial acumula denúncias de abandono no centro do Rio"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mercado mantém estáveis projeções para inflação, juros, PIB e dólar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PCB traz Edmilson Costa como candidato à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Clariana Barão é a candidata do Democracia Cristã à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pelo Avante, escritor Augusto Cury estreia em disputas presidenciais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Termina na quinta-feira prazo para solicitação de voto em trânsito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Indonésia: buscas por vítimas de tremor seguem no Dia da Independência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Surto de ebola na República do Congo é o mais mortal do país"
     }
 ];
