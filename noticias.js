@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos candidatos à Presidência desta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE recebe embaixadores nesta segunda para defender urna eletrônica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalhadores nascidos em novembro e dezembro recebem abono salarial"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mercado mantém estáveis projeções para inflação, juros, PIB e dólar"
     },
     {
@@ -30,18 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Surto de ebola na República do Congo é o mais mortal do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa Civil reconhece situação de emergência em oito municípios do RS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fenômeno das bikes elétricas é tema do Caminhos da Reportagem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Busca por memória e justiça marca três anos da morte de Mãe Bernadete"
     },
     {
         fonte: "Agência Brasil",
