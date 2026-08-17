@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Busca por memória e justiça marca três anos da morte de Mãe Bernadete"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "COP17 começa na Mongólia com foco em seca, terra e financiamento"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Visitantes abrem vantagem na briga por acesso ao Brasileirão Feminino"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileiro Feminino: São Paulo goleia, iguala líder e afunda Botafogo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vítimas de tombamento de ônibus em Petrópolis são do sexo feminino"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Terremoto na Indonésia deixa pelo menos 47 mortos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum"
     }
 ];
