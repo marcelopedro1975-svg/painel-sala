@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Visitantes abrem vantagem na briga por acesso ao Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rodada ajuda e Flamengo volta a depender apenas de si no Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Santos desencanta no 2º tempo e atropela o Vasco pelo Brasileirão"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileirão: Chapecoense busca empate com Bahia em jogo de seis gols"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Perto de completar 50 anos, Festival Guarnicê de Cinema começa dia 20"
     },
     {
         fonte: "Agência Brasil",
@@ -69,14 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Terremoto na Indonésia deixa pelo menos 47 mortos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum"
     }
 ];
