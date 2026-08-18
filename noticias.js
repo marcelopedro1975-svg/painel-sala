@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Deputado vira réu no STF por injúria contra Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Incômodo no abdômen faz João Fonseca desistir do Masters de Cincinnati"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC lança diretrizes para ensino de arte na educação básica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Contran aprova novas regras para fiscalização da Lei Seca"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cais do Valongo, no Rio, terá museu em prédio histórico do Império"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Comércio com Sudeste Asiático deve superar EUA e Europa, diz ministro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Amazônia: indígenas catalogam espécies para proteger biodiversidade"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ensino integral acelera aprendizado de vulneráveis"
     },
     {
@@ -33,14 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Nas redes sociais, amigos e fãs homenageiam Laura Cardoso"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MinC destaca carreira de Laura Cardoso e lamenta morte"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mais de 795 mil vacinas contra o sarampo foram aplicadas em São Paulo"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PRTB traz Pablo Marçal para disputar a Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Democracia e crescimento de organizações criminosas é tema de encontro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio promove campanha pela paz em casa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino A3: Planalto abre vantagem sobre Realidade Jovem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Remo empata no último lance, mas Inter deixa a zona de rebaixamento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras encontra petróleo em poço na Margem Equatorial"
     }
 ];
