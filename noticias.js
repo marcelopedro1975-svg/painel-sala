@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Inscrições para capacitação em IA para empreendedoras estão abertas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades publicam carta em defesa da suspensão de lives no Discord"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dino e Moraes defendem rediscutir dispensa de diploma para jornalista"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Amazônia: indígenas catalogam espécies para proteger biodiversidade"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ensino integral acelera aprendizado de vulneráveis"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mais de 795 mil vacinas contra o sarampo foram aplicadas em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos candidatos à Presidência nesta terça-feira"
     }
 ];
