@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dino e Moraes defendem rediscutir dispensa de diploma para jornalista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Atriz Glória Menezes morre aos 91 anos, no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fazenda suspende 14 sites de apostas por irregularidades"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Deputado vira réu no STF por injúria contra Lula"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos candidatos à Presidência nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mineiro Romeu Zema concorrerá à Presidência pelo Novo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defensor do impeachment em 2016, Renan Santos é candidato do Missão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PRTB traz Pablo Marçal para disputar a Presidência"
     }
 ];
