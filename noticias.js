@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mais de 1 milhão de doses de vacinas são aplicadas em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Relatório traz soluções para reduzir emissões de metano"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos candidatos à Presidência nesta terça-feira"
     },
     {
@@ -17,11 +25,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PRTB traz Pablo Marçal para disputar a Presidência"
+        titulo: "Área urbanizada no Brasil cresceu 12,3% de 2019 a 2022, mostra IBGE"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Área urbanizada no Brasil cresceu 12,3% de 2019 a 2022, mostra IBGE"
+        titulo: "PRTB traz Pablo Marçal para disputar a Presidência"
     },
     {
         fonte: "Agência Brasil",
@@ -30,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Democracia e crescimento de organizações criminosas é tema de encontro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Morre atriz Laura Cardoso aos 98 anos, em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Grande parte do país tem temperaturas elevadas nesta terça-feira"
     },
     {
         fonte: "Agência Brasil",
