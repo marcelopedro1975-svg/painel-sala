@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça do Rio promove campanha pela paz em casa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão Feminino A3: Planalto abre vantagem sobre Realidade Jovem"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Remo empata no último lance, mas Inter deixa a zona de rebaixamento"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Encceja é no próximo domingo; saiba como consultar locais de provas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pelo PT, Lula busca reeleição com foco em pautas sociais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PSTU tem o professor de história Hertz Dias como presidenciável"
     }
 ];
