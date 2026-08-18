@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Instituto Natura Brasil analisa Ideb 2025 de escolas 100% integral"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Analistas veem risco de ação cibernética de EUA e bigtechs em eleições"
     },
     {
@@ -9,7 +13,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Samara Martins é a candidata do União Popular ao pleito presidencial"
+        titulo: "Samara Martins é a candidata do Unidade Popular ao pleito presidencial"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Petrobras encontra petróleo em poço na Margem Equatorial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil estreia mal no qualificatório para o Pré-Olímpico de basquete"
     }
 ];
