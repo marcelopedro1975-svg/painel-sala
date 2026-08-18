@@ -1,7 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dívida bancária do Rio chega a R$ 26 bilhões, diz governador"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Hortência é indicada a prêmio de maior atleta da história dos Mundiais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Inscrições para capacitação em IA para empreendedoras estão abertas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anac suspende quatro empresas de voos panorâmicos que operavam no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -30,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "MEC lança diretrizes para ensino de arte na educação básica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Contran aprova novas regras para fiscalização da Lei Seca"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cais do Valongo, no Rio, terá museu em prédio histórico do Império"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tremores voltam a atingir Granada, na Espanha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 795 mil vacinas contra o sarampo foram aplicadas em São Paulo"
     }
 ];
