@@ -1,7 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Mais de 1 milhão de doses de vacinas são aplicadas em São Paulo"
+        titulo: "Democrata tem veterinário Wilson Grassi na disputa presidencial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Samara Martins é a candidata do União Popular ao Pleito presidencial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sindicalista Rui Costa Pimenta concorrerá à Presidência pelo PCO"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: Ronaldo Caiado é o candidato do PSD à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleição: homem, branco e empresário é perfil majoritário de candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tremores voltam a atingir Granada, na Espanha"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nas redes sociais, amigos e fãs homenageiam Laura Cardoso"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MinC destaca carreira de Laura Cardoso e lamenta morte"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais de 795 mil vacinas contra o sarampo foram aplicadas em São Paulo"
     },
     {
         fonte: "Agência Brasil",
@@ -25,15 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Área urbanizada no Brasil cresceu 12,3% de 2019 a 2022, mostra IBGE"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PRTB traz Pablo Marçal para disputar a Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileira defende mais influência dos jovens nas decisões da COP17"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Petrobras encontra petróleo em poço na Margem Equatorial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Marina Silva sofre tentativa de intimidação durante campanha em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil estreia mal no qualificatório para o Pré-Olímpico de basquete"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan defende que Brasil deve ampliar comércio exterior"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino determina afastamento do presidente do TCE do Maranhão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil é campeão geral do Grand Prix de judô no Peru com 11 medalhas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes autoriza Bolsonaro a sair da prisão domiciliar para dentista"
     }
 ];
