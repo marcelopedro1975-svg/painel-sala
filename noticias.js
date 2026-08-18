@@ -1,7 +1,7 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Instituto Natura Brasil analisa Ideb 2025 de escolas 100% integral"
+        titulo: "Ensino integral acelera aprendizado de vulneráveis"
     },
     {
         fonte: "Agência Brasil",
@@ -21,7 +21,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eleições 2026: Ronaldo Caiado é o candidato do PSD à Presidência"
+        titulo: "Ronaldo Caiado é o candidato do PSD à Presidência"
     },
     {
         fonte: "Agência Brasil",
