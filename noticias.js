@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileira defende mais influência dos jovens nas decisões da COP17"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Democracia e crescimento de organizações criminosas é tema de encontro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morre atriz Laura Cardoso aos 98 anos, em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Grande parte do país tem temperaturas elevadas nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça do Rio promove campanha pela paz em casa"
     },
     {
@@ -22,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil estreia mal no qualificatório para o Pré-Olímpico de basquete"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bets: quatro em cada dez mulheres apostam ou já apostaram online"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Filho de Mãe Bernadete desiste de candidatura a deputado federal na BA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Palacete Imperial acumula denúncias de abandono no centro do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova novas canetas de semaglutida, incluindo a 1ª genérica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Encceja é no próximo domingo; saiba como consultar locais de provas"
     }
 ];
