@@ -1,11 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Analistas veem risco de ação cibernética de EUA e bigtechs em eleições"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Democrata tem veterinário Wilson Grassi na disputa presidencial"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Samara Martins é a candidata do União Popular ao Pleito presidencial"
+        titulo: "Samara Martins é a candidata do União Popular ao pleito presidencial"
     },
     {
         fonte: "Agência Brasil",
@@ -37,19 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Relatório traz soluções para reduzir emissões de metano"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos candidatos à Presidência nesta terça-feira"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Mineiro Romeu Zema concorrerá à Presidência pelo Novo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Terremoto: Brasil doará 10 toneladas de arroz à Colômbia"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Petrobras encontra petróleo em poço na Margem Equatorial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil estreia mal no qualificatório para o Pré-Olímpico de basquete"
     }
 ];
