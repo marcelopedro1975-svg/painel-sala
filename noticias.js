@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos candidatos à Presidência nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mineiro Romeu Zema concorrerá à Presidência pelo Novo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Terremoto: Brasil doará 10 toneladas de arroz à Colômbia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defensor do impeachment em 2016, Renan Santos é candidato do Missão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PRTB traz Pablo Marçal para disputar a Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Área urbanizada no Brasil cresceu 12,3% de 2019 a 2022, mostra IBGE"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileira defende mais influência dos jovens nas decisões da COP17"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Moraes autoriza Bolsonaro a sair da prisão domiciliar para dentista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do TSE defende urna eletrônica em reunião com embaixadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ pede que eleitores confiram se locais de votação se mantêm"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Uso de medicamento oferecido no SUS reduz casos de malária no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE lança campanha para estimular participação nas eleições 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "FGV estima que PIB desacelerou e cresceu 0,3% no segundo trimestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Filho de Mãe Bernadete desiste de candidatura a deputado federal na BA"
     }
 ];
