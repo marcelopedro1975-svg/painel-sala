@@ -1,7 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Durigan defende que Brasil deve ampliar relações comerciais"
+        titulo: "Remo empata no último lance, mas Inter deixa a zona de rebaixamento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras encontra petróleo em poço na Margem Equatorial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Marina Silva sofre tentativa de intimidação durante campanha em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil estreia mal no qualificatório para o Pré-Olímpico de basquete"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bets: quatro em cada dez mulheres apostam ou já apostaram online"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan defende que Brasil deve ampliar comércio exterior"
     },
     {
         fonte: "Agência Brasil",
@@ -33,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Riotur abre inscrições em 24 de agosto para desfile de blocos em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "FGV estima que PIB desacelerou e cresceu 0,3% no segundo trimestre"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PSTU tem o professor de história Hertz Dias como presidenciável"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Filho mais velho de Bolsonaro, Flávio disputa a Presidência pelo PL"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tesouro pagou R$ 152,46 milhões em dívidas de estados e municípios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aplicativo do Tesouro Direto é desativado a partir desta segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBC-Br recuou 0,6% em junho, diz Banco Central"
     }
 ];
