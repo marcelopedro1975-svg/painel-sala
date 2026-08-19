@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Novas regras do Contran para Lei Seca prevê pré-teste; entenda"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Democrata da Flórida vence primárias para Senado dos Estados Unidos"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Sociedade civil rejeita agenda excludente aprovada no início da COP17"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio MEC: Jazz Livre traz live de multi-instrumentista Pedro Franco"
     },
     {
         fonte: "Agência Brasil",
