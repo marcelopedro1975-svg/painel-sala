@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Eleições de 2026 registram recorde de candidaturas indígenas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fundação lança edital para ampliar acesso à saúde mental em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dia D de vacinação será realizado neste sábado em todo o país"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Atacada por EUA, regra do TSE evita bigtechs de privilegiar candidatos"
     },
     {
@@ -30,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleitor tem até esta quinta-feira (20) para solicitar voto em trânsito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acidente entre ônibus e caminhão mata 23 pessoas em estrada no Paraná"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eventos literários se firmam como espaços de encontro e visibilidade"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dívida bancária do Rio chega a R$ 26 bilhões, diz governador"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Hortência é indicada a prêmio de maior atleta da história dos Mundiais"
     }
 ];
