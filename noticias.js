@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rádio Nacional exibe Flamengo x Cruzeiro pelas oitavas da Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF retoma julgamento sobre mandato-tampão para governo do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Deputado que sofreu AVC na Câmara recebe alta hospitalar"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Anac suspende quatro empresas de voos panorâmicos que operavam no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dino e Moraes defendem rediscutir dispensa de diploma para jornalista"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Democrata tem veterinário Wilson Grassi na disputa presidencial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Samara Martins é a candidata do Unidade Popular ao pleito presidencial"
     }
 ];
