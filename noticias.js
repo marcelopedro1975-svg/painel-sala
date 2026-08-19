@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Atacada por EUA, regra do TSE evita bigtechs de privilegiar candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Novas regras do Contran para Lei Seca prevê pré-teste; entenda"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eventos literários se firmam como espaços de encontro e visibilidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sociedade civil rejeita agenda excludente aprovada no início da COP17"
     },
     {
         fonte: "Agência Brasil",
