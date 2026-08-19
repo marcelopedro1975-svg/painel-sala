@@ -1,7 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Empresário vira réu por agredir esposa e tem prisão preventiva mantida"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Embrapa entrega propostas de agricultura sustentável para candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Manual traz nova classificação de riscos de desastres em áreas urbanas"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Novas regras do Contran para Lei Seca prevê pré-teste; entenda"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Democrata da Flórida vence primárias para Senado dos Estados Unidos"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja como foi a terça-feira dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE debate combate a deepfake nas eleições"
     }
 ];
