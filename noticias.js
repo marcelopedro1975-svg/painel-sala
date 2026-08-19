@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Democrata da Flórida vence primárias para Senado dos Estados Unidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Corpos das vítimas de acidente no Paraná são retirados da pista"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil tem luto oficial de três dias após morte de atrizes icônicas"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PF apreende 100 kg de droga que iriam para o Complexo do Alemão"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rádio Nacional exibe Flamengo x Cruzeiro pelas oitavas da Libertadores"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Hortência é indicada a prêmio de maior atleta da história dos Mundiais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inscrições para capacitação em IA para empreendedoras estão abertas"
     }
 ];
