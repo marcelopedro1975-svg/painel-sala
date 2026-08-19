@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Embrapa entrega propostas de agricultura sustentável para candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Autorizações para importação de cannabis aumentam 29% em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dia Nacional do Orgulho Lésbico é celebrado nesta quarta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF adia julgamento sobre mandato-tampão para governador do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Governo fará esforço por fim da taxa das blusinhas, diz Durigan"
     },
     {
@@ -21,7 +37,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Atacada por EUA, regra do TSE evita bigtechs de privilegiar candidatos"
+        titulo: "Atacada por EUA, regra do TSE evita que bigtech privilegie candidatos"
     },
     {
         fonte: "Agência Brasil",
@@ -30,18 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Democrata da Flórida vence primárias para Senado dos Estados Unidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Corpos das vítimas de acidente no Paraná são retirados da pista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil tem luto oficial de três dias após morte de atrizes icônicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ciclone extratropical favorece tempestade no Rio Grande do Sul"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE debate combate a deepfake nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE retoma condenação de vereador por violência política de gênero"
     }
 ];
