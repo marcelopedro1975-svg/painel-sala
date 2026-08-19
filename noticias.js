@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Durigan pretende mediar negociação do Rio com BNDES e Banco do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Empresário vira réu por agredir esposa e tem prisão preventiva mantida"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Deputado que sofreu AVC na Câmara recebe alta hospitalar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a terça-feira dos candidatos a presidente"
     }
 ];
