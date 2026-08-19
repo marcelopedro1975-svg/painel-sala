@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Governo fará esforço por fim da taxa das blusinhas, diz Durigan"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Exposição em SP reúne fotos de movimentos feministas do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Eleições de 2026 registram recorde de candidaturas indígenas"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE retoma condenação de vereador por violência política de gênero"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fenaj pede que STF reveja decisão sobre diploma de jornalista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dívida bancária do Rio chega a R$ 26 bilhões, diz governador"
     }
 ];
