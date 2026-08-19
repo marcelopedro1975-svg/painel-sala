@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira como foi a quarta-feira dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai para R$ 5,17 após anúncio de recompra de títulos nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OAB Rio recebe mais de 2 mil denúncias do golpe do falso advogado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça suspende demissões em massa de trabalhadores das Casas Bahia"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja a agenda dos candidatos à Presidência nesta quarta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitor tem até esta quinta-feira (20) para solicitar voto em trânsito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 2 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional exibe Flamengo x Cruzeiro pelas oitavas da Libertadores"
     }
 ];
