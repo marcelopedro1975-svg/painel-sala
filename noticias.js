@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça suspende demissões em massa de trabalhadores das Casas Bahia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Candidaturas LGBT+ têm recorde em 2026 e se espalham por mais partidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF decide ampliar alcance da Lei da Maria da Penha"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Durigan pretende mediar negociação do Rio com BNDES e Banco do Brasil"
     },
     {
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Governo fará esforço por fim da taxa das blusinhas, diz Durigan"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Exposição em SP reúne fotos de movimentos feministas do Brasil"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Rádio Nacional exibe Flamengo x Cruzeiro pelas oitavas da Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF retoma julgamento sobre mandato-tampão para governo do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Deputado que sofreu AVC na Câmara recebe alta hospitalar"
     }
 ];
