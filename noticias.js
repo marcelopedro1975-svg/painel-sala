@@ -1,7 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 2 recebem Bolsa Família de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF apreende 100 kg de droga que iriam para o Complexo do Alemão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rádio Nacional exibe Flamengo x Cruzeiro pelas oitavas da Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio de Janeiro tem a segunda maior população de rua do país"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Comércio com Sudeste Asiático deve superar EUA e Europa, diz ministro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ensino integral acelera aprendizado de vulneráveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Analistas veem risco de ação cibernética de EUA e bigtechs em eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Democrata tem veterinário Wilson Grassi na disputa presidencial"
     }
 ];
