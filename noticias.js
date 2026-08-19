@@ -41,15 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Entidades publicam carta em defesa da suspensão de lives no Discord"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dino e Moraes defendem rediscutir dispensa de diploma para jornalista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atriz Glória Menezes morre aos 91 anos, no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +70,13 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Analistas veem risco de ação cibernética de EUA e bigtechs em eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Democrata tem veterinário Wilson Grassi na disputa presidencial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Samara Martins é a candidata do Unidade Popular ao pleito presidencial"
     }
 ];
