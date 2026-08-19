@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Deputado que sofreu AVC na Câmara recebe alta hospitalar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a terça-feira dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE debate combate a deepfake nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 50 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE retoma condenação de vereador por violência política de gênero"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fenaj pede que STF reveja decisão sobre diploma de jornalista"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dívida bancária do Rio chega a R$ 26 bilhões, diz governador"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Analistas veem risco de ação cibernética de EUA e bigtechs em eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Democrata tem veterinário Wilson Grassi na disputa presidencial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Samara Martins é a candidata do Unidade Popular ao pleito presidencial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sindicalista Rui Costa Pimenta concorrerá à Presidência pelo PCO"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ronaldo Caiado é o candidato do PSD à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleição: homem, branco e empresário é perfil majoritário de candidatos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tremores voltam a atingir Granada, na Espanha"
     }
 ];
