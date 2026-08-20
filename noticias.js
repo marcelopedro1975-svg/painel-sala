@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil bate Argentina e vai à semi de qualificatório para Pré-Olímpico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Navio-plataforma da Petrobras atinge produção máxima no pré-sal"
     },
     {
@@ -41,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio de Janeiro lança ação integrada de prevenção ao El Niño"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Maranhão terá eleição simulada no domingo para testar urnas"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Copa do Mundo Feminina 2027: veja os estádios onde a Seleção vai jogar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fifa sorteia confrontos da repescagem internacional da Copa Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Oxfam Brasil: concentração de riqueza amplia desigualdade política"
     }
 ];
