@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça do Rio torna réu falso médico que realizava consultas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil enfrenta Argentina por vaga no Pré-Olímpico de basquete"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça marca julgamento dos PMs envolvidos na morte de modelo no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Libertadores: Flamengo elimina Cruzeiro e mantém vivo sonho do penta"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Durigan pretende mediar negociação do Rio com BNDES e Banco do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empresário vira réu por agredir esposa e tem prisão preventiva mantida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Embrapa entrega propostas de agricultura sustentável para candidatos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Autorizações para importação de cannabis aumentam 29% em 2026"
     }
 ];
