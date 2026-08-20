@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Libertadores: Flamengo elimina Cruzeiro e mantém vivo sonho do penta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Termina hoje prazo para solicitação de voto em trânsito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 2 recebem Bolsa Família de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Explosão deixa quatro feridos em prédio de Copacabana"
     },
     {
@@ -37,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lésbicas cobram saúde integral, trabalho digno e fim de violências"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dólar cai para R$ 5,17 após anúncio de recompra de títulos nos EUA"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Autorizações para importação de cannabis aumentam 29% em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF adia julgamento sobre mandato-tampão para governador do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo fará esforço por fim da taxa das blusinhas, diz Durigan"
     }
 ];
