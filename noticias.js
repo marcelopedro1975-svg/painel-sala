@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fifa sorteia confrontos da repescagem internacional da Copa Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Oxfam Brasil: concentração de riqueza amplia desigualdade política"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Safra de cana-de-açúcar deve crescer 4,7% em relação ao ano de 2025"
     },
     {
@@ -9,7 +17,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil abre Copa do Mundo Feminina no Maracanã, palco também da final"
+        titulo: "Maracanã será palco de abertura da Copa do Mundo Feminina de Futebol"
     },
     {
         fonte: "Agência Brasil",
@@ -34,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bancários fazem paralisação nacional de 24 horas nesta quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 50 milhões nesta quinta-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Seleção feminina de futebol é convocada para a Copa do Mundo sub-20"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Luis Felipe Salomão toma posse na presidência do STJ"
     }
 ];
