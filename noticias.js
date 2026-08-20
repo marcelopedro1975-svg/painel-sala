@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "ANS suspende preventivamente reajustes e cancelamentos da Hapvida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Terremoto de magnitude 7,2 atinge sul do Peru"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE divulga tempo dos candidatos à Presidência no horário eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saúde mental ganha destaque em seminário sobre riscos no trabalho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STJ restabelece sanções a cursos de medicina com nota baixa no Enamed"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após 2 anos, Rebeca Andrade volta a disputar etapa da Copa do Mundo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio de Janeiro lança ação integrada de prevenção ao El Niño"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Maranhão terá eleição simulada no domingo para testar urnas"
     },
     {
@@ -33,15 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MJSP: centro de inteligência prisional começa a funcionar em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Copa do Mundo Feminina 2027: veja os estádios onde a Seleção vai jogar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Indígenas cobram participação nas decisões da COP da Desertificação"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Para 81% dos brasileiros, é fundamental que candidato acredite em Deus"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Maracanã será palco de abertura da Copa Feminina de Futebol de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Proliferação de satélites põe em risco observações astronômicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos candidatos à Presidência nesta quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio torna réu falso médico que realizava consultas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil enfrenta Argentina por vaga no Pré-Olímpico de basquete"
     }
 ];
