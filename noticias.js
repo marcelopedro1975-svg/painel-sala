@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Explosão deixa quatro feridos em prédio de Copacabana"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Governo fará esforço por fim da taxa das blusinhas, diz Durigan"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições de 2026 registram recorde de candidaturas indígenas"
     }
 ];
