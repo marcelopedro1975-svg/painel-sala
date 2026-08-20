@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Navio-plataforma da Petrobras atinge produção máxima no pré-sal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP: Enel apresenta alegações finais contra caducidade da concessão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Frente fria leva chuva e ventania à capital paulista e áreas do estado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "ANS suspende preventivamente reajustes e cancelamentos da Hapvida"
     },
     {
@@ -10,6 +22,10 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE divulga tempo dos candidatos à Presidência no horário eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais 19 cidades aderem ao acordo de reparação do desastre de Mariana"
     },
     {
         fonte: "Agência Brasil",
@@ -45,14 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Respostas à crise climática exigem inovação, defende setor elétrico"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vítimas do acidente na BR-737 são veladas em Imbituva (PR)"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dívida dos EUA ultrapassa US$ 40 trilhões após governos Trump e Biden"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Oxfam Brasil: concentração de riqueza amplia desigualdade política"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Safra de cana-de-açúcar deve crescer 4,7% em relação ao ano de 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Para 81% dos brasileiros, é fundamental que candidato acredite em Deus"
     }
 ];
