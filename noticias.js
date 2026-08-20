@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Safra de cana-de-açúcar deve crescer 4,7% em relação ao ano de 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Para 81% dos brasileiros, é fundamental que candidato acredite em Deus"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil abre Copa do Mundo Feminina no Maracanã, palco também da final"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Proliferação de satélites põe em risco observações astronômicas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos candidatos à Presidência nesta quinta-feira"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Luis Felipe Salomão toma posse na presidência do STJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Correios entregam no Brasil compras feitas em sites do Paraguai"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira como foi a quarta-feira dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai para R$ 5,17 após anúncio de recompra de títulos nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça suspende demissões em massa de trabalhadores das Casas Bahia"
     }
 ];
