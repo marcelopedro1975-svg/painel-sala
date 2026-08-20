@@ -1,15 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rio entra em Estágio 2 devido à previsão de ventos de até 90km/h"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil bate Argentina e vai à semi de qualificatório para Pré-Olímpico"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
+        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
+        titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
     },
     {
         fonte: "Agência Brasil",
@@ -34,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE divulga tempo dos candidatos à Presidência no horário eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais 19 cidades aderem ao acordo de reparação do desastre de Mariana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saúde mental ganha destaque em seminário sobre riscos no trabalho"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Copa do Mundo Feminina 2027: veja os estádios onde a Seleção vai jogar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fifa sorteia confrontos da repescagem internacional da Copa Feminina"
     }
 ];
