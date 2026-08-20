@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Maranhão terá eleição simulada no domingo para testar urnas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aviação doméstica brasileira tem a maior movimentação em 26 anos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil"
     },
     {
@@ -13,7 +21,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vítimas do acidente na BR-737 são veladas em Imbituva"
+        titulo: "Vítimas do acidente na BR-737 são veladas em Imbituva (PR)"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil enfrenta Argentina por vaga no Pré-Olímpico de basquete"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça marca julgamento de PMs envolvidos na morte de modelo no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Libertadores: Flamengo elimina Cruzeiro e mantém vivo sonho do penta"
     }
 ];
