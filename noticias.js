@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Copa do Mundo Feminina 2027: veja os estádios onde a Seleção vai jogar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Indígenas cobram participação nas decisões da COP da Desertificação"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fifa sorteia confrontos da repescagem internacional da Copa Feminina"
     },
     {
@@ -41,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bancários fazem paralisação nacional de 24 horas nesta quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça marca julgamento de PMs envolvidos na morte de modelo no Rio"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bancários farão paralisação de 24 horas nesta quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seleção feminina de futebol é convocada para a Copa do Mundo sub-20"
     }
 ];
