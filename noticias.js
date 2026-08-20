@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE proíbe Pablo Marçal de fazer campanha e ir a debates"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Respostas à crise climática exigem inovação, defende setor elétrico"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Vítimas do acidente na BR-737 são veladas em Imbituva"
     },
     {
@@ -41,7 +53,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Maracanã será palco de abertura da Copa do Mundo Feminina de Futebol"
+        titulo: "Maracanã será palco de abertura da Copa Feminina de Futebol de 2027"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Libertadores: Flamengo elimina Cruzeiro e mantém vivo sonho do penta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Termina hoje prazo para solicitação de voto em trânsito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 2 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores"
     }
 ];
