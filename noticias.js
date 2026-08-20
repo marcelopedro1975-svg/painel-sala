@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos candidatos à Presidência nesta quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Frente fria associada a ciclone baixa temperatura no Sul do país"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça do Rio torna réu falso médico que realizava consultas"
     },
     {
@@ -9,7 +17,15 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça marca julgamento dos PMs envolvidos na morte de modelo no Rio"
+        titulo: "Bancários fazem paralisação nacional de 24 horas nesta quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 50 milhões nesta quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça marca julgamento de PMs envolvidos na morte de modelo no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -22,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Beneficiários com NIS de final 2 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Explosão deixa quatro feridos em prédio de Copacabana"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça suspende demissões em massa de trabalhadores das Casas Bahia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Candidaturas LGBT+ têm recorde em 2026 e se espalham por mais partidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF decide ampliar alcance da Lei da Maria da Penha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan pretende mediar negociação do Rio com BNDES e Banco do Brasil"
     }
 ];
