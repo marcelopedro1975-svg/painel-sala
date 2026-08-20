@@ -1,15 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE recebe mais de mil denúncias nos primeiros dias de campanha"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fazenda analisa mudanças em crédito a motoristas de aplicativos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bancários farão paralisação de 24 horas nesta quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seleção feminina de futebol é convocada para a Copa do Mundo sub-20"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Luis Felipe Salomão toma posse na presidência do STJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Correios entregam no Brasil compras feitas em sites do Paraguai"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira como foi a quarta-feira dos candidatos a presidente"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dólar cai para R$ 5,17 após anúncio de recompra de títulos nos EUA"
+        titulo: "Lésbicas cobram saúde integral, trabalho digno e fim de violências"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "OAB Rio recebe mais de 2 mil denúncias do golpe do falso advogado"
+        titulo: "Dólar cai para R$ 5,17 após anúncio de recompra de títulos nos EUA"
     },
     {
         fonte: "Agência Brasil",
@@ -37,15 +65,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Manual traz nova classificação de riscos de desastres em áreas urbanas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Autorizações para importação de cannabis aumentam 29% em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dia Nacional do Orgulho Lésbico é celebrado nesta quarta-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleições de 2026 registram recorde de candidaturas indígenas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fundação lança edital para ampliar acesso à saúde mental em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dia D de vacinação será realizado neste sábado em todo o país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atacada por EUA, regra do TSE evita que bigtech privilegie candidatos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Democrata da Flórida vence primárias para Senado dos Estados Unidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja a agenda dos candidatos à Presidência nesta quarta-feira"
     }
 ];
