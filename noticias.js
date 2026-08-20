@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Vítimas do acidente na BR-737 são veladas em Imbituva"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dívida dos EUA ultrapassa US$ 40 trilhões após governos Trump e Biden"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "UnB muda regras de ingresso para ampliar acesso às vagas de graduação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MJSP: centro de inteligência prisional começa a funcionar em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Copa do Mundo Feminina 2027: veja os estádios onde a Seleção vai jogar"
     },
     {
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Frente fria associada a ciclone baixa temperatura no Sul do país"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça do Rio torna réu falso médico que realizava consultas"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE recebe mais de mil denúncias nos primeiros dias de campanha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fazenda analisa mudanças em crédito a motoristas de aplicativos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bancários farão paralisação de 24 horas nesta quinta-feira"
     }
 ];
