@@ -1,7 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rafael Matos e Orlando Luz vão à semi de duplas do ATP de Cincinnati"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes determina cassação da aposentadoria de ex-diretor da PRF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai a R$ 5,14 com alívio no mercado externo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sete em cada dez brasileiros temem comprar remédios pela internet"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileiro Feminino: 6 times lutam no sábado para avançar às quartas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais de 3 milhões com benefícios federais são bloqueados em bets"
     },
     {
         fonte: "Agência Brasil",
@@ -37,14 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Passagem de frente fria pelo estado de SP pode causar temporais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Artistas de diferentes gerações interpretam clássicos de Chico Buarque"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Governo Espriella encerra jornalismo da mídia pública da Colômbia"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "País terá Dia D de Multivacinação neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos candidatos à Presidência nesta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seguranças de rua são presos por agredir ciclista até a morte no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 4 recebem Bolsa Família de agosto"
     }
 ];
