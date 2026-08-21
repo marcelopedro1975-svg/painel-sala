@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ministros do Brasil e EUA vão retomar negociação comercial"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rafael Matos e Orlando Luz vão à semi de duplas do ATP de Cincinnati"
     },
     {
@@ -29,11 +33,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cristo Redentor se prepara para compensar impacto ambiental do turismo"
+        titulo: "TV Brasil vence etapa distrital do Prêmio Sebrae de Jornalismo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TV Brasil vence etapa distrital do Prêmio Sebrae de Jornalismo"
+        titulo: "Cristo Redentor se prepara para compensar impacto ambiental do turismo"
     },
     {
         fonte: "Agência Brasil",
@@ -46,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "ANS suspende cautelar contra Hapvida após explicações sobre reajustes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cantora portuguesa Carminho reforça amor pelo Brasil em turnê"
     },
     {
         fonte: "Agência Brasil",
