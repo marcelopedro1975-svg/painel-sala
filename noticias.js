@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Libertadores: Mirassol cai nos pênaltis e LDU será rival do Palmeiras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quinta-feira (20) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula e próximo concurso deve pagar R$ 50 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "RN vai abrigar supercomputador brasileiro de Inteligência Artificial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Arthur Elias aprova logística em caminho do Brasil na Copa Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ativista pede transparência em investigação de atentado na Bolívia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Capital paulista vacinou 1 milhão de pessoas contra o sarampo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rio entra em Estágio 2 devido à previsão de ventos de até 90km/h"
     },
     {
@@ -9,11 +37,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
+        titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
+        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
     },
     {
         fonte: "Agência Brasil",
@@ -22,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SP: Enel apresenta alegações finais contra caducidade da concessão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Frente fria leva chuva e ventania à capital paulista e áreas do estado"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Aviação doméstica brasileira tem a maior movimentação em 26 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE proíbe Pablo Marçal de fazer campanha e ir a debates"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dívida dos EUA ultrapassa US$ 40 trilhões após governos Trump e Biden"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "UnB muda regras de ingresso para ampliar acesso às vagas de graduação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copa do Mundo Feminina 2027: veja os estádios onde a Seleção vai jogar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fifa sorteia confrontos da repescagem internacional da Copa Feminina"
     }
 ];
