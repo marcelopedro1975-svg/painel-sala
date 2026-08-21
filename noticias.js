@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "STF marca para setembro retomada do julgamento da Lei da Ficha Limpa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cristo Redentor se prepara para compensar impacto ambiental do turismo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil vence etapa distrital do Prêmio Sebrae de Jornalismo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Com autorização de Moraes, Bolsonaro poderá voltar a receber visitas"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Provas do Encceja 2026 serão aplicadas no domingo em todo o país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça autoriza cremação de vítimas de queda de helicóptero no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Libertadores pode ter semifinais 100% brasileiras pela primeira vez"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Libertadores: Mirassol cai nos pênaltis e LDU será rival do Palmeiras"
     }
 ];
