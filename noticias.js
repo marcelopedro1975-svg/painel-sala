@@ -5,6 +5,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Saiba como proteger pesca e aquicultura de efeitos do El Niño"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Frio avança sobre centro-sul do país com mínimas abaixo de 10ºC"
     },
     {
@@ -65,18 +69,14 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Navio-plataforma da Petrobras atinge produção máxima no pré-sal"
+        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "SP: Enel apresenta alegações finais contra caducidade da concessão"
+        titulo: "Navio-plataforma da Petrobras atinge produção máxima no pré-sal"
     }
 ];
