@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Desigualdades marcam formalização do trabalho entre jovens brasileiros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "País terá Dia D de Multivacinação neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Meteorologia emite alerta de ventos de até 100 km/h no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos candidatos à Presidência nesta sexta-feira"
     },
     {
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça autoriza cremação de vítimas de queda de helicóptero no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Homem é condenado a 24 anos de prisão por morte de mulher trans"
     },
     {
         fonte: "Agência Brasil",
@@ -69,14 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Navio-plataforma da Petrobras atinge produção máxima no pré-sal"
     }
 ];
