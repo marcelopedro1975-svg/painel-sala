@@ -1,11 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Seguranças de rua são presos por agredir ciclista até a morte no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 4 recebem Bolsa Família de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fungos podem restaurar terras degradadas e combater crise climática"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Provas do Encceja 2026 serão aplicadas no domingo em todo o país"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Justiça autoriza cremação de vítimas de queda de helicóptero no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Homem é condenado a 24 anos de prisão por morte de mulher trans"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio entra em Estágio 2 devido à previsão de ventos de até 90km/h"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil bate Argentina e vai à semi de qualificatório para Pré-Olímpico"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "ANS suspende preventivamente reajustes e cancelamentos da Hapvida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Terremoto de magnitude 7,2 atinge sul do Peru"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE divulga tempo dos candidatos à Presidência no horário eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STJ restabelece sanções a cursos de medicina com nota baixa no Enamed"
     }
 ];
