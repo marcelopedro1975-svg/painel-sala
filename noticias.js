@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Com autorização de Moraes, Bolsonaro poderá voltar a receber visitas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cosméticos sem registro têm fabricação e venda proibidas pela Anvisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ANS suspende cautelar contra Hapvida após explicações sobre reajustes"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cantora portuguesa Carminho reforça amor pelo Brasil em turnê"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Libertadores: Mirassol cai nos pênaltis e LDU será rival do Palmeiras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a quinta-feira (20) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "RN vai abrigar supercomputador brasileiro de Inteligência Artificial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arthur Elias aprova logística em caminho do Brasil na Copa Feminina"
     }
 ];
