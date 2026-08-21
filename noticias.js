@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Governo Espriella encerra jornalismo da mídia pública da Colômbia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Empresas com 100 ou mais empregados devem atualizar dados até dia 31"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras negocia exploração em Gana para ampliar presença na África"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa conclui exercício militar com participação de mais cinco países"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Desigualdades marcam formalização do trabalho entre jovens brasileiros"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Arthur Elias aprova logística em caminho do Brasil na Copa Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ativista pede transparência em investigação de atentado na Bolívia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Capital paulista vacinou 1 milhão de pessoas contra o sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil bate Argentina e vai à semi de qualificatório para Pré-Olímpico"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
     }
 ];
