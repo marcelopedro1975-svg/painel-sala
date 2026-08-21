@@ -37,11 +37,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
+        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil envia 19 toneladas de arroz à Colômbia após terremoto"
+        titulo: "Justiça derruba norma que permite a dentista fazer harmonização facial"
     },
     {
         fonte: "Agência Brasil",
