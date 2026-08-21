@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cantora portuguesa Carminho reforça amor pelo Brasil em turnê"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula liga para Trump e diz que alegações para tarifaço são infundadas"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "País terá Dia D de Multivacinação neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Meteorologia emite alerta de ventos de até 100 km/h no Rio"
     },
     {
         fonte: "Agência Brasil",
