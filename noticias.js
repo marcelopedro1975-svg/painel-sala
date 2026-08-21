@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos candidatos à Presidência nesta sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Frio avança sobre centro-sul do país com mínimas abaixo de 10ºC"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Seguranças de rua são presos por agredir ciclista até a morte no Rio"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula e próximo concurso deve pagar R$ 50 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "RN vai abrigar supercomputador brasileiro de Inteligência Artificial"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SP: Enel apresenta alegações finais contra caducidade da concessão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ANS suspende preventivamente reajustes e cancelamentos da Hapvida"
     }
 ];
