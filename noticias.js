@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula liga para Trump e diz que alegações para tarifaço são infundadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Passagem de frente fria pelo estado de SP pode causar temporais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Artistas de diferentes gerações interpretam clássicos de Chico Buarque"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Governo Espriella encerra jornalismo da mídia pública da Colômbia"
     },
     {
@@ -33,23 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Saiba como proteger pesca e aquicultura de efeitos do El Niño"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Frio avança sobre centro-sul do país com mínimas abaixo de 10ºC"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Seguranças de rua são presos por agredir ciclista até a morte no Rio"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Beneficiários com NIS de final 4 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fungos podem restaurar terras degradadas e combater crise climática"
     },
     {
         fonte: "Agência Brasil",
