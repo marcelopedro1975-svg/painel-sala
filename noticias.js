@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileiro Feminino: 6 times lutam no sábado para avançar às quartas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STF marca para setembro retomada do julgamento da Lei da Ficha Limpa"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Beneficiários com NIS de final 4 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Provas do Encceja 2026 serão aplicadas no domingo em todo o país"
     }
 ];
