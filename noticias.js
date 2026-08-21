@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Provas do Encceja 2026 serão aplicadas no domingo em todo o país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça autoriza cremação de vítimas de queda de helicóptero no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Libertadores pode ter semifinais 100% brasileiras pela primeira vez"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Libertadores: Mirassol cai nos pênaltis e LDU será rival do Palmeiras"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STJ restabelece sanções a cursos de medicina com nota baixa no Enamed"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após 2 anos, Rebeca Andrade volta a disputar etapa da Copa do Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Maranhão terá eleição simulada no domingo para testar urnas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aviação doméstica brasileira tem a maior movimentação em 26 anos"
     }
 ];
