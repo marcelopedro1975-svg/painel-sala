@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Engenharia social responde por 40% das fraudes financeiras no Brasil"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja como foi a sexta-feira (21) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quatro envolvidos na morte de ciclista espancado no RJ estão presos"
     },
     {
         fonte: "Agência Brasil",
