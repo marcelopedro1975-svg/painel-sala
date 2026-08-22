@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Morre veterinária atacada por cachorro no canil do Senado Federal"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Campanha convoca familiares de desaparecidos para coleta de DNA"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Sete em cada dez brasileiros temem comprar remédios pela internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro Feminino: 6 times lutam no sábado para avançar às quartas"
     }
 ];
