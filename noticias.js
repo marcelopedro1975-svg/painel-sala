@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Engenharia social responde por 40% das fraudes financeiras no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Canetas emagrecedoras: uso sem supervisão pode causar perda muscular"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Cosméticos sem registro têm fabricação e venda proibidas pela Anvisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ANS suspende cautelar contra Hapvida após explicações sobre reajustes"
     }
 ];
