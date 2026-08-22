@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja a agenda dos candidatos à Presidência neste fim de semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "\"Cabeças Cortadas\", de Glauber Rocha, ganhará versão restaurada em 4k"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dia D de vacinação é realizado neste sábado em todo o país"
     },
     {
@@ -41,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mais de 3 milhões com benefícios federais são bloqueados em bets"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "STF marca para setembro retomada do julgamento da Lei da Ficha Limpa"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Empresas com 100 ou mais empregados devem atualizar dados até dia 31"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras negocia exploração em Gana para ampliar presença na África"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa conclui exercício militar com participação de mais cinco países"
     }
 ];
