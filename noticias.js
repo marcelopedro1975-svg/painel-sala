@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Canetas emagrecedoras: uso sem supervisão pode causar perda muscular"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fim de semana terá tempo seco no Centro-Oeste e frio intenso no Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Focus Cia de Dança representa o Brasil em festival na China"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "ANS suspende cautelar contra Hapvida após explicações sobre reajustes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula liga para Trump e diz que alegações para tarifaço são infundadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo Espriella encerra jornalismo da mídia pública da Colômbia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empresas com 100 ou mais empregados devem atualizar dados até dia 31"
     }
 ];
