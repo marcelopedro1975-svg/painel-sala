@@ -5,6 +5,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Quatro envolvidos na morte de ciclista espancado no RJ estão presos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Alcolumbre envia PEC do fim da escala 6x1 para CCJ do Senado"
     },
     {
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF marca para setembro retomada do julgamento da Lei da Ficha Limpa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cristo Redentor se prepara para compensar impacto ambiental do turismo"
     },
     {
         fonte: "Agência Brasil",
