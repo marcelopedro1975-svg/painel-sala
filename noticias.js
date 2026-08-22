@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi a sexta-feira (21) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alcolumbre envia PEC do fim da escala 6x1 para CCJ do Senado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ministros do Brasil e EUA vão retomar negociação comercial"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF marca para setembro retomada do julgamento da Lei da Ficha Limpa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil vence etapa distrital do Prêmio Sebrae de Jornalismo"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Desigualdades marcam formalização do trabalho entre jovens brasileiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "País terá Dia D de Multivacinação neste sábado"
     }
 ];
