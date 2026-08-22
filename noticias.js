@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dia D de vacinação é realizado neste sábado em todo o país"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi a sexta-feira (21) dos candidatos a presidente"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Defesa conclui exercício militar com participação de mais cinco países"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desigualdades marcam formalização do trabalho entre jovens brasileiros"
     }
 ];
