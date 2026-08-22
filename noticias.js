@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dia D atualiza vacinação infantil e reforça alerta contra sarampo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileiro Feminino: 6 times lutam no sábado para avançar às quartas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF marca para setembro retomada do julgamento da Lei da Ficha Limpa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com autorização de Moraes, Bolsonaro poderá voltar a receber visitas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cosméticos sem registro têm fabricação e venda proibidas pela Anvisa"
     }
 ];
