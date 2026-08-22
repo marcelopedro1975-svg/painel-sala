@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Campanha convoca familiares de desaparecidos para coleta de DNA"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono"
     },
     {
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja a agenda dos candidatos à Presidência neste fim de semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"Cabeças Cortadas\", de Glauber Rocha, ganhará versão restaurada em 4k"
     },
     {
         fonte: "Agência Brasil",
