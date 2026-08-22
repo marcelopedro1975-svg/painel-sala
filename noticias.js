@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Engenharia social responde por 40% das fraudes financeiras no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Canetas emagrecedoras: uso sem supervisão pode causar perda muscular"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Moraes determina cassação da aposentadoria de ex-diretor da PRF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai a R$ 5,14 com alívio no mercado externo"
     }
 ];
