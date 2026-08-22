@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Peixe antes desprezado melhora renda de mulheres da pesca no Rio"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Moraes determina cassação da aposentadoria de ex-diretor da PRF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai a R$ 5,14 com alívio no mercado externo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sete em cada dez brasileiros temem comprar remédios pela internet"
     }
 ];
