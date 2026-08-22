@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Peixe antes desprezado melhora renda de mulheres da pesca no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Morre veterinária atacada por cachorro no canil do Senado Federal"
     },
     {
@@ -30,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Canetas emagrecedoras: uso sem supervisão pode causar perda muscular"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fim de semana terá tempo seco no Centro-Oeste e frio intenso no Sul"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Focus Cia de Dança representa o Brasil em festival na China"
     },
     {
         fonte: "Agência Brasil",
