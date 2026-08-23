@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Pix enfrenta instabilidade na manhã deste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça mantém prisão de seguranças investigados por morte de ciclista"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Conheça as atribuições do presidente e do vice-presidente da República"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ministros do Brasil e EUA vão retomar negociação comercial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rafael Matos e Orlando Luz vão à semi de duplas do ATP de Cincinnati"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes determina cassação da aposentadoria de ex-diretor da PRF"
     }
 ];
