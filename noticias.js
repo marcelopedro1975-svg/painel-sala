@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Conheça as atribuições do presidente e do vice-presidente da República"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi o sábado (22) dos candidatos a presidente"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Moraes determina cassação da aposentadoria de ex-diretor da PRF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai a R$ 5,14 com alívio no mercado externo"
     }
 ];
