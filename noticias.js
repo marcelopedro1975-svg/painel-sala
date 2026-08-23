@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vasco e Minas Brasília garantem vaga na Série A1 em 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Opção pelo Simples Nacional para 2027 é antecipada para setembro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dino anula emendas indicadas por dirigentes partidários sem mandato"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Campanha convoca familiares de desaparecidos para coleta de DNA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dia D atualiza vacinação infantil e reforça alerta contra sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Canetas emagrecedoras: uso sem supervisão pode causar perda muscular"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40"
     }
 ];
