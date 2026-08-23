@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Provas do Encceja são realizadas neste domingo em todo o país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apostador de Blumenau (SC) leva prêmio de R$ 57 milhões da Mega-Sena"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Povos Katxuyana e Kahyana contam retomada de território pela arte"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Japão é atingido por terremoto que deixa ao menos dez pessoas feridas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "INSS libera consignado sem biometria facial para aposentados"
     },
     {
@@ -25,19 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Veja como foi o sábado (22) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Peixe antes desprezado melhora renda de mulheres da pesca no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dia D de vacinação é realizado neste sábado em todo o país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a sexta-feira (21) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alcolumbre envia PEC do fim da escala 6x1 para CCJ do Senado"
     }
 ];
