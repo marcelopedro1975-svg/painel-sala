@@ -9,6 +9,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Novos editais fortalecem Pontões e Pontos de Cultura no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Conheça as atribuições do presidente e do vice-presidente da República"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Alcolumbre envia PEC do fim da escala 6x1 para CCJ do Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministros do Brasil e EUA vão retomar negociação comercial"
     }
 ];
