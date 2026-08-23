@@ -1,11 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
+        titulo: "Jovens eleitores quilombolas defendem voto em defesa de ideais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONS suspende geração excedente de energia pela segunda vez no ano"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
     },
     {
         fonte: "Agência Brasil",
@@ -37,23 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Apostador de Blumenau (SC) leva prêmio de R$ 57 milhões da Mega-Sena"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Povos Katxuyana e Kahyana contam retomada de território pela arte"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Japão é atingido por terremoto que deixa ao menos dez pessoas feridas"
     },
     {
         fonte: "Agência Brasil",
         titulo: "INSS libera consignado sem biometria facial para aposentados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Apostadores de bet em periferias buscam ajuda após vida virar pesadelo"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Campanha convoca familiares de desaparecidos para coleta de DNA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono"
     }
 ];
