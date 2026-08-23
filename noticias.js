@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi o domingo (23) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Planalto volta a vencer Realidade Jovem e vai à final da A3"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Degradação da terra e clima extremo ameaçam nômades na Mongólia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Jovens eleitores quilombolas defendem voto em defesa de ideais"
     },
     {
@@ -9,11 +25,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
+        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
+        titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
     },
     {
         fonte: "Agência Brasil",
@@ -34,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleitores participam de eleição simulada no Maranhão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Decisiva nas urnas, classe C quer Estado que funcione, diz pesquisador"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha convoca familiares de desaparecidos para coleta de DNA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono"
     }
 ];
