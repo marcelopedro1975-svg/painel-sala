@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "INSS libera consignado sem biometria facial para aposentados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apostadores de bet em periferias buscam ajuda após vida virar pesadelo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Pix enfrenta instabilidade na manhã deste domingo"
     },
     {
@@ -30,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Peixe antes desprezado melhora renda de mulheres da pesca no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Morre veterinária atacada por cachorro no canil do Senado Federal"
     },
     {
         fonte: "Agência Brasil",
