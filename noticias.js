@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi o sábado (22) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dia D atualiza vacinação infantil e reforça alerta contra sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo"
     },
     {
         fonte: "Agência Brasil",
