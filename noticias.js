@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dino anula emendas indicadas por dirigentes partidários sem mandato"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitores participam de eleição simulada no Maranhão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Decisiva nas urnas, classe C quer Estado que funcione, diz pesquisador"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Provas do Encceja são realizadas neste domingo em todo o país"
     },
     {
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça mantém prisão de seguranças investigados por morte de ciclista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novos editais fortalecem Pontões e Pontos de Cultura no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja a agenda dos candidatos à Presidência neste fim de semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dia D de vacinação é realizado neste sábado em todo o país"
     }
 ];
