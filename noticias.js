@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TV Brasil exibe jogo de ida da final do feminino sub-17 nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dino autoriza PF a acessar investigação sobre produtora do Dark Horse"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Beneficiários com NIS de final 5 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba mais sobre acordo para facilitar comércio eletrônico no Mercosul"
     }
 ];
