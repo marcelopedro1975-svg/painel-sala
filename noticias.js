@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça mantém prisão de entregadores envolvidos na morte de ciclista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 5 recebem Bolsa Família de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba mais sobre acordo para facilitar comércio eletrônico no Mercosul"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Canetas emagrecedoras: pediatras alertam para risco de uso em crianças"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleitores participam de eleição simulada no Maranhão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Provas do Encceja são realizadas neste domingo em todo o país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Japão é atingido por terremoto que deixa ao menos dez pessoas feridas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "INSS libera consignado sem biometria facial para aposentados"
     }
 ];
