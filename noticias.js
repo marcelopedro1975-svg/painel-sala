@@ -1,7 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dino autoriza PF a acessar investigação sobre produtora do Dark Horse"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Crime organizado não se combate apenas com penas maiores, diz Moraes"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula e Edorgan combinam criação de conselho entre Brasil e Turquia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entenda como “fazenda de cliques” pode influenciar debates em eleição"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba mais sobre acordo para facilitar comércio eletrônico no Mercosul"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Canetas emagrecedoras: pediatras alertam para risco de uso em crianças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rafael Matos e Orlando Luz vencem mais um Masters 1000 em Cincinatti"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita libera consulta ao último lote de restituição do IR 2026"
     }
 ];
