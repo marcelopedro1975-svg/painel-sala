@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Comércio eletrônico em compras federais é regulamentado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Medidas protetivas para mulheres crescem 43% no estado do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Empresas atingidas por tarifaço e guerras terão R$ 13,5 bi em crédito"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mercado reduz projeção para crescimento da economia em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba quais são as atribuições dos governadores e vice-governadores"
     }
 ];
