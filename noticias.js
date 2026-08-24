@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Palmeiras goleia Vasco e volta a abrir frente no Brasileirão: 4 a 1"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi o domingo (23) dos candidatos a presidente"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Conheça as atribuições do presidente e do vice-presidente da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição"
     }
 ];
