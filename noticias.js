@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula e Edorgan combinam criação de conselho entre Brasil e Turquia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Banco do Brasil lança novo aplicativo com foco em IA e personalização"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mobilização nacional coleta DNA de parentes de desaparecidos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Distribuição de medicamentos para esclerose múltipla aumentou"
     },
     {
@@ -37,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Frio perde intensidade no Sul e seca persiste no centro do país"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Receita libera consulta ao último lote de restituição do IR 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Palmeiras goleia Vasco e volta a abrir frente no Brasileirão: 4 a 1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi o domingo (23) dos candidatos a presidente"
     }
 ];
