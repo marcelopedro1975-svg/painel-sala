@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Distribuição de medicamentos para esclerose múltipla aumentou"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Explosão de botijão de gás causa interdição de 13 casas em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TRE-SP nega recurso de Marçal e mantém inelegibilidade"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "COP17 entra em semana decisiva com missão de destravar financiamento"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Saiba quais são as atribuições dos governadores e vice-governadores"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja como foi o domingo (23) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Planalto volta a vencer Realidade Jovem e vai à final da A3"
     }
 ];
