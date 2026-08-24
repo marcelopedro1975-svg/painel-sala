@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Indonésia: número de mortos no terremoto chega a 100 mil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mercado reduz projeção para crescimento da economia em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Frio perde intensidade no Sul e seca persiste no centro do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "COP17 entra em semana decisiva com missão de destravar financiamento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba quais são as atribuições dos governadores e vice-governadores"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça mantém prisão de entregadores envolvidos na morte de ciclista"
     },
     {
@@ -37,14 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Degradação da terra e clima extremo ameaçam nômades na Mongólia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Jovens eleitores quilombolas defendem voto em defesa de ideais"
     },
     {
@@ -53,30 +69,14 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vasco e Minas Brasília garantem vaga na Série A1 em 2027"
+        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Opção pelo Simples Nacional para 2027 é antecipada para setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino anula emendas indicadas por dirigentes partidários sem mandato"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores participam de eleição simulada no Maranhão"
     }
 ];
