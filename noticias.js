@@ -73,10 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
+        titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
+        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
     }
 ];
