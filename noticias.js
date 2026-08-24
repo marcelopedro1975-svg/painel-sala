@@ -33,11 +33,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar"
+        titulo: "Vasco e Minas Brasília garantem vaga na Série A1 em 2027"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vasco e Minas Brasília garantem vaga na Série A1 em 2027"
+        titulo: "Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar"
     },
     {
         fonte: "Agência Brasil",
