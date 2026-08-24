@@ -1,7 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Empresas atingidas por tarifaço e guerras terão R$ 13,5 bi em crédito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pé-de-Meia começa a pagar quinta parcela de frequência nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TV Brasil exibe jogo de ida da final do feminino sub-17 nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidente do STM defende justiça comum em caso de violência doméstica"
     },
     {
         fonte: "Agência Brasil",
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Distribuição de medicamentos para esclerose múltipla aumentou"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Explosão de botijão de gás causa interdição de 13 casas em São Paulo"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba quais são as atribuições dos governadores e vice-governadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça mantém prisão de entregadores envolvidos na morte de ciclista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 5 recebem Bolsa Família de agosto"
     }
 ];
