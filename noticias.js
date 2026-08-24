@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TRE-SP nega recurso de Marçal e mantém inelegibilidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fiocruz lança carta aos candidatos com temas prioritários da saúde"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anvisa e Roche cancelam registro de Elevidys para doença rara"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Planalto volta a vencer Realidade Jovem e vai à final da A3"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jovens eleitores quilombolas defendem voto em defesa de ideais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONS suspende geração excedente de energia pela segunda vez no ano"
     }
 ];
