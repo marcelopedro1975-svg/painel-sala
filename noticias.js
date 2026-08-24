@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Anvisa e Roche cancelam registro de Elevidys para doença rara"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Conselho aprova pedido de recuperação extrajudicial da Braskem"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "ONS suspende geração excedente de energia pela segunda vez no ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
     }
 ];
