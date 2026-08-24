@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Canetas emagrecedoras: pediatras alertam para risco de uso em crianças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rafael Matos e Orlando Luz vencem mais um Masters 1000 em Cincinatti"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita libera consulta ao último lote de restituição do IR 2026"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Palmeiras goleia Vasco e volta a abrir frente no Brasileirão: 4 a 1"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "INSS libera consignado sem biometria facial para aposentados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pix enfrenta instabilidade na manhã deste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça mantém prisão de seguranças investigados por morte de ciclista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conheça as atribuições do presidente e do vice-presidente da República"
     }
 ];
