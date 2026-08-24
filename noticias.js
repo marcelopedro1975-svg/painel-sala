@@ -1,7 +1,11 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Indonésia: número de mortos no terremoto chega a 100 mil"
+        titulo: "Conselho aprova pedido de recuperação extrajudicial da Braskem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Indonésia: número de mortos no terremoto chega a 100"
     },
     {
         fonte: "Agência Brasil",
@@ -69,14 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar"
+        titulo: "Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão"
     }
 ];
