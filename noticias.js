@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Empresas afetadas por tarifaço terão drawback estendido por um ano"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça mantém suspensão de demissões em massa das Casas Bahia"
     },
     {
@@ -41,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Marinha emite aviso de ressaca no litoral de São Paulo e do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "SP confirma dois casos de febre do Nilo Ocidental"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleições 2026: saiba quais são as atribuições de senadores e deputados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 6 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Salário mínimo deverá subir para R$ 1.741 em 2027"
     }
 ];
