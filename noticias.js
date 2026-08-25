@@ -1,7 +1,7 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Salário mínimo deverá subir para R$ 1.741 em 2027, diz Durigan"
+        titulo: "Salário mínimo deverá subir para R$ 1.741 em 2027"
     },
     {
         fonte: "Agência Brasil",
