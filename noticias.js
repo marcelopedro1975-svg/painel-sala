@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça mantém suspensão de demissões em massa das Casas Bahia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Organização lança no Brasil movimento Um Dia sem Internet"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Facebook falha em filtrar anúncio com desinformação eleitoral, diz ONG"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil e EUA definem data de reunião para discutir tarifaço"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anvisa aprova segundo genérico de semaglutida em caneta injetável"
     },
     {
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil promete restaurar 163 mil km² de terras degradadas até 2030"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Entenda Doença de Creutzfeldt-Jakob, diagnóstico do piloto Lito Souza"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Salário mínimo deverá subir para R$ 1.741 em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CMN flexibiliza uso de recursos para renegociar dívidas rurais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a segunda-feira (24) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SBPC convida candidatos a governador a se comprometerem com a ciência"
     }
 ];
