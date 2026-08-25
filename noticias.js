@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça decreta prisão de envolvidos na morte de advogado no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Beneficiários com NIS de final 6 recebem Bolsa Família de agosto"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fiocruz lança carta aos candidatos com temas prioritários da saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa e Roche cancelam registro de Elevidys para doença rara"
     }
 ];
