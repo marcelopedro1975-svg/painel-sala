@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Previsão de gastos com INSS em 2027 é reduzida em R$ 5 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vendas do Tesouro Direto registram melhor julho da história"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sociedade civil propõe 27 pontos para segurança centrada em prevenção"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STF valida proibição de devedor contumaz pedir recuperação judicial"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SP confirma dois casos de febre do Nilo Ocidental"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia 2026: nascidos em março e abril recebem parcela nesta terça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entenda Doença de Creutzfeldt-Jakob, diagnóstico do piloto Lito Souza"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei cria Junho Vermelho para incentivar doação de sangue"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (25)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Irã promete resistir à ampliação das sanções dos Estados Unidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: saiba quais são as atribuições de senadores e deputados"
     }
 ];
