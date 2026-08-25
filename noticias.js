@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "SUS: mulheres em situação de violência têm teleatendimento psicológico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba os sintomas e os tratamentos para a febre do Nilo Ocidental"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Marinha emite aviso de ressaca no litoral de São Paulo e do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "SP confirma dois casos de febre do Nilo Ocidental"
     },
     {
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Irã promete resistir à ampliação das sanções dos Estados Unidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil multa TikTok em R$ 153,7 mi por falhas em dados de adolescentes"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Empresas atingidas por tarifaço e guerras terão R$ 13,5 bi em crédito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia começa a pagar quinta parcela de frequência nesta segunda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil exibe jogo de ida da final do feminino sub-17 nesta segunda"
     }
 ];
