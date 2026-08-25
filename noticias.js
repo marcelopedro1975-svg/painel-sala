@@ -1,11 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
+        titulo: "STF valida proibição de devedor contumaz pedir recuperação judicial"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entidade cobra compromisso de candidatos com direitos da natureza"
     },
     {
         fonte: "Agência Brasil",
