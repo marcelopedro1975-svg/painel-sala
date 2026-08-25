@@ -1,11 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Entenda Doença de Creutzfeldt-Jakob e busca por tratamento"
+        titulo: "Entenda Doença de Creutzfeldt-Jakob, diagnóstico do piloto Lito Souza"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Lei cria Junho Vermelho para incentivar doação de sangue"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EUA são criticados por bloquear gênero e participação social na COP17"
     },
     {
         fonte: "Agência Brasil",
@@ -42,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Salário mínimo deverá subir para R$ 1.741 em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estados do Nordeste tentam atrair investimentos para Caatinga na COP17"
     },
     {
         fonte: "Agência Brasil",
