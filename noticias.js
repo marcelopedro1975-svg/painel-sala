@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidade cobra compromisso de candidatos com direitos da natureza"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "SUS: mulheres em situação de violência têm teleatendimento psicológico"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lei cria Junho Vermelho para incentivar doação de sangue"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EUA são criticados por bloquear gênero e participação social na COP17"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Medidas protetivas para mulheres crescem 43% no estado do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empresas atingidas por tarifaço e guerras terão R$ 13,5 bi em crédito"
     }
 ];
