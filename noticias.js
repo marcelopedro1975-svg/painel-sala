@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 6 recebem Bolsa Família de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Salário mínimo deverá subir para R$ 1.741 em 2027"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa e Roche cancelam registro de Elevidys para doença rara"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás"
     }
 ];
