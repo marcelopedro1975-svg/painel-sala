@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil promete restaurar 163 mil km² de terras degradadas até 2030"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Entenda Doença de Creutzfeldt-Jakob, diagnóstico do piloto Lito Souza"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mega-Sena sorteia prêmio de R$ 3,5 milhões nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça decreta prisão de envolvidos na morte de advogado no Rio"
     },
     {
         fonte: "Agência Brasil",
