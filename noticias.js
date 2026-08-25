@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "SP confirma dois casos de febre do Nilo Ocidental"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pé-de-Meia 2026: nascidos em março e abril recebem parcela nesta terça"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil promete restaurar 163 mil km² de terras degradadas até 2030"
     },
     {
@@ -30,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleições 2026: saiba quais são as atribuições de senadores e deputados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuvas e trovoadas atingem Centro-Oeste, Sudeste e Sul do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio de R$ 3,5 milhões nesta terça-feira"
     },
     {
         fonte: "Agência Brasil",
