@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Entenda Doença de Creutzfeldt-Jakob e busca por tratamento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei cria Junho Vermelho para incentivar doação de sangue"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (25)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Irã promete resistir à ampliação das sanções dos Estados Unidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil multa TikTok em R$ 153,7 mi por falhas em dados de adolescentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: saiba quais são as atribuições de senadores e deputados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas e trovoadas atingem Centro-Oeste, Sudeste e Sul do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio de R$ 3,5 milhões nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça decreta prisão de envolvidos na morte de advogado no Rio"
     },
     {
@@ -29,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Unicef pede a candidatos mais ações de prevenção à violência infantil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Comércio eletrônico em compras federais é regulamentado"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TV Brasil exibe jogo de ida da final do feminino sub-17 nesta segunda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino autoriza PF a acessar investigação sobre produtora do Dark Horse"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Crime organizado não se combate apenas com penas maiores, diz Moraes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula e Edorgan combinam criação de conselho entre Brasil e Turquia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Banco do Brasil lança novo aplicativo com foco em IA e personalização"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Distribuição de medicamentos para esclerose múltipla aumentou"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-SP nega recurso de Marçal e mantém inelegibilidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fiocruz lança carta aos candidatos com temas prioritários da saúde"
     }
 ];
