@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Anvisa aprova segundo genérico de semaglutida em caneta injetável"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça preserva direito de idosos a passagens interestaduais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SBPC convida candidatos a governador a se comprometerem com a ciência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comércio eletrônico em compras federais é regulamentado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Medidas protetivas para mulheres crescem 43% no estado do Rio"
     }
 ];
