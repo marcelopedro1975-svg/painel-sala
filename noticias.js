@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Salário mínimo deverá subir para R$ 1.741 em 2027, diz Durigan"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estados do Nordeste tentam atrair investimentos para Caatinga na COP17"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN flexibiliza uso de recursos para renegociar dívidas rurais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a segunda-feira (24) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SBPC convida candidatos a governador a se comprometerem com a ciência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Unicef pede a candidatos mais ações de prevenção à violência infantil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Comércio eletrônico em compras federais é regulamentado"
     },
     {
@@ -21,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidente do STM defende justiça comum em caso de violência doméstica"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dino autoriza PF a acessar investigação sobre produtora do Dark Horse"
     },
     {
@@ -37,15 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Entenda como “fazenda de cliques” pode influenciar debates em eleição"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Banco do Brasil lança novo aplicativo com foco em IA e personalização"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mobilização nacional coleta DNA de parentes de desaparecidos"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conselho aprova pedido de recuperação extrajudicial da Braskem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Indonésia: número de mortos no terremoto chega a 100"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado reduz projeção para crescimento da economia em 2026"
     }
 ];
