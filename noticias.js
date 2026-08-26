@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PM ocupa cinco comunidades do Complexo de Israel, no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mendonça propõe tese para julgamento sobre deep fake no TSE"
     },
     {
@@ -13,19 +17,19 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Beleza nos céus, halo solar não é sinal de chuva, diz especialista"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
+        titulo: "Beleza nos céus, halo solar não é sinal de chuva, diz especialista"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
     },
     {
         fonte: "Agência Brasil",
@@ -37,19 +41,15 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sociedade civil propõe 27 pontos para segurança centrada em prevenção"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "STF valida proibição de devedor contumaz pedir recuperação judicial"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
+        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
+        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
     },
     {
         fonte: "Agência Brasil",
