@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Receita arrecada R$ 3,1 bilhões com IR sobre dividendos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saúde estende atuação de 676 médicos especialistas no SUS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Degelo e seca avançam sobre Ásia Central e pequenos países insulares"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Criminosos usam ônibus em barricadas contra operação policial no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Campo de Búzios, da Petrobras, bate recordes de exportação de gás"
     },
     {
@@ -29,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Centro-Oeste tem três alertas ativos para chuvas e baixa umidade"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta"
     },
     {
@@ -53,6 +65,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mendonça propõe tese para julgamento sobre deep fake no TSE"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Previsão de gastos com INSS em 2027 é reduzida em R$ 5 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vendas do Tesouro Direto registram melhor julho da história"
     }
 ];
