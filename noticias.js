@@ -5,15 +5,19 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 25 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi a terça-feira (25) dos candidatos a presidente"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões"
+        titulo: "Beleza nos céus, halo solar não é sinal de chuva, diz especialista"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Beleza nos céus, halo solar não é sinal de chuva, diz especialista"
+        titulo: "Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões"
     },
     {
         fonte: "Agência Brasil",
@@ -41,11 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
+        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
+        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça preserva direito de idosos a passagens interestaduais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões"
     }
 ];
