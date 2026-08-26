@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Candidaturas negras avançam e se aproximam de perfil racial do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Olimpíada de educação financeira tem última semana de inscrições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PM ocupa cinco comunidades do Complexo de Israel, no Rio"
     },
     {
@@ -25,11 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
+        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
+        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
     },
     {
         fonte: "Agência Brasil",
@@ -45,11 +61,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
+        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
+        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Organização lança no Brasil movimento Um Dia sem Internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Facebook falha em filtrar anúncio com desinformação eleitoral, diz ONG"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil e EUA definem data de reunião para discutir tarifaço"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova segundo genérico de semaglutida em caneta injetável"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça preserva direito de idosos a passagens interestaduais"
     }
 ];
