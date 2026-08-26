@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Prévia da inflação fica em -0,40%, a menor desde maio de 2020"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Centro-Oeste tem três alertas ativos para chuvas e baixa umidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (26)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Candidaturas negras avançam e se aproximam de perfil racial do país"
     },
     {
@@ -25,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 25 milhões; confira os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Veja como foi a terça-feira (25) dos candidatos a presidente"
     },
     {
@@ -37,15 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Beleza nos céus, halo solar não é sinal de chuva, diz especialista"
+        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empresas afetadas por tarifaço terão drawback estendido por um ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça mantém suspensão de demissões em massa das Casas Bahia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Organização lança no Brasil movimento Um Dia sem Internet"
     }
 ];
