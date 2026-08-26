@@ -1,19 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dona de Habib’s e Ragazzo entra em recuperação judicial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Hugo Motta indica presidente da comissão da MP da Taxa das Blusinhas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "FPF e Liga F anunciam parceria para fortalecer futebol feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival Caju reforça leitura para alunos indígenas na TI Barra Velha"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo brasileiro lamenta mortes em avalanche no Nepal e na China"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eclipse parcial da Lua nesta quinta-feira será visto em todo o Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo e Congresso acertam pautas para esforço concentrado de votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Até 53% da Dívida Pública Federal poderá ser corrigida pela Selic"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EBC promove capacitação sobre cobertura jornalística de feminicídios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CCJ do Senado prevê votação da PEC da Segurança na próxima semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dívida Pública sobe 0,22% em julho e supera R$ 9,2 trilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tabagismo é maior entre jovens de 16 a 24 anos, alerta pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prouni: candidatos têm até amanhã para registro na lista de espera"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Receita arrecada R$ 3,1 bilhões com IR sobre dividendos"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Saúde estende atuação de 676 médicos especialistas no SUS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Degelo e seca avançam sobre Ásia Central e pequenos países insulares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Criminosos usam ônibus em barricadas contra operação policial no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -29,54 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Morre, em Salvador, o poeta e ativista Luis Turiba"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estiagem: Defesa Civil reconhece emergência em cidades do Nordeste"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Prévia da inflação fica em -0,40%, a menor desde agosto de 2022"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Anvisa atualiza regras de segurança sanitária para aviões e aeroportos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (26)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Candidaturas negras avançam e se aproximam de perfil racial do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Olimpíada de educação financeira tem última semana de inscrições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça propõe tese para julgamento sobre deep fake no TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a terça-feira (25) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões"
     }
 ];
