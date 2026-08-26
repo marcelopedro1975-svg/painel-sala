@@ -1,7 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Prévia da inflação fica em -0,40%, a menor desde maio de 2020"
+        titulo: "Estiagem: Defesa Civil reconhece emergência em cidades do Nordeste"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prévia da inflação fica em -0,40%, a menor desde agosto de 2022"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa atualiza regras de segurança sanitária para aviões e aeroportos"
     },
     {
         fonte: "Agência Brasil",
@@ -33,14 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PM ocupa cinco comunidades do Complexo de Israel, no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mendonça propõe tese para julgamento sobre deep fake no TSE"
     },
     {
@@ -53,11 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
+        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
+        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
     },
     {
         fonte: "Agência Brasil",
