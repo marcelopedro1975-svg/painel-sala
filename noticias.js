@@ -1,7 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mendonça propõe tese para julgamento sobre deep fake no TSE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a terça-feira (25) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beleza nos céus, halo solar não é sinal de chuva, diz especialista"
     },
     {
         fonte: "Agência Brasil",
@@ -29,11 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
+        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
+        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS: mulheres em situação de violência têm teleatendimento psicológico"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba os sintomas e os tratamentos para a febre do Nilo Ocidental"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP confirma dois casos de febre do Nilo Ocidental"
     }
 ];
