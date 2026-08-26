@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Campo de Búzios, da Petrobras, bate recordes de exportação de gás"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Guerra, tarifas e menos imposto a ricos geram dívida recorde nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Febre do Nilo Ocidental: não há motivo para pânico, diz médico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morre, em Salvador, o poeta e ativista Luis Turiba"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Estiagem: Defesa Civil reconhece emergência em cidades do Nordeste"
     },
     {
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mendonça propõe tese para julgamento sobre deep fake no TSE"
     },
     {
@@ -53,11 +65,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
+        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
+        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Vendas do Tesouro Direto registram melhor julho da história"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF valida proibição de devedor contumaz pedir recuperação judicial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
     }
 ];
