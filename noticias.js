@@ -21,11 +21,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
+        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
+        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
     },
     {
         fonte: "Agência Brasil",
