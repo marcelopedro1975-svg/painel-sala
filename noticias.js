@@ -21,11 +21,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
+        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fila de espera do INSS cai para 1,2 milhão de requerimentos"
+        titulo: "Presidente do TSE conclama eleitores a comparecerem às urnas"
     },
     {
         fonte: "Agência Brasil",
@@ -45,11 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
+        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça do Rio decreta falência da Oi pela segunda vez"
+        titulo: "Renegociação de dívidas do Fies pode ser feita até 16 de setembro"
     },
     {
         fonte: "Agência Brasil",
