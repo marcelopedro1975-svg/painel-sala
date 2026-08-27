@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TSE e Google lançam ferramenta para proteger candidatos de deepfakes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lucro da Caixa cresce 5,9% e chega a R$ 3,9 bi no segundo trimestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quarta-feira (26) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: mulheres negras divulgam manifesto para candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU processa Discord e pede R$ 500 milhões por dano moral coletivo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dona de Habib’s e Ragazzo entra em recuperação judicial"
     },
     {
@@ -21,19 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eclipse parcial da Lua nesta quinta-feira será visto em todo o Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Governo e Congresso acertam pautas para esforço concentrado de votação"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Até 53% da Dívida Pública Federal poderá ser corrigida pela Selic"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EBC promove capacitação sobre cobertura jornalística de feminicídios"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Guerra, tarifas e menos imposto a ricos geram dívida recorde nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Febre do Nilo Ocidental: não há motivo para pânico, diz médico"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prévia da inflação fica em -0,40%, a menor desde agosto de 2022"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta"
     }
 ];
