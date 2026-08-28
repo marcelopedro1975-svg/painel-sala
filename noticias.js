@@ -1,6 +1,70 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Internacional e Grêmio ficam no zero pelas quartas da Copa do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ proíbe Garotinho de ir a debate e ter propaganda eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apesar de liminar, Camex prorroga imposto sobre exportação de petróleo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 30 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conselho eleva limite de remuneração do Eco Invest Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF adia retomada do julgamento sobre uberização"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN facilita crédito emergencial a fertilizantes e minerais críticos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Teto de crédito para taxistas e motoristas de app sobe para R$ 200 mil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Federal suspende imposto de exportação de 12% sobre petróleo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE marca julgamento sobre vídeo de Bolsonaro feito por IA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quinta-feira (27) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Limite de crédito a estados e municípios é ampliado em R$ 3 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF decidirá se acesso a dados de usuários precisa de ordem judicial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MP do Rio denuncia 20 pessoas por envolvimento com milícia e facção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil amplia comércio com Índia e retoma diálogo sobre tarifaço"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alison dos Santos quebra recorde mundial dos 400m com barreiras"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "EBC destaca protagonismo da comunicação pública na TV 3.0"
     },
     {
@@ -13,70 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rádio Nacional ganha segundo lugar em etapa estadual do Prêmio Sebrae"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TSE aprova envio de tropas federais para cinco estados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival mostra, no Rio de Janeiro, que a matemática é pop e divertida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Imazon aponta desmatamento zero em 60% de terras indígenas na Amazônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dia de Combate ao Fumo: treinar não combina com fumar, destaca Inca"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escolas têm até 8 de setembro para escolher livros didáticos para 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia paga hoje 5ª parcela a alunos nascidos em julho e agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo chega a 26 casos de sarampo em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Serviços ocuparam 15,9 milhões e pagaram média de 2,2 mínimos em 2024"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desemprego cai para 5,3%, o menor para o trimestre terminado em julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja a agenda dos presidenciáveis nesta quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça marca julgamento de acusado de matar galerista norte-americano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "COP17 caminha para novo adiamento de acordo de combate às secas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Supremo retoma julgamento sobre uberização"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 8 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE e Google lançam ferramenta para proteger candidatos de deepfakes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lucro da Caixa cresce 5,9% e chega a R$ 3,9 bi no segundo trimestre"
     }
 ];
