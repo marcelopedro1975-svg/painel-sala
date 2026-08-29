@@ -49,11 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vorcaro presta depoimento de quatro horas à Polícia Federal"
+        titulo: "Brasil cria 58,5 mil postos de trabalho em julho, aponta Caged"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil cria 58,5 mil postos de trabalho em julho, aponta Caged"
+        titulo: "Vorcaro presta depoimento de quatro horas à Polícia Federal"
     },
     {
         fonte: "Agência Brasil",
