@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Vacinação é ampliada em comunidades indígenas da Amazônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Podcast Crianças Sabidas volta para discutir as Eleições Gerais 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil exibe final do Brasileirão Feminino Sub-17 neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Daniel Cargnin é ouro no Grand Slam de Lausanne de judô"
     },
     {
@@ -37,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Museu do Pontal superou enchentes e ensinou valor da arte popular"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Quedas e queimaduras são maior causa de internação de crianças"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Isaquias Queiroz fica longe do pódio do Mundial de canoagem na Polônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Crescimento populacional caiu para 0,37% em 2026, estima IBGE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil garante 3 bronzes na abertura do Grand Slam de judô na Suíça"
     }
 ];
