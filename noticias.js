@@ -1,6 +1,62 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça do RJ autoriza estado a assumir clube e pousada usadas pelo CV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novas tempestades devem atingir o Rio Grande do Sul até segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira como foi a sexta-feira (28) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE marca julgamento de registros dos candidatos à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bandeira tarifária de energia permanecerá amarela em setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar sobe a R$ 5,19 após tom mais duro de presidente do Fed"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Isaquias Queiroz fica longe do pódio do Mundial de canoagem na Polônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rock in Rio: segurança terá mais de 7 mil agentes, além de drones"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil mostra segunda semifinal do reality show Duelo de Guitarras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil cria plano para emergências na saúde por mudanças climáticas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Crescimento populacional caiu para 0,37% em 2026, estima IBGE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil garante 3 bronzes na abertura do Grand Slam de judô na Suíça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vorcaro presta depoimento de quatro horas à Polícia Federal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil cria 58,5 mil postos de trabalho em julho, aponta Caged"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Governo sanciona lei que permite reduzir tributos sobre combustíveis"
     },
     {
@@ -13,19 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "RioFilme trabalha por mercado cinematográfico comum do Brics"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Santos Dumont opera normalmente, após 13 voos cancelados nesta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Pé-de-Meia: nascidos em setembro e outubro recebem parcela de R$ 200"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mestres e mestras da cultura popular se reúnem em Brasília"
     },
     {
         fonte: "Agência Brasil",
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (28)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa atualiza regras sobre controle de qualidade em laboratórios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Região Sul está em alerta para fortes chuvas, vento e granizo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nepal monitora dois lagos; risco de enchentes persiste"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nova diretriz muda tratamento da tireoide na gestação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Horário eleitoral no rádio e TV começa nesta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 9 recebem Bolsa Família de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Internacional e Grêmio ficam no zero pelas quartas da Copa do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ proíbe Garotinho de ir a debate e ter propaganda eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Apesar de liminar, Camex prorroga imposto sobre exportação de petróleo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conselho eleva limite de remuneração do Eco Invest Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF adia retomada do julgamento sobre uberização"
     }
 ];
