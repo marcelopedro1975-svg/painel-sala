@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Daniel Cargnin é ouro no Grand Slam de Lausanne de judô"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 30 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministério da Saúde reforça chamamento para vacina contra o sarampo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Isaquias Queiroz é campeão mundial no C1 500m na Polônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Parapan-Pacífico de natação: Brasil estreia com medalhas e recorde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Calila das Mercês lança livro e celebra literatura feita no interior"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mestres da cultura popular evocam tradição e encanto a novos públicos"
     },
     {
@@ -21,19 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Museu do Pontal festeja 50 anos de arte popular e cinco da nova sede"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Programa de renegociação de dívidas termina nesta segunda-feira"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Justiça do RJ autoriza estado a assumir clube e pousada usadas pelo CV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novas tempestades devem atingir o Rio Grande do Sul até segunda-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil garante 3 bronzes na abertura do Grand Slam de judô na Suíça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil cria 58,5 mil postos de trabalho em julho, aponta Caged"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vorcaro presta depoimento de quatro horas à Polícia Federal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo sanciona lei que permite reduzir tributos sobre combustíveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Transparência salarial: empregadores devem atualizar dados até segunda"
     }
 ];
