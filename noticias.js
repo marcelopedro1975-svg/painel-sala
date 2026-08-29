@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mestres da cultura popular evocam tradição e encanto a novos públicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (29 e 30)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Minas Brasília e Itabirito disputam semifinal do Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Museu do Pontal superou enchentes e ensinou valor da arte popular"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quedas e queimaduras são maior causa de internação de crianças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Museu do Pontal festeja 50 anos de arte popular e cinco da nova sede"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Programa de renegociação de dívidas termina nesta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça do RJ autoriza estado a assumir clube e pousada usadas pelo CV"
     },
     {
@@ -29,18 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rock in Rio: segurança terá mais de 7 mil agentes, além de drones"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil mostra segunda semifinal do reality show Duelo de Guitarras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil cria plano para emergências na saúde por mudanças climáticas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Crescimento populacional caiu para 0,37% em 2026, estima IBGE"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Transparência salarial: empregadores devem atualizar dados até segunda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desenrola Fies 2026: renegociação de dívidas termina nesta segunda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia: nascidos em setembro e outubro recebem parcela de R$ 200"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Demora no diagnóstico agrava esclerose múltipla, alerta associação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (28)"
     }
 ];
