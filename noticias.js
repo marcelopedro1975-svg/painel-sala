@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil participa de pesquisa inédita que busca a cura da hepatite B"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileirão Feminino: Flamengo vence Ferroviára nas quartas por 1 a 0"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dólar sobe a R$ 5,19 após tom mais duro de presidente do Fed"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Isaquias Queiroz fica longe do pódio do Mundial de canoagem na Polônia"
     }
 ];
