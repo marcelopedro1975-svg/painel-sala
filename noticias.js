@@ -1,11 +1,35 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Jacky Godmann e Gabriel Nascimento são prata no Mundial de Canoagem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sem acordo contra secas, comunidades vão sofrer, avaliam especialistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Parapan-Pacífico: nadadora Alessandra quebra recorde mundial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Grupo de 20 pessoas fica à deriva no Rio e é resgatado pelos bombeiros"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ferroviária é campeã brasileira sub-17 feminina"
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Região Sul tem risco de temporal e granizo; outras regiões têm calor"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Consulta sobre bens sustentáveis no acordo Mercosul–UE acaba na quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi o fim de semana dos candidatos a presidente da República"
     },
     {
         fonte: "Agência Brasil",
@@ -37,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Podcast Crianças Sabidas volta para discutir as Eleições Gerais 2026"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TV Brasil exibe final do Brasileirão Feminino Sub-17 neste domingo"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Isaquias Queiroz é campeão mundial no C1 500m na Polônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Parapan-Pacífico de natação: Brasil estreia com medalhas e recorde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (29 e 30)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Minas Brasília e Itabirito disputam semifinal do Brasileirão Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quedas e queimaduras são maior causa de internação de crianças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Programa de renegociação de dívidas termina nesta segunda-feira"
     }
 ];
