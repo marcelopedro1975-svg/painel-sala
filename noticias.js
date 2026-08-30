@@ -5,6 +5,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Depois da COP17, Brasil é cobrado a efetivar metas de restauração"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Sem acordo contra secas, comunidades vão sofrer, avaliam especialistas"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ministério da Saúde reforça chamamento para vacina contra o sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Isaquias Queiroz é campeão mundial no C1 500m na Polônia"
     }
 ];
