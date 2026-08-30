@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileirão Feminino: Flamengo vence Ferroviára nas quartas por 1 a 0"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Vacinação é ampliada em comunidades indígenas da Amazônia"
     },
     {
@@ -17,6 +21,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Presidente da Venezuela confirma acordo petrolífero com Estados Unidos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena sorteia prêmio acumulado de R$ 30 milhões neste domingo"
     },
     {
@@ -30,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Parapan-Pacífico de natação: Brasil estreia com medalhas e recorde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Calila das Mercês lança livro e celebra literatura feita no interior"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mestres da cultura popular evocam tradição e encanto a novos públicos"
     },
     {
         fonte: "Agência Brasil",
