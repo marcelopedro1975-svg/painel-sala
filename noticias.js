@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ferroviária é campeã brasileira sub-17 feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Consulta sobre bens sustentáveis no acordo Mercosul–UE acaba na quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena não tem acertador e prêmio sobe para R$ 36 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso vota nesta semana fim da escala 6x1 e \"taxa das blusinhas\""
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: saiba o que é permitido e proibido no dia da votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Neste domingo, Rádio Nacional transmite clássico Flamengo x Botafogo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil participa de pesquisa inédita que busca a cura da hepatite B"
     },
     {
@@ -29,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 30 milhões neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ministério da Saúde reforça chamamento para vacina contra o sarampo"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Programa de renegociação de dívidas termina nesta segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do RJ autoriza estado a assumir clube e pousada usadas pelo CV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira como foi a sexta-feira (28) dos presidenciáveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE marca julgamento de registros dos candidatos à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bandeira tarifária de energia permanecerá amarela em setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar sobe a R$ 5,19 após tom mais duro de presidente do Fed"
     }
 ];
