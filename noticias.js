@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileiro Feminino: Planalto (GO) larga em vantagem na final da A3"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Jacky Godmann e Gabriel Nascimento são prata no Mundial de Canoagem"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja como foi o fim de semana dos candidatos a presidente da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena não tem acertador e prêmio sobe para R$ 36 milhões"
     },
     {
         fonte: "Agência Brasil",
