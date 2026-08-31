@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (31)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Equipes do Nepal procuram centenas de pessoas presas em túneis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pé-de-Meia: nascidos em novembro e dezembro recebem parcela de R$ 200"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desenrola Fies: prazo de renegociação de dívidas termina hoje"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caminhos da Reportagem aborda construção da identidade parda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa Civil reconhece situação de emergência em seis cidades do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita paga nesta segunda último lote de restituição do IR 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 0"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileiro Feminino: Planalto (GO) larga em vantagem na final da A3"
     },
     {
@@ -9,27 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Depois da COP17, Brasil é cobrado a efetivar metas de restauração"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sem acordo contra secas, comunidades vão sofrer, avaliam especialistas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Parapan-Pacífico: nadadora Alessandra quebra recorde mundial"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Grupo de 20 pessoas fica à deriva no Rio e é resgatado pelos bombeiros"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ferroviária é campeã brasileira sub-17 feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Região Sul tem risco de temporal e granizo; outras regiões têm calor"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Vacinação é ampliada em comunidades indígenas da Amazônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil exibe final do Brasileirão Feminino Sub-17 neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Daniel Cargnin é ouro no Grand Slam de Lausanne de judô"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente da Venezuela confirma acordo petrolífero com Estados Unidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério da Saúde reforça chamamento para vacina contra o sarampo"
     }
 ];
