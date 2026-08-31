@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil aponta tratamento discriminatório em tarifas dos Estados Unidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Orçamento de 2027 terá aporte de R$ 6 bilhões aos Correios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiro tem dificuldade em saber seus direitos, aponta pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IBGE divulga microdados do Censo com cuidados para preservar sigilo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Toffoli suspende propaganda de Renan Santos na internet"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova nova caneta emagrecedora à base de semaglutida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quase um terço dos usuários de internet relatam tentativas de golpe"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jogadores do Vasco e do Vila Nova são alvos de mandados de busca"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS terá três novos medicamentos para câncer de pulmão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pacientes com câncer colorretal têm medicamento aprovado pela Anvisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Boletim Focus: mercado prevê redução da inflação e do PIB de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara deve decidir sobre \"taxa das blusinhas\" nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil e EUA retomam negociação após tarifaços de 25% e 12,5%"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (31)"
     },
     {
@@ -17,14 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem aborda construção da identidade parda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa Civil reconhece situação de emergência em seis cidades do Sul"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Receita paga nesta segunda último lote de restituição do IR 2026"
     },
     {
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileiro Feminino: Planalto (GO) larga em vantagem na final da A3"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jacky Godmann e Gabriel Nascimento são prata no Mundial de Canoagem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Parapan-Pacífico: nadadora Alessandra quebra recorde mundial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ferroviária é campeã brasileira sub-17 feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consulta sobre bens sustentáveis no acordo Mercosul–UE acaba na quarta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi o fim de semana dos candidatos a presidente da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso vota nesta semana fim da escala 6x1 e \"taxa das blusinhas\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: saiba o que é permitido e proibido no dia da votação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Neste domingo, Rádio Nacional transmite clássico Flamengo x Botafogo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil participa de pesquisa inédita que busca a cura da hepatite B"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino: Flamengo vence Ferroviára nas quartas por 1 a 0"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vacinação é ampliada em comunidades indígenas da Amazônia"
     }
 ];
