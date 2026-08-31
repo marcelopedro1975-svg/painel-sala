@@ -1,6 +1,70 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Governo prevê arrecadar R$ 636 bilhões com nova CBS em 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo publica regras para proteger consumidores em grandes eventos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsa Família não terá reajuste previsto no Orçamento de 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Orçamento de 2027 limita reajuste real de servidores públicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça projetos finalistas do prêmio Educador Nota 10"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Orçamento de 2027 reserva R$ 44,8 bilhões para emendas impositivas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aos 19 anos, José Antônio Santos é campeão mundial de bocha em Seul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Um dos maiores cartunistas do Brasil, Angeli completa 70 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Votação da MP que zera \"taxa das blusinhas\" é adiada para terça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Orçamento de 2027 tem estimativa de superávit de R$ 83,4 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Renan Santos diz que vai pedir liminar contra suspensão de candidatura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jornalista Carlos Monforte morre aos 77 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça do Rio decreta a falência do Grupo Refit"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Orçamento de 2027 prevê salário mínimo de R$ 1.741"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bruno Dantas renuncia ao cargo de ministro do TCU"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Toffoli suspende campanha digital de Grassi à Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil aponta tratamento discriminatório em tarifas dos Estados Unidos"
     },
     {
@@ -14,69 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "IBGE divulga microdados do Censo com cuidados para preservar sigilo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Toffoli suspende propaganda de Renan Santos na internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova nova caneta emagrecedora à base de semaglutida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quase um terço dos usuários de internet relatam tentativas de golpe"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jogadores do Vasco e do Vila Nova são alvos de mandados de busca"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS terá três novos medicamentos para câncer de pulmão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pacientes com câncer colorretal têm medicamento aprovado pela Anvisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Boletim Focus: mercado prevê redução da inflação e do PIB de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara deve decidir sobre \"taxa das blusinhas\" nesta segunda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil e EUA retomam negociação após tarifaços de 25% e 12,5%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (31)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Equipes do Nepal procuram centenas de pessoas presas em túneis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia: nascidos em novembro e dezembro recebem parcela de R$ 200"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desenrola Fies: prazo de renegociação de dívidas termina hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita paga nesta segunda último lote de restituição do IR 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 0"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro Feminino: Planalto (GO) larga em vantagem na final da A3"
     }
 ];
