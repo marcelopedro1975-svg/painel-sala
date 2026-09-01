@@ -1,11 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "De virada, Coritiba vence Remo no fim da 25ª rodada do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Corinthians vence Cruzeiro e fica a um empate das semifinais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Instituto Vladimir Herzog alerta Fachin sobre interferência dos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira como foi a segunda-feira (31) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Arrecadação com ‘imposto do pecado’ deve chegar a R$ 41,9 bi em 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Violência contra a mulher: 7,5 mil agentes serão capacitados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Governo prevê arrecadar R$ 636 bilhões com nova CBS em 2027"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo publica regras para proteger consumidores em grandes eventos"
+        titulo: "EBC lança Centro de Inovação e Pesquisa em Comunicação Pública"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça as novas regras para proteger consumidores em grandes eventos"
     },
     {
         fonte: "Agência Brasil",
@@ -29,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Um dos maiores cartunistas do Brasil, Angeli completa 70 anos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Votação da MP que zera \"taxa das blusinhas\" é adiada para terça"
     },
     {
@@ -45,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Jornalista Carlos Monforte morre aos 77 anos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça do Rio decreta a falência do Grupo Refit"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bruno Dantas renuncia ao cargo de ministro do TCU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Toffoli suspende campanha digital de Grassi à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil aponta tratamento discriminatório em tarifas dos Estados Unidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Orçamento de 2027 terá aporte de R$ 6 bilhões aos Correios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro tem dificuldade em saber seus direitos, aponta pesquisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBGE divulga microdados do Censo com cuidados para preservar sigilo"
     }
 ];
