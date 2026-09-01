@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Nova regra do Pix amplia prazo para contestar golpe"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PND 2026: cartão de confirmação da inscrição será divulgado no dia 9"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival em Tiradentes celebra laços da cozinha mineira com Portugal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PIB brasileiro tem 5º maior crescimento no segundo trimestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesquisa analisa propostas dirigidas às mulheres em planos de governo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ANPD recebe contribuições para agenda regulatória 2027-2028"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha Nacional de Multivacinação termina nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Organizações criticam incentivo fiscal para data centers no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bienal do Livro tem novo projeto para incentivar leitura no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Calor foi responsável por 2.149 mortes na Espanha no mês passado"
     },
     {
@@ -13,31 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Viva Maria: Rádio Nacional da Amazônia completa 49 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cena Musical, da TV Brasil, apresenta show exclusivo de Áurea Martins"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça do Rio condena músico a 28 anos de prisão por feminicídio"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Prazo para empresas optarem por Simples Nacional começa nesta terça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Meteorologia prevê ciclone extratropical com chuvas em setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Hoje é Dia: datas, fatos e feriados de setembro de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio de R$ 36 milhões nesta terça-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Arrecadação com ‘imposto do pecado’ deve chegar a R$ 41,9 bi em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo prevê arrecadar R$ 636 bilhões com nova CBS em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conheça as novas regras para proteger consumidores em grandes eventos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsa Família não terá reajuste previsto no Orçamento de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Orçamento de 2027 limita reajuste real de servidores públicos"
     }
 ];
