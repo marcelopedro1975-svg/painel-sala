@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Aziz articula rito especial para levar PEC da escala 6x1 ao plenário"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo ouve sociedade civil e deve tomar decisão sobre bets em breve"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsa sobe 1,3% e atinge maior nível em quase quatro meses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGR pede anulação de investigação sobre conversas de Moraes e Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ajustes no texto adiam votação da MP da \"taxa das blusinhas\""
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Desembargador mantém cobrança de imposto de exportação de petróleo"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pesquisa analisa propostas dirigidas às mulheres em planos de governo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha Nacional de Multivacinação termina nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Organizações criticam incentivo fiscal para data centers no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Calor foi responsável por 2.149 mortes na Espanha no mês passado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (1º)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE"
     }
 ];
