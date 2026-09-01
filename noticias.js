@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileirão Feminino: Bahia e Palmeiras ficam no 1 a 1 pelas quartas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "De virada, Coritiba vence Remo no fim da 25ª rodada do Brasileirão"
     },
     {
@@ -61,11 +65,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Orçamento de 2027 tem estimativa de superávit de R$ 83,4 bilhões"
+        titulo: "Renan Santos diz que vai pedir liminar contra suspensão de candidatura"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Renan Santos diz que vai pedir liminar contra suspensão de candidatura"
+        titulo: "Orçamento de 2027 tem estimativa de superávit de R$ 83,4 bilhões"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Orçamento de 2027 prevê salário mínimo de R$ 1.741"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bruno Dantas renuncia ao cargo de ministro do TCU"
     }
 ];
