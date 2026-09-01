@@ -1,15 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Desembargador mantém cobrança de imposto de exportação de petróleo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival de cinema fantástico estreia com homenagem a Liz Marins"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dias Toffoli libera campanha de Renan Santos pela internet"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Orçamento de 2027 prevê R$ 133,8 bilhões em investimentos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Consulta para novo Catálogo de Cursos Técnicos do MEC termina amanhã"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "União terá que indenizar família de perseguido pela ditadura no Amapá"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça quer levar ao plenário diálogos atribuídos a Vorcaro e Moraes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras reajusta preço médio do querosene de aviação em 13,9%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Empresa ligada ao Pentágono controlará 21% do petróleo da Venezuela"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa determina apreensão de produtos da marca United Labz"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGR deve se manifestar sobre supostas conversas entre Vorcaro e Moraes"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Nova regra do Pix amplia prazo para contestar golpe"
     },
     {
         fonte: "Agência Brasil",
         titulo: "PND 2026: cartão de confirmação da inscrição será divulgado no dia 9"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival em Tiradentes celebra laços da cozinha mineira com Portugal"
     },
     {
         fonte: "Agência Brasil",
@@ -21,19 +61,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "ANPD recebe contribuições para agenda regulatória 2027-2028"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Campanha Nacional de Multivacinação termina nesta terça-feira"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Organizações criticam incentivo fiscal para data centers no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bienal do Livro tem novo projeto para incentivar leitura no Brasil"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio condena músico a 28 anos de prisão por feminicídio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para empresas optarem por Simples Nacional começa nesta terça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino: Bahia e Palmeiras ficam no 1 a 1 pelas quartas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "De virada, Coritiba vence Remo no fim da 25ª rodada do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Corinthians vence Cruzeiro e fica a um empate das semifinais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Instituto Vladimir Herzog alerta Fachin sobre interferência dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira como foi a segunda-feira (31) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arrecadação com ‘imposto do pecado’ deve chegar a R$ 41,9 bi em 2027"
     }
 ];
