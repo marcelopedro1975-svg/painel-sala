@@ -1,15 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ministro André Mendonça admite encontro com Vorcaro \"uma única vez\""
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Banco Master: Fachin diz que medidas serão anunciadas no tempo devido"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Produção industrial interrompe 2 meses de queda e sobe 0,2% em julho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EUA atacam Irã, que revida contra bases estadunidenses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Livro inspirado na trajetória de Helena Theodoro será lançado no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cai número de assassinatos no campo, mas aumenta o de conflitos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (2)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tropas militares vão reforçar locais de votação no Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quarta-feira é de chuvas no Sudeste, Centro-Oeste e sul do Nordeste"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio Caminhos de Literatura tem inscrições abertas até dia 15"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ cassa registro da candidatura do deputado estadual Val Ceasa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio terá dia de chuva, com temperatura em declínio e mar de ressaca"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Senado aprova projeto que cria incentivos para data centers no Brasil"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Senado aprova indicação de Rodrigo Pacheco para o TCU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 41 milhões; confira os números sorteados"
     },
     {
         fonte: "Agência Brasil",
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PGR pede anulação de investigação sobre conversas de Moraes e Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ajustes no texto adiam votação da MP da \"taxa das blusinhas\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desembargador mantém cobrança de imposto de exportação de petróleo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dias Toffoli libera campanha de Renan Santos pela internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Orçamento de 2027 prevê R$ 133,8 bilhões em investimentos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consulta para novo Catálogo de Cursos Técnicos do MEC termina amanhã"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça quer levar ao plenário diálogos atribuídos a Vorcaro e Moraes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras reajusta preço médio do querosene de aviação em 13,9%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empresa ligada ao Pentágono controlará 21% do petróleo da Venezuela"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa determina apreensão de produtos da marca United Labz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR deve se manifestar sobre supostas conversas entre Vorcaro e Moraes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nova regra do Pix amplia prazo para contestar golpe"
     }
 ];
