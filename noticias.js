@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Senado aprova projeto que cria incentivos para data centers no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senado aprova indicação de Rodrigo Pacheco para o TCU"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 41 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira como foi a terça-feira (1º) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Aziz articula rito especial para levar PEC da escala 6x1 ao plenário"
     },
     {
@@ -25,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Festival de cinema fantástico estreia com homenagem a Liz Marins"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dias Toffoli libera campanha de Renan Santos pela internet"
     },
     {
@@ -38,10 +54,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Consulta para novo Catálogo de Cursos Técnicos do MEC termina amanhã"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "União terá que indenizar família de perseguido pela ditadura no Amapá"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Nova regra do Pix amplia prazo para contestar golpe"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PND 2026: cartão de confirmação da inscrição será divulgado no dia 9"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PIB brasileiro tem 5º maior crescimento no segundo trimestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pesquisa analisa propostas dirigidas às mulheres em planos de governo"
     }
 ];
