@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TSE manda Eduardo Bolsonaro retirar posts de desinformação sobre urnas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS amplia oferta de trombolíticos para infarto e AVC isquêmico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE e DPU ampliam assistência gratuita remota nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Comissão aprova MP da taxa das blusinhas: texto segue a plenários"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Casos confirmados de sarampo chegam a 28 em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival Favela Gourmet promove segunda edição em comunidades do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa interdita água mineral da marca Vitoriosa por conter coliformes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa interrompe fabricação de produtos de limpeza da Unilever"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morre no Rio, aos 83 anos, o ator Gracindo Jr."
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Relator da CCJ rejeita emendas da oposição que buscavam manter 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ministro André Mendonça admite encontro com Vorcaro \"uma única vez\""
     },
     {
@@ -17,14 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Livro inspirado na trajetória de Helena Theodoro será lançado no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cai número de assassinatos no campo, mas aumenta o de conflitos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (2)"
     },
     {
@@ -33,19 +65,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Quarta-feira é de chuvas no Sudeste, Centro-Oeste e sul do Nordeste"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio Caminhos de Literatura tem inscrições abertas até dia 15"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TRE-RJ cassa registro da candidatura do deputado estadual Val Ceasa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio terá dia de chuva, com temperatura em declínio e mar de ressaca"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira como foi a terça-feira (1º) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aziz articula rito especial para levar PEC da escala 6x1 ao plenário"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo ouve sociedade civil e deve tomar decisão sobre bets em breve"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsa sobe 1,3% e atinge maior nível em quase quatro meses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR pede anulação de investigação sobre conversas de Moraes e Vorcaro"
     }
 ];
