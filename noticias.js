@@ -1,6 +1,54 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Censo Escolar 2026: dados da 1ª etapa podem ser conferidos até dia 11"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Professores de escolas particulares do Rio fazem greve de 24 horas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sistema carcerário transfere bilhões em custos para famílias de presos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BB passa a usar tecnologia de origem verificada em ligações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Escala 6x1: 67% apontam que jornada piora saúde mental, diz pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CBL: Bienal do Livro de São Paulo terá maior edição de sua história"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seleção brasileira terá 1ª convocação pós-Copa em 9 de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rodrigo Pacheco, ex-presidente do Senado, será ministro do TCU"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prouni: candidatos já podem consultar selecionados em lista de espera"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CCJ do Senado aprova PEC que acaba com jornada 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesquisa mostra que celular impulsiona a leitura digital no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE manda Eduardo Bolsonaro retirar posts de desinformação sobre urnas"
     },
     {
@@ -21,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Festival Favela Gourmet promove segunda edição em comunidades do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Anvisa interdita água mineral da marca Vitoriosa por conter coliformes"
     },
     {
@@ -33,50 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Morre no Rio, aos 83 anos, o ator Gracindo Jr."
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Relator da CCJ rejeita emendas da oposição que buscavam manter 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro André Mendonça admite encontro com Vorcaro \"uma única vez\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Banco Master: Fachin diz que medidas serão anunciadas no tempo devido"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Produção industrial interrompe 2 meses de queda e sobe 0,2% em julho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EUA atacam Irã, que revida contra bases estadunidenses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (2)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tropas militares vão reforçar locais de votação no Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ cassa registro da candidatura do deputado estadual Val Ceasa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova projeto que cria incentivos para data centers no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova indicação de Rodrigo Pacheco para o TCU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira como foi a terça-feira (1º) dos candidatos a presidente"
     }
 ];
