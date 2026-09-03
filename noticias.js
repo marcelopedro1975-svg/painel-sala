@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Flamengo vence e fica a um ponto do Palmeiras, líder do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Toffoli libera propaganda digital do candidato a presidente Grassi"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE aprova registros de seis candidatos à Presidência da República"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PGR defende arquivamento de depoimento sobre suposta ameaça a Vorcaro"
     },
     {
@@ -49,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "BB passa a usar tecnologia de origem verificada em ligações"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Escala 6x1: 67% apontam que jornada piora saúde mental, diz pesquisa"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "CCJ do Senado aprova PEC que acaba com jornada 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE manda Eduardo Bolsonaro retirar posts de desinformação sobre urnas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS amplia oferta de trombolíticos para infarto e AVC isquêmico"
     }
 ];
