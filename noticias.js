@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Caixa passa a oferecer modalidade de Pix parcelado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BC proíbe publicidade em comprovantes do Pix a partir de março de 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "UE suspende carnes do Brasil; entenda impacto e próximos passos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo reúne especialistas em saúde mental e trabalho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mineradoras elogiam, mas municípios criticam PL de minerais críticos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inep divulga gabarito oficial do Encceja 2026; saiba como conferir"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MP da \"taxa das blusinhas\" é aprovada na Câmara e vai ao Senado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fifa abre inscrições para voluntários na Copa do Mundo Feminina 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem PPL abre inscrições em 5 de outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reino Unido anuncia 400 mi de libras para Fundo Florestas Tropicais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lavagem de Madeleine exalta cultura afro-brasileira em Paris"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "MPSP faz operação para aprofundar investigações da Operação Ícaro"
     },
     {
@@ -29,54 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Frente fria leva chuva ao Sudeste e parte do Centro-Oeste"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em 5 anos, furto de fios de cobre no Rio deu prejuízo de R$ 69 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Avanço dos EUA sobre recursos estratégicos pauta o Brasil no Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil"
     },
     {
         fonte: "Agência Brasil",
         titulo: "CBF anuncia amistosos da seleção brasileira contra Japão e Singapura"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flamengo vence e fica a um ponto do Palmeiras, líder do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Toffoli libera propaganda digital do candidato a presidente Grassi"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE aprova registros de seis candidatos à Presidência da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR defende arquivamento de depoimento sobre suposta ameaça a Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a quarta-feira (2) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado: oposição obstrui e fim da escala 6x1 não vai a plenário"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Discord terá dez dias para apresentar proposta de proteção a usuários"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mesmo com nota 10, Medina é vice-campeão da etapa de Fiji da WSL"
     }
 ];
