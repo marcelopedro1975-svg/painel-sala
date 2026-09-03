@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "MP denuncia envolvidos em lavagem de dinheiro por meio de bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONU prevê El Niño \"muito forte\" com duração até fevereiro de 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (3)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Procurador defende asfixia financeira no combate ao crime organizado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Frente fria leva chuva ao Centro-Oeste e parte do Norte do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em 5 anos, furto de fios de cobre no Rio deu prejuízo de R$ 69 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Avanço dos EUA sobre recursos estratégicos pauta o Brasil no Mundo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 41 milhões nesta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CBF anuncia amistosos da seleção brasileira contra Japão e Singapura"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Flamengo vence e fica a um ponto do Palmeiras, líder do Brasileirão"
     },
     {
@@ -29,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Aquecimento além de 1,5°C ameaça saúde, agricultura e economia"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mesmo com nota 10, Medina é vice-campeão da etapa de Fiji da WSL"
     },
     {
@@ -42,41 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça confirma depoimento de Vorcaro em seu gabinete"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CCJ do Senado aprova texto-base da PEC da Segurança Pública"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Censo Escolar 2026: dados da 1ª etapa podem ser conferidos até dia 11"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Professores de escolas particulares do Rio fazem greve de 24 horas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escala 6x1: 67% apontam que jornada piora saúde mental, diz pesquisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seleção brasileira terá 1ª convocação pós-Copa em 9 de setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rodrigo Pacheco, ex-presidente do Senado, será ministro do TCU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prouni: candidatos já podem consultar selecionados em lista de espera"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CCJ do Senado aprova PEC que acaba com jornada 6x1"
     }
 ];
