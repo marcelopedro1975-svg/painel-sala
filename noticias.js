@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PGR defende arquivamento de depoimento sobre suposta ameaça a Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quarta-feira (2) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senado: oposição obstrui e fim da escala 6x1 não vai a plenário"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Discord terá dez dias para apresentar proposta de proteção a usuários"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aquecimento além de 1,5°C ameaça saúde, agricultura e economia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mesmo com nota 10, Medina é vice-campeão da etapa de Fiji da WSL"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsa dispara 3% e atinge o maior nível desde maio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça confirma depoimento de Vorcaro em seu gabinete"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CCJ do Senado aprova texto-base da PEC da Segurança Pública"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Censo Escolar 2026: dados da 1ª etapa podem ser conferidos até dia 11"
     },
     {
@@ -13,19 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sistema carcerário transfere bilhões em custos para famílias de presos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "BB passa a usar tecnologia de origem verificada em ligações"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Escala 6x1: 67% apontam que jornada piora saúde mental, diz pesquisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CBL: Bienal do Livro de São Paulo terá maior edição de sua história"
     },
     {
         fonte: "Agência Brasil",
@@ -45,38 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pesquisa mostra que celular impulsiona a leitura digital no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TSE manda Eduardo Bolsonaro retirar posts de desinformação sobre urnas"
     },
     {
         fonte: "Agência Brasil",
         titulo: "SUS amplia oferta de trombolíticos para infarto e AVC isquêmico"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE e DPU ampliam assistência gratuita remota nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comissão aprova MP da taxa das blusinhas: texto segue a plenários"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Casos confirmados de sarampo chegam a 28 em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa interdita água mineral da marca Vitoriosa por conter coliformes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa interrompe fabricação de produtos de limpeza da Unilever"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Relator da CCJ rejeita emendas da oposição que buscavam manter 6x1"
     }
 ];
