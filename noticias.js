@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "MPSP faz operação para aprofundar investigações da Operação Ícaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça diz que deixará sociedade no Instituto Iter"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "MP denuncia envolvidos em lavagem de dinheiro por meio de bets"
     },
     {
@@ -17,7 +29,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Frente fria leva chuva ao Centro-Oeste e parte do Norte do país"
+        titulo: "Frente fria leva chuva ao Sudeste e parte do Centro-Oeste"
     },
     {
         fonte: "Agência Brasil",
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 41 milhões nesta quinta"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mesmo com nota 10, Medina é vice-campeão da etapa de Fiji da WSL"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsa dispara 3% e atinge o maior nível desde maio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça confirma depoimento de Vorcaro em seu gabinete"
     }
 ];
