@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Professores têm 8 mil vagas gratuitas para pós-graduação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF decide limitar gratuidade em ações na Justiça do Trabalho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dupla de Luisa Stefani vence estreia e avança à 2ª rodada do US Open"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senado aprova MP da \"taxa das blusinhas\" e isenção se torna definitiva"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alcolumbre diz que Senado vota fim da escala 6x1 após as eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fila de espera por perícia do INSS é zerada em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Caixa passa a oferecer modalidade de Pix parcelado"
     },
     {
@@ -17,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mineradoras elogiam, mas municípios criticam PL de minerais críticos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Inep divulga gabarito oficial do Encceja 2026; saiba como conferir"
     },
     {
@@ -34,14 +54,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem PPL abre inscrições em 5 de outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reino Unido anuncia 400 mi de libras para Fundo Florestas Tropicais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lavagem de Madeleine exalta cultura afro-brasileira em Paris"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (3)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Procurador defende asfixia financeira no combate ao crime organizado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CBF anuncia amistosos da seleção brasileira contra Japão e Singapura"
     }
 ];
