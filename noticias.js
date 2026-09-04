@@ -17,11 +17,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF decide limitar gratuidade em ações na Justiça do Trabalho"
+        titulo: "Professores têm 8 mil vagas gratuitas para pós-graduação"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Professores têm 8 mil vagas gratuitas para pós-graduação"
+        titulo: "STF decide limitar gratuidade em ações na Justiça do Trabalho"
     },
     {
         fonte: "Agência Brasil",
