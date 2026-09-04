@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Parataekwondo: Brasil fatura 4 medalhas em Grand Prix na Coreia do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Preços maiores sustentam alta das exportações aos EUA em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cota chinesa faz exportação de carne bovina recuar 27,1% em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo sanciona leis que criam e reestruturam fundos para a Justiça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Balança comercial tem superávit de US$ 7,4 bilhões em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão Feminino começa a definir semifinalistas nesta sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rock in Rio começa hoje com novidades tecnológicas no Palco Mundo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Presidente do STF diz que gravidade dos fatos não autoriza atalhos"
     },
     {
@@ -37,14 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inmet alerta para tempestades no Sudeste e Sul do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trens e metrô terão operação especial durante o Rock in Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (4)"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TRE indefere candidatura de José Roberto Arruda ao governo do DF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF decide limitar gratuidade em ações na Justiça do Trabalho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Professores têm 8 mil vagas gratuitas para pós-graduação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a quinta-feira (3) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dupla de Luisa Stefani vence estreia e avança à 2ª rodada do US Open"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova MP da \"taxa das blusinhas\" e isenção se torna definitiva"
     }
 ];
