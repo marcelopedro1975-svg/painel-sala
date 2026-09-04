@@ -1,11 +1,31 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Professores têm 8 mil vagas gratuitas para pós-graduação"
+        titulo: "Moraes encaminha a Fachin pedido de investigação contra Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 48 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE indefere candidatura de José Roberto Arruda ao governo do DF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inpe inicia operação de modelo próprio de previsão do tempo"
     },
     {
         fonte: "Agência Brasil",
         titulo: "STF decide limitar gratuidade em ações na Justiça do Trabalho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Professores têm 8 mil vagas gratuitas para pós-graduação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quinta-feira (3) dos candidatos a presidente"
     },
     {
         fonte: "Agência Brasil",
@@ -18,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Alcolumbre diz que Senado vota fim da escala 6x1 após as eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fila de espera por perícia do INSS é zerada em agosto"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça diz que deixará sociedade no Instituto Iter"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MP denuncia envolvidos em lavagem de dinheiro por meio de bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONU prevê El Niño \"muito forte\" com duração até fevereiro de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (3)"
     }
 ];
