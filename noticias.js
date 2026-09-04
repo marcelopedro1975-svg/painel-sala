@@ -1,19 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apenas 1 em cada 5 motociclistas de app tem cobertura previdenciária"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet alerta para tempestades no Sudeste e Sul do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trens e metrô terão operação especial durante o Rock in Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Movimento Alcoólicos Anônimos no Rio comemora 79 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (4)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Escolas do Grupo Especial começam a escolher sambas-enredo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seca na Amazônia atingiu 38% das áreas habitadas no último El Niño"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bancos não terão atendimento presencial no feriado da Independência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Moraes encaminha a Fachin pedido de investigação contra Mendonça"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 48 milhões; confira os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TRE indefere candidatura de José Roberto Arruda ao governo do DF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inpe inicia operação de modelo próprio de previsão do tempo"
     },
     {
         fonte: "Agência Brasil",
@@ -38,45 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Alcolumbre diz que Senado vota fim da escala 6x1 após as eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa passa a oferecer modalidade de Pix parcelado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BC proíbe publicidade em comprovantes do Pix a partir de março de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "UE suspende carnes do Brasil; entenda impacto e próximos passos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo reúne especialistas em saúde mental e trabalho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inep divulga gabarito oficial do Encceja 2026; saiba como conferir"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MP da \"taxa das blusinhas\" é aprovada na Câmara e vai ao Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fifa abre inscrições para voluntários na Copa do Mundo Feminina 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem PPL abre inscrições em 5 de outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPSP faz operação para aprofundar investigações da Operação Ícaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça diz que deixará sociedade no Instituto Iter"
     }
 ];
