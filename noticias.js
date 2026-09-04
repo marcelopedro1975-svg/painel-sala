@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cabral é condenado por esquema de regalias durante prisão no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cartões de inscrição no Enamed e Revalida estão disponíveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "WSL exclui etapa de Abu Dhabi do circuito mundial de surfe deste ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN amplia renegociação de dívidas rurais ligadas a eventos climáticos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF faz operação contra fraudes no registro de armas de colecionadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senado aprova direito prioritário da criança a meio ambiente saudável"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Parataekwondo: Brasil fatura 4 medalhas em Grand Prix na Coreia do Sul"
     },
     {
@@ -25,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rock in Rio começa hoje com novidades tecnológicas no Palco Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Presidente do STF diz que gravidade dos fatos não autoriza atalhos"
     },
     {
@@ -37,15 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inscrições para disputar Conselho de Política Cultural vão até dia 22"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PF afirma que Castro recebeu adega, mansão e caviar para ajudar Refit"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP: laudo descarta suicídio e diz que policial Gisele foi assassinada"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (4)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes encaminha a Fachin pedido de investigação contra Mendonça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE indefere candidatura de José Roberto Arruda ao governo do DF"
     }
 ];
