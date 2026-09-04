@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Presidente do STF diz que gravidade dos fatos não autoriza atalhos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sindicatos prometem pressionar Senado para votar 6x1 antes da eleição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições para disputar Conselho de Política Cultural vão até dia 22"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF afirma que Castro recebeu adega, mansão e caviar para ajudar Refit"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP: laudo descarta suicídio e diz que policial Gisele foi assassinada"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes"
     },
     {
@@ -25,23 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Movimento Alcoólicos Anônimos no Rio comemora 79 anos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (4)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escolas do Grupo Especial começam a escolher sambas-enredo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seca na Amazônia atingiu 38% das áreas habitadas no último El Niño"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bancos não terão atendimento presencial no feriado da Independência"
     },
     {
         fonte: "Agência Brasil",
@@ -57,11 +61,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Professores têm 8 mil vagas gratuitas para pós-graduação"
+        titulo: "STF decide limitar gratuidade em ações na Justiça do Trabalho"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF decide limitar gratuidade em ações na Justiça do Trabalho"
+        titulo: "Professores têm 8 mil vagas gratuitas para pós-graduação"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Senado aprova MP da \"taxa das blusinhas\" e isenção se torna definitiva"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alcolumbre diz que Senado vota fim da escala 6x1 após as eleições"
     }
 ];
