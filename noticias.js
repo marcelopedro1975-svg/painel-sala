@@ -1,15 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Avião F-4 grego cai durante show aéreo perto de Atenas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novo mapa-múndi corrige tamanho da África, América do Sul e Ásia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Especialistas defendem protagonismo indígena na restauração de terras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Feriadão: fim de semana deve ser de chuva em boa parte do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Animada celebra Amazônia e estreia produção da parceira Unesp FM"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja alterações no trânsito de Brasília para desfile do 7 de Setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rock in Rio mantém foco em defesa de projetos socioambientais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres indígenas reivindicam protagonismo como guardiãs da Amazônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Eleitoral garante transporte e urnas adaptadas para PCD"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: candidaturas de autistas aumentam mais de cinco vezes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (5 e 6)"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Saúde mental após perda gestacional requer atenção de profissionais"
     },
     {
         fonte: "Agência Brasil",
         titulo: "TV Brasil transmite domingo decisão entre Itabirito e Minas Brasília"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Da Amazônia ao Chaco, América Latina tem desafios com clima e terra"
     },
     {
         fonte: "Agência Brasil",
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "WSL exclui etapa de Abu Dhabi do circuito mundial de surfe deste ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CMN amplia renegociação de dívidas rurais ligadas a eventos climáticos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF faz operação contra fraudes no registro de armas de colecionadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova direito prioritário da criança a meio ambiente saudável"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Parataekwondo: Brasil fatura 4 medalhas em Grand Prix na Coreia do Sul"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Preços maiores sustentam alta das exportações aos EUA em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cota chinesa faz exportação de carne bovina recuar 27,1% em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo sanciona leis que criam e reestruturam fundos para a Justiça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Balança comercial tem superávit de US$ 7,4 bilhões em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino começa a definir semifinalistas nesta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do STF diz que gravidade dos fatos não autoriza atalhos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sindicatos prometem pressionar Senado para votar 6x1 antes da eleição"
     }
 ];
