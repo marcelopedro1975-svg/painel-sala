@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Saúde mental após perda gestacional requer atenção de profissionais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil transmite domingo decisão entre Itabirito e Minas Brasília"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Da Amazônia ao Chaco, América Latina tem desafios com clima e terra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça do Rio julgou mais de 1 milhão de processos no 1º semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil transmite neste sábado decisão do Brasileirão Feminino A3"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira como foi a sexta-feira (4) dos candidatos a presidente"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Sindicatos prometem pressionar Senado para votar 6x1 antes da eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF afirma que Castro recebeu adega, mansão e caviar para ajudar Refit"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Apenas 1 em cada 5 motociclistas de app tem cobertura previdenciária"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos"
     }
 ];
