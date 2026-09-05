@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Anvisa aprova importação de remédio experimental para piloto Lito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil leva ouro na Copa do Mundo de paratriatlo e no parabadminton"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça condena pais a indenizar filho expulso por orientação sexual"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ex-técnico da Seleção, Parreira recebe alta após 80 dias internado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil goleia Tanzânia na estreia na Copa do Mundo sub-20 feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Hospital de Amor em Barretos inaugura ala de reabilitação oncológica"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TV Brasil transmite Ferroviária e Flamengo pelo Brasileirão Feminino"
     },
     {
@@ -22,26 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Novo mapa-múndi corrige tamanho da África, América do Sul e Ásia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Especialistas defendem protagonismo indígena na restauração de terras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Feriadão: fim de semana deve ser de chuva em boa parte do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Animada celebra Amazônia e estreia produção da parceira Unesp FM"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja alterações no trânsito de Brasília para desfile do 7 de Setembro"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira como foi a sexta-feira (4) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cabral é condenado por esquema de regalias durante prisão no Rio"
     }
 ];
