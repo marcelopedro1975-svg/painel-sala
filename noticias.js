@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TV Brasil transmite Ferroviária e Flamengo pelo Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Peru declara estado de emergência em cinco presídios de alta segurança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil testa plataforma para pesquisas em microgravidade no espaço"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Movimento contra violência sexual lança site para facilitar denúncias"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Avião F-4 grego cai durante show aéreo perto de Atenas"
     },
     {
@@ -26,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja alterações no trânsito de Brasília para desfile do 7 de Setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rock in Rio mantém foco em defesa de projetos socioambientais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mulheres indígenas reivindicam protagonismo como guardiãs da Amazônia"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Cabral é condenado por esquema de regalias durante prisão no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cartões de inscrição no Enamed e Revalida estão disponíveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "WSL exclui etapa de Abu Dhabi do circuito mundial de surfe deste ano"
     }
 ];
