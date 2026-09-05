@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira como foi a sexta-feira (4) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cabral é condenado por esquema de regalias durante prisão no Rio"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (4)"
     }
 ];
