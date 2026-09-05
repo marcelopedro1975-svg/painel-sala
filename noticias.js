@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF: Mendes propõe vetar delegados da PF como assessores de ministros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alison dos Santos conquista o título da Liga Diamante pela 3ª vez"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novo campus da UFSCar terá bacharelados interdisciplinares"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dallagnol divulga sigilo fiscal de Zanin, que pede responsabilização"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anvisa aprova importação de remédio experimental para piloto Lito"
     },
     {
@@ -37,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Movimento contra violência sexual lança site para facilitar denúncias"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Avião F-4 grego cai durante show aéreo perto de Atenas"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis neste fim de semana (5 e 6)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saúde mental após perda gestacional requer atenção de profissionais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil transmite domingo decisão entre Itabirito e Minas Brasília"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio julgou mais de 1 milhão de processos no 1º semestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil transmite neste sábado decisão do Brasileirão Feminino A3"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira como foi a sexta-feira (4) dos candidatos a presidente"
     }
 ];
