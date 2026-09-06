@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Flamengo supera Remo em Belém e vira líder provisório do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi o fim de semana (5 e 6) dos candidatos a presidente"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Incêndio atinge pavilhão de frutas no Ceagesp; não há vítimas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Roda de Choro estreia com homenagem a disco de Jacob do Bandolim"
     },
     {
         fonte: "Agência Brasil",
