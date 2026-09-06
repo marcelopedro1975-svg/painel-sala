@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Itabirito bate Minas Brasília e vai a final do Brasileiro Feminino A2"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula e próximo sorteio terá prêmio de R$ 70 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maria Clara Pacheco mantém hegemonia no ciclo olímpico do taekwondo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Incêndio atinge pavilhão de frutas no Ceagesp; não há vítimas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Roda de Choro estreia com homenagem a disco de Jacob do Bandolim"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio para mulheres e meninas cientistas abre inscrições até outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira dicas para acompanhar o Desfile de 7 de Setembro em Brasília"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Com menos de dois anos de vida, Planalto-GO conquista Feminino A3"
     },
     {
@@ -17,15 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Recursos precisam chegar a povos tradicionais, defende Fundo Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rádio Nacional transmite Remo e Flamengo pelo Brasileirão hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio MEC: Caderno de Música lembra 130 anos da morte de Carlos Gomes"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil leva ouro na Copa do Mundo de paratriatlo e no parabadminton"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça condena pais a indenizar filho expulso por orientação sexual"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-técnico da Seleção, Parreira recebe alta após 80 dias internado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil goleia Tanzânia na estreia na Copa do Mundo sub-20 feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Hospital de Amor em Barretos inaugura ala de reabilitação oncológica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil transmite Ferroviária e Flamengo pelo Brasileirão Feminino"
     }
 ];
