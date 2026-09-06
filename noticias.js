@@ -1,15 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Com menos de dois anos de vida, Planalto-GO conquista Feminino A3"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dupla de Luisa Stefani vence mais uma e vai às oitavas do US Open"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Golpe do sósia usa tecnologia para tentar burlar biometria"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flip 2026: Conversa com o Autor traz especial com Bethânia Pires Amaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Recursos precisam chegar a povos tradicionais, defende Fundo Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite Remo e Flamengo pelo Brasileirão hoje"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio MEC: Caderno de Música lembra 130 anos da morte de Carlos Gomes"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino"
+        titulo: "STF: Mendes propõe vetar delegados da PF como assessores de ministros"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF: Mendes propõe vetar delegados da PF como assessores de ministros"
+        titulo: "Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TV Brasil transmite Ferroviária e Flamengo pelo Brasileirão Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Peru declara estado de emergência em cinco presídios de alta segurança"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil testa plataforma para pesquisas em microgravidade no espaço"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Avião F-4 grego cai durante show aéreo perto de Atenas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novo mapa-múndi corrige tamanho da África, América do Sul e Ásia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Eleitoral garante transporte e urnas adaptadas para PCD"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: candidaturas de autistas aumentam mais de cinco vezes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (5 e 6)"
     }
 ];
