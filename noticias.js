@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi o fim de semana (5 e 6) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IBGE disponibiliza a partir de amanhã mapas-múndi recentes"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "São Paulo tem mais de 58 mil casos de dengue desde o início do ano"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Confira dicas para acompanhar o Desfile de 7 de Setembro em Brasília"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Com menos de dois anos de vida, Planalto-GO conquista Feminino A3"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dallagnol divulga sigilo fiscal de Zanin, que pede responsabilização"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova importação de remédio experimental para piloto Lito"
     }
 ];
