@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "São Paulo tem mais de 58 mil casos de dengue desde o início do ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Unicef: 15 milhões de crianças foram expostas a conteúdo sexual online"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mirassol vence e mantém Vasco e Internacional na zona de rebaixamento"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Itabirito bate Minas Brasília e vai a final do Brasileiro Feminino A2"
     },
     {
@@ -37,14 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Golpe do sósia usa tecnologia para tentar burlar biometria"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flip 2026: Conversa com o Autor traz especial com Bethânia Pires Amaro"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rádio Nacional transmite Remo e Flamengo pelo Brasileirão hoje"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa aprova importação de remédio experimental para piloto Lito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil leva ouro na Copa do Mundo de paratriatlo e no parabadminton"
     }
 ];
