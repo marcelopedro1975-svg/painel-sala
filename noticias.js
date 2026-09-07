@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a segunda-feira (7) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiro Feminino: Corinthians vai às semifinais e enfrenta o Bahia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Luisa Stefani vai às quartas de final nas duplas femininas do US Open"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Policial militar é preso suspeito de feminicídio em Embu das Artes"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rio de Janeiro tem aviso de ressaca; ciclovia Tim Maia é fechada"
     },
     {
@@ -37,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Começa o desfile cívico-militar do Dia da Independência em Brasília"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Desfile de 7 de Setembro homenageia pioneiras do futebol feminino"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula defende soberania do Brasil em pronunciamento pelo 7 de setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Botafogo segura Palmeiras e ajuda Flamengo, novo líder do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vôlei de praia: Brasil assegura duas vagas olímpicas para Los Angeles"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flamengo supera Remo em Belém e vira líder provisório do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi o fim de semana (5 e 6) dos candidatos a presidente"
     }
 ];
