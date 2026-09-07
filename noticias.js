@@ -1,6 +1,62 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ambulantes \"desfilam\" no 7 de Setembro em busca de sustento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Federal paralisa atividade de mina de lítio em Minas Gerais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin aguarda explicações de ministros para decidir sobre crise"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Começa o desfile cívico-militar do Dia da Independência em Brasília"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Convivência da cidade e vida selvagem é tema do Caminhos da Reportagem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional celebra 90 anos com transmissões de momentos marcantes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desfile de 7 de Setembro homenageia pioneiras do futebol feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Público madruga para assistir ao desfile na Esplanada dos Ministérios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alemanha: partido de extrema direita tem vitória estadual histórica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (7)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pelo menos 5 pessoas morrem em acidente com avião de carga em Miami"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "No Mundo da Bola recorda momentos épicos do esporte na Rádio Nacional"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula defende soberania do Brasil em pronunciamento pelo 7 de setembro"
     },
     {
@@ -22,61 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "IBGE disponibiliza a partir de amanhã mapas-múndi inéditos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo tem mais de 58 mil casos de dengue desde o início do ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Unicef: 15 milhões de crianças foram expostas a conteúdo sexual online"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mirassol vence e mantém Vasco e Internacional na zona de rebaixamento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Itabirito bate Minas Brasília e vai a final do Brasileiro Feminino A2"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Maria Clara Pacheco mantém hegemonia no ciclo olímpico do taekwondo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio para mulheres e meninas cientistas abre inscrições até outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com menos de dois anos de vida, Planalto-GO conquista Feminino A3"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dupla de Luisa Stefani vence mais uma e vai às oitavas do US Open"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite Remo e Flamengo pelo Brasileirão hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF: Mendes propõe vetar delegados da PF como assessores de ministros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novo campus da UFSCar terá bacharelados interdisciplinares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dallagnol divulga sigilo fiscal de Zanin, que pede responsabilização"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova importação de remédio experimental para piloto Lito"
     }
 ];
