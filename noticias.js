@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rio de Janeiro tem aviso de ressaca; ciclovia Tim Maia é fechada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Grito dos Excluídos tem atos em defesa por moradia e contra violência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tradicional desfile cívico-militar é realizado no Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas"
     },
     {
@@ -25,19 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Convivência da cidade e vida selvagem é tema do Caminhos da Reportagem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional celebra 90 anos com transmissões de momentos marcantes"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Desfile de 7 de Setembro homenageia pioneiras do futebol feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Público madruga para assistir ao desfile na Esplanada dos Ministérios"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja como foi o fim de semana (5 e 6) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBGE disponibiliza a partir de amanhã mapas-múndi inéditos"
     }
 ];
