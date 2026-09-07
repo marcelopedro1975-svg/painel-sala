@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula defende soberania do Brasil em pronunciamento pelo 7 de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Botafogo segura Palmeiras e ajuda Flamengo, novo líder do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vôlei de praia: Brasil assegura duas vagas olímpicas para Los Angeles"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Flamengo supera Remo em Belém e vira líder provisório do Brasileirão"
     },
     {
@@ -9,7 +21,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "IBGE disponibiliza a partir de amanhã mapas-múndi recentes"
+        titulo: "IBGE disponibiliza a partir de amanhã mapas-múndi inéditos"
     },
     {
         fonte: "Agência Brasil",
@@ -29,15 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula e próximo sorteio terá prêmio de R$ 70 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Maria Clara Pacheco mantém hegemonia no ciclo olímpico do taekwondo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Incêndio atinge pavilhão de frutas no Ceagesp; não há vítimas"
     },
     {
         fonte: "Agência Brasil",
@@ -65,18 +69,14 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alison dos Santos conquista o título da Liga Diamante pela 3ª vez"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Novo campus da UFSCar terá bacharelados interdisciplinares"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Dallagnol divulga sigilo fiscal de Zanin, que pede responsabilização"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova importação de remédio experimental para piloto Lito"
     }
 ];
