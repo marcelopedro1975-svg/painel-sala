@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Prêmio Mulheres e Ciência tem inscrições abertas até quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia indicia 13 em caso de morte de homem espancado em Copacabana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio de R$ 70 milhões nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça usou pedido do partido Novo para afastar diretor-geral da PF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova novo medicamento para tratamento de enxaqueca"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "\"Verdade prevalecerá\", diz número 2 da PF após afastamento de Andrei"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sem Censura festeja 90 anos da Rádio Nacional com edições temáticas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNU 1: prazo da lista de espera se encerra nesta sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gabriel Magalhães, Marquinhos e Vini Jr. são indicados ao Bola de Ouro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Leitura entre adolescentes atinge pior nível deste século"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Segunda Turma do STF forma maioria para afastar diretor-geral da PF"
     },
     {
@@ -33,50 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Programa de Reforma Agrária inclui 2,4 mil quilombolas no Maranhão"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Taxa média de recusa de doação de órgãos pelos familiares é 45%"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Após frente fria, temperaturas voltam a subir nesta terça-feira (8)"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Vitória se afasta do Z-4 e mantém Grêmio ameaçado no Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pisa: Brasil reduz diferença para países ricos no desempenho escolar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a segunda-feira (7) dos presidenciáveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro Feminino: Corinthians vai às semifinais e enfrenta o Bahia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Luisa Stefani vai às quartas de final nas duplas femininas do US Open"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Federal paralisa atividade de mina de lítio em Minas Gerais"
     }
 ];
