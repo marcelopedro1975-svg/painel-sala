@@ -41,14 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ambulantes \"desfilam\" no 7 de Setembro em busca de sustento"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça Federal paralisa atividade de mina de lítio em Minas Gerais"
     },
     {
@@ -78,5 +70,13 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula defende soberania do Brasil em pronunciamento pelo 7 de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Botafogo segura Palmeiras e ajuda Flamengo, novo líder do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vôlei de praia: Brasil assegura duas vagas olímpicas para Los Angeles"
     }
 ];
