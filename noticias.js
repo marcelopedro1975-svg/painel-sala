@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cidades do noroeste de SP têm maior incidência de casos de dengue"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cuidado multiprofissional e IA são caminhos para reabilitação visual"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seleção feminina derrota Canadá e avança às oitavas do Mundial Sub-20"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após audiência de custódia, PM suspeito de matar esposa continua preso"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Investigação expõe trituração de pintinhos na indústria de ovos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dinheiro esquecido nos bancos sobe para R$ 5,65 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Diretores da PF apoiam Andrei Rodrigues e colocam cargos à disposição"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Prêmio Mulheres e Ciência tem inscrições abertas até quinta-feira"
     },
     {
@@ -25,14 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sem Censura festeja 90 anos da Rádio Nacional com edições temáticas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNU 1: prazo da lista de espera se encerra nesta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Gabriel Magalhães, Marquinhos e Vini Jr. são indicados ao Bola de Ouro"
     },
     {
@@ -41,7 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Segunda Turma do STF forma maioria para afastar diretor-geral da PF"
+        titulo: "STF: Segunda Turma tem maioria para afastar Andrei; Gilmar pede vista"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça afasta Andrei Rodrigues da direção-geral da Polícia Federal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (8)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rússia ataca Kiev após breve pausa para visita de enviados dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vasco vai à final e decide título do Feminino A2 contra Itabirito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Taxa média de recusa de doação de órgãos pelos familiares é 45%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vitória se afasta do Z-4 e mantém Grêmio ameaçado no Brasileirão"
     }
 ];
