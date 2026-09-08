@@ -2,8 +2,8 @@ var MERCADO_BRASIL = [
     {
         nome: "Bitcoin",
         simbolo: "BTC",
-        valor: "US$ 78.611",
-        variacao: "▼ 0,62%"
+        valor: "US$ 78.507",
+        variacao: "▼ 0,83%"
     },
     {
         nome: "Dólar",
@@ -14,14 +14,14 @@ var MERCADO_BRASIL = [
     {
         nome: "IFIX",
         simbolo: "IFIX.SA",
-        valor: "3.769,05",
-        variacao: "▼ 0,02%"
+        valor: "3.761,37",
+        variacao: "▼ 0,22%"
     },
     {
         nome: "Ibovespa",
         simbolo: "^BVSP",
-        valor: "188.327",
-        variacao: "▲ 1,72%"
+        valor: "187.367",
+        variacao: "▲ 1,20%"
     }
 ];
 
@@ -29,19 +29,19 @@ var MERCADO_EUA = [
     {
         nome: "S&P 500",
         simbolo: "^GSPC",
-        valor: "7.687",
-        variacao: "▲ 0,01%"
+        valor: "7.674",
+        variacao: "▼ 0,16%"
     },
     {
         nome: "Nasdaq",
         simbolo: "^IXIC",
-        valor: "26.453",
-        variacao: "▲ 0,31%"
+        valor: "26.421",
+        variacao: "▲ 0,19%"
     },
     {
         nome: "Dow Jones",
         simbolo: "^DJI",
-        valor: "52.836",
-        variacao: "▼ 0,66%"
+        valor: "52.786",
+        variacao: "▼ 0,75%"
     }
 ];
