@@ -1,11 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Entidades científicas cobram apuração rigorosa de crise no STF"
+        titulo: "André Mendonça manda soltar filho do \"Careca do INSS\""
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça reconhece falhas da Enel em apagão de dezembro de 2025 em SP"
+        titulo: "Para AGU, decisão de Fachin restaura ordem pública e administrativa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin suspende decisões de Mendonça e Dino sobre diretor da PF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anac permite voos após as 23h em Congonhas em situações excepcionais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seis filmes seguem na disputa para representar o Brasil no Oscar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Subsídios à gasolina e ao diesel são ampliados após alta do petróleo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Associação de procuradores pede moderação diante de crise no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Autismo: médica lista estratégias que ajudam no atendimento a crianças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ancelotti anuncia 26 convocados para amistosos da seleção brasileira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo confirma dois novos casos de sarampo; total chega a 30"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Comissão Global sobre Drogas pede fim de punitivismo contra crianças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Crianças desaparecidas em Bacabal podem entrar em alerta da Interpol"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades científicas cobram apuração rigorosa de crise no STF"
     },
     {
         fonte: "Agência Brasil",
@@ -21,10 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sesc celebra 80 anos com programação gratuita em várias cidades"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Novo computador quântico educacional passa a ser usado no Senai"
     },
     {
@@ -33,50 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Chuvas e trovoadas no centro-sul estão previstas para esta quarta"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PND 2026: cartão que confirma inscrição está disponível na internet"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Brasil tem quase 38 mil pessoas à espera de transplante de córnea"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Um em cada cinco estudantes já fez apostas online, mostra pesquisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo identifica 97 médicos falsos de IA no Youtube e aciona Google"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa amplia indicação de vacina contra meningite"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Feira em SP reúne programas de intercâmbio e bolsas esportivas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino determina reintegração de Andrei Rodrigues ao comando da PF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comissão da Verdade Indígena será tema de audiência na Câmara"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (9)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Luisa Stefani vai às semifinais do US Open e sobe no ranking mundial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-Palmeiras marca e São Paulo perde do Boca Juniors na Sul-Americana"
     }
 ];
