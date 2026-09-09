@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil supera Venezuela em estreia no Sul-Americano de vôlei feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sindicato de servidores da PF manifesta apoio a diretores afastados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Delegados criticam afastamento de chefe da PF por decisão monocrática"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a terça-feira (8) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fluminense bate Platense e abre vantagem nas quartas da Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morre Zélia Amador de Deus, referência da luta antirracista no Pará"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "CVM multa Vorcaro em R$ 20 milhões por fraude em fundo imobiliário"
     },
     {
@@ -25,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Amazonas ganha quatro reservas de desenvolvimento sustentável"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Cidades do noroeste de SP têm maior incidência de casos de dengue"
     },
     {
@@ -45,10 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Investigação expõe trituração de pintinhos na indústria de ovos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dinheiro esquecido nos bancos sobe para R$ 5,65 bilhões"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça usou pedido do partido Novo para afastar diretor-geral da PF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova novo medicamento para tratamento de enxaqueca"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"Verdade prevalecerá\", diz número 2 da PF após afastamento de Andrei"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gabriel Magalhães, Marquinhos e Vini Jr. são indicados ao Bola de Ouro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Leitura entre adolescentes atinge pior nível deste século"
     }
 ];
