@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "CVM multa Vorcaro em R$ 20 milhões por fraude em fundo imobiliário"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendes cita desequilíbrio eleitoral em afastamento de diretores da PF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU pede suspensão imediata do afastamento de diretor-geral da PF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai a R$ 5,08 e atinge menor valor em um mês"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova genéricos de medicamentos contra diabetes e obesidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiras são vice-campeãs da Copa América de futebol de cegas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Amazonas ganha quatro reservas de desenvolvimento sustentável"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cidades do noroeste de SP têm maior incidência de casos de dengue"
     },
     {
@@ -33,14 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Polícia indicia 13 em caso de morte de homem espancado em Copacabana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio de R$ 70 milhões nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mendonça usou pedido do partido Novo para afastar diretor-geral da PF"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Leitura entre adolescentes atinge pior nível deste século"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF: Segunda Turma tem maioria para afastar Andrei; Gilmar pede vista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-ministros do STF pedem apuração rigorosa da \"mais aguda crise\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inventário extrajudicial não exigirá mais pagamento prévio de ITCMD"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado financeiro reduz previsão da inflação para 5% este ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça afasta Andrei Rodrigues da direção-geral da Polícia Federal"
     }
 ];
