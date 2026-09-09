@@ -9,6 +9,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 76 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Delegados criticam afastamento de chefe da PF por decisão monocrática"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prêmio Mulheres e Ciência tem inscrições abertas até quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça usou pedido do partido Novo para afastar diretor-geral da PF"
     }
 ];
