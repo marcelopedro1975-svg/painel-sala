@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Entidades científicas cobram apuração rigorosa de crise no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça reconhece falhas da Enel em apagão de dezembro de 2025 em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula pede quebra completa de sigilo do caso Master \"doa a quem doer\""
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça solta ex-procurador do INSS indiciado por desvios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Combustíveis e agricultura familiar recebem quase R$ 7 bi em créditos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sesc celebra 80 anos com programação gratuita em várias cidades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novo computador quântico educacional passa a ser usado no Senai"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em meio a crise, Fachin cancela sessão plenária desta quarta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas e trovoadas no centro-sul estão previstas para esta quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PND 2026: cartão que confirma inscrição está disponível na internet"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil tem quase 38 mil pessoas à espera de transplante de córnea"
     },
     {
@@ -13,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PF mira grupo suspeito de desviar encomendas postais"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Anvisa amplia indicação de vacina contra meningite"
     },
     {
@@ -25,7 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dino determina reintegração de Andrei Rodrigues no comando da PF"
+        titulo: "Dino determina reintegração de Andrei Rodrigues ao comando da PF"
     },
     {
         fonte: "Agência Brasil",
@@ -33,19 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PF faz ação contra apologia ao nazismo no interior do Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia faz operação contra venda de medicamentos abortivos no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (9)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nacional estreia documentário que lembra histórico programa PRK-30"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ex-Palmeiras marca e São Paulo perde do Boca Juniors na Sul-Americana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil supera Venezuela em estreia no Sul-Americano de vôlei feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sindicato de servidores da PF manifesta apoio a diretores afastados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Delegados criticam afastamento de chefe da PF por decisão monocrática"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a terça-feira (8) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fluminense bate Platense e abre vantagem nas quartas da Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CVM multa Vorcaro em R$ 20 milhões por fraude em fundo imobiliário"
     }
 ];
