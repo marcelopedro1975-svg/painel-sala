@@ -1,11 +1,35 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi a quarta-feira (9) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça homologa delação sobre financiamento do filme sobre Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novas medidas para combustíveis terão impacto de R$ 7 bilhões por mês"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil encara Costa Rica na semi da Copa América de futebol de cegos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin decide tirar Moraes da relatoria do inquérito das fake news"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "André Mendonça manda soltar filho do \"Careca do INSS\""
     },
     {
         fonte: "Agência Brasil",
         titulo: "Para AGU, decisão de Fachin restaura ordem pública e administrativa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio recebe base da Força Nacional do SUS para enfrentar El Niño"
     },
     {
         fonte: "Agência Brasil",
@@ -37,15 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "São Paulo confirma dois novos casos de sarampo; total chega a 30"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comissão Global sobre Drogas pede fim de punitivismo contra crianças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Crianças desaparecidas em Bacabal podem entrar em alerta da Interpol"
+        titulo: "São Paulo confirma novos casos de sarampo; total chega a 30"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Combustíveis e agricultura familiar recebem quase R$ 7 bi em créditos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novo computador quântico educacional passa a ser usado no Senai"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em meio a crise, Fachin cancela sessão plenária desta quarta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PND 2026: cartão que confirma inscrição está disponível na internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil tem quase 38 mil pessoas à espera de transplante de córnea"
     }
 ];
