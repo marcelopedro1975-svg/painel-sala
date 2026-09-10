@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Transpetro prorroga prazo de inscrição em concurso para 21 de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copa do Brasil: Arena Mané Garrincha será o palco da final em Brasília"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiros retiram R$ 10,5 bilhões da poupança em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: candidatos terão transporte gratuito no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em meio a crise, Fachin volta a cancelar sessão plenária no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Isenção da “taxa das blusinhas” em compras até US$ 50 é sancionada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cesta básica ficou mais barata em 25 capitais em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino cita risco de evasão e proíbe deputado Mario Frias de deixar país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPRJ denuncia cinco pessoas por morte de ciclista em Copacabana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Olho seco: uso excessivo de telas entre crianças reduz ato de piscar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova novas indicações para remédio que trata câncer de mama"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Índia sedia Cúpula do Brics no fim de semana"
     },
     {
@@ -25,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fiscais resgatam 479 vítimas de escravidão moderna no mês de agosto"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PMs são denunciados por cobrar policiamento privilegiado no Rio"
     },
     {
@@ -37,46 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mario Frias e produtora de Dark Horse são alvos de operação da PF"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil melhora desempenho escolar no longo prazo, mas patamar é baixo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Educação é prioridade para moradores de favelas do Rio nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a quarta-feira (9) dos presidenciáveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça homologa delação sobre financiamento do filme sobre Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novas medidas para combustíveis terão impacto de R$ 7 bilhões por mês"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil encara Costa Rica na semi da Copa América de futebol de cegos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin decide tirar Moraes da relatoria do inquérito das fake news"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "André Mendonça manda soltar filho do \"Careca do INSS\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Para AGU, decisão de Fachin restaura ordem pública e administrativa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin suspende decisões de Mendonça e Dino sobre diretor da PF"
     }
 ];
