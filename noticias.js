@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rádio Nacional lança clipe para celebrar seus 90 anos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi a quarta-feira (9) dos presidenciáveis"
     },
     {
@@ -37,14 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Anac permite voos após as 23h em Congonhas em situações excepcionais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seis filmes seguem na disputa para representar o Brasil no Oscar"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Subsídios à gasolina e ao diesel são ampliados após alta do petróleo"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Combustíveis e agricultura familiar recebem quase R$ 7 bi em créditos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novo computador quântico educacional passa a ser usado no Senai"
     }
 ];
