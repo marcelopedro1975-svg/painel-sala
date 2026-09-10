@@ -1,7 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Rádio Nacional lança clipe para celebrar seus 90 anos"
+        titulo: "Índia sedia Cúpula do Brics no fim de semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Setor de serviços fica estável em julho e sobe 2,4% em 12 meses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jovem cria plataforma para ajudar nova geração de eleitores nas urnas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite Independiente del Valle x Flamengo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trump promete US$ 5 mil a cada americano se vencer eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fiscais resgatam 479 vítimas de escravidão moderna no mês de agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PMs são denunciados por cobrar policiamento privilegiado no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prevenção ao suicídio: profissionais de saúde destacam riscos com bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mario Frias e produtora de Dark Horse são alvos de operação da PF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil melhora desempenho escolar no longo prazo, mas patamar é baixo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Educação é prioridade para moradores de favelas do Rio nas eleições"
     },
     {
         fonte: "Agência Brasil",
@@ -33,50 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rio recebe base da Força Nacional do SUS para enfrentar El Niño"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fachin suspende decisões de Mendonça e Dino sobre diretor da PF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Subsídios à gasolina e ao diesel são ampliados após alta do petróleo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Associação de procuradores pede moderação diante de crise no STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Autismo: médica lista estratégias que ajudam no atendimento a crianças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ancelotti anuncia 26 convocados para amistosos da seleção brasileira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo confirma novos casos de sarampo; total chega a 30"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entidades científicas cobram apuração rigorosa de crise no STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula pede quebra completa de sigilo do caso Master \"doa a quem doer\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça solta ex-procurador do INSS indiciado por desvios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Combustíveis e agricultura familiar recebem quase R$ 7 bi em créditos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novo computador quântico educacional passa a ser usado no Senai"
     }
 ];
