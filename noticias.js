@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Saiba qual é a rotina ideal de consultas para cuidar da visão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caiado é internado em SP para tratar uma faringite aguda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC aprova regras para as férias escolares na Copa do Mundo Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mostra em SP exibe produção do indigenista Vincent Carelli"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil vai ao Sudoeste Asiático mirando virar parceiro pleno da Asean"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Irmã de PM suspeito de feminicídio é investigada e está foragida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Minha Casa, Minha Vida: conselho do FGTS aumenta subsídios para 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Plano de saúde terá que cobrir mamografia digital para todas as idades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Faturamento da indústria cai 2% em julho, segundo CNI"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa entra em greve nacional; BB tem paralisação parcial"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Transpetro prorroga prazo de inscrição em concurso para 21 de setembro"
     },
     {
@@ -13,11 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Enem 2026: candidatos terão transporte gratuito no Rio"
+        titulo: "Em meio à crise, Fachin volta a cancelar sessão plenária no STF"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Em meio a crise, Fachin volta a cancelar sessão plenária no STF"
+        titulo: "Enem 2026: candidatos terão transporte gratuito no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -38,45 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Olho seco: uso excessivo de telas entre crianças reduz ato de piscar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova novas indicações para remédio que trata câncer de mama"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Índia sedia Cúpula do Brics no fim de semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Setor de serviços fica estável em julho e sobe 2,4% em 12 meses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jovem cria plataforma para ajudar nova geração de eleitores nas urnas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite Independiente del Valle x Flamengo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trump promete US$ 5 mil a cada americano se vencer eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PMs são denunciados por cobrar policiamento privilegiado no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prevenção ao suicídio: profissionais de saúde destacam riscos com bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil melhora desempenho escolar no longo prazo, mas patamar é baixo"
     }
 ];
