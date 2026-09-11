@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira como foi a quinta-feira (10) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil continua sem vitória no mundial de basquete em cadeira de rodas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Número de lares com idosos em insegurança alimentar cai em dois anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Programa CNH do Brasil aumenta pedidos de habilitação em mais de 200%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Futebol de cegos: Brasil vai à final da Copa América contra Colômbia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Saiba qual é a rotina ideal de consultas para cuidar da visão"
     },
     {
@@ -53,30 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Em meio à crise, Fachin volta a cancelar sessão plenária no STF"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Enem 2026: candidatos terão transporte gratuito no Rio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Isenção da “taxa das blusinhas” em compras até US$ 50 é sancionada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cesta básica ficou mais barata em 25 capitais em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino cita risco de evasão e proíbe deputado Mario Frias de deixar país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPRJ denuncia cinco pessoas por morte de ciclista em Copacabana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Olho seco: uso excessivo de telas entre crianças reduz ato de piscar"
+        titulo: "Em meio à crise, Fachin volta a cancelar sessão plenária no STF"
     }
 ];
