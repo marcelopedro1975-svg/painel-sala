@@ -1,11 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Projeto pago com emenda de Mario Frias não teve execução comprovada"
+        titulo: "Inep divulga relação final dos aprovados no Revalida 2025/2"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 85 milhões; confira os números sorteados"
+        titulo: "Baixa visão na infância: especialista alerta para diagnóstico precoce"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inflação oficial de agosto fecha em -0,32%, menor taxa em quatro anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça incluiu Flávio Bolsonaro como investigado no caso Dark Horse"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional celebra 90 anos neste sábado com programação especial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (11)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flamengo supera Del Valle na altitude pelas quartas da Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "A pedido de Fachin, Mendonça retira parte de sigilo do caso Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil vence a terceira e lidera Sul-Americano feminino de vôlei"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival de Brasília do Cinema Brasileiro começa nesta sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "11 de setembro: após 25 anos, imagens do atentado ainda chocam o mundo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha convoca candidatos a defender o Cerrado nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Projeto pago com emenda de Mario Frias não teve execução comprovada"
     },
     {
         fonte: "Agência Brasil",
@@ -18,14 +62,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil continua sem vitória no mundial de basquete em cadeira de rodas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Número de lares com idosos em insegurança alimentar cai em dois anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Programa CNH do Brasil aumenta pedidos de habilitação em mais de 200%"
     },
     {
         fonte: "Agência Brasil",
@@ -42,41 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "MEC aprova regras para as férias escolares na Copa do Mundo Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil vai ao Sudoeste Asiático mirando virar parceiro pleno da Asean"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Minha Casa, Minha Vida: conselho do FGTS aumenta subsídios para 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Plano de saúde terá que cobrir mamografia digital para todas as idades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Faturamento da indústria cai 2% em julho, segundo CNI"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa entra em greve nacional; BB tem paralisação parcial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Transpetro prorroga prazo de inscrição em concurso para 21 de setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copa do Brasil: Arena Mané Garrincha será o palco da final em Brasília"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiros retiram R$ 10,5 bilhões da poupança em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: candidatos terão transporte gratuito no Rio"
     }
 ];
