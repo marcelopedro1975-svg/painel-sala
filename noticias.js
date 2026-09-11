@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Projeto pago com emenda de Mario Frias não teve execução comprovada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 85 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Levantamento aponta uso de IA sem identificação por candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira como foi a quinta-feira (10) dos candidatos a presidente"
     },
     {
@@ -33,15 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mostra em SP exibe produção do indigenista Vincent Carelli"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil vai ao Sudoeste Asiático mirando virar parceiro pleno da Asean"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Irmã de PM suspeito de feminicídio é investigada e está foragida"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem 2026: candidatos terão transporte gratuito no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em meio à crise, Fachin volta a cancelar sessão plenária no STF"
     }
 ];
