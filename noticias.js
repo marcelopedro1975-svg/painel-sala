@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Contrato de Vorcaro com Barci previa atuação jurídica e consultorias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão terá campanha de conscientização sobre doação de órgãos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF: Zanin pede a Fachin acesso a todo material de celular de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fux dá 15 dias para União e BC responderem sobre empréstimo ao BRB"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes aponta “escolha seletiva” e pede divulgação de todo caso Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo para optar por seguir na lista de espera do CNU 1 termina hoje"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo para escolas escolherem livros didáticos para 2027 termina hoje"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo confirma mais dois casos de sarampo e total chega a 32"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "INPC tem variação negativa em agosto e soma 3,98% em 12 meses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Internado em SP, Ronaldo Caiado recebe diagnóstico de pneumonia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF: ex-chefe de supervisão do BC recebeu R$ 500 mil mensais de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Inep divulga relação final dos aprovados no Revalida 2025/2"
     },
     {
@@ -14,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça incluiu Flávio Bolsonaro como investigado no caso Dark Horse"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional celebra 90 anos neste sábado com programação especial"
     },
     {
         fonte: "Agência Brasil",
@@ -37,46 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Festival de Brasília do Cinema Brasileiro começa nesta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "11 de setembro: após 25 anos, imagens do atentado ainda chocam o mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha convoca candidatos a defender o Cerrado nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projeto pago com emenda de Mario Frias não teve execução comprovada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Levantamento aponta uso de IA sem identificação por candidatos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira como foi a quinta-feira (10) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil continua sem vitória no mundial de basquete em cadeira de rodas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Futebol de cegos: Brasil vai à final da Copa América contra Colômbia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba qual é a rotina ideal de consultas para cuidar da visão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caiado é internado em SP para tratar uma faringite aguda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC aprova regras para as férias escolares na Copa do Mundo Feminina"
     }
 ];
