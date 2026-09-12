@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PGR repete pedido por acesso integral a dados de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades pedem apoio de candidatos em defesa da agroecologia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Eleitoral se aproxima de indígenas na Raposa Serra do Sol"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Capital paulista já acumula quase 200 mm de chuvas em setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS vacina mais de 1 milhão de crianças com Pneumo 20"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Álcool e cigarro podem causar cegueira, alertam especialistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Arábia Saudita paralisa oleoduto, e houthis controlam Mar Vermelho"
     },
     {
@@ -13,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "São Paulo está em estado de atenção devido às chuvas persistentes"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça"
     },
     {
@@ -26,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis neste fim de semana (12 e 13)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desabamento de prédio em construção deixa dois mortos em São Paulo"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Andrei Rodrigues nega que PF tenha monitorado ministro André Mendonça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin reitera pedido de acesso a dados de celular de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE rejeita por unanimidade o registro de candidatura de Pablo Marçal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Oftalmologistas alertam para uso de telas e a miopia em crianças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça diz ter divulgado todo conteúdo disponível no caso Master"
     }
 ];
