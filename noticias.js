@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Arábia Saudita paralisa oleoduto, e houthis controlam Mar Vermelho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com Irã e Emirados Árabes no bloco, Brics pede calma no Oriente Médio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fachin marca sessão sobre Mendonça para dia 23"
     },
     {
@@ -13,7 +21,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TH Joias, ex-deputado estadual no Rio vira réu por envolvimento com CV"
+        titulo: "TH Joias, ex-deputado no Rio, vira réu por envolvimento com CV"
     },
     {
         fonte: "Agência Brasil",
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PF aponta cobranças de Flávio a Vorcaro por filme Dark Horse"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reconhecimento da culpa do Estado na morte de Marighella faz 30 anos"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça diz ter divulgado todo conteúdo disponível no caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enamed 2026: prova que avalia formação médica será neste domingo"
     }
 ];
