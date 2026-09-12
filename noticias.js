@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Andrei Rodrigues nega que PF tenha monitorado ministro André Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin reitera pedido de acesso a dados de celular de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE rejeita por unanimidade o registro de candidatura de Pablo Marçal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Padre impede Lavagem da Madeleine, celebração afro-brasileira em Paris"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Oftalmologistas alertam para uso de telas e a miopia em crianças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça diz ter divulgado todo conteúdo disponível no caso Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enamed 2026: prova que avalia formação médica será neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STF retoma julgamento da Lei da Ficha Limpa com voto de Gilmar Mendes"
     },
     {
@@ -9,15 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dia do Cerrado: em um ano desmatamento do bioma cai 19%, diz Inpe"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Grupo de Vorcaro tinha informações do MPF, da PF e até da Interpol"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trabalhadores dos Correios estão em greve por tempo indeterminado"
     },
     {
         fonte: "Agência Brasil",
@@ -26,14 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TRE-RJ indefere registro de Garotinho para candidato a governador"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inmet lança alerta de ciclone extratropical na Região Sul esta noite"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fim de semana na capital paulista terá chuva forte e rajadas de vento"
     },
     {
         fonte: "Agência Brasil",
@@ -53,14 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fux dá 15 dias para União e BC responderem sobre empréstimo ao BRB"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes aponta “escolha seletiva” e pede divulgação de todo caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Prazo para optar por seguir na lista de espera do CNU 1 termina hoje"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "São Paulo confirma mais dois casos de sarampo e total chega a 32"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "INPC tem variação negativa em agosto e soma 3,98% em 12 meses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Internado em SP, Ronaldo Caiado recebe diagnóstico de pneumonia"
     }
 ];
