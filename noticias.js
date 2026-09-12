@@ -1,19 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fachin marca sessão sobre Mendonça para dia 23"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo está em estado de atenção devido às chuvas persistentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TH Joias, ex-deputado estadual no Rio vira réu por envolvimento com CV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (12 e 13)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desabamento de prédio em construção deixa dois mortos em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Retinopatia diabética: entenda condição ocular causada pelo diabetes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF aponta cobranças de Flávio a Vorcaro por filme Dark Horse"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reconhecimento da culpa do Estado na morte de Marighella faz 30 anos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Bancários rejeitam proposta da Caixa e mantêm greve nacional"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Gilmar reforça a Fachin pedido de acesso integral a celular de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Devastação na Amazônia pode quebrar maior \"máquina de chuva\" do mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Plataformas vão informar canais de denúncia de violência contra mulher"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Padre impede Lavagem da Madeleine, celebração afro-brasileira em Paris"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Oftalmologistas alertam para uso de telas e a miopia em crianças"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enamed 2026: prova que avalia formação médica será neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF retoma julgamento da Lei da Ficha Limpa com voto de Gilmar Mendes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aulas serão suspensas no DF nas sextas-feiras antes das eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Grupo de Vorcaro tinha informações do MPF, da PF e até da Interpol"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Amazonas confirma três casos de sarampo; outros dois são investigados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ indefere registro de Garotinho para candidato a governador"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin dá 24h para Mendonça levantar sigilo de todo caso Master"
     }
 ];
