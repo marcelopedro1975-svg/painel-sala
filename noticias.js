@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Bancários rejeitam proposta da Caixa e mantêm greve nacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gilmar reforça a Fachin pedido de acesso integral a celular de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Devastação na Amazônia pode quebrar maior \"máquina de chuva\" do mundo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Plataformas vão informar canais de denúncia de violência contra mulher"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fachin dá 24h para Mendonça levantar sigilo de todo caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Contrato de Vorcaro com Barci previa atuação jurídica e consultorias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão terá campanha de conscientização sobre doação de órgãos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para optar por seguir na lista de espera do CNU 1 termina hoje"
     }
 ];
