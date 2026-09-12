@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Plataformas vão informar canais de denúncia de violência contra mulher"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a sexta-feira (11) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça levanta sigilo de quase 40 processos no STF"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes"
     },
     {
@@ -65,18 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF: Zanin pede a Fachin acesso a todo material de celular de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Prazo para optar por seguir na lista de espera do CNU 1 termina hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para escolas escolherem livros didáticos para 2027 termina hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo confirma mais dois casos de sarampo e total chega a 32"
     }
 ];
