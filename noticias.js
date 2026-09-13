@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fachin dá 24 horas para PF enviar informações sobre celular de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ana Sátila é ouro em etapa da Copa do Mundo de canoagem slalom"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Avião da GOL faz pouso de emergência após decolagem em Goiânia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 85 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PGR repete pedido por acesso integral a dados de Vorcaro"
     },
     {
@@ -21,11 +37,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Álcool e cigarro podem causar cegueira, alertam especialistas"
+        titulo: "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo"
+        titulo: "Álcool e cigarro podem causar cegueira, alertam especialistas"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bancários rejeitam proposta da Caixa e mantêm greve nacional"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gilmar reforça a Fachin pedido de acesso integral a celular de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a sexta-feira (11) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça levanta sigilo de quase 40 processos no STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes"
     }
 ];
