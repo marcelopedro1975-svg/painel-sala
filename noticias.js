@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi o fim de semana dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ex-ministros e sociedade civil divulgam carta em apoio a Fachin"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça cita risco às investigações com dados de celular de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas deixam ao menos oito mortos na Grande São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Melhor entre os melhores: Alison dos Santos é campeão do Ultimate 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino aponta indícios de liderança de Mário Frias em desvio de emendas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil é campeão do Pré-Olímpico e garante vaga em Los Angeles 2028"
     },
     {
@@ -25,15 +49,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Conversa com o Autor, na Rádio MEC, será com Itamar Vieira Junior"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rádio Nacional transmite clássico Flamengo x Corinthians neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para inscrições no Prêmio Rádio MEC termina neste domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Entidades pedem apoio de candidatos em defesa da agroecologia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS vacina mais de 1 milhão de crianças com Pneumo 20"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Álcool e cigarro podem causar cegueira, alertam especialistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arábia Saudita paralisa oleoduto, e houthis controlam Mar Vermelho"
     }
 ];
