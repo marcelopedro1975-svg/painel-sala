@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil é hepatcampeão da Copa América de futebol de cegos em SP"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fachin dá 24 horas para PF enviar informações sobre celular de Vorcaro"
     },
     {
@@ -37,11 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo"
+        titulo: "Álcool e cigarro podem causar cegueira, alertam especialistas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Álcool e cigarro podem causar cegueira, alertam especialistas"
+        titulo: "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Retinopatia diabética: entenda condição ocular causada pelo diabetes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF aponta cobranças de Flávio a Vorcaro por filme Dark Horse"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bancários rejeitam proposta da Caixa e mantêm greve nacional"
     }
 ];
