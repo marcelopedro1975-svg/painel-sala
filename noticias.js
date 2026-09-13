@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil é campeão do Pré-Olímpico e garante vaga em Los Angeles 2028"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 95 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF está com celular de Vorcaro e afirma poder enviar dados a ministros"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dino determina fim do sigilo de investigações sobre o filme Dark Horse"
     },
     {
@@ -33,7 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil é hepatcampeão da Copa América de futebol de cegos em SP"
+        titulo: "Brasil é heptacampeão da Copa América de futebol de cegos em SP"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Arábia Saudita paralisa oleoduto, e houthis controlam Mar Vermelho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com Irã e Emirados Árabes no bloco, Brics pede calma no Oriente Médio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin marca sessão sobre Mendonça para dia 23"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça"
     }
 ];
