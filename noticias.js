@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dino determina fim do sigilo de investigações sobre o filme Dark Horse"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prova que avalia formação médica ocorre neste domingo em todo país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Crise institucional prejudica debate eleitoral, avaliam entidades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conversa com o Autor, na Rádio MEC, será com Itamar Vieira Junior"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite clássico Flamengo x Corinthians neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo para inscrições no Prêmio Rádio MEC termina neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileirão Feminino A2: TV Brasil acompanha primeiro jogo da final"
     },
     {
@@ -21,14 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Avião da GOL faz pouso de emergência após decolagem em Goiânia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado de R$ 85 milhões neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PGR repete pedido por acesso integral a dados de Vorcaro"
     },
     {
@@ -37,19 +53,15 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça Eleitoral se aproxima de indígenas na Raposa Serra do Sol"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "SUS vacina mais de 1 milhão de crianças com Pneumo 20"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Álcool e cigarro podem causar cegueira, alertam especialistas"
+        titulo: "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo"
+        titulo: "Álcool e cigarro podem causar cegueira, alertam especialistas"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TH Joias, ex-deputado no Rio, vira réu por envolvimento com CV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (12 e 13)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Retinopatia diabética: entenda condição ocular causada pelo diabetes"
     }
 ];
