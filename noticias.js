@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileirão Feminino A2: TV Brasil acompanha primeiro jogo da final"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça Eleitoral se aproxima de indígenas na Raposa Serra do Sol"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Capital paulista já acumula quase 200 mm de chuvas em setembro"
     },
     {
         fonte: "Agência Brasil",
