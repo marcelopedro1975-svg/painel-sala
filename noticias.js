@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Guilherme Schimidt é ouro e país fecha Grand Slam de judô com 3 pódios"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi o fim de semana dos candidatos a presidente"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PGR repete pedido por acesso integral a dados de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entidades pedem apoio de candidatos em defesa da agroecologia"
     }
 ];
