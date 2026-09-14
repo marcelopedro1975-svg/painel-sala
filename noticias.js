@@ -1,15 +1,67 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confiança da indústria recua e mantém 21 meses de pessimismo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça retira sigilo de processo sobre rede de pagamentos de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF: deputado Cezinha de Madureira negociava acesso a ministros do STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Países do Golfo Pérsico cancelam reunião sobre reabertura de Ormuz"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EBC participa de evento internacional sobre futuro do futebol feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ciência ainda não foi lembrada na campanha eleitoral, diz SBPC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha incentiva voto de quem tem mais de 70 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba as novas regras da Anac para passageiros indisciplinados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF envia a Gilmar e Zanin íntegra de material do celular de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministério homologa tombamento de palacete histórico no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mercado projeta corte da Selic para 13,75%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitores com deficiência têm até hoje para pedir transporte grátis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGR defende quebra de sigilo de processo sobre pagamentos de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (14)"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ex-presidente José Sarney é internado com quadro de pneumonia"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Encontro sobre futuro profissional deve reunir 15 mil jovens no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Viva Maria, da Rádio Nacional, presta serviço a mulheres há 45 anos"
     },
     {
         fonte: "Agência Brasil",
@@ -26,57 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça cita risco às investigações com dados de celular de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuvas deixam ao menos oito mortos na Grande São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Melhor entre os melhores: Alison dos Santos é campeão do Ultimate 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino aponta indícios de liderança de Mário Frias em desvio de emendas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil é campeão do Pré-Olímpico e garante vaga em Los Angeles 2028"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF está com celular de Vorcaro e afirma poder enviar dados a ministros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino determina fim do sigilo de investigações sobre o filme Dark Horse"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prova que avalia formação médica ocorre neste domingo em todo país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Crise institucional prejudica debate eleitoral, avaliam entidades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite clássico Flamengo x Corinthians neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino A2: TV Brasil acompanha primeiro jogo da final"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil é heptacampeão da Copa América de futebol de cegos em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin dá 24 horas para PF enviar informações sobre celular de Vorcaro"
     }
 ];
