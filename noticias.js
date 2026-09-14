@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar sobe e fecha perto de R$ 5,15 com aversão a risco"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Move Brasil terá R$ 30 bilhões para crédito de veículos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estados e municípios têm limite de crédito para 2026 ampliado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IBGE acionará PF e AGU contra fake news sobre pesquisa de saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS amplia cobertura da vacina Pneumo 20 para maiores de 85 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Greve nos Correios: TST determina manutenção de 80% do efetivo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival de Música Rádio Nacional apresenta novo cronograma"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF define rito de sessão que analisará conversas de Moraes e Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF confirma transmissão pela internet de sessão sobre Moraes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Assédio e sobrecarga ameaçam saúde mental de jornalistas, diz pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confiança da indústria recua e mantém 21 meses de pessimismo"
     },
     {
@@ -29,15 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Saiba as novas regras da Anac para passageiros indisciplinados"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PF envia a Gilmar e Zanin íntegra de material do celular de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério homologa tombamento de palacete histórico no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleitores com deficiência têm até hoje para pedir transporte grátis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR defende quebra de sigilo de processo sobre pagamentos de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (14)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-presidente José Sarney é internado com quadro de pneumonia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Encontro sobre futuro profissional deve reunir 15 mil jovens no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Guilherme Schimidt é ouro e país fecha Grand Slam de judô com 3 pódios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi o fim de semana dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-ministros e sociedade civil divulgam carta em apoio a Fachin"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça cita risco às investigações com dados de celular de Vorcaro"
     }
 ];
