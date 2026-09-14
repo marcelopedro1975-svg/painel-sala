@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ex-presidente José Sarney é internado com quadro de pneumonia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Encontro sobre futuro profissional deve reunir 15 mil jovens no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Viva Maria, da Rádio Nacional, presta serviço a mulheres há 45 anos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Guilherme Schimidt é ouro e país fecha Grand Slam de judô com 3 pódios"
     },
     {
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil é campeão do Pré-Olímpico e garante vaga em Los Angeles 2028"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 95 milhões; confira os números sorteados"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fachin dá 24 horas para PF enviar informações sobre celular de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ana Sátila é ouro em etapa da Copa do Mundo de canoagem slalom"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR repete pedido por acesso integral a dados de Vorcaro"
     }
 ];
