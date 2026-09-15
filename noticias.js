@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Flávio Dino pede vista de julgamento sobre Moraes e Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça acompanha Fachin e vota por julgamento separado de Moraes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin: não dá para investigar Moraes sem julgar atos de Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes defende que seu julgamento seja em conjunto com o de Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cirurgias eletivas pelo SUS passam de 7,5 milhões no primeiro semestre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo tem quatro novos casos de sarampo; total chega a 36 este ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino e Zanin votam para julgar Moraes e Mendonça na mesma sessão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PRTB troca Marçal por Leonardo Avalanche na disputa à presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bets reduzem consumo e atividade econômica, diz pesquisa da USP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF: plenário vai decidir se julgará Moraes e Mendonça simultaneamente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Depoimento de Vorcaro à PF é adiado após pedido da defesa"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Moraes acusa Mendonça de querer incluir seu nome em delação de Vorcaro"
     },
     {
@@ -9,15 +53,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Morre a ativista política e feminista Amelinha Teles, aos 81 anos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Gilmar acusa Mendonça de usar caso Master para interferir em eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF interrompe julgamento; sessão será retomada será às 15h"
     },
     {
         fonte: "Agência Brasil",
@@ -25,23 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dino cita descumprimento de normas e sugere julgamento conjunto dia 23"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gilmar Mendes defende imparcialidade de ministros em julgamento no STF"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Tesouro honra R$ 79,95 mi em dívidas de estados e municípios em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Marques se declara impedido, e Toffoli suspeito em julgamento no STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin pede que ministros deixem disputa pessoal de lado"
     },
     {
         fonte: "Agência Brasil",
@@ -49,19 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Começa sessão no STF com Mendonça e Moraes no plenário da Corte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reunião do Copom começa com expectativa de nova redução da Selic"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Vendas no comércio caem 0,8% em julho, com “ressaca” da Copa do Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino cobra explicação sobre elo entre Master e instituto de Mendonça"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileirão Feminino: TV Brasil exibe semifinal Bahia x Corinthians"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (15)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil deve dobrar investimentos para zerar déficit em infraestrutura"
     }
 ];
