@@ -1,15 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Chuvas deixam 152 famílias em abrigos no Vale do Ribeira (SP)"
+        titulo: "Dino cobra explicação sobre elo entre Master e instituto de Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Evento de arte e tecnologia \"alfineta\" com bordado e reflete sobre IA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "\"Tiktokização\" e crise sufocam propostas de campanha, diz Fenaj"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "\"Inconstitucional e ilegal\", diz Moraes sobre investigação de Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão Feminino: TV Brasil exibe semifinal Bahia x Corinthians"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (15)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ indefere 15 candidaturas por indícios de vínculos criminosos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil deve dobrar investimentos para zerar déficit em infraestrutura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câncer: estudo alerta para riscos de melanoma fora da pele"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF faz nesta manhã sessão que analisará conversas de Moraes e Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio de R$ 95 milhões nesta terça-feira"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Caixa muda horário do sorteio da Lotofácil da Independência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cacique Raoni, de 94 anos, recebe cuidados paliativos em Mato Grosso"
     },
     {
         fonte: "Agência Brasil",
@@ -33,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Setembro registra recorde de chuva na capital paulista"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Move Brasil terá R$ 30 bilhões para crédito de veículos"
     },
     {
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "IBGE acionará PF e AGU contra fake news sobre pesquisa de saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS amplia cobertura da vacina Pneumo 20 para maiores de 85 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF define rito de sessão que analisará conversas de Moraes e Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF confirma transmissão pela internet de sessão sobre Moraes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Assédio e sobrecarga ameaçam saúde mental de jornalistas, diz pesquisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confiança da indústria recua e mantém 21 meses de pessimismo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça retira sigilo de processo sobre rede de pagamentos de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF: deputado Cezinha de Madureira negociava acesso a ministros do STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Países do Golfo Pérsico cancelam reunião sobre reabertura de Ormuz"
     }
 ];
