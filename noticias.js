@@ -1,7 +1,31 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Caixa muda horário do sorteio da Lotofácil da Independência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio e PL lideram uso indevido de IA, diz observatório"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conselho regulamenta crédito para taxistas e motoristas de aplicativo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira como foi a segunda-feira (14) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil e EUA voltarão a discutir tarifas em encontro do G20"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar sobe e fecha perto de R$ 5,15 com aversão a risco"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Setembro registra recorde de chuva na capital paulista"
     },
     {
         fonte: "Agência Brasil",
@@ -18,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SUS amplia cobertura da vacina Pneumo 20 para maiores de 85 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Greve nos Correios: TST determina manutenção de 80% do efetivo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival de Música Rádio Nacional apresenta novo cronograma"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ciência ainda não foi lembrada na campanha eleitoral, diz SBPC"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha incentiva voto de quem tem mais de 70 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF envia a Gilmar e Zanin íntegra de material do celular de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado projeta corte da Selic para 13,75%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores com deficiência têm até hoje para pedir transporte grátis"
     }
 ];
