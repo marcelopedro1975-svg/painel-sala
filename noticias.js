@@ -1,7 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Chuvas deixam 152 famílias em abrigos no Vale do Ribeira (SP)"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Caixa muda horário do sorteio da Lotofácil da Independência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cacique Raoni, de 94 anos, recebe cuidados paliativos em Mato Grosso"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Países do Golfo Pérsico cancelam reunião sobre reabertura de Ormuz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EBC participa de evento internacional sobre futuro do futebol feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ciência ainda não foi lembrada na campanha eleitoral, diz SBPC"
     }
 ];
