@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Entenda: STF encerra sessão sem definir casos sobre Moraes e Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF provocou mal-estar cívico na população, diz Cármen Lúcia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Livro com textos de Pierre Verger será lançado amanhã em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apoiado pela EBC, evento debate desenvolvimento do futebol feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Paulo Gonet nega proximidade com Daniel Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em carta aos candidatos, Fenaj pede valorização dos jornalistas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Flávio Dino pede vista de julgamento sobre Moraes e Mendonça"
     },
     {
@@ -41,19 +65,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Depoimento de Vorcaro à PF é adiado após pedido da defesa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes acusa Mendonça de querer incluir seu nome em delação de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PND 2026: participantes farão prova neste domingo em todo o país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gilmar acusa Mendonça de usar caso Master para interferir em eleição"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Revalida 2026/2: prazo de envio de diploma médico termina dia 19"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vendas no comércio caem 0,8% em julho, com “ressaca” da Copa do Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"Tiktokização\" e crise sufocam propostas de campanha, diz Fenaj"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino: TV Brasil exibe semifinal Bahia x Corinthians"
     }
 ];
