@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Com 78 galerias, ArtRio traz obras inéditas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PRF estabelece regras para evitar bloqueios nas eleições de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trump cita PCC e CV e diz que Brasil não conseguiu enfrentar facções"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Política nacional vai estimular pesquisa de minerais críticos no país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apreensão de armas aumenta 10,3% no Rio em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BC reduz juros básicos para 13,75% ao ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Filme Feito Pipa é escolhido para representar Brasil no Oscar 2027"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Testes clínicos fase 1 da polilaminina começam este mês"
     },
     {
@@ -37,10 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Chuvas em SP: cidades do Vale do Ribeira estão em estado de emergência"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Prazo para recursos do Enamed 2026 e Revalida 2026/2 vai até quinta"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "CBF anuncia amistosos da seleção feminina em palcos da Copa do Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Megaoperação contra crime organizado bloqueia mais de R$ 508 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa determina recolhimento do produto NotShake Protein"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBC-BR recua 0,2% em julho; resultado representa alta de 1% em um ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe caneta emagrecedora vinda do Paraguai"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça aceita denúncia contra 5 acusados de matar ciclista no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa alerta risco de deficiência de B6 com uso de carbidopa/levodopa"
     }
 ];
