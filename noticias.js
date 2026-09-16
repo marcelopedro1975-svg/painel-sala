@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Testes clínicos fase 1 da polilaminina começam este mês"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mudanças climáticas figuram como crise de saúde pública, diz Padilha"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras tem maior margem de lucro entre grandes petroleiras mundiais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Andes lança documentário sobre a importância da educação e ciência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF retoma sessões após suspensão de casos Moraes e Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Número de professores jovens cai 31% em dez anos, aponta pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Opas amplia acesso ao lenacapavir para prevenir HIV na América Latina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ancelotti convoca Martinelli, do Fluminense, para amistosos na Ásia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Thais Lima brilha nos pênaltis e Brasil segue na Copa Feminina sub-20"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Chuvas em SP: cidades do Vale do Ribeira estão em estado de emergência"
     },
     {
@@ -29,10 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lotofácil da Independência: 72 apostas faturam R$ 4,4 milhões cada"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "IBC-BR recua 0,2% em julho; resultado representa alta de 1% em um ano"
     },
     {
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa alerta risco de deficiência de B6 com uso de carbidopa/levodopa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro Feminino: Corinthians abre vantagem para cima do Bahia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (16)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vasco mantém possibilidade de final brasileira na Copa Sul-Americana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rioprevidência leiloa por R$ 23,3 milhões terreno na Ilha dos Caiçaras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio recupera R$ 153 milhões de esquemas de corrupção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio condena homem a 42 de prisão por feminicídio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Especialistas defendem maior regulação de plataformas digitais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino"
     }
 ];
