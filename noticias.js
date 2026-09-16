@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Projeto musical retorna ao Museu Nacional de Belas Artes após 8 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio recupera R$ 153 milhões de esquemas de corrupção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça do Rio condena homem a 42 de prisão por feminicídio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Especialistas defendem maior regulação de plataformas digitais"
     },
     {
@@ -30,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF provocou mal-estar cívico na população, diz Cármen Lúcia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Livro com textos de Pierre Verger será lançado amanhã em São Paulo"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "São Paulo tem quatro novos casos de sarampo; total chega a 36 este ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino e Zanin votam para julgar Moraes e Mendonça na mesma sessão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PRTB troca Marçal por Leonardo Avalanche na disputa à presidência"
     }
 ];
