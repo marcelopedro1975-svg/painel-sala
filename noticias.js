@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Especialistas defendem maior regulação de plataformas digitais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 102 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a terça-feira (15) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fluminense leva susto, mas é 1º classificado à semi da Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Entenda: STF encerra sessão sem definir casos sobre Moraes e Mendonça"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PRTB troca Marçal por Leonardo Avalanche na disputa à presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bets reduzem consumo e atividade econômica, diz pesquisa da USP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF: plenário vai decidir se julgará Moraes e Mendonça simultaneamente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PND 2026: participantes farão prova neste domingo em todo o país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sancionado regime especial para incentivar instalação de datacenters"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tesouro honra R$ 79,95 mi em dívidas de estados e municípios em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Revalida 2026/2: prazo de envio de diploma médico termina dia 19"
     }
 ];
