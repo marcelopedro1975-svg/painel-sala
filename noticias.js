@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula pode se encontrar com prefeito de Nova York nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quarta-feira (16) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesquisadores debatem em Brasília o papel da comunicação pública"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE vai enviar alertas no e-Título com orientações para eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades industriais e trabalhistas consideram tímida queda da Selic"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes vota para igualar tempo de licenças-maternidade e adotante"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Com 78 galerias, ArtRio traz obras inéditas"
     },
     {
@@ -13,7 +37,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Política nacional vai estimular pesquisa de minerais críticos no país"
+        titulo: "Brasil cria política para ampliar produção de minerais críticos"
     },
     {
         fonte: "Agência Brasil",
@@ -22,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "BC reduz juros básicos para 13,75% ao ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Filme Feito Pipa é escolhido para representar Brasil no Oscar 2027"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ancelotti convoca Martinelli, do Fluminense, para amistosos na Ásia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Thais Lima brilha nos pênaltis e Brasil segue na Copa Feminina sub-20"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para recursos do Enamed 2026 e Revalida 2026/2 vai até quinta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brics: declaração final reforça defesa de reforma da governança global"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conselho Superior do MPF analisará mensagens de Vorcaro sobre Gonet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CBF anuncia amistosos da seleção feminina em palcos da Copa do Mundo"
     }
 ];
