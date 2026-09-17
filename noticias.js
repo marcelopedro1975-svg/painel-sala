@@ -1,11 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "STJ suspende processos sobre aluguel de curta temporada em condomínios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ambiente de informação deve piorar no mundo, alertam especialistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economia recua 0,4% na passagem de junho para julho, estima FGV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Comitê Gestor da Internet publica diretriz para regular redes sociais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNH vencida entre junho e setembro tem validade extra até dezembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalhadores da Caixa decidem na próxima semana sobre fim da greve"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino manda PF investigar relação de Vorcaro com cemitérios em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa de pai de Vorcaro cita impasse no STF e pede soltura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Segurança do paciente: veja como reduzir riscos de doenças crônicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aos 82 anos, Leci Brandão é indicada ao Grammy Latino"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil no Mundo debate disputa entre EUA e China pela liderança em IA"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Empresas afetadas por tarifaço ou guerra já podem pedir empréstimo"
+        titulo: "Brasil Soberano 3 começa a receber pedidos de empréstimos de empresas"
     },
     {
         fonte: "Agência Brasil",
@@ -37,46 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pesquisa mostra desafio de cineastas indígenas para financiar filmes"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ex-procurador do Instituto Rio Metrópole tem prisão decretada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gasto com polícia é 5 mil vezes custo de políticas para egressos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fiji declara emergência nacional por HIV com 1 caso a cada 60 pessoas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF: Gilmar critica exposição de Gonet no caso Master por Mendonça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fiocruz mostra destaques da 13ª Olimpíada de Saúde e Meio Ambiente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ distribui mais de 1 milhão de colas eleitorais para dia do voto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras vai buscar petróleo na margem equatorial da Costa do Marfim"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio amplia vacinação contra a covid-19 para idosos e trabalhadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF: Gilmar Mendes critica condução do caso Master por Fux na 2ª Turma"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entenda mudança no mapa que tirou Sorriso do topo da produção agrícola"
     }
 ];
