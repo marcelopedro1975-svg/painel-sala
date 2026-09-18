@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Estudo aponta esgotamento emocional e burnout de médicos de UTI"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pix terá novas regras para fraudes, cobrança híbrida e contas-salário"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS vai ofertar canetas emagrecedoras para pacientes com obesidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (18)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após semana em greve, empregados dos Correios têm dissídio na segunda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "RJ vai criar 5 mil vagas no sistema penitenciário em três anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula propõe criar Ministério da Segurança e aumento real do mínimo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS"
     },
     {
@@ -21,15 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Instituto faz comparativo de 228 indicadores dos estados brasileiros"
+        titulo: "Plataforma reúne 228 indicadores para comparar estados brasileiros"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Brasil bate Colômbia e segue 100% no Sul-Americano masculino de vôlei"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolão de Presidente Venceslau (SP) leva R$ 101 milhões na Mega-Sena"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +62,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja como foi a quinta-feira (17) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Publicações históricas são devolvidas à Biblioteca Nacional"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça rejeita ação contra reajuste do Bolsa Família"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STJ suspende processos sobre aluguel de curta temporada em condomínios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Economia recua 0,4% na passagem de junho para julho, estima FGV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trabalhadores da Caixa decidem na próxima semana sobre fim da greve"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino manda PF investigar relação de Vorcaro com cemitérios em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa de pai de Vorcaro cita impasse no STF e pede soltura"
     }
 ];
