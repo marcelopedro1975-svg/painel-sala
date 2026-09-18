@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Escolas da Bahia e do Pará vencem prêmio nacional de sustentabilidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sociedade pode se inscrever para integrar delegação do Brasil na COP31"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Eleitoral rejeita cerca de 1,2 mil registros de candidatura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça rejeita ação contra reajuste do Bolsa Família"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio reconhece pesquisas brasileiras sobre mudanças climáticas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STJ suspende processos sobre aluguel de curta temporada em condomínios"
     },
     {
@@ -37,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Aos 82 anos, Leci Brandão é indicada ao Grammy Latino"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil no Mundo debate disputa entre EUA e China pela liderança em IA"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fachin desmarca julgamento sobre atuação de Mendonça no caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Libertadores: Rádio Nacional transmite Fla e Independiente del Valle"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PND 2026 tem adesão de 2.007 municípios e 23 estados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsa Família é reajustado em 15%; medida vale a partir de outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-procurador do Instituto Rio Metrópole tem prisão decretada"
     }
 ];
