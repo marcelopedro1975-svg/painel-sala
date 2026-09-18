@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Instituto faz comparativo de 228 indicadores dos estados brasileiros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil bate Colômbia e segue 100% no Sul-Americano masculino de vôlei"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolão de Presidente Venceslau (SP) leva R$ 101 milhões na Mega-Sena"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP Open: após revés, Naná Silva dá volta por cima e avança nas duplas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quinta-feira (17) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Publicações históricas são devolvidas à Biblioteca Nacional"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Escolas da Bahia e do Pará vencem prêmio nacional de sustentabilidade"
     },
     {
@@ -17,27 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Prêmio reconhece pesquisas brasileiras sobre mudanças climáticas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "STJ suspende processos sobre aluguel de curta temporada em condomínios"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ambiente de informação deve piorar no mundo, alertam especialistas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Economia recua 0,4% na passagem de junho para julho, estima FGV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comitê Gestor da Internet publica diretriz para regular redes sociais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNH vencida entre junho e setembro tem validade extra até dezembro"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prevenção de acidentes de trânsito é tema de seminário internacional"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fundação Pró-Sangue alerta para baixo estoque e faz apelo a doadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin desmarca julgamento sobre atuação de Mendonça no caso Master"
     }
 ];
