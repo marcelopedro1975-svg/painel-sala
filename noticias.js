@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ex-vereador Milton Leite se entrega à polícia após operação contra PCC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cartilha reúne orientações para a redação do Enem 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aposentado ou pensionista que votar não precisará fazer Prova de Vida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Naná e Victória caem, mas Luisa Stefani vai às semifinais do SP Open"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula rebate Trump ao falar sobre retomada de territórios no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio: MPF vai à Justiça cobrar plano de redução da letalidade policial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Expedição científica brasileira investiga abismos do Atlântico"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "STJ mantém condenação da ex-deputada Flordelis a 50 anos de prisão"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fim da escala 6x1 e de privatizações é prioridade de Hertz Dias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pela quinta vez, Brasil põe \"trinca\" nas semifinais da Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio Bolsonaro propõe enxugar Estado e endurecer ações de segurança"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PND 2026: candidato deve responder questionário até sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Plataforma reúne 228 indicadores para comparar estados brasileiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil bate Colômbia e segue 100% no Sul-Americano masculino de vôlei"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP Open: após revés, Naná Silva dá volta por cima e avança nas duplas"
     }
 ];
