@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "STJ mantém condenação da ex-deputada Flordelis a 50 anos de prisão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pessoas com deficiência vivem em piores condições de moradia, diz IBGE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saúde qualifica assistência para prevenir progressão de doença renal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Renda de PCDs equivale a 70% do rendimento de pessoas sem deficiência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Candidatos não poderão ser presos a partir deste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa de Daniel Vorcaro pede revogação de prisão preventiva a Fachin"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Analfabetismo entre jovens e adultos com deficiência é 12 vezes maior"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Estudo aponta esgotamento emocional e burnout de médicos de UTI"
     },
     {
@@ -14,14 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (18)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após semana em greve, empregados dos Correios têm dissídio na segunda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "RJ vai criar 5 mil vagas no sistema penitenciário em três anos"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SP Open: após revés, Naná Silva dá volta por cima e avança nas duplas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a quinta-feira (17) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escolas da Bahia e do Pará vencem prêmio nacional de sustentabilidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sociedade pode se inscrever para integrar delegação do Brasil na COP31"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Eleitoral rejeita cerca de 1,2 mil registros de candidatura"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça rejeita ação contra reajuste do Bolsa Família"
     }
 ];
