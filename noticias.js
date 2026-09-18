@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fim da escala 6x1 e de privatizações é prioridade de Hertz Dias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pela quinta vez, Brasil põe \"trinca\" nas semifinais da Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio Bolsonaro propõe enxugar Estado e endurecer ações de segurança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PND 2026: candidato deve responder questionário até sábado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Instituto faz comparativo de 228 indicadores dos estados brasileiros"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Defesa de pai de Vorcaro cita impasse no STF e pede soltura"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Segurança do paciente: veja como reduzir riscos de doenças crônicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil no Mundo debate disputa entre EUA e China pela liderança em IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil Soberano 3 começa a receber pedidos de empréstimos de empresas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pesquisa aponta que solidão e exaustão ampliam abstenção nas urnas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prevenção de acidentes de trânsito é tema de seminário internacional"
     }
 ];
