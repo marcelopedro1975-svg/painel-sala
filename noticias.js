@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi a sexta-feira (18) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Primeira Turma do STF mantém condenação de Eduardo Bolsonaro"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula rebate Trump ao falar sobre retomada de territórios no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio: MPF vai à Justiça cobrar plano de redução da letalidade policial"
     },
     {
         fonte: "Agência Brasil",
