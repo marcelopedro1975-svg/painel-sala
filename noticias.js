@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Para associações, normas ainda deixam pontos em aberto sobre cannabis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Equipe do São Paulo é a primeira finalista do Brasileirão Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Podoroska e Quevedo decidem SP Open 2026 neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caderno de Música lembra 120 anos de nascimento de Dmitri Shostakovich"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras aprova adesão à subvenção ao óleo diesel"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Morre Paulo Roberto Teixeira, referência no combate à aids no Brasil"
     },
     {
@@ -29,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Nova espécie de felino é identificada em florestas da Bolívia"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Flávia Saraiva é ouro nas assimétricas da Copa do Mundo de ginástica"
     },
     {
@@ -42,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TV Brasil exibe final do Brasileirão feminino A2 com Vasco e Itabirito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alerta de tempestade: frente fria amplia instabilidade na Região Sul"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis neste fim de semana (19 e 20)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Condenados por violência doméstica terão de passar por reabilitação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rui Costa Pimenta quer ampliar direitos trabalhistas e verbas da saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caiado promete governo \"transformador\" e reformas estruturais"
     }
 ];
