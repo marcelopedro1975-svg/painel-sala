@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Primeira Turma do STF mantém condenação de Eduardo Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça aumenta indenização a estudantes vítimas de racismo na Uerj"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gilmar Mendes valida reajuste do Bolsa Família"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU pede que STF reconheça validade do reajuste do Bolsa Família"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ex-vereador Milton Leite se entrega à polícia após operação contra PCC"
     },
     {
@@ -25,15 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Expedição científica brasileira investiga abismos do Atlântico"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "STJ mantém condenação da ex-deputada Flordelis a 50 anos de prisão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pessoas com deficiência vivem em piores condições de moradia, diz IBGE"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (18)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula propõe criar Ministério da Segurança e aumento real do mínimo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Leonardo Avalanche quer reduzir impostos e zerar fila do SUS"
     }
 ];
