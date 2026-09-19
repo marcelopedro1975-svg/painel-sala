@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Pesquisa identifica oito planetas candidatos a ter vida extraterrestre"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi a sexta-feira (18) dos candidatos a presidente"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "SUS vai ofertar canetas emagrecedoras para pacientes com obesidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (18)"
     }
 ];
