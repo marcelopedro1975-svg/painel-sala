@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Inep muda locais de exame da PND em União da Vitória (PR)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil exibe final do Brasileirão feminino A2 com Vasco e Itabirito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alerta de tempestade: frente fria amplia instabilidade na Região Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil vence Venezuela e está no mundial de vôlei masculino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Impacto financeiro de bets no SUS chega a R$ 30,6 bilhões por ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras batiza primeiro navio a navegar com tripulação 100% feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apostas em bets avançam entre jovens e ampliam risco de dependência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio de R$ 28 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apostas online podem levar ao endividamento rápido, diz pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cargos de liderança são só 1,5% das vagas para pessoas com deficiência"
     },
     {
@@ -10,14 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Condenados por violência doméstica terão de passar por reabilitação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gabi Terra é destaque do reality Duelo de Guitarras na TV Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Praias de cinco estados vão receber mutirões de limpeza em setembro"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Gilmar Mendes valida reajuste do Bolsa Família"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU pede que STF reconheça validade do reajuste do Bolsa Família"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-vereador Milton Leite se entrega à polícia após operação contra PCC"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cartilha reúne orientações para a redação do Enem 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Naná e Victória caem, mas Luisa Stefani vai às semifinais do SP Open"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula rebate Trump ao falar sobre retomada de territórios no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STJ mantém condenação da ex-deputada Flordelis a 50 anos de prisão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saúde qualifica assistência para prevenir progressão de doença renal"
     }
 ];
