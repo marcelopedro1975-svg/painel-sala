@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mais de 625 mil pessoas fazem a Prova Nacional Docente neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zema propõe saída do Brics e redução de supersalários e de impostos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Para associações, normas ainda deixam pontos em aberto sobre cannabis"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Petrobras batiza primeiro navio a navegar com tripulação 100% feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Apostas em bets avançam entre jovens e ampliam risco de dependência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (19 e 20)"
     }
 ];
