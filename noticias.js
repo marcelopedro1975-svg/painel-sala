@@ -9,6 +9,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Transexuais e travestis fazem ato no RJ em defesa da democracia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Podoroska e Quevedo decidem SP Open 2026 neste domingo"
     },
     {
@@ -42,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil é eliminado pela Espanha nas quartas da Copa Feminina sub-20"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio MEC transmite domingo o concerto da Orquestra Filarmônica de MG"
     },
     {
         fonte: "Agência Brasil",
