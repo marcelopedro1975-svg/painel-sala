@@ -1,6 +1,70 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Contra a Argentina, Brasil é tetracampeão mundial de futsal down"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fragmentação de dados dificulta prevenção de feminicídios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula e pagará R$ 32 milhões na terça; confira dezenas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ópera Completa, da Rádio MEC, apresenta composição de Carlos Gomes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino cita Master e determina revisão de regras da CVM"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Livraria transforma vida cultural de pequeno município de São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cinco pessoas morrem em acidente com ônibus no interior de SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Diretor de Feito Pipa destaca relações familiares como centro da obra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Wesley é cortado e Vanderson é convocado para amistosos da Seleção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE suspende campanha de Deltan ao Senado pelo Paraná"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Filme cearense Feito Pipa representa Brasil na disputa pelo Oscar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional exibe Corinthians x Fluminense neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba como manifestar intenção de doar órgãos por meio de cartórios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONU: Lula defende multilateralismo e reforma do Conselho de Segurança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Wilson Grassi defende imposto único e mais rigor contra facções"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Samara Martins propõe dobrar salário mínimo e instituir escala 4x3"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mais de 625 mil pessoas fazem a Prova Nacional Docente neste domingo"
     },
     {
@@ -14,69 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Equipe do São Paulo é a primeira finalista do Brasileirão Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Transexuais e travestis fazem ato no RJ em defesa da democracia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Podoroska e Quevedo decidem SP Open 2026 neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caderno de Música lembra 120 anos de nascimento de Dmitri Shostakovich"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras aprova adesão à subvenção ao óleo diesel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Morre Paulo Roberto Teixeira, referência no combate à aids no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conheça Chongqing: metrópole-chave da transformação econômica chinesa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "China busca conexão e cooperação entre povos por meio dos grandes rios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil bate Suíça e avança na Copa Davis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "FMI: IA pode impulsionar crescimento, mas aumentar tensões econômicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil é eliminado pela Espanha nas quartas da Copa Feminina sub-20"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávia Saraiva é ouro nas assimétricas da Copa do Mundo de ginástica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inep muda locais de exame da PND em União da Vitória (PR)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil exibe final do Brasileirão feminino A2 com Vasco e Itabirito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil vence Venezuela e está no mundial de vôlei masculino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Impacto financeiro de bets no SUS chega a R$ 30,6 bilhões por ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras batiza primeiro navio a navegar com tripulação 100% feminina"
     }
 ];
