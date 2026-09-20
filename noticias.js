@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil e EUA: entenda as relações após alerta sobre eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulher de Moraes nega vínculo pessoal com Vorcaro em viagem de jatinho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vôlei: Brasil vence Sul-Americano e está na Olimpíada 2028"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Roda de Choro celebra flautista Altamiro Carrilho na Rádio MEC"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Contra a Argentina, Brasil é tetracampeão mundial de futsal down"
     },
     {
@@ -25,23 +41,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cinco pessoas morrem em acidente com ônibus no interior de SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Diretor de Feito Pipa destaca relações familiares como centro da obra"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Wesley é cortado e Vanderson é convocado para amistosos da Seleção"
     },
     {
         fonte: "Agência Brasil",
         titulo: "TSE suspende campanha de Deltan ao Senado pelo Paraná"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Filme cearense Feito Pipa representa Brasil na disputa pelo Oscar"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Para associações, normas ainda deixam pontos em aberto sobre cannabis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Equipe do São Paulo é a primeira finalista do Brasileirão Feminino"
     }
 ];
