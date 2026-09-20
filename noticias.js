@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi o fim de semana dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Longa de André Novais vence o Festival de Brasília de Cinema"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil fecha Copa do Mundo de ginástica com mais cinco pódios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vasco é campeão do Brasileirão A2 Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Museu do Folclore recebe bordados do Vale do Jequitinhonha"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil e EUA: entenda as relações após alerta sobre eleições"
     },
     {
@@ -25,19 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula e pagará R$ 32 milhões na terça; confira dezenas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ópera Completa, da Rádio MEC, apresenta composição de Carlos Gomes"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dino cita Master e determina revisão de regras da CVM"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Livraria transforma vida cultural de pequeno município de São Paulo"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mais de 625 mil pessoas fazem a Prova Nacional Docente neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zema propõe saída do Brics e redução de supersalários e de impostos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Para associações, normas ainda deixam pontos em aberto sobre cannabis"
     }
 ];
