@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Empregados da Caixa rejeitam proposta da empresa e greve continua"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio confirma caso de raiva em cão que teve contato com morcego"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes se declara impedido em ação sobre ida de sua esposa ao Senado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Edital da Finep sobre mobilidade sustentável recebe projetos até sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporais provocam morte, desaparecimentos e atingem 119 cidades no RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morador de Pelotas mostra nas redes estragos causados por tempestade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Escolas privadas fora de locais de votação terão aulas normais no DF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maioria do TSE mantém suspensão da campanha de Deltan ao Senado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conmebol anuncia datas e horários das semifinais da Copa Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pé-de-Meia começa a pagar sexta parcela a estudantes nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nos EUA, Lula se reúne com prefeito de Nova York e presidente uruguaio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Stefani é bicampeã de duplas do SP Open, o 1º ao lado de Dabrowski"
     },
     {
@@ -21,10 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Quatro pessoas estão desaparecidas no RS após temporal"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Santo André, no ABC Paulista, começa a vacinar bebês contra o sarampo"
     },
     {
@@ -38,45 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Feira em Fortaleza defende políticas sobre drogas com justiça social"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alunos voltam às aulas presenciais em Gaza depois de três anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado reduz projeção da Selic para 13,50%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem: importância do voto para jovens e idosos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério da Justiça demite Eduardo Bolsonaro por abandono de cargo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (21)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores de religiões afro se sentem invisíveis em campanha eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Preso há 30 anos, Marcinho VP permanece em presídio federal fora do RJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi o fim de semana dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil fecha Copa do Mundo de ginástica com mais cinco pódios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vasco é campeão do Brasileirão A2 Feminino"
     }
 ];
