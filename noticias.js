@@ -5,6 +5,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Cine Inclusão 60+ traz filmes dedicados ao debate sobre envelhecimento"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Longa de André Novais vence o Festival de Brasília de Cinema"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Samara Martins propõe dobrar salário mínimo e instituir escala 4x3"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 625 mil pessoas fazem a Prova Nacional Docente neste domingo"
     }
 ];
