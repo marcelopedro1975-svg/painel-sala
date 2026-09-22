@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Defesa Civil alerta para ventos fortes na cidade do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU pede ao STF perda do cargo de ministro acusado de assédio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a segunda-feira (21) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senacon vai investigar 70 postos por aumento abusivo de preços"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mãe pede justiça por jovem encontrada morta em condomínio no Ceará"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Empregados da Caixa rejeitam proposta da empresa e greve continua"
     },
     {
@@ -14,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Edital da Finep sobre mobilidade sustentável recebe projetos até sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Temporais provocam morte, desaparecimentos e atingem 119 cidades no RS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Morador de Pelotas mostra nas redes estragos causados por tempestade"
     },
     {
         fonte: "Agência Brasil",
@@ -53,30 +69,14 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "AGU reitera ação para obrigar Discord a proteger usuários"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TST suspende julgamento de dissídio da greve dos Correios"
     },
     {
         fonte: "Agência Brasil",
+        titulo: "AGU reitera ação para obrigar Discord a proteger usuários"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anvisa manda apreender medicamento falsificado para câncer de mama"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Santo André, no ABC Paulista, começa a vacinar bebês contra o sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Partido pró-Putin vence eleição russa com mais de 57% dos votos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Convocação da lista de espera do Fies no 2º semestre termina na quinta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Feira em Fortaleza defende políticas sobre drogas com justiça social"
     }
 ];
