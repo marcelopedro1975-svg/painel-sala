@@ -1,7 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Plano Nacional de Promoção da Igualdade Racial recebe contribuições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei que amplia cargos da diretoria da OAB é sancionada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Arthur Elias convoca seleção feminina para amistosos contra Argentina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trump rejeita limitar IA e critica governança global da tecnologia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dois anos depois, Corinthians e São Paulo decidem Brasileiro Feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia do Ceará prende João Munhoz, namorado de Isabelle Caracristi"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mendonça acusa Moraes de direcionar investigação no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cenipa abre investigação para apurar causas de queda de helicóptero"
     },
     {
         fonte: "Agência Brasil",
@@ -21,15 +53,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bombeiros encontram helicóptero com corpo do cantor Rick"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "\"O Brasil não cabe no quintal de ninguém”, diz Lula em discurso na ONU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sobe para quatro o número de mortos em decorrência dos temporais no RS"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +62,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "ONU vive momento crítico, diz Lula ao citar indignação com guerras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Temporais provocam duas mortes e afetam mais de 527 mil pessoas no RS"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Estudante abre fogo do lado de fora de escola na Turquia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (22)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Segurança alimentar e povos indígenas têm R$ 64,3 milhões em crédito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ fará auditoria para definir urnas que serão fiscalizadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula discursa nesta terça-feira na Assembleia Geral da ONU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU pede ao STF perda do cargo de ministro acusado de assédio"
     }
 ];
