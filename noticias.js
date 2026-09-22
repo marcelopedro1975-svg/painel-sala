@@ -1,7 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Defesa Civil alerta para ventos fortes na cidade do Rio"
+        titulo: "ONU vive momento crítico, diz Lula ao citar indignação com guerras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporais provocam duas mortes e afetam mais de 527 mil pessoas no RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Secretário-geral da ONU alerta para avanço de guerras e riscos da IA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jornalista Zuenir Ventura morre aos 95 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "União Europeia multa Google por uso indevido de dados de localização"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Renner pede orações para que parceiro Rick seja localizado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ata do Copom atribui corte da Selic à desaceleração da economia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa Civil alerta para risco muito alto de inundação do Taquari"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudante abre fogo do lado de fora de escola na Turquia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (22)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maior violonista brasileiro, Dilermando Reis influenciou gerações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Segurança alimentar e povos indígenas têm R$ 64,3 milhões em crédito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ fará auditoria para definir urnas que serão fiscalizadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula discursa nesta terça-feira na Assembleia Geral da ONU"
     },
     {
         fonte: "Agência Brasil",
@@ -17,14 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mãe pede justiça por jovem encontrada morta em condomínio no Ceará"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Empregados da Caixa rejeitam proposta da empresa e greve continua"
     },
     {
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Moraes se declara impedido em ação sobre ida de sua esposa ao Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Edital da Finep sobre mobilidade sustentável recebe projetos até sexta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escolas privadas fora de locais de votação terão aulas normais no DF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Maioria do TSE mantém suspensão da campanha de Deltan ao Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conmebol anuncia datas e horários das semifinais da Copa Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia começa a pagar sexta parcela a estudantes nesta segunda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nos EUA, Lula se reúne com prefeito de Nova York e presidente uruguaio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Stefani é bicampeã de duplas do SP Open, o 1º ao lado de Dabrowski"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Futebol feminino: TV Brasil exibe Corinthians e Bahia pela semifinal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TST suspende julgamento de dissídio da greve dos Correios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU reitera ação para obrigar Discord a proteger usuários"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa manda apreender medicamento falsificado para câncer de mama"
     }
 ];
