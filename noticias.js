@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi a terça-feira (22) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Afetados pelo El Niño terão crédito extraordinário de R$ 64 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporais no RS deixam mais de 700 pessoas desabrigadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Instalação no Sesc Pompeia denuncia marcas do tráfico de escravizados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros"
     },
     {
@@ -33,10 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cenipa abre investigação para apurar causas de queda de helicóptero"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Governo reduz projeção do PIB para 2% em 2026 e 2,3% em 2027"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Secretário-geral da ONU alerta para avanço de guerras e riscos da IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "União Europeia multa Google por uso indevido de dados de localização"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ata do Copom atribui corte da Selic à desaceleração da economia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudante abre fogo do lado de fora de escola na Turquia"
     }
 ];
