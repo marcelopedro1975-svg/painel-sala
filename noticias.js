@@ -1,11 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar aproxima-se de R$ 5,17, com notícias do exterior e eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tsunami meteorológico: entenda o evento raro e rápido que atingiu SC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TCU recomenda análise de alternativas à caducidade da Enel em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa alerta para venda irregular de tirzepatida em pó na internet"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Internacional contrata técnico Eduardo Baptista até o fim da temporada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Guaíba: Defesa Civil de Porto Alegre alerta para risco de inundação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudo prevê até 13,3 mil mortes no Brasil com calor do Super El Niño"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNJ cancela R$ 4,7 bilhões em precatórios ligados ao Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia investiga indução ao suicídio na morte de Isabelle no Ceará"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cidade do Rio vive o setembro mais chuvoso em quase 30 anos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Comunidade científica alerta para risco de interferência nas eleições"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Seleção: Ancelotii comanda 1º treino com grupo completo na Austrália"
+        titulo: "Seleção: Ancelotti comanda 1º treino com grupo completo na Austrália"
     },
     {
         fonte: "Agência Brasil",
@@ -17,15 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Transporte e insegurança fazem 40% das mulheres desistirem de emprego"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fux pede a Senado posição sobre acessos de Vorcaro e esposa de Moraes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "DF promove mobilidade ativa na semana do Dia Mundial Sem Carro"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Iphan tomba primeiro quilombo do RJ e revalida registros de patrimônio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em 30 anos, obesidade triplica e atinge 1/4 da população adulta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flagrante por drogas gera mais prisão preventiva do que outros crimes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras fecha acordo de cooperação na área de petróleo em Moçambique"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Planos de saúde terão que cobrir DIU hormonal em casos de endometriose"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE cria ferramenta de IA para acesso a informações sobre eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Programa de bolsas vai incentivar formação para a educação básica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Expedição do SUS vai atender indígenas Yanomami em Roraima"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil chega a 35% dos empreendedores com CNPJ"
     }
 ];
