@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 5 recebem Bolsa Família de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: confira 6 dicas para ajudar a escolher seus candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita abre consulta a lote da malha fina do Imposto de Renda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dermatite atópica impacta pele, sono e autoestima: saiba como tratar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Líder índígena pede na ONU retirada de invasores de sua Terra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jazz Livre, da Rádio MEC, destaca centenário de John Coltrane"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Casos de violência política de gênero crescem 11 vezes em 4 anos"
     },
     {
@@ -25,19 +49,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Temporais no RS deixam mais de 700 pessoas desabrigadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Instalação no Sesc Pompeia denuncia marcas do tráfico de escravizados"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Plano Nacional de Promoção da Igualdade Racial recebe contribuições"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fux vai relatar ação sobre idas da esposa de Moraes ao Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Na ONU, Trump ameaça novamente usar força militar na América Latina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Guia do Enem reúne orientações e métodos de estudo para provas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"O Brasil não cabe no quintal de ninguém”, diz Lula em discurso na ONU"
     }
 ];
