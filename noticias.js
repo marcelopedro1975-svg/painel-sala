@@ -1,7 +1,23 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Casos de violência política de gênero crescem 11 vezes em 4 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 38 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa Civil emite alerta de tempestade e rajadas de vento no DF"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi a terça-feira (22) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IA e vídeos falsos superam fake news como maior ameaça à democracia"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Polícia do Ceará prende João Munhoz, namorado de Isabelle Caracristi"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mendonça acusa Moraes de direcionar investigação no STF"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "\"O Brasil não cabe no quintal de ninguém”, diz Lula em discurso na ONU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arrecadação federal ultrapassa R$ 2 trilhões em oito meses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONU vive momento crítico, diz Lula ao citar indignação com guerras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Secretário-geral da ONU alerta para avanço de guerras e riscos da IA"
     }
 ];
