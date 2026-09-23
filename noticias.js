@@ -1,6 +1,70 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Iphan tomba primeiro quilombo do RJ e revalida registros de patrimônio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em 30 anos, obesidade triplica no país e atinge 1/4 da população"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flagrante por drogas gera mais prisão preventiva do que outros crimes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras fecha acordo de cooperação na área de petróleo em Moçambique"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Planos de saúde terão que cobrir DIU hormonal em casos de endometriose"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE cria ferramenta de IA para acesso a informações sobre eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anac muda regras em caso de atrasos e cancelamentos de voos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Programa de bolsas vai incentivar formação para a educação básica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senacon inicia operação para apurar abusos nos preços de combustíveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Corpos de vítimas de queda de helicóptero em SC são liberados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Expedição do SUS vai atender indígenas Yanomami em Roraima"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil chega a 35% dos empreendedores com CNPJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa publica registro de medicação para hipoparatireoidismo crônico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin nega liminar para obrigar Senado a instalar CPI sobre Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (23)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nova lei aumenta penas para furto e roubo de combustíveis"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Beneficiários com NIS de final 5 recebem Bolsa Família de setembro"
     },
     {
@@ -14,69 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dermatite atópica impacta pele, sono e autoestima: saiba como tratar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Líder índígena pede na ONU retirada de invasores de sua Terra"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jazz Livre, da Rádio MEC, destaca centenário de John Coltrane"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Casos de violência política de gênero crescem 11 vezes em 4 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 38 milhões; confira os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa Civil emite alerta de tempestade e rajadas de vento no DF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a terça-feira (22) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IA e vídeos falsos superam fake news como maior ameaça à democracia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Afetados pelo El Niño terão crédito extraordinário de R$ 64 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei que amplia cargos da diretoria da OAB é sancionada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arthur Elias convoca seleção feminina para amistosos contra Argentina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trump rejeita limitar IA e critica governança global da tecnologia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dois anos depois, Corinthians e São Paulo decidem Brasileiro Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça acusa Moraes de direcionar investigação no STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo reduz projeção do PIB para 2% em 2026 e 2,3% em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fux vai relatar ação sobre idas da esposa de Moraes ao Senado"
     }
 ];
