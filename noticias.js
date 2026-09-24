@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Sorteio define grupos da Copinha F que terá transmissão da TV Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cenipa recupera caixa-preta de helicóptero que levava cantor Rick"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Zambelli pede ao STF salvo-conduto para vir ao Brasil votar na mãe"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba como dar entrada em inventário extrajudicial"
     }
 ];
