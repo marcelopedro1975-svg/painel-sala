@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cenipa recupera caixa-preta de helicóptero que levava cantor Rick"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quarta-feira (23) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades denunciam agressões às mulheres que disputam cargos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BC amplia controle sobre criptomoedas e mira carteiras próprias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei institui atendimento a vítimas de violência física e sexual"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar aproxima-se de R$ 5,17, com notícias do exterior e eleições"
     },
     {
@@ -21,23 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Guaíba: Defesa Civil de Porto Alegre alerta para risco de inundação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudo prevê até 13,3 mil mortes no Brasil com calor do Super El Niño"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "CNJ cancela R$ 4,7 bilhões em precatórios ligados ao Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia investiga indução ao suicídio na morte de Isabelle no Ceará"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cidade do Rio vive o setembro mais chuvoso em quase 30 anos"
     },
     {
         fonte: "Agência Brasil",
@@ -53,7 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Por unanimidade, STF iguala tempo de licenças-maternidade e adotante"
+        titulo: "Por unanimidade, STF iguala tempo de licença-maternidade e adotante"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba como dar entrada em inventário extrajudicial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Iphan tomba primeiro quilombo do RJ e revalida registros de patrimônio"
     }
 ];
