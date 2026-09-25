@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "CNU 2025: sai nova lista de classificados para vagas remanescentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet emite alerta de grande perigo por onda de calor no fim de semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conselho do MPF rejeita abertura de investigação contra Gonet"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após cinco meses, conta de luz voltará à bandeira verde em outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Multas por aumento abusivo de combustíveis passam de R$ 700 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa libera dinheiro de antigo fundo PIS/Pasep; veja como sacar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conselho do MPF forma maioria para manter Gonet no caso Master"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mais de 10 mil professores são selecionados via Prova Nacional Docente"
     },
     {
@@ -21,19 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Coletivos de teatro terão programação gratuita em 18 cidades de SP"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Meta desabilitou anúncios do perfil de Lula no Facebook"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Exército simula defesa cibernética no Brasil às vésperas da eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tenente da Marinha é encontrada morta na USP"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Em 13 anos, doença inflamatória intestinal cresce 5 vezes no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prévia da inflação oficial de setembro fica em 0,70%, mostra IBGE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe lotes irregulares de medicamento para esclerose múltipla"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pobreza na Argentina volta a subir e atinge 32,3% da população"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão Feminino: TV Brasil transmite Corinthians e São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia prende ex-vereadora Veronica Costa, condenada por tortura"
     }
 ];
