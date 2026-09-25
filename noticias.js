@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "STF veta revogação unilateral de ICMS aprovado pelo Confaz"
+        titulo: "Em 13 anos, doença inflamatória intestinal cresce 5 vezes no Brasil"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 45 milhões; confira os números sorteados"
+        titulo: "Prévia da inflação oficial de setembro fica em 0,70%, mostra IBGE"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Veja como foi a quinta-feira (24) dos presidenciáveis"
+        titulo: "Anvisa proíbe lotes irregulares de medicamento para esclerose múltipla"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Parlamentares dos EUA criticam ações de Trump nas eleições do Brasil"
+        titulo: "Pobreza na Argentina volta a subir e atinge 32,3% da população"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Economistas lançam iniciativa por economia focada na vida real"
+        titulo: "Brasileirão Feminino: TV Brasil transmite Corinthians e São Paulo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Zanin pede manifestação da Anatel sobre acesso à internet nas eleições"
+        titulo: "Brasil decepciona e empata com Austrália em amistoso"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Com pessimismo externo, dólar sobe 0,47% e aproxima-se de R$ 5,20"
+        titulo: "Polícia prende ex-vereadora Veronica Costa, condenada por tortura"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TST diz que greve dos Correios não é abusiva"
+        titulo: "Anvisa proíbe propaganda de caneta emagrecedora Semavy"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo pede à Conitec incorporação de canetas emagrecedoras no SUS"
+        titulo: "Combustíveis terão novos preços médios a partir de outubro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CMN endurece regras para fundos comprarem créditos judiciais"
+        titulo: "Chuva chega ao interior do Nordeste depois de seca prolongada"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Nunes Marques diz que e-Título poderá ser baixado em dia de votação"
+        titulo: "Sarney é internado no Sírio-Libanês para tratar pneumonia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MPSP recomenda intervenção na Feira do Brás por causa de dívida"
+        titulo: "Veja quem está na disputa pelo governo do estado em Sergipe"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CNJ faz operação em gabinete de desembargador ligado a Nunes Marques"
+        titulo: "Rio Grande do Norte tem oito candidatos a governador; conheça"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasileiros se sentem mais saudáveis do que são, diz pesquisa"
+        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (25)"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil no Mundo desta quinta debate multilateralismo e desafios da ONU"
+        titulo: "Veja quem irá concorrer ao governo do estado no Piauí"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil reinicia caminhada pelo hexa com amistoso contra Austrália"
+        titulo: "Saiba quem disputa o governo estadual em Pernambuco"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Escudo das Américas usa cartéis para barrar China, dizem especialistas"
+        titulo: "Confira quem são os seis candidatos a governador da Paraíba"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PND 2026: gabaritos preliminares já estão disponíveis"
+        titulo: "Eleitores do Maranhão têm oito candidatos a governador; conheça"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Entidades pedem livre acesso à internet nas 72h anteriores às eleições"
+        titulo: "Ceará tem oito candidatos a governador, veja quais são"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TRE-SP alerta: derramamento de santinhos é crime eleitoral"
+        titulo: "Conheça os seis candidatos a governador da Bahia"
     }
 ];
