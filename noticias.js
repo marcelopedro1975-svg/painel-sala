@@ -5,6 +5,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 45 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi a quinta-feira (24) dos presidenciáveis"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TRE-SP alerta: derramamento de santinhos é crime eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trama golpista: defesa de Bolsonaro desiste de suspensão da pena"
     }
 ];
