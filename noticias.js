@@ -1,19 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "STF veta revogação unilateral de ICMS aprovado pelo Confaz"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quinta-feira (24) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Parlamentares dos EUA criticam ações de Trump nas eleições do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economistas lançam iniciativa por economia focada na vida real"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin pede manifestação da Anatel sobre acesso à internet nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com pessimismo externo, dólar sobe 0,47% e aproxima-se de R$ 5,20"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TST diz que greve dos Correios não é abusiva"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo pede à Conitec incorporação de canetas emagrecedoras no SUS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN endurece regras para fundos comprarem créditos judiciais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nunes Marques diz que e-Título poderá ser baixado em dia de votação"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "MPSP recomenda intervenção na Feira do Brás por causa de dívida"
     },
     {
         fonte: "Agência Brasil",
         titulo: "CNJ faz operação em gabinete de desembargador ligado a Nunes Marques"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Carteira de Identidade Nacional possibilita ter conta ouro no GOV.BR"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Organização cria comunidades alternativas para questionar big techs"
     },
     {
         fonte: "Agência Brasil",
@@ -41,42 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ampliação da Via Dutra no Grande Rio deve ser concluída em um ano"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TRE-SP alerta: derramamento de santinhos é crime eleitoral"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Trama golpista: defesa de Bolsonaro desiste de suspensão da pena"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para baixar e validar e-Título termina no dia 3 de outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE nega registro de candidatura de Arruda ao governo do DF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Subsídio de R$ 2,12 ao diesel deve ser mantido por 30 dias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Contenção no Orçamento é reduzida de R$ 17,9 bi para R$ 16,1 bi"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan: financiadora do Dark Horse recebeu verba do crime organizado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino manda Polícia Federal investigar atuação da CVM no caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio usou jatinho ligado a Vorcaro em viagem em 2025, diz revista"
     }
 ];
