@@ -1,6 +1,62 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mais de 10 mil professores são selecionados via Prova Nacional Docente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tesouro Direto bate recorde em agosto com R$ 15 bi em investimentos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festa Literária das Periferias (Flup) vai até domingo no centro do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pronatec oferta mais de 1,5 mil vagas nas áreas de meio ambiente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Coletivos de teatro terão programação gratuita em 18 cidades de SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Meta desabilitou anúncios do perfil de Lula no Facebook"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Exército simula defesa cibernética no Brasil às vésperas da eleição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tenente da Marinha é encontrada morta na USP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil promulga acordo de livre comércio entre Mercosul e EFTA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Censo Escolar: resultado preliminar está disponível no site do Inep"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TST: 60% dos empregados da Caixa devem permanecer em atividade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Plataforma Enem Libras ganha atualização com provas de 2017 a 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça volta a suspender multas sobre saúde mental no trabalho"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Em 13 anos, doença inflamatória intestinal cresce 5 vezes no Brasil"
     },
     {
@@ -21,62 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil decepciona e empata com Austrália em amistoso"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Polícia prende ex-vereadora Veronica Costa, condenada por tortura"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe propaganda de caneta emagrecedora Semavy"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Combustíveis terão novos preços médios a partir de outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuva chega ao interior do Nordeste depois de seca prolongada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sarney é internado no Sírio-Libanês para tratar pneumonia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja quem está na disputa pelo governo do estado em Sergipe"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio Grande do Norte tem oito candidatos a governador; conheça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (25)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja quem irá concorrer ao governo do estado no Piauí"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba quem disputa o governo estadual em Pernambuco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira quem são os seis candidatos a governador da Paraíba"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores do Maranhão têm oito candidatos a governador; conheça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ceará tem oito candidatos a governador, veja quais são"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conheça os seis candidatos a governador da Bahia"
     }
 ];
