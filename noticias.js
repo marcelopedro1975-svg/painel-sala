@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Bets que continuarem no ar após prazo serão bloqueadas, diz Durigan"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Líder do PCC é preso na Bolívia e transferido para São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira como foi a sexta-feira (25) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saúde fará busca ativa de apostadores após fim das bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo cria 3ª fase do Desenrola com compra de dívidas pela União"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bets passam a ser proibidas no país e apostador receberá saldo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin manda investigar uso de IA para burlar sistema do STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin cobra manifestação da PGR sobre casos do INSS e Master"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "CNU 2025: sai nova lista de classificados para vagas remanescentes"
     },
     {
@@ -37,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Festa Literária das Periferias (Flup) vai até domingo no centro do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Meta desabilitou anúncios do perfil de Lula no Facebook"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Exército simula defesa cibernética no Brasil às vésperas da eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil promulga acordo de livre comércio entre Mercosul e EFTA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Censo Escolar: resultado preliminar está disponível no site do Inep"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TST: 60% dos empregados da Caixa devem permanecer em atividade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Plataforma Enem Libras ganha atualização com provas de 2017 a 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça volta a suspender multas sobre saúde mental no trabalho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em 13 anos, doença inflamatória intestinal cresce 5 vezes no Brasil"
     }
 ];
