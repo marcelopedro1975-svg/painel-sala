@@ -1,7 +1,23 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "São Paulo vence o Corinthians, faz história e fica perto do título"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitor deve se antecipar na consulta a local de votação, alerta TSE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil conquista três ouros no Mundial Paralímpico de Judô"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Saiba como baixar o e-Título para votar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aeroporto de Confins volta à normalidade depois de suspender operações"
     },
     {
         fonte: "Agência Brasil",
@@ -26,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF condena Eduardo Bolsonaro por difamar deputada Tábata Amaral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inmet: calor acima da média e chuvas irregulares devem marcar outubro"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Conheça os candidatos ao governo de Goiás nas eleições deste ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: saiba quem são os candidatos ao governo do DF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiro Feminino: Corinthians x São Paulo sustenta força paulista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bets que continuarem no ar após prazo serão bloqueadas, diz Durigan"
     }
 ];
