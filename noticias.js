@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (26 e 27)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Professor de ciências precisa de formação constante, diz pesquisadora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entenda medida provisória e projeto que proíbem bets no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja quem são os candidatos a governador de Mato Grosso do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba quem são os candidatos ao governo de Mato Grosso"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quase 1 milhão de brasileiros no exterior poderão votar nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça os candidatos ao governo de Goiás nas eleições deste ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: saiba quem são os candidatos ao governo do DF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiro Feminino: Corinthians x São Paulo sustenta força paulista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil: reality apresenta trajetória da guitarrista Lui Rabello"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Bets que continuarem no ar após prazo serão bloqueadas, diz Durigan"
     },
     {
@@ -37,46 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inmet emite alerta de grande perigo por onda de calor no fim de semana"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Conselho do MPF rejeita abertura de investigação contra Gonet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após cinco meses, conta de luz voltará à bandeira verde em outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Multas por aumento abusivo de combustíveis passam de R$ 700 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa libera dinheiro de antigo fundo PIS/Pasep; veja como sacar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conselho do MPF forma maioria para manter Gonet no caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 10 mil professores são selecionados via Prova Nacional Docente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tesouro Direto bate recorde em agosto com R$ 15 bi em investimentos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pronatec oferta mais de 1,5 mil vagas nas áreas de meio ambiente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Meta desabilitou anúncios do perfil de Lula no Facebook"
     }
 ];
