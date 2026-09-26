@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fazenda mantém subsídio de R$ 2,12 ao óleo diesel"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: saiba em quantos candidatos votar e a ordem de votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF condena Eduardo Bolsonaro por difamar deputada Tábata Amaral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet: calor acima da média e chuvas irregulares devem marcar outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fórmula 1: Russell supera Verstappen por 0.1s e vence GP do Azerbaijão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba como funcionará compra de dívidas pela União"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis neste fim de semana (26 e 27)"
     },
     {
@@ -9,7 +33,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Entenda medida provisória e projeto que proíbem bets no Brasil"
+        titulo: "MP das Bets: veja o que muda e saiba datas para devolução de valores"
     },
     {
         fonte: "Agência Brasil",
@@ -37,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TV Brasil: reality apresenta trajetória da guitarrista Lui Rabello"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Bets que continuarem no ar após prazo serão bloqueadas, diz Durigan"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Governo cria 3ª fase do Desenrola com compra de dívidas pela União"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bets passam a ser proibidas no país e apostador receberá saldo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin manda investigar uso de IA para burlar sistema do STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin cobra manifestação da PGR sobre casos do INSS e Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNU 2025: sai nova lista de classificados para vagas remanescentes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conselho do MPF rejeita abertura de investigação contra Gonet"
     }
 ];
