@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Saiba como baixar o e-Título para votar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BH: Aeroporto de Confins suspende operações por problema na pista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caderno de Música aborda relação entre Beethoven e Napoleão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Internet grátis pode derrubar rede móvel na eleição, diz Anatel ao STF"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fazenda mantém subsídio de R$ 2,12 ao óleo diesel"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bets que continuarem no ar após prazo serão bloqueadas, diz Durigan"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Líder do PCC é preso na Bolívia e transferido para São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira como foi a sexta-feira (25) dos presidenciáveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saúde fará busca ativa de apostadores após fim das bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo cria 3ª fase do Desenrola com compra de dívidas pela União"
     }
 ];
