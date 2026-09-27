@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Geledés lança guia para acesso às políticas de cuidados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Setembro Verde: idosos também podem ser doadores vivos de órgãos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça os candidatos que disputam o governo estadual em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça os nove candidatos a governador do Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Minas Gerais tem 11 candidatos a governador; veja quais são"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba quem são os cinco candidatos a governador no Espírito Santo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "São Paulo vence o Corinthians, faz história e fica perto do título"
     },
     {
@@ -14,18 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba como baixar o e-Título para votar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aeroporto de Confins volta à normalidade depois de suspender operações"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BH: Aeroporto de Confins suspende operações por problema na pista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caderno de Música aborda relação entre Beethoven e Napoleão"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja quem são os candidatos a governador de Mato Grosso do Sul"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba quem são os candidatos ao governo de Mato Grosso"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quase 1 milhão de brasileiros no exterior poderão votar nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conheça os candidatos ao governo de Goiás nas eleições deste ano"
     }
 ];
