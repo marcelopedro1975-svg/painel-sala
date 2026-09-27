@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi o final de semana dos candidatos à presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Famílias preservam tradição de Cosme e Damião no Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino derruba decisão de Mendonça e libera post sobre Nossa Senhora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pacientes com alopecia areata contam trajetória para reaver autoestima"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil conquista bronze nos mundiais paralímpicos de judô e triatlo"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Internet grátis pode derrubar rede móvel na eleição, diz Anatel ao STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fazenda mantém subsídio de R$ 2,12 ao óleo diesel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: saiba em quantos candidatos votar e a ordem de votação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF condena Eduardo Bolsonaro por difamar deputada Tábata Amaral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fórmula 1: Russell supera Verstappen por 0.1s e vence GP do Azerbaijão"
     }
 ];
