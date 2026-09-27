@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil conquista bronze nos mundiais paralímpicos de judô e triatlo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba como as bets adoeceram e endividaram os brasileiros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Capital fluminense integra programa global de gestão de resíduos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 52 milhões; veja os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quilombo urbano na zona sul do Rio guarda lições de resistência"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Geledés lança guia para acesso às políticas de cuidados"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fórmula 1: Russell supera Verstappen por 0.1s e vence GP do Azerbaijão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba como funcionará compra de dívidas pela União"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis neste fim de semana (26 e 27)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Professor de ciências precisa de formação constante, diz pesquisadora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MP das Bets: veja o que muda e saiba datas para devolução de valores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja quem são os candidatos a governador de Mato Grosso do Sul"
     }
 ];
