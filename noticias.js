@@ -1,11 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Veja como foi o final de semana dos candidatos à presidência"
+        titulo: "Governo monitora rede de divulgação de bets e derruba 506 sites"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Famílias preservam tradição de Cosme e Damião no Rio de Janeiro"
+        titulo: "Déficit nas contas externas soma US$ 5,1 bilhões em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Protestos em Madri entram no 3º dia após despejo de aposentada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mercado eleva projeção de inflação para 4,99% e reduz PIB"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrição de trabalhos no Fórum de Educação Ambiental termina dia 30"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (28)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet faz alerta para onda de calor em oito estados do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleição e inteligência artificial é o tema do Caminhos da Reportagem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 8 recebem Bolsa Família de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Santa Catarina tem oito candidatos a governador, veja quais são"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça os sete candidatos ao governo do Rio Grande do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira quem são os candidatos a governador do Paraná"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "No último segundo, Baltimore Ravens batem Dallas Cowboys no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi o final de semana dos candidatos à presidência"
     },
     {
         fonte: "Agência Brasil",
@@ -25,58 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Capital fluminense integra programa global de gestão de resíduos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 52 milhões; veja os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quilombo urbano na zona sul do Rio guarda lições de resistência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Geledés lança guia para acesso às políticas de cuidados"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Setembro Verde: idosos também podem ser doadores vivos de órgãos"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Conheça os candidatos que disputam o governo estadual em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conheça os nove candidatos a governador do Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Minas Gerais tem 11 candidatos a governador; veja quais são"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba quem são os cinco candidatos a governador no Espírito Santo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo vence o Corinthians, faz história e fica perto do título"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitor deve se antecipar na consulta a local de votação, alerta TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil conquista três ouros no Mundial Paralímpico de Judô"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba como baixar o e-Título para votar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Internet grátis pode derrubar rede móvel na eleição, diz Anatel ao STF"
     }
 ];
