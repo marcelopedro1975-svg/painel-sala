@@ -1,7 +1,35 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ministérios pedem derrubada de 5.209 sites de apostas ilegais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidenta da Capes será primeira brasileira vice-diretora da Unesco"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil cria 165,8 mil postos de trabalho em agosto, aponta Caged"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nem SP, nem Rio: saiba local que reúne mais eleitores brasileiros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin defende segurança e transparência na liberação de precatórios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras fecha acordo para comprar gás dos EUA por mais de 20 anos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Governo Central registra déficit de R$ 13,6 bilhões em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio Jabuti anuncia semifinalistas da 68ª edição"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ciclone e frente fria deixam Centro-Sul em alerta para tempestade"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dissídio de greve da Caixa será julgado nesta terça-feira"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Beneficiários com NIS de final 9 recebem Bolsa Família de setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira como foi a segunda-feira (28) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE recebeu mais de 50 mil denúncias de propaganda irregular"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sociedade civil rebate Anatel sobre internet grátis na eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin libera acesso gratuito a sites da Justiça Eleitoral nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei define padrões de qualidade a hospitais particulares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após empate frustrante, Brasil reencontra Austrália em novo amistoso"
     }
 ];
