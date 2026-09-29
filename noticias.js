@@ -5,6 +5,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Temporais em Santa Catarina e Rio Grande do Sul afetam 4,8 mil casas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE recebeu mais de 50 mil denúncias de propaganda irregular"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ex-presidente José Sarney segue internado em hospital de São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Preço do petróleo sobe, após Trump rejeitar proposta de paz do Irã"
     }
 ];
