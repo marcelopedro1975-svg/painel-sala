@@ -1,11 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Confira como foi a segunda-feira (28) dos candidatos a presidente"
+        titulo: "Governo Central registra déficit de R$ 13,6 bilhões em agosto"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Temporais em Santa Catarina e Rio Grande do Sul afetam 4,8 mil casas"
+        titulo: "Nunes Marques cobra TREs por transporte público gratuito nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gilmar cobra medidas de STF e STJ contra irregularidade em precatórios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Donos de propriedades rurais têm até esta quarta para declarar ITR"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Juros para famílias sobem em agosto e inadimplência chega a 6%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Taxa de desemprego cai para 5,3%, a menor para o trimestre até agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo publica estratégia para avaliar hospitais particulares; veja"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IGP-M volta a subir em setembro e acumula alta de 3,34% em 12 meses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fux suspende decisão de Dino que restabelecia posts de Nossa Senhora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (29)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ciclone e frente fria deixam Centro-Sul em alerta para tempestade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dissídio de greve da Caixa será julgado nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba as diretrizes para desenvolvimento do futebol feminino no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 9 recebem Bolsa Família de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira como foi a segunda-feira (28) dos candidatos a presidente"
     },
     {
         fonte: "Agência Brasil",
@@ -26,57 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Após empate frustrante, Brasil reencontra Austrália em novo amistoso"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar sobe para R$ 5,22 e atinge maior nível desde março"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do TSE reclama de interferência em decisões da Corte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Renegociação de dívidas de adimplentes é prorrogada até 26 de outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dívida Pública Federal fica estável em agosto e chega a R$ 9,29 tri"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo cobra na Justiça gastos do SUS com tratamento de apostadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fiscalização é reforçada para conter alta dos combustíveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU pede 72 horas para se manifestar sobre ações para liberar bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNJ cancela precatórios irregulares avaliados em R$ 2 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendes quer identificação de ministros citados no caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNBB nega envolvimento em polêmica sobre santa católica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio recorre a Fux para derrubar post sobre Nossa Senhora Aparecida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei cria diretrizes permanentes para o futebol feminino no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-presidente José Sarney segue internado em hospital de São Paulo"
     }
 ];
