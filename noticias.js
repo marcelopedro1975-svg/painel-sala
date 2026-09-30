@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Contas públicas têm déficit de R$ 10 bilhões em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Produção de leite bate recorde mesmo com redução de vacas ordenhadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estado de São Paulo tem um idoso para cada pessoa com menos de 15 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Passageiro de ônibus morre baleado durante ação policial no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Centro-Oeste e Sudeste do país têm chuva com rajadas de vento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (30)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seguro rural: novas regras ampliam cobertura e proteção ao produtor"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita paga nesta quarta lote da malha fina do Imposto de Renda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novas tecnologias levam Justiça Eleitoral a reforçar regras de votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 0 recebem Bolsa Família de setembro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE irá julgar decisão que barrou postagens sobre Nossa Senhora"
     },
     {
@@ -21,19 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Chuvas fortes continuam no Sul e aumentam impactos sobre moradores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Falta de dados limita monitoramento de tsunamis meteorológicos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Presidente do TSE diz que 90% das urnas estão prontas para as eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Calor e chuvas levam Defesa Civil a emitir 34 alertas em São Paulo"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "MPF apresenta novo recurso contra exploração na Foz do Amazonas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TST determina reajuste de plano de saúde e fim da greve da Caixa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino defende investigação sobre precatórios pagos irregularmente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Investimento por aluno no Brasil é de 1/3 da média dos países da OCDE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Resistência às vacinas contra gripe e covid coloca gestantes em risco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministérios pedem derrubada de 5.209 sites de apostas ilegais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidenta da Capes será primeira brasileira vice-diretora da Unesco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil cria 165,8 mil postos de trabalho em agosto, aponta Caged"
     }
 ];
