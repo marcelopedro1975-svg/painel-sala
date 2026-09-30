@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TSE irá julgar decisão que barrou postagens sobre Nossa Senhora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça libera postagem de Erika Hilton sobre Nossa Senhora Aparecida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a terça-feira (29) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OCDE: 9% dos professores no Brasil não têm qualificação completa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas fortes continuam no Sul e aumentam impactos sobre moradores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Falta de dados limita monitoramento de tsunamis meteorológicos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Presidente do TSE diz que 90% das urnas estão prontas para as eleições"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil cria 165,8 mil postos de trabalho em agosto, aponta Caged"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nem SP, nem Rio: saiba local que reúne mais eleitores brasileiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin defende segurança e transparência na liberação de precatórios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras fecha acordo para comprar gás dos EUA por mais de 20 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo Central registra déficit de R$ 13,6 bilhões em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nunes Marques cobra TREs por transporte público gratuito nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gilmar cobra medidas de STF e STJ contra irregularidade em precatórios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Donos de propriedades rurais têm até esta quarta para declarar ITR"
     }
 ];
