@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Presidente do TSE diz que 90% das urnas estão prontas para as eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Calor e chuvas levam Defesa Civil a emitir 34 alertas em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin adia discussão sobre postagens de Nossa Senhora no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo para empresas optarem por Simples é prorrogado para outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Número de transações com Pix caem 10% após proibição de bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPF apresenta novo recurso contra exploração na Foz do Amazonas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TST determina reajuste de plano de saúde e fim da greve da Caixa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino defende investigação sobre precatórios pagos irregularmente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Investimento por aluno no Brasil é de 1/3 da média dos países da OCDE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Resistência às vacinas contra gripe e covid coloca gestantes em risco"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ministérios pedem derrubada de 5.209 sites de apostas ilegais"
     },
     {
@@ -29,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Prêmio Jabuti anuncia semifinalistas da 68ª edição"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Nunes Marques cobra TREs por transporte público gratuito nas eleições"
     },
     {
@@ -42,41 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Donos de propriedades rurais têm até esta quarta para declarar ITR"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Juros para famílias sobem em agosto e inadimplência chega a 6%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Taxa de desemprego cai para 5,3%, a menor para o trimestre até agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo publica estratégia para avaliar hospitais particulares; veja"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IGP-M volta a subir em setembro e acumula alta de 3,34% em 12 meses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fux suspende decisão de Dino que restabelecia posts de Nossa Senhora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (29)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dissídio de greve da Caixa será julgado nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba as diretrizes para desenvolvimento do futebol feminino no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 9 recebem Bolsa Família de setembro"
     }
 ];
