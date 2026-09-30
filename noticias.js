@@ -1,23 +1,67 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "EUA tiram visto de procurador que investiga ex-assessor de Milei"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil e EUA criam grupo específico para negociar tarifaço"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gilmar Mendes critica vazamento seletivo de investigações no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mudanças na emissão e no controle de receitas médicas entram em vigor"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Termina nesta quarta prazo para pedir dinheiro do fundo PIS/Pasep"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Imersão científica leva alunas e professoras a centros tecnológicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Museu de Ciências da Terra leva \"dinossauros\" ao Morro da Urca, no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Portaria libera doação de sangue de pessoas com mais de 70 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça manda Discord aumentar proteção de crianças e adolescentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Autorregulação da IA de Trump é carta branca a big tech, diz professor"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Frente de prefeitos apresenta carta com propostas aos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça vota para manter decisão de retirar posts de Nossa Senhora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino manda PF investigar suposta onda de ataques a imagens católicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova medicamento para tratar esquistossomose em crianças"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Contas públicas têm déficit de R$ 10 bilhões em agosto"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Produção de leite bate recorde mesmo com redução de vacas ordenhadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estado de São Paulo tem um idoso para cada pessoa com menos de 15 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Passageiro de ônibus morre baleado durante ação policial no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Centro-Oeste e Sudeste do país têm chuva com rajadas de vento"
     },
     {
         fonte: "Agência Brasil",
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Novas tecnologias levam Justiça Eleitoral a reforçar regras de votação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 0 recebem Bolsa Família de setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE irá julgar decisão que barrou postagens sobre Nossa Senhora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça libera postagem de Erika Hilton sobre Nossa Senhora Aparecida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a terça-feira (29) dos presidenciáveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OCDE: 9% dos professores no Brasil não têm qualificação completa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do TSE diz que 90% das urnas estão prontas para as eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin adia discussão sobre postagens de Nossa Senhora no STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para empresas optarem por Simples é prorrogado para outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Número de transações com Pix caem 10% após proibição de bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPF apresenta novo recurso contra exploração na Foz do Amazonas"
     }
 ];
