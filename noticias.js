@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar cai para R$ 5,17 e acumula recuo de 0,15% em setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE manda Nikolas retirar postagem com desinformação sobre Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vorcaro depõe à PF e nega existência de grupo criminoso \"A Turma\""
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reportagem da Agência Brasil fica em 3º lugar no Prêmio Radar Saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPSP denuncia dois homens por falsificação de bebida que cegou mulher"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "União Europeia sinaliza retomada de compras de frango e mel do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Candidato do PRTB, Leonardo Avalanche desiste de disputar Presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fotógrafo Tomaz Silva, da Agência Brasil, vence Prêmio Vladimir Herzog"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Evangélicos são alvo de disputa, mas rejeitam uso eleitoral de igrejas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rodrigo Pacheco toma posse como ministro do TCU"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "EUA tiram visto de procurador que investiga ex-assessor de Milei"
     },
     {
@@ -38,45 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Autorregulação da IA de Trump é carta branca a big tech, diz professor"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Frente de prefeitos apresenta carta com propostas aos presidenciáveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça vota para manter decisão de retirar posts de Nossa Senhora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino manda PF investigar suposta onda de ataques a imagens católicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova medicamento para tratar esquistossomose em crianças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Contas públicas têm déficit de R$ 10 bilhões em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Produção de leite bate recorde mesmo com redução de vacas ordenhadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (30)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seguro rural: novas regras ampliam cobertura e proteção ao produtor"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita paga nesta quarta lote da malha fina do Imposto de Renda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novas tecnologias levam Justiça Eleitoral a reforçar regras de votação"
     }
 ];
