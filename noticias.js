@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cristiano Ronaldo deixa seleção de Portugal após fala de Jorge Jesus"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE forma maioria para manter retirada de posts sobre Nossa Senhora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caminhos da Reportagem, da TV Brasil, vence Prêmio Vladimir Herzog"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Percentual de jovens nem-nem no Brasil cai para 22,4%, mostra estudo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi a quarta-feira (30) dos presidenciáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "WhatsApp lança regras para controle parental no Brasil; saiba como"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar cai para R$ 5,17 e acumula recuo de 0,15% em setembro"
     },
     {
@@ -29,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fotógrafo Tomaz Silva, da Agência Brasil, vence Prêmio Vladimir Herzog"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Evangélicos são alvo de disputa, mas rejeitam uso eleitoral de igrejas"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Termina nesta quarta prazo para pedir dinheiro do fundo PIS/Pasep"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Imersão científica leva alunas e professoras a centros tecnológicos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Museu de Ciências da Terra leva \"dinossauros\" ao Morro da Urca, no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Portaria libera doação de sangue de pessoas com mais de 70 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça manda Discord aumentar proteção de crianças e adolescentes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Autorregulação da IA de Trump é carta branca a big tech, diz professor"
     }
 ];
