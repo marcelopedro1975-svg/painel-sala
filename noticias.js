@@ -1,15 +1,75 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Entidades sugerem políticas de proteção a crianças e adolescentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jovens que sofreram com falta de acesso à água estarão em fórum da ONU"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Órgãos públicos no Rio de Janeiro terão sala de apoio à amamentação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após chuvas de setembro, Cantareira passa a operar na faixa de atenção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: propagandas gratuitas de candidatos terminam nesta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil estreia segunda temporada do seriado Aprender a Sonhar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Carne brasileira vai pagar tarifa de 67% para entrar na China"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin nega pedido para afastar Dino de ações sobre Flávio Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aplicativo recebe denúncias de irregularidades eleitorais no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU aciona PF para apurar suposto repasse de Trump a ações contra STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nova modalidade de renegociação de dívidas de MEI começa nesta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BB fará pagamentos via Pix a mesários nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Observadores internacionais chegam ao Brasil para monitorar eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolívia prende procurador da República que investigava caso Cerimedo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino declara perda de objeto em pedido de Tabet sobre Nossa Senhora"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fies 2026/2: instituições de ensino podem ofertar vagas remanescentes"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Moraes multa em R$ 5 mil advogado que tentou burlar sistema do STF"
+        titulo: "Defesa cita novos fatos e pede revisão da condenação de Bolsonaro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Defesa cita novos fatos e pede revisão da condenação de Bolsonaro"
+        titulo: "Moraes multa em R$ 5 mil advogado que tentou burlar sistema do STF"
     },
     {
         fonte: "Agência Brasil",
@@ -18,65 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "São Paulo tem três novos casos de sarampo; total chega a 40 este ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PRF, TREs e forças de segurança atuarão em conjunto nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Israel promete chegar à “origem” de ataque em voo da Flydubai"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei Seca: confira onde haverá restrição a bebidas nas eleições 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EUA destinam US$ 1 milhão para campanha contra STF, diz revista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Drone russo atinge escola em Kiev; não há feridos, dizem autoridades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova regularização de cosméticos artesanais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (1º)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: saiba o que pode e o que não pode no dia da votação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Liberação de R$ 1,88 bi beneficia ministérios das Cidades e da Saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Voto em candidato irregular pode ser anulado, mesmo com nome na urna"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pix por aproximação deixa de ter teto de R$ 500 a partir desta quinta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cristiano Ronaldo deixa seleção de Portugal após fala de Jorge Jesus"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE forma maioria para manter retirada de posts sobre Nossa Senhora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Percentual de jovens nem-nem no Brasil cai para 22,4%, mostra estudo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a quarta-feira (30) dos presidenciáveis"
     }
 ];
