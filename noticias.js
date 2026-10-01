@@ -1,6 +1,70 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fies 2026/2: instituições de ensino podem ofertar vagas remanescentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes multa em R$ 5 mil advogado que tentou burlar sistema do STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa cita novos fatos e pede revisão da condenação de Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Santos regulariza ocupação do Centro de Treinamento Rei Pelé"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo tem três novos casos de sarampo; total chega a 40 este ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PRF, TREs e forças de segurança atuarão em conjunto nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Israel promete chegar à “origem” de ataque em voo da Flydubai"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei Seca: confira onde haverá restrição a bebidas nas eleições 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EUA destinam US$ 1 milhão para campanha contra STF, diz revista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Drone russo atinge escola em Kiev; não há feridos, dizem autoridades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova regularização de cosméticos artesanais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (1º)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: saiba o que pode e o que não pode no dia da votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Liberação de R$ 1,88 bi beneficia ministérios das Cidades e da Saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Voto em candidato irregular pode ser anulado, mesmo com nome na urna"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pix por aproximação deixa de ter teto de R$ 500 a partir desta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Cristiano Ronaldo deixa seleção de Portugal após fala de Jorge Jesus"
     },
     {
@@ -9,74 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem, da TV Brasil, leva Prêmio Vladimir Herzog"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Percentual de jovens nem-nem no Brasil cai para 22,4%, mostra estudo"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Veja como foi a quarta-feira (30) dos presidenciáveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "WhatsApp lança regras para controle parental no Brasil; saiba como"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai para R$ 5,17 e acumula recuo de 0,15% em setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE manda Nikolas retirar postagem com desinformação sobre Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vorcaro depõe à PF e nega existência de grupo criminoso \"A Turma\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reportagem da Agência Brasil fica em 3º lugar no Prêmio Radar Saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPSP denuncia dois homens por falsificação de bebida que cegou mulher"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "União Europeia sinaliza retomada de compras de frango e mel do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Candidato do PRTB, Leonardo Avalanche desiste de disputar Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Evangélicos são alvo de disputa, mas rejeitam uso eleitoral de igrejas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rodrigo Pacheco toma posse como ministro do TCU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EUA tiram visto de procurador que investiga ex-assessor de Milei"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil e EUA criam grupo específico para negociar tarifaço"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gilmar Mendes critica vazamento seletivo de investigações no STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mudanças na emissão e no controle de receitas médicas entram em vigor"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Termina nesta quarta prazo para pedir dinheiro do fundo PIS/Pasep"
     }
 ];
