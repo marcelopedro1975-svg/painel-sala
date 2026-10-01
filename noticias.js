@@ -9,7 +9,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem, da TV Brasil, vence Prêmio Vladimir Herzog"
+        titulo: "Caminhos da Reportagem, da TV Brasil, leva Prêmio Vladimir Herzog"
     },
     {
         fonte: "Agência Brasil",
