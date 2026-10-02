@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Avaliação de livros didáticos de programa do MEC é divulgada"
+        titulo: "Distribuidoras se preparam para garantir energia no dia da eleição"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Revelando SP anuncia Zé Ramalho, Yasmin Santos e Demônios da Garoa"
+        titulo: "Embraer tem alta de 6% nas entregas no terceiro trimestre"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Campanha arrecada alimentos para afetados por seca no Amazonas"
+        titulo: "Exploração de trabalhadores rurais sustenta fruticultura bilionária"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe venda de cosméticos e manda recolher gel falsificado"
+        titulo: "Encceja: Inep disponibiliza locais de reaplicação de prova"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "EUA e Austrália fecham embaixadas no Brasil às vésperas da eleição"
+        titulo: "Movimentação das bets cai R$ 652 milhões por dia após proibição"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Petrobras faz 2ª descoberta de petróleo em poço da Margem Equatorial"
+        titulo: "Agência Brasil e veículos da EBC fazem cobertura especial das eleições"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Associação de emissoras de rádio e TV pede suspensão de MP das bets"
+        titulo: "Fachin terá reunião com PF sobre citações a ministros no caso Master"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira"
+        titulo: "Brasil amplia Margem Equatorial com base em decisão da ONU; entenda"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Produção industrial cai 0,6% de julho para agosto, diz IBGE"
+        titulo: "SP: TV Brasil fecha acordo para exibir 41 partidas de futebol feminino"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Chuvas avançam sobre as regiões Nordeste e Norte"
+        titulo: "Educação antirracista avança nas escolas nos últimos dois anos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lei Seca: Ceará e 4 municípios de Rondônia aderem; veja lista completa"
+        titulo: "ONS fará operação preventiva para garantir energia durante as eleições"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TSE: denúncias eleitorais podem ser feitas pelo aplicativo Pardal"
+        titulo: "Fux pede manifestação da AGU sobre pedido para liberar bets"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Agência espacial institui política de inovação para fortalecer setor"
+        titulo: "Fachin cria regra para evitar direcionamento de processos no STF"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Origem das bets passa por lobby estrangeiro e “jabutis” no Congresso"
+        titulo: "Vice-presidente da Bolívia acusa governo Paz de tramar prendê-lo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lives e cancelamento de debate marcam quinta-feira dos candidatos"
+        titulo: "Enamed: candidatos podem checar se pedido de reaplicação foi aprovado"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Trump diz acompanhar de perto eleição brasileira e não declara apoio"
+        titulo: "Justiça Eleitoral entra na reta final da preparação das urnas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Homem é preso ao tentar invadir a sede do STF em Brasília"
+        titulo: "Prazo para propaganda eleitoral paga na imprensa termina nesta sexta"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TRE-RJ suspende porte de arma e autoriza inquérito contra deputado"
+        titulo: "Confira quais são os maiores colégios eleitorais; São Paulo lidera"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TSE decide que Globo não poderá exibir cadeira vazia em debate"
+        titulo: "Conflito no Iêmen: ONU aponta recorde de pessoas passando fome"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fachin defende democracia e livre escolha dos eleitores"
+        titulo: "MEC divulga avaliação de livros didáticos"
     }
 ];
