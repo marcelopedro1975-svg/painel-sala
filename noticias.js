@@ -1,27 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lives e cancelamento de debate marcam quinta-feira dos candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trump diz acompanhar de perto eleição brasileira e não declara apoio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 82 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Homem é preso ao tentar invadir a sede do STF em Brasília"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ suspende porte de arma e autoriza inquérito contra deputado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE decide que Globo não poderá exibir cadeira vazia em debate"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin defende democracia e livre escolha dos eleitores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morre o piloto e youtuber Lito Sousa, aos 59 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defensoria Pública da União fará plantão nos dias de votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar fecha acima de R$ 5,22 em dia de mal-estar global"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ligue 180 tem 1,5 mil denúncias de violência política contra mulher"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entra em vigor tarifa zero para instrumentos musicais importados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Entidades sugerem políticas de proteção a crianças e adolescentes"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Jovens que sofreram com falta de acesso à água estarão em fórum da ONU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Órgãos públicos no Rio de Janeiro terão sala de apoio à amamentação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após chuvas de setembro, Cantareira passa a operar na faixa de atenção"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Eleições: propagandas gratuitas de candidatos terminam nesta quinta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil estreia segunda temporada do seriado Aprender a Sonhar"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "BB fará pagamentos via Pix a mesários nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Observadores internacionais chegam ao Brasil para monitorar eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolívia prende procurador da República que investigava caso Cerimedo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino declara perda de objeto em pedido de Tabet sobre Nossa Senhora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fies 2026/2: instituições de ensino podem ofertar vagas remanescentes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa cita novos fatos e pede revisão da condenação de Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes multa em R$ 5 mil advogado que tentou burlar sistema do STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Santos regulariza ocupação do Centro de Treinamento Rei Pelé"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo tem três novos casos de sarampo; total chega a 40 este ano"
     }
 ];
