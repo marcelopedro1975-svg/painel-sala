@@ -1,6 +1,74 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TSE faz teste final de sistemas e emite zerézima"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: propaganda eleitoral nas ruas termina às 22h deste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em ritmo de treino, Brasil vence a Índia em Calcutá: 4 a 0"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "E-Título: saiba como votar usando o aplicativo do TSE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Paraguai vai às urnas para eleições municipais neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras atinge recorde de valor de mercado após descoberta no Amapá"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Na Malásia, Verstappen faz sua primeira pole position da temporada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Idosos votam primeiro: conheça outros eleitores com prioridade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleição no Rio terá monitoramento conjunto de forças de segurança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maestro Roberto Tibiriçá morre aos 72 anos em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ alerta eleitores sobre alteração no local de votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Votos para o Senado exigem atenção redobrada do eleitor"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres com medidas protetivas terão prioridade para votar no RN"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça os instrumentos de planejamento sucessório"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ataque israelense mata quatro pessoas em Gaza, dizem equipes médicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo e Corinthians decidem campeão brasileiro feminino de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis neste sábado (3)"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Urna eletrônica completa 30 anos de revolução nas eleições do Brasil"
     },
     {
@@ -10,73 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Eleições 2026: saiba quais documentos são aceitos para votar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mudanças climáticas preocupam mais que perda de emprego, diz estudo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como foi a sexta-feira (2) dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ataques a símbolos religiosos reacendem debate sobre intolerância"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do TSE fará pronunciamento no rádio e na TV neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do Senado marca para segunda votação do fim da escala 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE decide que votos para Garotinho serão anulados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fim de semana de eleições será de chuva em grande parte do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nova descoberta aumenta expectativa da Petrobras na Foz do Amazonas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU pede ao STF que declare inconstitucionais leis das bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia Federal investiga suposta ameaça à embaixada dos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Distribuidoras se preparam para garantir energia no dia da eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Embraer tem alta de 6% nas entregas no terceiro trimestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Encceja: Inep disponibiliza locais de reaplicação de prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Movimentação das bets cai R$ 652 milhões por dia após proibição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agência Brasil e veículos da EBC fazem cobertura especial das eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin terá reunião com PF sobre citações a ministros no caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil amplia Margem Equatorial com base em decisão da ONU; entenda"
     }
 ];
