@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja como foi a sexta-feira (2) dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ataques a símbolos religiosos reacendem debate sobre intolerância"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Presidente do TSE fará pronunciamento no rádio e na TV neste sábado"
     },
     {
@@ -30,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Painel indica que El Ninõ pode ser um dos mais intensos desde 1950"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa Civil Nacional mobiliza equipes para temporais no Sul e Sudeste"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mostra leva ao Rio quase sete décadas de produção de Ruy Guerra"
     },
     {
         fonte: "Agência Brasil",
