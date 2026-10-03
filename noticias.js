@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Tribunais distribuem urnas e preparam sessões para eleição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Operação Rastilho: PF cumpre mandados em investigação eleitoral no CE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: boca de urna é crime; saiba o que é proibido"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Monitoramento aponta 13 mil ataques a contas de candidaturas LGBT+"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE faz teste final de sistemas e emite zerézima"
     },
     {
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Maestro Roberto Tibiriçá morre aos 72 anos em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TRE-RJ alerta eleitores sobre alteração no local de votação"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis neste sábado (3)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Urna eletrônica completa 30 anos de revolução nas eleições do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Preço do limão está acima da média, mesmo na entressafra"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: saiba quais documentos são aceitos para votar"
     }
 ];
