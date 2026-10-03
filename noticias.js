@@ -1,7 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Tribunais distribuem urnas e preparam sessões para eleição"
+        titulo: "São Paulo segura Corinthians e é campeão brasileiro pela 1ª vez"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Santa Cruz empata com Maringá e voltará à Série B após 10 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como foi o último dia de campanha dos candidatos a presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba quais situações permitem acompanhante na cabine de votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio MEC estreia série Eu Gosto de Música, apresentada por Ruy Castro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tribunais distribuem urnas e preparam seções para eleição"
     },
     {
         fonte: "Agência Brasil",
@@ -57,26 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Votos para o Senado exigem atenção redobrada do eleitor"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mulheres com medidas protetivas terão prioridade para votar no RN"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conheça os instrumentos de planejamento sucessório"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ataque israelense mata quatro pessoas em Gaza, dizem equipes médicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo e Corinthians decidem campeão brasileiro feminino de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis neste sábado (3)"
     }
 ];
