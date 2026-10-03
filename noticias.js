@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Urna eletrônica completa 30 anos de revolução nas eleições do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Preço do limão está acima da média, mesmo na entressafra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: saiba quais documentos são aceitos para votar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mudanças climáticas preocupam mais que perda de emprego, diz estudo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja como foi a sexta-feira (2) dos candidatos a presidente"
     },
     {
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Painel indica que El Ninõ pode ser um dos mais intensos desde 1950"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Distribuidoras se preparam para garantir energia no dia da eleição"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil amplia Margem Equatorial com base em decisão da ONU; entenda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP: TV Brasil fecha acordo para exibir 41 partidas de futebol feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONS fará operação preventiva para garantir energia durante as eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fux pede manifestação da AGU sobre pedido para liberar bets"
     }
 ];
