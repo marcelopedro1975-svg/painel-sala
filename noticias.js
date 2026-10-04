@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Eleições 2026: camiseta, adesivo, bandeira: o que pode usar para votar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Irã diz que Ormuz não será reaberto até que condições sejam atendidas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-SP inicia testes de integridade em urnas da capital paulista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "No Rio de Janeiro, 12,86 milhões de eleitores são esperados para votar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Colinha em papel e sem celular: saiba o que pode entrar na cabine"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional estreia nova temporada de Música do Mundo neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula e próximo concurso pode pagar R$ 92 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: veja os horários de votação neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: veja como consultar local de votação e seção eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: e-Título permite justificar ausência pelo celular"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: veja a ordem de votação na urna eletrônica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuva predomina neste domingo de eleição; Paraná tem alerta vermelho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cerca de 158,7 milhões de eleitores vão às urnas em todo o país"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Presidente do TSE diz que voto é direito fundamental dos brasileiros"
     },
     {
@@ -17,35 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Saiba quais situações permitem acompanhante na cabine de votação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio MEC estreia série Eu Gosto de Música, apresentada por Ruy Castro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tribunais distribuem urnas e preparam seções para eleição"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Operação Rastilho: PF cumpre mandados em investigação eleitoral no CE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: boca de urna é crime; saiba o que é proibido"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Monitoramento aponta 13 mil ataques a contas de candidaturas LGBT+"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE faz teste final de sistemas e emite zerézima"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições: propaganda eleitoral nas ruas termina às 22h deste sábado"
     },
     {
         fonte: "Agência Brasil",
@@ -53,30 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "E-Título: saiba como votar usando o aplicativo do TSE"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Paraguai vai às urnas para eleições municipais neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras atinge recorde de valor de mercado após descoberta no Amapá"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Na Malásia, Verstappen faz sua primeira pole position da temporada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Idosos votam primeiro: conheça outros eleitores com prioridade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleição no Rio terá monitoramento conjunto de forças de segurança"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ alerta eleitores sobre alteração no local de votação"
     }
 ];
