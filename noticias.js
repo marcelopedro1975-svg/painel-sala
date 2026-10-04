@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Presidente do TSE diz que voto é direito fundamental dos brasileiros"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "São Paulo segura Corinthians e é campeão brasileiro pela 1ª vez"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TRE-RJ alerta eleitores sobre alteração no local de votação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mulheres com medidas protetivas terão prioridade para votar no RN"
     }
 ];
