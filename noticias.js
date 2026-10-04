@@ -1,55 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Eleições 2026: camiseta, adesivo, bandeira: o que pode usar para votar"
+        titulo: "Mais de 5 milhões votam neste domingo no Maranhão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: São Paulo tem 45 casos de irregularidade e 15 prisões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maior local de votação de São Paulo tem filas longas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Analfabetos e ex-alunos votam sob emoção em escola que já foi curral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tribunal Eleitoral de Minas vai apurar uso de celular por Zema na urna"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitores têm até as 17h para escolher candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: acompanhe a apuração em tempo real pela Agência Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Decisão de Nunes Marques recoloca Deltan na disputa pelo Senado no PR"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Candidato vence no 1º turno se ganhar mais de 50% dos votos válidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "O que acontece se eu não votar? Saiba como justificar e evite multas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporal altera lugar de votação em Presidente Prudente em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE registra 421 urnas substituídas nas primeiras 2 horas de votação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "No estado de São Paulo, 32 urnas com problemas são substituídas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba o que são crimes eleitorais e como denunciar"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Irã diz que Ormuz não será reaberto até que condições sejam atendidas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-SP inicia testes de integridade em urnas da capital paulista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "No Rio de Janeiro, 12,86 milhões de eleitores são esperados para votar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Colinha em papel e sem celular: saiba o que pode entrar na cabine"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional estreia nova temporada de Música do Mundo neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula e próximo concurso pode pagar R$ 92 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: veja os horários de votação neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: veja como consultar local de votação e seção eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: e-Título permite justificar ausência pelo celular"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: veja a ordem de votação na urna eletrônica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuva predomina neste domingo de eleição; Paraná tem alerta vermelho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cerca de 158,7 milhões de eleitores vão às urnas em todo o país"
     },
     {
         fonte: "Agência Brasil",
@@ -65,18 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Veja como foi o último dia de campanha dos candidatos a presidente"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Operação Rastilho: PF cumpre mandados em investigação eleitoral no CE"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Em ritmo de treino, Brasil vence a Índia em Calcutá: 4 a 0"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Paraguai vai às urnas para eleições municipais neste domingo"
     }
 ];
