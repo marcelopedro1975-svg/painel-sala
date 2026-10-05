@@ -1,59 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Quando será o segundo turno das eleições? Veja a data"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE vai trabalhar para diminuir a abstenção no segundo turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Kassio diz que não há alerta de interferência nas eleições brasileiras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reeleito em SP, Tarcísio promete mais entregas para o próximo mandato"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja os 20 estados onde o governador foi eleito no 1º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congestionamento no sistema de dados gerou atraso na apuração, diz TSE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Espírito Santo terá 2º turno entre Lorenzo Pazolini e Ricardo Ferraço"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cleitinho Azevedo é eleito governador de Minas Gerais no 1º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seis estados e o DF terão segundo turno para governador"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alagoas elege JHC governador no primeiro turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Jerônimo é reeleito governador no primeiro turno na Bahia"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Maranhão elege Eduardo Braide governador no primeiro turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ceará reelege Elmano governador no primeiro turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aziz e Maria do Carmo vão disputar o 2° turno para governo do Amazonas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dr. Daniel é eleito governador do Pará no primeiro turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Raquel Lyra é reeleita governadora em Pernambuco no primeiro turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Allyson e Cadu de Lula vão disputar o 2º turno para governador do RN"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula e Flávio vão disputar 2º turno para presidente da República"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sergio Moro é eleito governador do Paraná em 1º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Crimes eleitorais: PF apreende quase R$ 1 milhão em bens e valores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mailza Assis e Alan Rick disputarão o 2° turno para governador do Acre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja quem são os novos senadores e como fica a composição do Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dr. Furlan é eleito governador do Amapá no primeiro turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Celina Leão e Leandro Grass disputam 2° turno para governador do DF"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba o que são crimes eleitorais e como denunciar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Irã diz que Ormuz não será reaberto até que condições sejam atendidas"
     }
 ];
