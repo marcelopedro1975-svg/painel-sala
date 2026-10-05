@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Governadores eleitos no primeiro turno têm entre 37 e 70 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Renan descarta apoio no 2º turno; PSD de Caiado libera bases estaduais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: confira os deputados federais eleitos por São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha eleitoral para o segundo turno começa nesta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PL, PSD, PT e Republicanos têm 15 governadores eleitos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça os governadores eleitos e os senadores mais votados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: abstenção cresce para 21,6% e soma 33 milhões de brasileiros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitor que faltou ao primeiro turno pode votar no segundo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PL e PSOL elegem os cinco deputados federais mais votados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Focus: mercado eleva previsão da inflação para 5,01% em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempo fica chuvoso em grande parte do país nesta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa: veja a lista de cosméticos que podem ter fabricação artesanal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "\"Elas em campo\" é tema do Caminhos da Reportagem desta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Quando será o segundo turno das eleições? Veja a data"
     },
     {
@@ -13,43 +65,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Reeleito em SP, Tarcísio promete mais entregas para o próximo mandato"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja os 20 estados onde o governador foi eleito no 1º turno"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Congestionamento no sistema de dados gerou atraso na apuração, diz TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Espírito Santo terá 2º turno entre Lorenzo Pazolini e Ricardo Ferraço"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cleitinho Azevedo é eleito governador de Minas Gerais no 1º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seis estados e o DF terão segundo turno para governador"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alagoas elege JHC governador no primeiro turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jerônimo é reeleito governador no primeiro turno na Bahia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Maranhão elege Eduardo Braide governador no primeiro turno"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tribunal Eleitoral de Minas vai apurar uso de celular por Zema na urna"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Decisão de Nunes Marques recoloca Deltan na disputa pelo Senado no PR"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "No estado de São Paulo, 32 urnas com problemas são substituídas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba o que são crimes eleitorais e como denunciar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Irã diz que Ormuz não será reaberto até que condições sejam atendidas"
     }
 ];
