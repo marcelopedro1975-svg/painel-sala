@@ -1,27 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "TSE: Paraná tem 94 cidades com falta de luz, mas votação segue normal"
+        titulo: "Jerônimo é reeleito governador no primeiro turno na Bahia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PF investiga uso de broches com câmera para gravar votos"
+        titulo: "Maranhão elege Eduardo Braide governador no primeiro turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Homem infarta e morre em seção eleitoral do Rio de Janeiro"
+        titulo: "Ceará reelege Elmano governador no primeiro turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TRE-RJ não crê em aumento de abstenção por mudança de local de votação"
+        titulo: "Aziz e Maria do Carmo vão disputar o 2° turno para governo do Amazonas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eleição com recorde de pessoas com deficiência ainda impõe obstáculos"
+        titulo: "Dr. Daniel é eleito governador do Pará no primeiro turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Em São Paulo, 34 pessoas são detidas durante as eleições"
+        titulo: "Raquel Lyra é reeleita governadora em Pernambuco no primeiro turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Allyson e Cadu de Lula vão disputar o 2º turno para governador do RN"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula e Flávio vão disputar 2º turno para presidente da República"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sergio Moro é eleito governador do Paraná em 1º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Crimes eleitorais: PF apreende quase R$ 1 milhão em bens e valores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mailza Assis e Alan Rick disputarão o 2° turno para governador do Acre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja quem são os novos senadores e como fica a composição do Senado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dr. Furlan é eleito governador do Amapá no primeiro turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Celina Leão e Leandro Grass disputam 2° turno para governador do DF"
     },
     {
         fonte: "Agência Brasil",
@@ -29,23 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sobe para 1.543 número de urnas substituídas no primeiro turno"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Eleição segue normal e sem sinal de interferência externa, diz Marques"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP: 251 urnas eletrônicas precisaram ser substituídas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jornais dizem que voto no Brasil define geopolítica na América Latina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF já apreendeu mais de R$ 30 milhões em crimes eleitorais em 2026"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba o que são crimes eleitorais e como denunciar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Irã diz que Ormuz não será reaberto até que condições sejam atendidas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do TSE diz que voto é direito fundamental dos brasileiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo segura Corinthians e é campeão brasileiro pela 1ª vez"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Santa Cruz empata com Maringá e voltará à Série B após 10 anos"
     }
 ];
