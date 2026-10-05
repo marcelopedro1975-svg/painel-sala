@@ -1,47 +1,75 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Governadores eleitos no primeiro turno têm entre 37 e 70 anos"
+        titulo: "Filho de Arthur Lira se torna o mais jovem deputado federal já eleito"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Renan descarta apoio no 2º turno; PSD de Caiado libera bases estaduais"
+        titulo: "Renovação da Câmara federal chegou a 35%; veja nova composição da Casa"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eleições 2026: confira os deputados federais eleitos por São Paulo"
+        titulo: "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Campanha eleitoral para o segundo turno começa nesta segunda-feira"
+        titulo: "Polícia Federal apreende R$ 2,8 milhões no primeiro turno das eleições"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PL, PSD, PT e Republicanos têm 15 governadores eleitos"
+        titulo: "Mostra de Cinema de SP chega aos 50 anos com homenagem a James Gray"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Conheça os governadores eleitos e os senadores mais votados"
+        titulo: "Bolsonaro pede liberação de visitas de Flávio na prisão domiciliar"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eleições: abstenção cresce para 21,6% e soma 33 milhões de brasileiros"
+        titulo: "Campeã do Brasileirão, Carol Gil é convocada para amistosos da seleção"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eleitor que faltou ao primeiro turno pode votar no segundo"
+        titulo: "Votação em SP registra índice de abstenção de 22,5% no primeiro turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PL e PSOL elegem os cinco deputados federais mais votados"
+        titulo: "Garotinho desiste de recurso e eleição do RJ pode acabar em 1º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo para sacar dinheiro das bets termina nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "População trans amplia representação no Poder Legislativo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: veja quem são os deputados estaduais eleitos por SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mineira de 21 anos é mulher mais jovem a ser eleita deputada federal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fenabrave: emplacamentos passam de 500 mil e batem recorde em setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Terceiro colocado, Cury fala em manter “silêncio” no segundo turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PL elege 19 senadores e soma 28; MDB conquista sete vagas e PT, seis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Paraíba elege governador mais novo do país com 37 anos"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Focus: mercado eleva previsão da inflação para 5,01% em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tempo fica chuvoso em grande parte do país nesta segunda-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "\"Elas em campo\" é tema do Caminhos da Reportagem desta segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quando será o segundo turno das eleições? Veja a data"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE vai trabalhar para diminuir a abstenção no segundo turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Kassio diz que não há alerta de interferência nas eleições brasileiras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congestionamento no sistema de dados gerou atraso na apuração, diz TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seleção feminina sub-17 é convocada para mais uma Copa do Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleição segue normal e sem sinal de interferência externa, diz Marques"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tribunal Eleitoral de Minas vai apurar uso de celular por Zema na urna"
     }
 ];
