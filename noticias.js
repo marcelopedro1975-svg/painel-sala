@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PGR dá parecer favorável à retomada de visitas de Flávio ao pai"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alcolumbre anuncia sessões para discutir e votar fim da escala 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso mais conservador deve mudar agenda, diz professor"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Balança comercial tem superávit de US$ 7,74 bilhões em setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPE dá parecer favorável à desistência de recurso de Garotinho no TSE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP: mostra abriu as portas para o cinema mundial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quênia confirma primeiro caso de ebola; homem morreu após tratamento"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Com 91 anos, Erundina é a deputada estadual mais velha eleita em 2026"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (6)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reino Unido vai monitorar dispositivos médicos baseados em IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Belga que descobriu menor partícula do universo recebe Nobel de Física"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cresce número de mulheres eleitas para o Congresso Nacional"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE quer parecer do MP antes de decisão sobre recurso de Garotinho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Filho de Arthur Lira se torna o mais jovem deputado federal já eleito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Renovação da Câmara federal chegou a 35%; veja nova composição da Casa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno"
     }
 ];
