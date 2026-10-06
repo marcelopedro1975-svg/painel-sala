@@ -1,7 +1,19 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Cresce número de mulheres eleitas para o Congresso Nacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE quer parecer do MP antes de decisão sobre recurso de Garotinho"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Filho de Arthur Lira se torna o mais jovem deputado federal já eleito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Representação de parlamentares negros segue baixa, diz pesquisadora"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "População trans amplia representação no Poder Legislativo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Eleições 2026: veja quem são os deputados estaduais eleitos por SP"
     },
     {
@@ -65,18 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Paraíba elege governador mais novo do país com 37 anos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Focus: mercado eleva previsão da inflação para 5,01% em 2026"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa: veja a lista de cosméticos que podem ter fabricação artesanal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"Elas em campo\" é tema do Caminhos da Reportagem desta segunda-feira"
     }
 ];
