@@ -5,6 +5,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 100 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "OEA elogia eleição no Brasil, mas aponta preocupação com desinformação"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Quênia confirma primeiro caso de ebola; homem morreu após tratamento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com 91 anos, Erundina é a deputada estadual mais velha eleita em 2026"
     }
 ];
