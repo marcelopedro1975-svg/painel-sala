@@ -1,15 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "5º leilão do Eco Invest atrai quase R$ 50 bi para investimentos verdes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Produção de veículos tem melhor setembro desde 2014, diz Anfavea"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após 2 vitórias, Calderano encara alemão nesta quinta no China Smash"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PCCE indicia namorado de Isabelle Caracristi por violência psicológica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Melhor investimento em saúde pode evitar 739 mil mortes no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF deve julgar revisão da condenação de Bolsonaro após eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Exposição em São Paulo celebra os 90 anos de Tom Zé"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula cobra Flávio Bolsonaro sobre apoio ao fim da escala 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bets começam a informar bancos sobre R$ 1,3 bilhão a devolver"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita envia cartas a 498 mil que estão na malha fina até o dia 20"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Habitação: Espanha antecipa eleições; sindicatos chamam à greve geral"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Maior leilão do pré-sal termina com sete dos 13 blocos arrematados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso terá sete em cada dez parlamentares contra agenda ambiental"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Goiás passa a ter mosaico de áreas protegidas na Serra dos Pireneus"
     },
     {
         fonte: "Agência Brasil",
@@ -18,10 +54,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "OMS lança guia para enfrentar obesidade em crianças e adolescentes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival de Cinema Colombiano começa nesta quarta em São Paulo"
     },
     {
         fonte: "Agência Brasil",
@@ -37,14 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Rádios Nacional e MEC estreiam nova temporada do programa Alma Blues"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Calor e chuva persistem em grande parte do país"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Sete de outubro do Hamas redesenhou alianças no Oriente Médio"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "\"Plano de paz” de Gaza tem bombas diárias 3 anos após início da guerra"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ANP espera leiloar mais de 320 blocos de petróleo nesta quarta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fies 2026/2: faculdades privadas podem ofertar vagas até quarta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com sete ouros, Brasil lidera Open das Américas de halterofilismo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fim de uma era: Messi se aposenta da seleção argentina após 21 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE marca para quinta-feira julgamento que pode definir eleição no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OEA elogia eleição no Brasil, mas aponta preocupação com desinformação"
     }
 ];
