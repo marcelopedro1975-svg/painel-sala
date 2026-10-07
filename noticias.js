@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TSE marca para quinta-feira julgamento que pode definir eleição no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OEA elogia eleição no Brasil, mas aponta preocupação com desinformação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OAB-RJ defende decisão rápida do TSE para eleições no estado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo inclui 82 empregadores na lista suja do trabalho escravo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNJ e BC assinam acordo para disciplinar pagamento de precatórios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio busca apoio de Caiado e Lula defende fim da 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Previsão de superávit comercial de 2026 cai para US$ 84,4 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cerca de 13,2 mil sites de bets ilegais são bloqueados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dupla de Luisa Stefani avança às quartas do WTA 1000 de Pequim"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar fecha abaixo de R$ 5 pela primeira vez desde maio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE: dados sobre comparecimento de eleitores estão em processamento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE desmente alegação de fraude na apuração dos votos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alison dos Santos concorre ao prêmio Melhor do Ano da World Athetics"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PGR dá parecer favorável à retomada de visitas de Flávio ao pai"
     },
     {
@@ -21,62 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "SP: mostra abriu as portas para o cinema mundial"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Quênia confirma primeiro caso de ebola; homem morreu após tratamento"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Com 91 anos, Erundina é a deputada estadual mais velha eleita em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça multa Flávio por impulsionar post negativo contra Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU pede a Fux que aguarde PGR e mantenha proibição das bets no país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BC cria indicador para acompanhar reajustes salariais negociados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa libera fabricação de produtos de limpeza da Unilever"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Big techs descumprem regras eleitorais no dia da votação, diz estudo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OMS: dois em cada três jovens europeus dizem ter sofrido abusos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes concede regime semiaberto a Débora do Batom, condenada pelo 8/1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova novo tratamento para doença do enxerto contra hospedeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe venda de insulina e tirzepatida irregulares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça dá 24h para remoção de posts sobre Lula e bandeira do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alunos e professores protestam na França no maior dia de mobilização"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (6)"
     }
 ];
