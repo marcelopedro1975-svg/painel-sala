@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Revisão de regras para pesca amadora está em consulta pública"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Exposição em SP propõe novo olhar sobre a história do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dupla de Stefani bate campeãs olímpicas e avança à semi em Pequim"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AliExpress e Correios firmam acordo para acelerar entregas no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes determina emissão de mandado de prisão contra Eduardo Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Distrito Federal terá mutirão para mudança de nome de pessoas trans"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Paes recorre ao STF para barrar anulação dos votos de Garotinho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Homem é retirado do STF após tentar entrar dizendo ser \"imperador\""
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil dobra recorde de voluntários para Copa do Mundo Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE adia julgamento sobre candidatura de Deltan Dallagnol ao Senado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE anula votos de Garotinho, e Ruas vence governo do Rio no 1º turno"
     },
     {
@@ -17,11 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Calderano vence 3ª e terá Félix Lebrun pela frente no Smash China"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Juiz é encontrado morto dentro de veículo em chamas no interior de SP"
+        titulo: "Calderano vence 3ª e terá Felix Lebrun pela frente no Smash China"
     },
     {
         fonte: "Agência Brasil",
@@ -33,50 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Reitor da UFPE estima prejuízo de incêndio em cerca R$ 100 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rádio Nacional transmite Fluminense x Coritiba nesta quinta"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PF vai investigar incêndio na Universidade Federal de Pernambuco"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Saiba como ficam os serviços bancários no feriado do dia 12 de outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (8)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Clube América do Rio é declarado patrimônio do estado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Incêndio causa danos a prédio da Universidade Federal de Pernambuco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: falta um mês para o primeiro dia de provas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF cumpre mandados contra juiz suspeito de favorecer imobiliárias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE julga recurso que pode definir eleições no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE julga validade da candidatura de Deltan ao Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nove contêineres com produtos da China são apreendidos no Porto do Rio"
     }
 ];
