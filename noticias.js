@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PCCE indicia namorado de Isabelle Caracristi por violência psicológica"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Melhor investimento em saúde pode evitar 739 mil mortes no Brasil"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "OMS lança guia para enfrentar obesidade em crianças e adolescentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPRJ recomenda que partida entre Vasco e Boca Juniors seja no Maracanã"
     }
 ];
