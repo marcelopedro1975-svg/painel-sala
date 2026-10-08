@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Leilão da ANP arrecada R$ 3 bilhões com a venda de 49 blocos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF retira crédito presumido do ICMS da base de cálculo do PIS/Cofins"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudantes fazem ato no Rio de Janeiro em defesa de voto em Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ceagesp constrói estrutura provisória para atingidos por incêndio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar volta a R$ 5 com ambiente externo e ajuste pós-eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Faturamento da indústria cai 3,5% em agosto, informa CNI"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio Bolsonaro recebe apoio de partidos e fala em mudar Constituição"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "5º leilão do Eco Invest atrai quase R$ 50 bi para investimentos verdes"
     },
     {
@@ -22,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "STF deve julgar revisão da condenação de Bolsonaro após eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Exposição em São Paulo celebra os 90 anos de Tom Zé"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "OMS lança guia para enfrentar obesidade em crianças e adolescentes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPRJ recomenda que partida entre Vasco e Boca Juniors seja no Maracanã"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sarampo: Brasil intensifica ações face a avanço nos EUA e nas Américas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cremerj promove campanha de doação de sangue em parceria com Hemorio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sete de outubro do Hamas redesenhou alianças no Oriente Médio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aneel adia discussão sobre fim de contrato com a Enel em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"Plano de paz” de Gaza tem bombas diárias 3 anos após início da guerra"
     }
 ];
