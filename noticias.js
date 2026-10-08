@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Leilão da ANP arrecada R$ 3 bilhões com a venda de 49 blocos"
+        titulo: "TSE anula votos de Garotinho, e Ruas vence governo do Rio no 1º turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF retira crédito presumido do ICMS da base de cálculo do PIS/Cofins"
+        titulo: "Aedes aegypti: quase metade dos municípios está em alerta ou risco"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estudantes fazem ato no Rio de Janeiro em defesa de voto em Lula"
+        titulo: "Deputada federal eleita Ana Elisa denuncia ameaças durante a campanha"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ceagesp constrói estrutura provisória para atingidos por incêndio"
+        titulo: "Outubro Rosa: tratamento termina, mas medo do câncer pode permanecer"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dólar volta a R$ 5 com ambiente externo e ajuste pós-eleitoral"
+        titulo: "Calderano vence 3ª e terá Félix Lebrun pela frente no Smash China"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Faturamento da indústria cai 3,5% em agosto, informa CNI"
+        titulo: "Juiz é encontrado morto dentro de veículo em chamas no interior de SP"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Flávio Bolsonaro recebe apoio de partidos e fala em mudar Constituição"
+        titulo: "Enem 2026: inscrito automaticamente deve escolher idioma da prova"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "5º leilão do Eco Invest atrai quase R$ 50 bi para investimentos verdes"
+        titulo: "Agência da ONU diz que El Niño deve se intensificar e ir até fevereiro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Produção de veículos tem melhor setembro desde 2014, diz Anfavea"
+        titulo: "Reitor da UFPE estima prejuízo de incêndio em cerca R$ 100 milhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Após 2 vitórias, Calderano encara alemão nesta quinta no China Smash"
+        titulo: "Rádio Nacional transmite Fluminense x Coritiba nesta quinta"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Melhor investimento em saúde pode evitar 739 mil mortes no Brasil"
+        titulo: "PF vai investigar incêndio na Universidade Federal de Pernambuco"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF deve julgar revisão da condenação de Bolsonaro após eleições"
+        titulo: "Saiba como ficam os serviços bancários no feriado do dia 12 de outubro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lula cobra Flávio Bolsonaro sobre apoio ao fim da escala 6x1"
+        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (8)"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bets começam a informar bancos sobre R$ 1,3 bilhão a devolver"
+        titulo: "Clube América do Rio é declarado patrimônio do estado"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Receita envia cartas a 498 mil que estão na malha fina até o dia 20"
+        titulo: "Incêndio causa danos a prédio da Universidade Federal de Pernambuco"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Habitação: Espanha antecipa eleições; sindicatos chamam à greve geral"
+        titulo: "Enem 2026: falta um mês para o primeiro dia de provas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Maior leilão do pré-sal termina com sete dos 13 blocos arrematados"
+        titulo: "PF cumpre mandados contra juiz suspeito de favorecer imobiliárias"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (7)"
+        titulo: "TSE julga recurso que pode definir eleições no Rio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "OMS lança guia para enfrentar obesidade em crianças e adolescentes"
+        titulo: "TSE julga validade da candidatura de Deltan ao Senado"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MPRJ recomenda que partida entre Vasco e Boca Juniors seja no Maracanã"
+        titulo: "Nove contêineres com produtos da China são apreendidos no Porto do Rio"
     }
 ];
