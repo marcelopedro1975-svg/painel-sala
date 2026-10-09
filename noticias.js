@@ -13,11 +13,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Flávio Bolsonaro recebe apoio de governadores eleitos e Cury"
+        titulo: "Lula celebra avanço do fim da 6x1 e defende investimento público"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lula celebra avanço do fim da 6x1 e defende investimento público"
+        titulo: "Flávio Bolsonaro recebe apoio de governadores eleitos e Cury"
     },
     {
         fonte: "Agência Brasil",
@@ -61,11 +61,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Universidade Federal Fluminense aciona PF após receber ameaças"
+        titulo: "MEC vai construir novo prédio para laboratórios da UFPE"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MEC vai construir novo prédio para laboratórios da UFPE"
+        titulo: "Universidade Federal Fluminense aciona PF após receber ameaças"
     },
     {
         fonte: "Agência Brasil",
