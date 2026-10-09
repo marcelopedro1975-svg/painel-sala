@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 112 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fux pede acesso a processos contra Jair Bolsonaro no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ suspende propaganda eleitoral gratuita no RJ até domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio Bolsonaro recebe apoio de governadores eleitos e Cury"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula celebra avanço do fim da 6x1 e defende investimento público"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin nega pedido feito por Paes de determinar segundo turno no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes envia à PGR imagens da Operação Contenção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC irá pedir investigação de ameaças a universidades em redes sociais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Site oferece criptomoedas por posts de apoio a Flávio Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan prevê envio de MP do Imposto Seletivo após eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa quer que Mendonça analise soltura de Daniel Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aplicativo de simulados do Enem terá mais questões na reta final"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Douglas Ruas critica judicialização da eleição e se declara governador"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin relata pedido de Paes para suspender eleição de Ruas em 1º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com alta da violência política no Brasil, mulheres são maiores vítimas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Universidade Federal Fluminense aciona PF após receber ameaças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC vai construir novo prédio para laboratórios da UFPE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Parataekwondo brasileiro é campeão de Grand Prix em Paris com 6 pódios"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Revisão de regras para pesca amadora está em consulta pública"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Exposição em SP propõe novo olhar sobre a história do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dupla de Stefani bate campeãs olímpicas e avança à semi em Pequim"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AliExpress e Correios firmam acordo para acelerar entregas no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes determina emissão de mandado de prisão contra Eduardo Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Distrito Federal terá mutirão para mudança de nome de pessoas trans"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Paes recorre ao STF para barrar anulação dos votos de Garotinho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Homem é retirado do STF após tentar entrar dizendo ser \"imperador\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil dobra recorde de voluntários para Copa do Mundo Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE adia julgamento sobre candidatura de Deltan Dallagnol ao Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE anula votos de Garotinho, e Ruas vence governo do Rio no 1º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aedes aegypti: quase metade dos municípios está em alerta ou risco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Deputada federal eleita Ana Elisa denuncia ameaças durante a campanha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Outubro Rosa: tratamento termina, mas medo do câncer pode permanecer"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Calderano vence 3ª e terá Felix Lebrun pela frente no Smash China"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: inscrito automaticamente deve escolher idioma da prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agência da ONU diz que El Niño deve se intensificar e ir até fevereiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite Fluminense x Coritiba nesta quinta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba como ficam os serviços bancários no feriado do dia 12 de outubro"
     }
 ];
