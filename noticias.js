@@ -1,7 +1,75 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 112 milhões; confira os números sorteados"
+        titulo: "Brasil não será governado por sócios do Banco Master, diz Lula em ato"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU cria força-tarefa para atuar em caso de incêndio na UFPE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Programa Marielle Franco abre edital para apoiar mulheres negras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Começa nesta sexta a propaganda eleitoral gratuita no rádio e na TV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cine Sesi: Maré recebe mostra de curtas feitos por jovens com celular"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE: ministros ordenam que Lula e Janja removam vídeos contra Flávio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino expõe relatório com ameaça de assassinato contra ministros do STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "INPC, inflação que corrige salários, acumula 4,29% em 12 meses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça determina remoção de vídeo de deputados contrários a Flávio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inflação oficial de setembro fica em 0,82%, mostra IBGE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Crédito extraordinário de R$ 7,5 bi reforça subsídios a combustíveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Homem é baleado em Nova York dentro de carro por agentes do ICE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nobel da Paz é concedido à jurista sul-africana Navi Pillay"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Meningite: quatro cidades do Rio ofertam vacina a pessoas até 24 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Indústria aponta juros altos como principal barreira ao crédito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (9)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Paes desiste de candidatura no Rio, após Zanin negar recurso ao STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça as propostas de Flávio e Lula para a segurança pública"
     },
     {
         fonte: "Agência Brasil",
@@ -10,73 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TRE-RJ suspende propaganda eleitoral gratuita no RJ até domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula celebra avanço do fim da 6x1 e defende investimento público"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio Bolsonaro recebe apoio de governadores eleitos e Cury"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin nega pedido feito por Paes de determinar segundo turno no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes envia à PGR imagens da Operação Contenção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC irá pedir investigação de ameaças a universidades em redes sociais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Site oferece criptomoedas por posts de apoio a Flávio Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan prevê envio de MP do Imposto Seletivo após eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa quer que Mendonça analise soltura de Daniel Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aplicativo de simulados do Enem terá mais questões na reta final"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Douglas Ruas critica judicialização da eleição e se declara governador"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin relata pedido de Paes para suspender eleição de Ruas em 1º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com alta da violência política no Brasil, mulheres são maiores vítimas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC vai construir novo prédio para laboratórios da UFPE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Universidade Federal Fluminense aciona PF após receber ameaças"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Parataekwondo brasileiro é campeão de Grand Prix em Paris com 6 pódios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vírus respiratórios ainda estão em alta no país, alerta Fiocruz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dupla de Stefani bate campeãs olímpicas e avança à semi em Pequim"
     }
 ];
