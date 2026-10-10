@@ -1,7 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "PF desmente Veja e Padilha aciona Justiça sobre fake news contra Lula"
+        titulo: "Após ameaças de morte, deputada eleita Ana Elisa receberá proteção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após retotalização dos votos, Douglas Ruas tem 50,88% dos votos no RJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudo sugere melhorias para alertas de desastres no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ibama extingue 229 incêndios no Amazonas e segue no combate ao fogo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF desmente Veja; Padilha aciona Justiça sobre fake news contra Lula"
     },
     {
         fonte: "Agência Brasil",
@@ -26,14 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Aumentam agressões políticas em mês de luta contra violência à mulher"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PM do Rio reforça policiamento para o feriado de segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado em R$ 112 milhões neste domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pesquisa mostra que 82% são contra crianças de até 3 anos com celular"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CBF divulga calendário masculino para 2027 com pausa da Copa Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudantes fazem atos pelo país em apoio a Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fifa: um em cada cinco ataques virtuais na Copa do Mundo foi racista"
     }
 ];
