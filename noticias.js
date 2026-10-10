@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PM do Rio reforça policiamento para o feriado de segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado em R$ 112 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça determina que Vasco e Boca Juniors seja realizada no Maracanã"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seleção feminina estreia no Beira-Rio em amistoso contra Argentina"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE manda suspender site que oferece criptomoedas por apoio a Flávio"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasileiras na Polônia procuram embaixada após ameaça de deputado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Forte terremoto sacode o Panamá; operações do canal seguem normalmente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio Bolsonaro faz ato no Rio ao lado de Douglas Ruas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Decisão do Paulista F Sub-15 inicia parceria entre TV Brasil e FPF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bancos começam a devolver R$ 1,3 bilhão a apostadores de bets"
     }
 ];
