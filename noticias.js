@@ -1,7 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Unidade da Funai é alvo de ataque em terra indígena no Paraná"
+        titulo: "TSE manda suspender site que oferece criptomoedas por apoio a Flávio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alcolumbre marca votação da PEC pelo fim da 6x1 para quarta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo do RJ identifica desvios de R$ 400 milhões na Cedae Saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Edson Fachin manda PF investigar ameaças contra Flávio Dino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça derruba decisão que liberou operação de plataforma de apostas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesquisa mostra que 82% são contra crianças de até 3 anos com celular"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CBF divulga calendário masculino para 2027 com pausa da Copa Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudantes fazem atos pelo país em apoio a Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fifa: um em cada cinco ataques virtuais na Copa do Mundo foi racista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai a R$ 4,98 e acumula perda de 4,44% na semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE aciona PF após servidores receberem ameaças pelas redes sociais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF nega existência de depoimento de Vorcaro sobre Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF: Fachin diz que pretende arquivar inquérito das Fake News"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPRJ denuncia mais oito PMs que participaram da Operação Contenção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reforma Tributária: 86% das notas fiscais destacam a CBS"
     },
     {
         fonte: "Agência Brasil",
@@ -9,15 +65,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Belém se prepara para receber o Círio de Nazaré"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Forte terremoto sacode o Panamá; operações do canal seguem normalmente"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Flávio Bolsonaro diz que fará guerra ao crime organizado"
+        titulo: "Flávio Bolsonaro faz ato no Rio ao lado de Douglas Ruas"
     },
     {
         fonte: "Agência Brasil",
@@ -26,57 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bancos começam a devolver R$ 1,3 bilhão a apostadores de bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eduardo Bolsonaro consta em lista de pena pendente de cumprimento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Piloto morre após queda de avião em pátio de manutenção do metrô de BH"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reality show Duelo de Guitarras destaca perfil de Lucas Moscardini"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ana Elisa desativa conta no X após sofrer ameaças de morte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pix ultrapassa 1 bilhão de chaves cadastradas no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tributos da gasolina são zerados e subsídios a combustíveis, ampliados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EUA impõem sanções ao TPI pouco depois de ex-juíza receber Nobel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil não será governado por sócios do Banco Master, diz Lula em ato"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU cria força-tarefa para atuar em caso de incêndio na UFPE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Começa nesta sexta a propaganda eleitoral gratuita no rádio e na TV"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE determina que Lula e Janja removam vídeos contra Flávio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino expõe relatório com ameaça de assassinato contra ministros do STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "INPC, inflação que corrige salários, acumula 4,29% em 12 meses"
     }
 ];
