@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PF desmente Veja e Padilha aciona Justiça sobre fake news contra Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Calderano derrota favorito Felix Lebrun e avança à semi do China Smash"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Acidente na BR-393, no RJ, deixa cinco mortos e nove feridos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bets: mais de R$ 1 bilhão foram devolvidos a apostadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "José Sarney é internado em UTI após procedimento abdominal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival do Rio chega ao último fim de semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aumentam agressões políticas em mês de luta contra violência à mulher"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PM do Rio reforça policiamento para o feriado de segunda-feira"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fifa: um em cada cinco ataques virtuais na Copa do Mundo foi racista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai a R$ 4,98 e acumula perda de 4,44% na semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE aciona PF após servidores receberem ameaças pelas redes sociais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF nega existência de depoimento de Vorcaro sobre Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF: Fachin diz que pretende arquivar inquérito das Fake News"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPRJ denuncia mais oito PMs que participaram da Operação Contenção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reforma Tributária: 86% das notas fiscais destacam a CBS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiras na Polônia procuram embaixada após ameaça de deputado"
     }
 ];
