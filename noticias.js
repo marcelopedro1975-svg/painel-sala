@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Maria Clara Pacheco é campeã da 3ª etapa do Grand Prix, em Paris"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula faz comício em Natal e Flávio participa de moto-carreata no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seleção feminina faz 3 a 1 na Argentina em primeiro jogo no Beira-Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Após ameaças de morte, deputada eleita Ana Elisa receberá proteção"
     },
     {
@@ -17,7 +29,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ibama extingue 229 incêndios no Amazonas e segue no combate ao fogo"
+        titulo: "Ibama apaga 229 incêndios no Amazonas e segue no combate ao fogo"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "José Sarney é internado em UTI após procedimento abdominal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival do Rio chega ao último fim de semana"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Edson Fachin manda PF investigar ameaças contra Flávio Dino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça derruba decisão que liberou operação de plataforma de apostas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pesquisa mostra que 82% são contra crianças de até 3 anos com celular"
     }
 ];
