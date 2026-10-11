@@ -1,7 +1,7 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Maria Clara Pacheco é campeã da 3ª etapa do Grand Prix, em Paris"
+        titulo: "Maria Clara Pacheco é ouro em 3ª etapa do Grand Prix de taekwondo"
     },
     {
         fonte: "Agência Brasil",
@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Acidente na BR-393, no RJ, deixa cinco mortos e nove feridos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Bets: mais de R$ 1 bilhão foram devolvidos a apostadores"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Edson Fachin manda PF investigar ameaças contra Flávio Dino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça derruba decisão que liberou operação de plataforma de apostas"
     }
 ];
