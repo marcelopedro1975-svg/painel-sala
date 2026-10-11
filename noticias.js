@@ -1,7 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Meta alega problemas técnicos para menor alcance de Lula nas redes"
+        titulo: "Ato pela reeleição de Lula leva milhares à Avenida Paulista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Corregedor derruba decisão que suspendeu canal Exército do Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dupla de Stefani fatura WTA 1000 de Pequim, o 5º título na temporada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Interpretação é a base da prova de Linguagens do Enem; veja dicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Patrimônio cultural, Círio de Nazaré reúne fiéis e turistas em Belém"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula afirma que PT entrará na Justiça contra suspensão de canal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo ajudou assim que Amazonas decretou emergência, diz ministro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Janones denuncia censura em decisão do TSE contra Exército do Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE atende Flávio e manda suspender canal do whatsapp Exército do Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 150 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Meta alega \"problemas técnicos\" para menor alcance de Lula nas redes"
     },
     {
         fonte: "Agência Brasil",
@@ -13,15 +53,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Amazonas recebe aeronaves para combater queimadas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Papa Leão XIV fará cirurgia para retirar nódulo no pulmão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Santuário de Aparecida terá missas, consagração e procissão no feriado"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Após retotalização dos votos, Douglas Ruas tem 50,88% dos votos no RJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF desmente Veja; Padilha aciona Justiça sobre fake news contra Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Calderano derrota favorito Felix Lebrun e avança à semi do China Smash"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bets: mais de R$ 1 bilhão foram devolvidos a apostadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "José Sarney é internado em UTI após procedimento abdominal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aumentam agressões políticas em mês de luta contra violência à mulher"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça determina que Vasco e Boca Juniors seja realizada no Maracanã"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seleção feminina estreia no Beira-Rio em amistoso contra Argentina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE manda suspender site que oferece criptomoedas por apoio a Flávio"
     }
 ];
