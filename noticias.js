@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Meta alega problemas técnicos para menor alcance de Lula nas redes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Kassio atende Flávio e suspende propaganda do PT que cita caso Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE manda Meta esclarecer restrições a postagens da campanha de Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Amazonas recebe aeronaves para combater queimadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Papa Leão XIV fará cirurgia para retirar nódulo no pulmão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Santuário de Aparecida terá missas, consagração e procissão no feriado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Maria Clara Pacheco é ouro em 3ª etapa do Grand Prix de taekwondo"
     },
     {
@@ -22,14 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Após retotalização dos votos, Douglas Ruas tem 50,88% dos votos no RJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudo sugere melhorias para alertas de desastres no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ibama apaga 229 incêndios no Amazonas e segue no combate ao fogo"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE manda suspender site que oferece criptomoedas por apoio a Flávio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alcolumbre marca votação da PEC pelo fim da 6x1 para quarta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo do RJ identifica desvios de R$ 400 milhões na Cedae Saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Edson Fachin manda PF investigar ameaças contra Flávio Dino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça derruba decisão que liberou operação de plataforma de apostas"
     }
 ];
