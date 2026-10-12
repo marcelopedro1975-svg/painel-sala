@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Henrique Marques leva ouro, o 2º do Brasil em Grand Prix de taekwond"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio passa domingo reunido com prefeitos e vereadores de São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Corinthians anuncia Seedorf como novo técnico até dezembro de 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Derrubar canal com eleitores limita mobilização, dizem especialistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE barra anúncios de Lula acusando Flávio de ser contra escala 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ato pela reeleição de Lula leva milhares à Avenida Paulista"
     },
     {
@@ -25,19 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo ajudou assim que Amazonas decretou emergência, diz ministro"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Janones denuncia censura em decisão do TSE contra Exército do Lula"
     },
     {
         fonte: "Agência Brasil",
         titulo: "TSE atende Flávio e manda suspender canal do whatsapp Exército do Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 150 milhões; confira os números sorteados"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Seleção feminina faz 3 a 1 na Argentina em primeiro jogo no Beira-Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após ameaças de morte, deputada eleita Ana Elisa receberá proteção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após retotalização dos votos, Douglas Ruas tem 50,88% dos votos no RJ"
     }
 ];
