@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Técnicos do TSE não encontram conteúdo falso no canal Exército do Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após cortes, seleção feminina chega a Recife para encarar Argentina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Incêdios no Amazonas resultam de ação humana intencional, diz ministro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flamengo mantém a liderança do Brasileirão após rodada de clássicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes autoriza Flávio Bolsonaro a visitar o pai, preso em casa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Feriado tem alerta para tempestades em quase todo o país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "União estável não formalizada: como provar e entrar no inventário"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nossa Senhora Aparecida: 95 anos da padroeira do Brasil; entenda"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Henrique Marques leva ouro, o 2º do Brasil em Grand Prix de taekwond"
     },
     {
@@ -37,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Patrimônio cultural, Círio de Nazaré reúne fiéis e turistas em Belém"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Lula afirma que PT entrará na Justiça contra suspensão de canal"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE atende Flávio e manda suspender canal do whatsapp Exército do Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Meta alega \"problemas técnicos\" para menor alcance de Lula nas redes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Kassio atende Flávio e suspende propaganda do PT que cita caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE manda Meta esclarecer restrições a postagens da campanha de Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Papa Leão XIV fará cirurgia para retirar nódulo no pulmão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Maria Clara Pacheco é ouro em 3ª etapa do Grand Prix de taekwondo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula faz comício em Natal e Flávio participa de moto-carreata no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Seleção feminina faz 3 a 1 na Argentina em primeiro jogo no Beira-Rio"
     }
 ];
