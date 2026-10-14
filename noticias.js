@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Campanha de Lula vai ao TSE após IA da Meta restringir buscas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Corte amplo de gastos públicos afetaria área social, dizem economistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confiança da indústria sobe em outubro, mas setor segue pessimista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo federal regulamenta Marco Legal dos Jogos Eletrônicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE ordena que Flávio e Nikolas removam vídeo de crianças contra Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Escritor Joaquim Arena preenche vazios de Europa negra invisibilizada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio Jabuti anuncia finalistas da edição 2026; confira a íntegra"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Trump anuncia exploração de petróleo e gás na Groenlândia"
     },
     {
@@ -25,19 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Parte do teto de túnel da Câmara desabou nesta quarta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Recuperação do papa ocorre conforme o esperado, diz Vaticano"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Enamed 2026: cartão que confirma reaplicação está disponível"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CCJ do Senado conclui votação da PEC da Segurança Pública"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa aprova novo medicamento para tratar lúpus"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pandemias: ONU aprova declaração por mais cooperação entre países"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ações sobre bets aumentam mais de 1.000% na Justiça do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições: fórum de servidores públicos denuncia censura na internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (14)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo pra bancos devolverem R$ 1,3 bilhão de bets acaba nesta quarta"
     }
 ];
