@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (14)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Agropecuária ocupa territórios próximos aos preservados na Amazônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia hoje prêmio acumulado de R$ 150 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cultura gratuita é uma das principais demandas para novos governantes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo pra bancos devolverem R$ 1,3 bilhão de bets acaba nesta quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Libertadores: Rádio Nacional transmite Fluminense x Palmeiras"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula garante versão universitária do “Pé de Meia” caso seja reeleito"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça determina que Vasco e Boca Juniors joguem no Maracanã"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dinheiro esquecido em bancos sobe para R$ 5,8 bilhões em agosto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escolha de livros didáticos para educação infantil começa nesta terça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE: Kassio autoriza reativação do canal Exército do Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Produção de motos no Brasil cresce e tem melhor setembro desde 2011"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula defende Sul Global; Flávio quer proximidade com EUA e Israel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MDB Norte e Nordeste declara apoio a Lula no segundo turno"
     }
 ];
