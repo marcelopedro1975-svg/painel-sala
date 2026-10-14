@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula garante versão universitária do “Pé de Meia” caso seja reeleito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio faz visita ao pai em prisão domiciliar e recebe apoios em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Perdão de dívidas de MEIs terá impacto fiscal, mas redução de custos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Milhares de estudantes tomam a Esplanada em apoio a Lula"
     },
     {
@@ -9,7 +21,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Saiba o que é adenocarcinoma pulmonar, câncer que atinge o Papa Leão"
+        titulo: "Saiba o que é adenocarcinoma pulmonar, câncer que atinge o papa"
     },
     {
         fonte: "Agência Brasil",
@@ -45,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Veja os planos de governo de Flávio e Lula para meio ambiente e clima"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dinheiro esquecido em bancos sobe para R$ 5,8 bilhões em agosto"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "MDB Norte e Nordeste declara apoio a Lula no segundo turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "FMI prevê crescimento de 2,2% do PIB do Brasil em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha registra canal Exército do Lula na Justiça Eleitoral"
     }
 ];
