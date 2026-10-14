@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Câmara aprova aumento no limite de receita bruta do MEI"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senado vota PEC pelo fim da escala 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuva alaga ruas do centro e deixa um morto na zona norte de São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão de futebol de cegos começa domingo no CT Paralímpico em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quilombolas expulsos por mineradora buscam reparação depois de 20 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Colômbia vive protestos contra o governo de La Espriella"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OEA será acionada por Lula sobre interferência da Meta nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF cobra cumprimento de acesso gratuito a sites da Justiça Eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça condena 3º réu acusado do assassinato de Mãe Bernadete"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo da Colômbia assina decreto que criminaliza protestos sociais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entenda o linfoma não Hodgkin, câncer que causou morte de Netinho"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Campanha de Lula vai ao TSE após IA da Meta restringir buscas"
     },
     {
@@ -21,14 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Escritor Joaquim Arena preenche vazios de Europa negra invisibilizada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio Jabuti anuncia finalistas da edição 2026; confira a íntegra"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Trump anuncia exploração de petróleo e gás na Groenlândia"
     },
     {
@@ -42,41 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça do Rio condena homens por estupro coletivo de jovem de 17 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan defende Receita como plataforma de inteligência do Estado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empate com Argentina conclui período de testes na seleção feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Recuperação do papa ocorre conforme o esperado, diz Vaticano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enamed 2026: cartão que confirma reaplicação está disponível"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe canetas emagrecedoras sem registro vendidas na internet"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe suplementos alimentares de origem desconhecida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Setor de serviços cai 0,1% de julho para agosto, mostra IBGE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR se manifesta contra afastamento de diretor-geral da PF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova novo medicamento para tratar lúpus"
     }
 ];
