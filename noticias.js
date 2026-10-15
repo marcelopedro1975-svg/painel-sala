@@ -1,23 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Canal Exército do Lula volta ao ar após registro no TSE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fim da 6x1: saiba quando entra em vigor nova jornada de trabalho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senadores aprovam pedido para acelerar votação da PEC da Segurança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula reforça compromisso com evangélicos; Flávio recebe apoio no RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em editorial, veículos independentes de imprensa defendem democracia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senado aprova fim da escala 6x1 e redução da jornada de trabalho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 170 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha de Flávio aciona TSE contra posts de artistas e parlamentares"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo investiga se há organização por trás dos incêndios no Amazonas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OAB Rio ganha ação que proíbe plataforma de oferecer petições com IA"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Câmara aprova aumento no limite de receita bruta do MEI"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Senado vota PEC pelo fim da escala 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuva alaga ruas do centro e deixa um morto na zona norte de São Paulo"
+        titulo: "Acompanhe ao vivo: Senado vota PEC pelo fim da escala 6x1"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Brasileirão de futebol de cegos começa domingo no CT Paralímpico em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quilombolas expulsos por mineradora buscam reparação depois de 20 anos"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Campanha de Lula vai ao TSE após IA da Meta restringir buscas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Corte amplo de gastos públicos afetaria área social, dizem economistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confiança da indústria sobe em outubro, mas setor segue pessimista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo federal regulamenta Marco Legal dos Jogos Eletrônicos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE ordena que Flávio e Nikolas removam vídeo de crianças contra Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trump anuncia exploração de petróleo e gás na Groenlândia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estado de SP começa a preparar mais de 114 mil urnas para o 2º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Candidato já pode conferir onde fará reaplicação da PND, no domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça do Rio condena homens por estupro coletivo de jovem de 17 anos"
     }
 ];
