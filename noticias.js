@@ -1,7 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "União quitou R$ 244 milhões para estados e municípios em setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Docentes usam inteligência artificial para inovar e engajar alunos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Imprensa estrangeira vê vitória de Lula em aprovação do fim da 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fim da escala 6x1 traz esperança de mais tempo para família e saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saúde aprova protocolo para tratar crianças com hemofilia A"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Produção brasileira de grãos deve aumentar apesar do El Niño"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lote complementar do abono salarial começa a ser pago nesta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mostra Internacional de Cinema de SP começa nesta quinta-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -17,18 +49,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MapBiomas: Amazônia registra menor nível de desmatamento em 41 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia Federal e MPSP fazem operação contra tráfico de drogas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Centro-Oeste e Sudeste têm alerta laranja para tempestades"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Conheça detalhes da regulamentação dos jogos eletrônicos no Brasil"
     },
     {
@@ -38,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (15)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF faz nova ação contra suspeitos de lavagem de dinheiro em postos"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Senadores aprovam pedido para acelerar votação da PEC da Segurança"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula reforça compromisso com evangélicos; Flávio recebe apoio no RS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em editorial, veículos independentes de imprensa defendem democracia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova fim da escala 6x1 e redução da jornada de trabalho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha de Flávio aciona TSE contra posts de artistas e parlamentares"
     }
 ];
