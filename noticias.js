@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça homologa acordo para indenizar empregados das Casas Bahia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EBC reafirma não ter responsabilidade por falha em programa do PL"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC libera novas formações online para professores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ decide pedir apoio de tropas federais para o segundo turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ proclama Douglas Ruas eleito para o governo do Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "De olho na liderança: dupla de Stefani vence estreia no WTA de Wuhan"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Participação do Brasil em pesquisas clínicas cresce após marco legal"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "União quitou R$ 244 milhões para estados e municípios em setembro"
     },
     {
@@ -21,19 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Produção brasileira de grãos deve aumentar apesar do El Niño"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Lote complementar do abono salarial começa a ser pago nesta quinta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mostra Internacional de Cinema de SP começa nesta quinta-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (15)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para empresas optarem por Simples acaba nesta quinta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite Estudiantes x Flamengo pela Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Canal Exército do Lula volta ao ar após registro no TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fim da 6x1: saiba quando entra em vigor nova jornada de trabalho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senadores aprovam pedido para acelerar votação da PEC da Segurança"
     }
 ];
