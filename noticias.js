@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lote complementar do abono salarial começa a ser pago nesta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CUT elogia fim da “massacrante” 6x1; CNI quer revisar PEC aprovada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IBGE estima safra de grãos recorde em 2026: 354,5 milhões de toneladas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vendas no comércio varejista têm variação de 0,1% em agosto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MapBiomas: Amazônia registra menor nível de desmatamento em 41 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia Federal e MPSP fazem operação contra tráfico de drogas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Centro-Oeste e Sudeste têm alerta laranja para tempestades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça detalhes da regulamentação dos jogos eletrônicos no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio quer escolas militares; Lula propõe ampliar educação integral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (15)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF faz nova ação contra suspeitos de lavagem de dinheiro em postos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prazo para empresas optarem por Simples acaba nesta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite Estudiantes x Flamengo pela Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Canal Exército do Lula volta ao ar após registro no TSE"
     },
     {
@@ -25,58 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 170 milhões; confira os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Campanha de Flávio aciona TSE contra posts de artistas e parlamentares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo investiga se há organização por trás dos incêndios no Amazonas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OAB Rio ganha ação que proíbe plataforma de oferecer petições com IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara aprova aumento no limite de receita bruta do MEI"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acompanhe ao vivo: Senado vota PEC pelo fim da escala 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileirão de futebol de cegos começa domingo no CT Paralímpico em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Colômbia vive protestos contra o governo de La Espriella"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OEA será acionada por Lula sobre interferência da Meta nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF cobra cumprimento de acesso gratuito a sites da Justiça Eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça condena 3º réu acusado do assassinato de Mãe Bernadete"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo da Colômbia assina decreto que criminaliza protestos sociais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entenda o linfoma não Hodgkin, câncer que causou morte de Netinho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha de Lula vai ao TSE após IA da Meta restringir buscas"
     }
 ];
