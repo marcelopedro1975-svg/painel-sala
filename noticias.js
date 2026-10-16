@@ -1,15 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (16)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Atirador mata pelo menos 4 pessoas em escola dos Estados Unidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Segurança alimentar exige esforço coletivo e articulação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estreante, Cruzeiro será 15º brasileiro na Libertadores Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sem chutar a gol na Argentina, Flamengo sobrevive na Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula defende redução da maioridade penal para crimes hediondos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fluminense vence Flamengo e abre vantagem na Copa do Brasil Feminina"
+        titulo: "Congresso aprova exame obrigatório para exercício da medicina"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Congresso aprova exame obrigatório para exercício da medicina"
+        titulo: "Fluminense vence Flamengo e abre vantagem na Copa do Brasil Feminina"
     },
     {
         fonte: "Agência Brasil",
@@ -37,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Três suspeitos são mortos pela polícia militar em assalto a casa em SP"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Museu da UFRJ irá receber mais R$ 10 milhões para restauração"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "EBC reafirma não ter responsabilidade por falha em programa do PL"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC libera novas formações online para professores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ decide pedir apoio de tropas federais para o segundo turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ proclama Douglas Ruas eleito para o governo do Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "De olho na liderança: dupla de Stefani vence estreia no WTA de Wuhan"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Participação do Brasil em pesquisas clínicas cresce após marco legal"
     }
 ];
