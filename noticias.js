@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula defende redução da maioridade penal para crimes hediondos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Fluminense vence Flamengo e abre vantagem na Copa do Brasil Feminina"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Participação do Brasil em pesquisas clínicas cresce após marco legal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "União quitou R$ 244 milhões para estados e municípios em setembro"
     }
 ];
