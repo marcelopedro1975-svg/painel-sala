@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TSE tem maioria para ordenar que Meta garanta isonomia a candidatos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPF defende prisão de PM por matar estudante de medicina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "USP: estagnação de auxílios sociais pode gerar retração em municípios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF pede prorrogação de inquérito sobre financiamento do Dark Horse"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Surfe: Yago Dora, Ítalo Ferreira e Medina vão às quartas em Peniche"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin vai relatar novo pedido do PSD por segundo turno no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Morre Chiaki Ishii, primeiro medalhista olímpico do judô brasileiro"
     },
     {
@@ -25,19 +53,15 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Manaus é capital com maior poluição atmosférica do país nesta sexta"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Governo monitora saúde de amazonenses em locais afetados por queimadas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Congresso promulga emenda de aposentadoria especial de agente de saúde"
+        titulo: "Do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil"
+        titulo: "Congresso promulga emenda de aposentadoria especial de agente de saúde"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem 2026: prazo para escolher idioma da prova termina neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "A cada 72 segundos, uma pessoa morre por doença cardiovascular no país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso promulga emenda do fim da 6x1; escala 5x2 começa em 60 dias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atividade econômica tem alta de 0,3% em agosto, mostra IBC-Br"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (16)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atirador mata pelo menos 4 pessoas em escola dos Estados Unidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado"
     }
 ];
