@@ -1,7 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Mais de 4 mil eleitores tiveram locais de votação alterados"
+        titulo: "Partido Novo entra com ação no TSE contra atos musicais por democracia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cortes em auxílios sociais podem gerar retração em cidades do interior"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Federal manda Meta restabelecer contas estudantis do RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival de Cinema valoriza produções de crianças e adolescentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Organizações promovem ação de empregabilidade para refugiados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais de 4 mil seções eleitorais tiveram locais de votação alterados"
     },
     {
         fonte: "Agência Brasil",
@@ -22,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Estudantes desenvolvem plataformas para combater a desinformação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Duelo de Guitarras, da TV Brasil, termina com perfil do campeão"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anac estabelece regras mais restritivas para aviação em Congonhas (SP)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE decide manter ordem para Meta garantir isonomia a candidatos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPF defende prisão de PM por matar estudante de medicina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "USP: estagnação de auxílios sociais pode gerar retração em municípios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF pede prorrogação de inquérito sobre financiamento do Dark Horse"
     }
 ];
