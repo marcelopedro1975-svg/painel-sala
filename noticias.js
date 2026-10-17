@@ -1,7 +1,23 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "José Sarney recebe alta hospitalar após nove dias de internação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Recife vai sediar maior festival de animação do Brasil, o Animage"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas provocam alagamentos e deslizamentos pelo interior paulista"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Estudantes desenvolvem plataformas para combater a desinformação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Duelo de Guitarras, da TV Brasil, termina com perfil do campeão"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Surfe: Yago Dora, Ítalo Ferreira e Medina vão às quartas em Peniche"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin vai relatar novo pedido do PSD por segundo turno no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Morre Chiaki Ishii, primeiro medalhista olímpico do judô brasileiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil é 2º maior importador de pesticidas proibidos na UE, diz Oxfam"
     }
 ];
