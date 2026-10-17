@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Estudantes desenvolvem plataformas para combater a desinformação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Abstenção de eleitores com mais de 70 anos cai 9,7 pontos percentuais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Libertadores Feminina: Cruzeiro resiste à altitude e vence na estreia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alunos e professores participam hoje de Olimpíada de Matemática"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Em sabatina, Flávio não explica propostas e faz acusações sem provas"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil é 2º maior importador de pesticidas proibidos na UE, diz Oxfam"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE define regras para canais de WhatsApp durante a campanha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alcolumbre homenageia Paim no fim da 6x1; entenda motivo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE nega pedido da campanha de Flávio para barrar posts de sindicatos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo monitora saúde de amazonenses em locais afetados por queimadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso promulga emenda de aposentadoria especial de agente de saúde"
     }
 ];
