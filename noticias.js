@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mais de 4 mil eleitores tiveram locais de votação alterados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio: reserva marinha alia proteção ambiental com atividades econômicas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "José Sarney recebe alta hospitalar após nove dias de internação"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Alunos e professores participam hoje de Olimpíada de Matemática"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PF pede prorrogação de inquérito sobre financiamento do Dark Horse"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Surfe: Yago Dora, Ítalo Ferreira e Medina vão às quartas em Peniche"
     }
 ];
