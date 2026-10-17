@@ -1,7 +1,31 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "TSE tem maioria para ordenar que Meta garanta isonomia a candidatos"
+        titulo: "Em sabatina, Flávio não explica propostas e faz acusações sem provas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula faz campanha em MG e celebra fim da jornada 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com um a mais, Mirassol vence e complica Internacional no Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copa do Brasil Feminina: Bahia vence São Paulo pelas quartas de final"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa de Vorcaro pede investigação sobre vazamento de conversas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anac estabelece regras mais restritivas para aviação em Congonhas (SP)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE decide manter ordem para Meta garantir isonomia a candidatos"
     },
     {
         fonte: "Agência Brasil",
@@ -37,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Desmatamento cai 41,8% na Amazônia e 23,8% no Cerrado em um ano"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TSE define regras para canais de WhatsApp durante a campanha"
     },
     {
@@ -57,26 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Congresso promulga emenda de aposentadoria especial de agente de saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba quando começa a valer o fim da escala 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Descanso de trabalhador não quebra empresas, diz Lula após fim da 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil deve voltar a ser 8ª maior economia do mundo em 2027, prevê FMI"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: prazo para escolher idioma da prova termina neste domingo"
     }
 ];
