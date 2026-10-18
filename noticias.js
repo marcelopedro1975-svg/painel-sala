@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula; prêmio pode chegar a R$ 185 milhões na terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitor sem biometria pode votar no segundo turno das eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Termina neste domingo prazo escolher idioma da prova do Enem 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudantes retomam protagonismo em momento decisivo no país, diz UNE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: quem não votou no primeiro turno pode participar do segundo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Empresas de três regiões terão aporte de R$ 450 milhões para inovação"
     },
     {
@@ -21,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "COP17 da Biodiversidade começa segunda-feira na Armênia"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Partido Novo entra com ação no TSE contra atos musicais por democracia"
     },
     {
@@ -34,14 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça Federal manda Meta restabelecer contas estudantis do RS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival de Cinema valoriza produções de crianças e adolescentes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Organizações promovem ação de empregabilidade para refugiados"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Em sabatina, Flávio não explica propostas e faz acusações sem provas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula faz campanha em MG e celebra fim da jornada 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com um a mais, Mirassol vence e complica Internacional no Brasileirão"
     }
 ];
