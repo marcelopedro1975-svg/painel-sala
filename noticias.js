@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Campanha de Flávio Bolsonaro realiza manifestação na Paulista"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil"
     },
     {
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pescadoras brasileiras recebem título de heroínas em premiação da FAO"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Roda de Choro apresenta Grupo Tamoio em homenagem a Ernesto Nazareth"
     },
     {
         fonte: "Agência Brasil",
