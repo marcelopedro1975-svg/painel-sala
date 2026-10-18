@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Empresas de três regiões terão aporte de R$ 450 milhões para inovação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BB recebe até 31 de outubro inscrições para projetos de impacto social"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pescadoras brasileiras recebem título de heroínas em premiação da FAO"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Roda de Choro apresenta Grupo Tamoio em homenagem a Ernesto Nazareth"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite duelo Fluminense x Santos pelo Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "COP17 da Biodiversidade começa segunda-feira na Armênia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Partido Novo entra com ação no TSE contra atos musicais por democracia"
     },
     {
@@ -21,23 +45,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mais de 4 mil seções eleitorais tiveram locais de votação alterados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio: reserva marinha alia proteção ambiental com atividades econômicas"
+        titulo: "Eleições: mais de 4 mil seções tiveram locais alterados; confira"
     },
     {
         fonte: "Agência Brasil",
         titulo: "José Sarney recebe alta hospitalar após nove dias de internação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Recife vai sediar maior festival de animação do Brasil, o Animage"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuvas provocam alagamentos e deslizamentos pelo interior paulista"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Com um a mais, Mirassol vence e complica Internacional no Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copa do Brasil Feminina: Bahia vence São Paulo pelas quartas de final"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa de Vorcaro pede investigação sobre vazamento de conversas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anac estabelece regras mais restritivas para aviação em Congonhas (SP)"
     }
 ];
