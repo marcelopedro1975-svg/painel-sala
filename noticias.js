@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tensões voltam a crescer; França contabiliza custos de protestos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena acumula; prêmio pode chegar a R$ 185 milhões na terça-feira"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Libertadores Feminina: Cruzeiro resiste à altitude e vence na estreia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alunos e professores participam hoje de Olimpíada de Matemática"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em sabatina, Flávio não explica propostas e faz acusações sem provas"
     }
 ];
