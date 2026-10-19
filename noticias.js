@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ícone da MPB, Benito di Paula morre em São Paulo aos 84 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ato em apoio à democracia e a Lula reúne milhares no Rio e Brasília"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Campanha de Flávio Bolsonaro realiza manifestação na Paulista"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Abstenção de eleitores com mais de 70 anos cai 9,7 pontos percentuais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Libertadores Feminina: Cruzeiro resiste à altitude e vence na estreia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alunos e professores participam hoje de Olimpíada de Matemática"
     }
 ];
