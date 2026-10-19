@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PF faz ação para prender 23 envolvidos com facção criminosa no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas ficam mais intensas no Norte, Centro-Oeste e Sudeste do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta segunda-feira (19)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Força Nacional vai atuar por 90 dias na região de Belo Monte"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com ação Vida Além do Trabalho, ex-balconista mobilizou trabalhadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula e Flávio fazem primeiro debate das eleições na TV Band"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caminhos da Reportagem exibe edição sobre Serra da Capivara, no Piauí"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ícone da MPB, Benito di Paula morre em São Paulo aos 84 anos"
     },
     {
@@ -18,10 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Tensões voltam a crescer; França contabiliza custos de protestos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula; prêmio pode chegar a R$ 185 milhões na terça-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Partido Novo entra com ação no TSE contra atos musicais por democracia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cortes em auxílios sociais podem gerar retração em cidades do interior"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Federal manda Meta restabelecer contas estudantis do RS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições: mais de 4 mil seções tiveram locais alterados; confira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "José Sarney recebe alta hospitalar após nove dias de internação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudantes desenvolvem plataformas para combater a desinformação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Abstenção de eleitores com mais de 70 anos cai 9,7 pontos percentuais"
     }
 ];
