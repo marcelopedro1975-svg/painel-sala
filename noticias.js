@@ -1,11 +1,67 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "PF faz ação para prender 23 envolvidos com facção criminosa no Rio"
+        titulo: "Governo pretende realocar R$ 20 bilhões no Orçamento de 2027"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Chuvas ficam mais intensas no Norte, Centro-Oeste e Sudeste do país"
+        titulo: "Agricultura confirma foco de doença de Newcastle em Santa Catarina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zanin pede parecer da PGR e AGU sobre ação do PSD por 2º turno no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas à revelação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira o que muda no licenciamento ambiental da aquicultura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Motoristas de ônibus fazem paralisação na zona sul de São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Provas de português para estrangeiros começam nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Deputado André Janones é internado com arritmia em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Deputado estadual Marcelo Aguiar é detido após disparo em bar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pé-de-Meia: pagamento da sétima parcela começa nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa proíbe lotes de medicamento para tratar câncer"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa determina apreensão de lote falsificado de toxina botulínica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economia cresce 0,5% em agosto após dois meses de recuo, estima FGV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE dá 24 horas para Meta dar informações sobre igualdade de campanhas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pagamentos de outubro do Bolsa Família começam nesta segunda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF faz ação para prender 23 envolvidos com facção criminosa no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -22,61 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula e Flávio fazem primeiro debate das eleições na TV Band"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem exibe edição sobre Serra da Capivara, no Piauí"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ícone da MPB, Benito di Paula morre em São Paulo aos 84 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ato em apoio à democracia e a Lula reúne milhares no Rio e Brasília"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha de Flávio Bolsonaro realiza manifestação na Paulista"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tensões voltam a crescer; França contabiliza custos de protestos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitor sem biometria pode votar no segundo turno das eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Termina neste domingo prazo escolher idioma da prova do Enem 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudantes retomam protagonismo em momento decisivo no país, diz UNE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições: quem não votou no primeiro turno pode participar do segundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Empresas de três regiões terão aporte de R$ 450 milhões para inovação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BB recebe até 31 de outubro inscrições para projetos de impacto social"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite duelo Fluminense x Santos pelo Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Partido Novo entra com ação no TSE contra atos musicais por democracia"
     }
 ];
