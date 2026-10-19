@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pescadoras brasileiras recebem título de heroínas em premiação da FAO"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rádio Nacional transmite duelo Fluminense x Santos pelo Brasileirão"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Libertadores Feminina: Cruzeiro resiste à altitude e vence na estreia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alunos e professores participam hoje de Olimpíada de Matemática"
     }
 ];
