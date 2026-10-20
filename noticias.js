@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Justiça decreta fim da recuperação judicial da Americanas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio faz motociata no Pará; Lula participa de marcha no RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rebeca, Flavinha e Lorrane avançam às finais do Mundial de Ginástica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGR não vê abuso de André Mendonça em investigação contra Moraes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ato em São Paulo cobra neutralidade da Meta nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça bloqueia bens de empresa por queda de helicóptero, no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula diz que vai entregar amanhã ao TSE pedido de abertura de sigilo"
     },
     {
@@ -41,10 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CNU 2: servidor pode indicar órgão de preferência a partir de quinta"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Mulher e filho de Marcinho VP são presos em operação da PF no Rio"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Agricultura confirma foco de doença de Newcastle em Santa Catarina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin pede parecer da PGR e AGU sobre ação do PSD por 2º turno no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas à revelação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Provas de português para estrangeiros começam nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Deputado André Janones é internado com arritmia em São Paulo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia: pagamento da sétima parcela começa nesta segunda"
     }
 ];
