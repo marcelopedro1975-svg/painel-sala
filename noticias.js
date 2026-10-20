@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Saiba como consultar o seu local de votação"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça decreta fim da recuperação judicial da Americanas"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Governo pretende realocar R$ 20 bilhões no Orçamento de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agricultura confirma foco de doença de Newcastle em Santa Catarina"
     }
 ];
