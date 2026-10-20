@@ -1,6 +1,62 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo do RJ deverá adquirir câmeras para policiais em março de 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPE pede providências para garantir voto de indígenas no segundo turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil define cotas para exportar com tarifas reduzidas para a Noruega"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Operação Mulher Segura prende mais de 57 mil agressores em 141 dias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Eleitoral nega transporte, água e alimentação para indígenas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Futebol feminino: premiação revela finalistas a melhor técnico do ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "André Janones recebe alta e deixa hospital em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: saiba quais documentos são aceitos para votar no 2° turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Queda de desmatamento no Brasil gera R$ 1,16 trilhão à economia global"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Repórter Tâmara Freire, da Agência Brasil, é finalista no Prêmio SBIm"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Meta recusa pedido federal para criar canal de proteção a jornalistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Milei lança plano para demitir 21 mil servidores na Argentina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saúde inicia oferta de novos medicamentos oncológicos no SUS"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TCU aprova contas do BC de 2025 após desvincular processo do Master"
     },
     {
@@ -22,61 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE: Lula autoriza quebra de sigilo bancário se Flávio fizer o mesmo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo impõe emergência zoossanitária após detectar Newcastle em SC"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ao TSE, Meta nega tratamento desigual entre candidaturas presidenciais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Local de votação ainda pode mudar; consulte de novo antes de ir à urna"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enamed 2026: Inep divulga gabarito preliminar da reaplicação da prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudantes de escolas públicas querem ensino e aprendizagem melhores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia faz operação no interior de SP contra fraudes bancárias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fenaj manifesta indignação com formato do debate da TV Band"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta terça-feira (20)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições 2026: nenhum eleitor pode ser preso a partir desta terça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sociedade civil apresenta propostas aos candidatos à Presidência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério Público do Rio renova acordo para enfrentar criminalidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 2 recebem Bolsa Família de outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba como consultar o seu local de votação"
     }
 ];
