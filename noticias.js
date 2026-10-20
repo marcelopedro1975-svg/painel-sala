@@ -1,7 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "TCU aprova contas do BC de 2025 após desvincular processo do Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Restituições do IR batem recorde e chegam a R$ 41 bilhões em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IBGE é autorizado a abrir 325 vagas temporárias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça torna ré PM por homicídio de mulher na zona leste de SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Esporte: conheça as propostas de Flávio Bolsonaro e Lula para a área"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE: Lula autoriza quebra de sigilo bancário se Flávio fizer o mesmo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo impõe emergência zoossanitária após detectar Newcastle em SC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ao TSE, Meta nega tratamento desigual entre candidaturas presidenciais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Local de votação ainda pode mudar; consulte de novo antes de ir à urna"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enamed 2026: Inep divulga gabarito preliminar da reaplicação da prova"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Estudantes de escolas públicas querem ensino e aprendizagem melhores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia faz operação no interior de SP contra fraudes bancárias"
     },
     {
         fonte: "Agência Brasil",
@@ -25,23 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estiagem: governo federal reconhece emergência em municípios do Amapá"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cena Musical, da TV Brasil, celebra vida e obra de Roberto Menescal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Secretário de Queimados, no Rio, morre baleado em abordagem da PM"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Ministério Público do Rio renova acordo para enfrentar criminalidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuvas permanecem intensas nas regiões Norte e Nordeste"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Saiba como consultar o seu local de votação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça decreta fim da recuperação judicial da Americanas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio faz motociata no Pará; Lula participa de marcha no RS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rebeca, Flavinha e Lorrane avançam às finais do Mundial de Ginástica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR não vê abuso de André Mendonça em investigação contra Moraes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ato em São Paulo cobra neutralidade da Meta nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula diz que vai entregar amanhã ao TSE pedido de abertura de sigilo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consultas por lesões pré-cancerígenas caem após vacina contra HPV"
     }
 ];
