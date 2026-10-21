@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Itamaraty acusa Milei de tentar interferir na eleição brasileira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inter e Bragantino avançam às semifinais da Copa do Brasil Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE não participa de mudança de locais de votação, diz Nunes Marques"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE reúne Meta e campanhas para tratar de restrições de postagens"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Quase 90% de conteúdos virais sobre saúde são falsos, diz Agência Lupa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU busca recuperar R$ 190 milhões de integrantes do PCC e do CV"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Supervisão parental nas redes deve ser reforçada, diz diretora da ANPD"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil"
     },
     {
@@ -37,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Queda de desmatamento no Brasil gera R$ 1,16 trilhão à economia global"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Repórter Tâmara Freire, da Agência Brasil, é finalista no Prêmio SBIm"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Milei lança plano para demitir 21 mil servidores na Argentina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saúde inicia oferta de novos medicamentos oncológicos no SUS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TCU aprova contas do BC de 2025 após desvincular processo do Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Restituições do IR batem recorde e chegam a R$ 41 bilhões em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBGE é autorizado a abrir 325 vagas temporárias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça torna ré PM por homicídio de mulher na zona leste de SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Esporte: conheça as propostas de Flávio Bolsonaro e Lula para a área"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE: Lula autoriza quebra de sigilo bancário se Flávio fizer o mesmo"
     }
 ];
