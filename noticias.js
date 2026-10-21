@@ -1,7 +1,15 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena não tem acertador e prêmio vai a R$ 200 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Itamaraty acusa Milei de tentar interferir na eleição brasileira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Comitê da Meta aponta falhas de moderação nas eleições brasileiras"
     },
     {
         fonte: "Agência Brasil",
@@ -49,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Operação Mulher Segura prende mais de 57 mil agressores em 141 dias"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Justiça Eleitoral nega transporte, água e alimentação para indígenas"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Meta recusa pedido federal para criar canal de proteção a jornalistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Milei lança plano para demitir 21 mil servidores na Argentina"
     }
 ];
