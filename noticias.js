@@ -1,11 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Importações para pesquisa pública terão imunidade tributária"
+        titulo: "Perdão de dívidas e novo teto do MEI: entenda o que muda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE: informação de que 4 mil seções mudaram de lugar estava incorreta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio Bolsonaro impõe condições para liberar sigilos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas entre goleiras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF decide que ISS não integra base de cálculo do PIS/Cofins"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONU aponta falta de isenção da Meta em eleição brasileira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça torna réus 12 denunciados por queda de avião da Voepass"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Importações para pesquisa pública terão imunidade tributária"
     },
     {
         fonte: "Agência Brasil",
@@ -29,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Metrô de São Paulo amplia uso do Pix no autoatendimento"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Entidades divulgam manifesto pela valorização do serviço público"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo destina R$ 6,49 bilhões a setor de exportação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Leão XIV sobe ao papamóvel pela primeira vez desde cirurgia de câncer"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa Civil recebe R$ 300 milhões em crédito extraordinário"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pedir votos e fazer propaganda: saiba o que é proibido no dia de votar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quarta-feira (21)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ define urnas que serão auditadas no segundo turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores do DF voltam às urnas para escolher entre Celina e Grass"
     }
 ];
