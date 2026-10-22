@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha de Lula entra com ação no TSE para cassar chapa de Flávio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Nunes Marques suspende postagens ilegais contra campanha de Lula"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Procon paulistano multa Enel por falhas no fornecimento de energia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sancionada lei que perdoa dívida e aumenta limite de MEI"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos"
     }
 ];
