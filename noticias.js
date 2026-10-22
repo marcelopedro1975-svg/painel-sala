@@ -1,6 +1,54 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Termina hoje prazo para realização de comícios e ações de campanha"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova novo medicamento para câncer de pulmão avançado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ashwagandha: Anvisa alerta que suplemento do TikTok não tem registro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (22)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Direitos Humanos: planos de Lula e Flávio refletem diferença histórica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet alerta para tempestades em toda a faixa leste do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo francês anuncia proibição de protestos considerados ilegítimos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas: Defesa Civil decreta situação de emergência em cidades do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TO: eleitores escolherão entre Professora Dorinha e Vicentinho Júnior"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitores do ES definem disputa para governo entre Ferraço e Pazolini"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "RN: eleitores vão escolher entre Allyson e Cadu de Lula para governo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Papa não precisará de mais tratamento contra o câncer, dizem médicos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte"
     },
     {
@@ -30,53 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE: informação de que 4 mil seções mudaram de lugar estava incorreta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio Bolsonaro impõe condições para liberar sigilos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas entre goleiras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF decide que ISS não integra base de cálculo do PIS/Cofins"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça torna réus 12 denunciados por queda de avião da Voepass"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONU aponta falta de isenção da Meta em eleição brasileira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Importações para pesquisa pública terão imunidade tributária"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Democracia exige que perdedor respeite as regras do jogo, diz Fachin"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE estuda desativar canais políticos no WhatsApp 48h antes da eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo envia ao Congresso proposta de tarifa zero no transporte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Procon paulistano multa Enel por falhas no fornecimento de energia"
     }
 ];
