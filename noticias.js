@@ -1,7 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Doença de Newcastle: protocolos sanitários são cumpridos em SC"
+        titulo: "Mendonça diz que Flávio e Lula podem divulgar sigilos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa Loterias anuncia antecipação de sorteios para sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil no Mundo, na TV Brasil, analisa protestos na Europa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Indígenas do Vale do Javari terão transporte gratuito no 2º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas: as 3 melhores laterais-direitas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidente do TSE pede à Meta relatório sobre canal Exército do Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia Civil investiga distribuidora de bebidas em Guarulhos (SP)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha de Lula apresenta acordo com Flávio para abrir sigilos"
     },
     {
         fonte: "Agência Brasil",
@@ -9,11 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estudo aponta atividade humana nas emissões de carbono na Amazônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agência Brasil e TV Brasil recebem Prêmio Vladimir Herzog"
+        titulo: "Doença de Newcastle: protocolos sanitários são cumpridos em SC"
     },
     {
         fonte: "Agência Brasil",
@@ -37,14 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Plataforma pan-amazônica reúne 232 políticas públicas para bioeconomia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mãe Bernadete: Júri condena quarto acusado a 23 anos de prisão"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Defensoria Pública pede ao STF transporte gratuito no 2º turno"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enamed: termina hoje prazo para recurso contra gabarito preliminar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Termina hoje prazo para realizar comícios e anúncios pagos de campanha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova novo medicamento para câncer de pulmão avançado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ashwagandha: Anvisa alerta que suplemento do TikTok não tem registro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta quinta-feira (22)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo francês anuncia proibição de protestos considerados ilegítimos"
     }
 ];
