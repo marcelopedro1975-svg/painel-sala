@@ -1,7 +1,67 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Termina hoje prazo para realização de comícios e ações de campanha"
+        titulo: "Doença de Newcastle: protocolos sanitários são cumpridos em SC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prefeituras e estados devem garantir transporte gratuito no 2° turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudo aponta atividade humana nas emissões de carbono na Amazônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Agência Brasil e TV Brasil recebem Prêmio Vladimir Herzog"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aberta inscrição para seleção de professor elaborador do Enade 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vote Segura mostra boas práticas de políticas de segurança a mulheres"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: entidades vão checar informações ao vivo durante debate"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "França registra 1º caso humano do vírus Shamonda que afeta animais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economia da Argentina recua 1,7% em agosto sob risco de recessão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Plataforma pan-amazônica reúne 232 políticas públicas para bioeconomia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mãe Bernadete: Júri condena quarto acusado a 23 anos de prisão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defensoria Pública pede ao STF transporte gratuito no 2º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa proíbe venda de teste de glicemia Accu-Check Active na Amazon"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enamed: termina hoje prazo para recurso contra gabarito preliminar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Termina hoje prazo para realizar comícios e anúncios pagos de campanha"
     },
     {
         fonte: "Agência Brasil",
@@ -17,66 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Direitos Humanos: planos de Lula e Flávio refletem diferença histórica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inmet alerta para tempestades em toda a faixa leste do país"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Governo francês anuncia proibição de protestos considerados ilegítimos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuvas: Defesa Civil decreta situação de emergência em cidades do Sul"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TO: eleitores escolherão entre Professora Dorinha e Vicentinho Júnior"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores do ES definem disputa para governo entre Ferraço e Pazolini"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "RN: eleitores vão escolher entre Allyson e Cadu de Lula para governo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Papa não precisará de mais tratamento contra o câncer, dizem médicos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha de Lula entra com ação no TSE para cassar chapa de Flávio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nunes Marques suspende postagens ilegais contra campanha de Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil fica em 5º lugar na final por equipes do Mundial de Ginástica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula aceita proposta de Flávio para quebra de sigilo bancário"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Perdão de dívidas e novo teto do MEI: entenda o que muda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE: informação de que 4 mil seções mudaram de lugar estava incorreta"
     }
 ];
