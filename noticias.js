@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Nunes Marques suspende postagens ilegais contra campanha de Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil fica em 5º lugar na final por equipes do Mundial de Ginástica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula aceita proposta de Flávio para quebra de sigilo bancário"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Perdão de dívidas e novo teto do MEI: entenda o que muda"
     },
     {
@@ -21,11 +37,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "ONU aponta falta de isenção da Meta em eleição brasileira"
+        titulo: "Justiça torna réus 12 denunciados por queda de avião da Voepass"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça torna réus 12 denunciados por queda de avião da Voepass"
+        titulo: "ONU aponta falta de isenção da Meta em eleição brasileira"
     },
     {
         fonte: "Agência Brasil",
@@ -33,11 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios"
+        titulo: "Importações para pesquisa pública terão imunidade tributária"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Importações para pesquisa pública terão imunidade tributária"
+        titulo: "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pediatras alertam para riscos de brinquedos com IA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Movimento Vovó Vota defende consciência cidadã contra abstenção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONU: El Niño pode ser o mais forte dos últimos 40 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entidades divulgam manifesto pela valorização do serviço público"
     }
 ];
