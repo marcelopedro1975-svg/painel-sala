@@ -1,6 +1,50 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Caso Ana Clara: ativistas protestam no TSE contra decisão de Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Definidos os confrontos das semifinais da Copa do Brasil Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desmatamento em áreas protegidas da Amazônia e do Cerrado tem queda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Surfe: Medina é vice-campeão em Peniche e sobe para 4º no ranking"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em meio a ajuste fiscal, Chile tem queda do PIB e desemprego em alta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Domingo de eleições deverá ser chuvoso no estado de SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas anuncia zagueiras finalistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Segundo turno: acesso à Esplanada será controlado no domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministro do TSE proíbe suspensão do canal Exército do Lula"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Desinformação faz com que só 5% das crianças sejam protegidas da covid"
     },
     {
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE dá 24h para Meta e X explicarem distribuição de material político"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Propaganda eleitoral gratuita termina nesta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio propõe retomada de privatizações; Lula quer fortalecer empresas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Terremoto no Tibete deixa pelo menos 16 pessoas mortas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confira a agenda dos presidenciáveis nesta sexta-feira (23)"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Primeiro governador, depois presidente: saiba qual a ordem de votação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Diretora é presa por desvio de alimentos em unidade prisional feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitor que pediu voto em trânsito pode consultar local no e-Título"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores de Itaguaí, no Rio, votam domingo também para prefeito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Libertadores Feminina tem chance de final brasileira pela terceira vez"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudiantes bate Fla e Palmeiras terá revanche pelo tetra da América"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Portaria convoca instituições financeiras para 3ª fase do Desenrola"
     }
 ];
