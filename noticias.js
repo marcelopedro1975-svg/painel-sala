@@ -1,15 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Portaria convoca instituições financeiras para 3ª fase do Desenrola"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula participa de live do “exército” e estimula ida de idosos às urnas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copa do Brasil Feminino: Flamengo bate Fluminense e vai às semifinais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo intensifica reforços para combater incêndios no Pará"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN e BC atualizam regras de segurança e transparência do Open Finance"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seleção feminina de tênis é convocada para Billie Jean King Cup"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Primeiro turno contou com 43% mais eleitores de ao menos 70 anos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mendonça diz que Flávio e Lula podem divulgar sigilos"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Caixa Loterias anuncia antecipação de sorteios para sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil no Mundo, na TV Brasil, analisa protestos na Europa"
     },
     {
         fonte: "Agência Brasil",
@@ -26,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Presidente do TSE pede à Meta relatório sobre canal Exército do Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia Civil investiga distribuidora de bebidas em Guarulhos (SP)"
     },
     {
         fonte: "Agência Brasil",
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Vote Segura mostra boas práticas de políticas de segurança a mulheres"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições: entidades vão checar informações ao vivo durante debate"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "França registra 1º caso humano do vírus Shamonda que afeta animais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Economia da Argentina recua 1,7% em agosto sob risco de recessão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defensoria Pública pede ao STF transporte gratuito no 2º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe venda de teste de glicemia Accu-Check Active na Amazon"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enamed: termina hoje prazo para recurso contra gabarito preliminar"
     }
 ];
