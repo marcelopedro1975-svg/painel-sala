@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Desinformação faz com que só 5% das crianças sejam protegidas da covid"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Barra do Corda afasta secretário por ameaça a eleitores do PT"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONS fará operação especial para garantir energia no segundo turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Forças Armadas mobilizam 25 mil militares para o segundo turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Recife abrirá 34 creches no domingo para facilitar o voto dos pais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita abre consulta a lote residual do Imposto de Renda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Segundo turno: saiba como consultar local de votação para domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prévia da inflação oficial cai pela metade e fecha outubro em 0,32%"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE dá 24h para Meta e X explicarem distribuição de material político"
     },
     {
@@ -10,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Flávio propõe retomada de privatizações; Lula quer fortalecer empresas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Frente fria leva tempestades e granizo ao centro-sul do país"
     },
     {
         fonte: "Agência Brasil",
@@ -33,19 +61,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Entidades estimulam domésticas a denunciar assédio eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores de Itaguaí, no Rio, votam domingo também para prefeito"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Eleitor que pediu voto em trânsito pode consultar local no e-Título"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Racismo e intolerância religiosa atravessam debate eleitoral no Brasil"
+        titulo: "Eleitores de Itaguaí, no Rio, votam domingo também para prefeito"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Portaria convoca instituições financeiras para 3ª fase do Desenrola"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula participa de live do “exército” e estimula ida de idosos às urnas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copa do Brasil Feminino: Flamengo bate Fluminense e vai às semifinais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CMN e BC atualizam regras de segurança e transparência do Open Finance"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina"
     }
 ];
