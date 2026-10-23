@@ -9,6 +9,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 230 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Copa do Brasil Feminino: Flamengo bate Fluminense e vai às semifinais"
     },
     {
@@ -21,11 +25,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina"
+        titulo: "CMN e BC atualizam regras de segurança e transparência do Open Finance"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CMN e BC atualizam regras de segurança e transparência do Open Finance"
+        titulo: "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mendonça diz que Flávio e Lula podem divulgar sigilos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa Loterias anuncia antecipação de sorteios para sábado"
     },
     {
         fonte: "Agência Brasil",
