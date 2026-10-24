@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Veja quem tem prioridade nas seções eleitorais no segundo turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nunes Marques nega autorização para transporte de eleitores indígenas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tribunais eleitorais definem urnas que serão auditadas no 2º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba os direitos de idosos e pessoas com deficiência para votar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rebeca Andrade conquista o tri no Mundial de Ginástica na Holanda"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Trabalhador tem direito de sair do serviço para votar; confira a lei"
     },
     {
@@ -33,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inmet: Domingo de eleição será chuvoso em boa parte do país; confira"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Confira a agenda dos presidenciáveis neste sábado (24)"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Candidatos trocam acusações e defendem propostas em debate na Globo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPT apura carta de supermercado a funcionários com teor eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministra rejeita ação que pedia transporte interestadual na eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Meta diz ao TSE que Exército do Lula não viola políticas da plataforma"
     }
 ];
