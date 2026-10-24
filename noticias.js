@@ -1,11 +1,27 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Candidatos trocam acusações e defendem propostas em debate na Globo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPT apura carta de supermercado a funcionários com teor eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ministra rejeita ação que pedia transporte interestadual na eleição"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Meta diz ao TSE que Exército do Lula não viola políticas da plataforma"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuva deve prevalecer no domingo de eleições no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -33,19 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Desmatamento em áreas protegidas da Amazônia e do Cerrado tem queda"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Surfe: Medina é vice-campeão em Peniche e sobe para 4º no ranking"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Em meio a ajuste fiscal, Chile tem queda do PIB e desemprego em alta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Domingo de eleições deverá ser chuvoso no estado de SP"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Barra do Corda afasta secretário por ameaça a eleitores do PT"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONS fará operação especial para garantir energia no segundo turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Forças Armadas mobilizam 25 mil militares para o segundo turno"
     }
 ];
