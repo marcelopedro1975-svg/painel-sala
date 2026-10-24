@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ministra rejeita ação que pedia transporte interestadual na eleição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Meta diz ao TSE que Exército do Lula não viola políticas da plataforma"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BC reforça regras de proteção ao consumidor nas ofertas de crédito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sociedade civil manifesta preocupação ao TSE por censura nas redes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Caso Ana Clara: ativistas protestam no TSE contra decisão de Mendonça"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Forças Armadas mobilizam 25 mil militares para o segundo turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Recife abrirá 34 creches no domingo para facilitar o voto dos pais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita abre consulta a lote residual do Imposto de Renda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Segundo turno: saiba como consultar local de votação para domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prévia da inflação oficial cai pela metade e fecha outubro em 0,32%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE dá 24h para Meta e X explicarem distribuição de material político"
     }
 ];
