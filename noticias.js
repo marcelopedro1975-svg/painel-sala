@@ -1,11 +1,23 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Votação: eleitores podem usar itens que expressem preferência política"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições: saiba como consultar locais de votação para o segundo turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça proíbe rede de supermercados de praticar assédio eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Veja quem tem prioridade nas seções eleitorais no segundo turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Nunes Marques nega autorização para transporte de eleitores indígenas"
+        titulo: "Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques"
     },
     {
         fonte: "Agência Brasil",
@@ -33,7 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Protestos na França começam sob forte esquema de segurança"
+        titulo: "Protestos na França ocorrem sob forte esquema de segurança"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Flávio defende inocência do único acusado pela morte de Ana Clara"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite neste sábado Internacional x Botafogo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Saiba como votar usando o aplicativo e-Título do TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Candidatos trocam acusações e defendem propostas em debate na Globo"
     }
 ];
