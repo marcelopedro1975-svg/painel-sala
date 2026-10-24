@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Ex-jogadoras da seleção de futebol incentivam alunas em escolas do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confira a agenda dos presidenciáveis neste sábado (24)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba quais documentos são aceitos para votar neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Último dia para qualquer tipo de propaganda eleitoral é neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio defende inocência do único acusado pela morte de Ana Clara"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BB capacitará funcionários para acolher mulheres em risco"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio acumulado em R$ 230 milhões neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite neste sábado Internacional x Botafogo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saiba como votar usando o aplicativo e-Título do TSE"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Candidatos trocam acusações e defendem propostas em debate na Globo"
     },
     {
@@ -18,10 +54,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Meta diz ao TSE que Exército do Lula não viola políticas da plataforma"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuva deve prevalecer no domingo de eleições no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Surfe: Medina é vice-campeão em Peniche e sobe para 4º no ranking"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em meio a ajuste fiscal, Chile tem queda do PIB e desemprego em alta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas anuncia zagueiras finalistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Segundo turno: acesso à Esplanada será controlado no domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro do TSE proíbe suspensão do canal Exército do Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Desinformação faz com que só 5% das crianças sejam protegidas da covid"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Barra do Corda afasta secretário por ameaça a eleitores do PT"
     }
 ];
