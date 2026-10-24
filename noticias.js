@@ -1,7 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Trabalhador tem direito de sair do serviço para votar; confira a lei"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bullying: cartórios têm recorde de atas que podem comprovar agressões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cartórios lançam ferramenta que permite pesquisar imóveis no país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Protestos na França começam sob forte esquema de segurança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: saiba o que caracteriza o crime de boca de urna"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministério da Justiça faz operação para garantir segurança no 2º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ronaldinho Gaúcho anuncia volta aos gramados pelo italiano Ravenna"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ex-jogadoras da seleção de futebol incentivam alunas em escolas do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet: Domingo de eleição será chuvoso em boa parte do país; confira"
     },
     {
         fonte: "Agência Brasil",
@@ -18,14 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Flávio defende inocência do único acusado pela morte de Ana Clara"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BB capacitará funcionários para acolher mulheres em risco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio acumulado em R$ 230 milhões neste sábado"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Meta diz ao TSE que Exército do Lula não viola políticas da plataforma"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BC reforça regras de proteção ao consumidor nas ofertas de crédito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sociedade civil manifesta preocupação ao TSE por censura nas redes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caso Ana Clara: ativistas protestam no TSE contra decisão de Mendonça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Definidos os confrontos das semifinais da Copa do Brasil Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada"
     }
 ];
