@@ -1,51 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Pedido para ampliar horário de votação será avaliado, afirma Marques"
+        titulo: "No DF, urnas fecham antes de informação sobre prorrogação chegar"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Em Salvador, quem estiver na seção eleitoral às 17h poderá votar"
+        titulo: "TSE: seções eleitorais ainda abertas devem manter votação até as 19h"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PM detém cinco pessoas por crimes eleitorais em São Paulo"
+        titulo: "Horário de votação ampliado será apenas onde urnas não foram fechadas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TRE-BA determina retomada integral da frota de ônibus em Salvador"
+        titulo: "Ministros do TSE se reúnem a portas fechadas após decisão de Zanin"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vereadora do PT é atacada durante carreata em Montes Claros"
+        titulo: "Policial militar é preso acusado de venda de voto no estado do Rio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ministério da Igualdade Racial quer apurar racismo em ato bolsonarista"
+        titulo: "Salvador: Procon atualiza para 544 total de ônibus parados em garagens"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eleitores vão cedo aos locais de votação no Rio, mesmo com chuva"
+        titulo: "Zanin manda ampliar horário de votação até as 19h em todo o país"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TSE informa que 900 urnas foram substituídas até o meio-dia"
+        titulo: "Nunes Marques dá meia hora para TRE-BA responder sobre transporte"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Apesar das fortes chuvas, eleições seguem tranquilas em São Paulo"
+        titulo: "Campanha de Flávio pede votação até 19h por chuvas em alguns estados"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vontade das urnas precisa ser respeitada, afirma Fachin após votar"
+        titulo: "Campanha de Lula denuncia falta de transporte em nove estados"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eleitores do DF acordam cedo para garantir voto no segundo turno"
+        titulo: "Lula pede prorrogação de votação em cidades com falhas no transporte"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Gol nega cancelamento de voos em massa para o Nordeste"
+        titulo: "\"Não poderia ficar de fora\", diz idoso que votou 10 dias após cirurgia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Procon identifica 370 ônibus parados em garagens de Salvador"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PT notifica TRE-SP por falta de ônibus na cidade neste domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Bullying: cartórios têm recorde de atas que podem comprovar agressões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Protestos na França ocorrem sob forte esquema de segurança"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério da Justiça faz operação para garantir segurança no 2º turno"
     }
 ];
