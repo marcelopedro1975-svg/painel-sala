@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Nunes Marques pede vigilância e senso crítico com notícias no 2º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em Brasília, atos por Lula e Flávio ficam a 2 km de distância"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Candidatos à Presidência reúnem apoiadores no último dia de campanha"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Votação: eleitores podem usar itens que expressem preferência política"
     },
     {
@@ -41,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cartórios lançam ferramenta que permite pesquisar imóveis no país"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Protestos na França ocorrem sob forte esquema de segurança"
     },
     {
@@ -69,14 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Saiba quais documentos são aceitos para votar neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Último dia para qualquer tipo de propaganda eleitoral é neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio defende inocência do único acusado pela morte de Ana Clara"
+        titulo: "Rádio Nacional transmite neste sábado Internacional x Botafogo"
     }
 ];
