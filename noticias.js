@@ -1,47 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Saiba quais as condutas consideradas crime eleitoral no dia da votação"
+        titulo: "TSE informa que 900 urnas foram substituídas até o meio-dia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Consulte o local de votação antes de sair de casa; saiba como"
+        titulo: "Apesar das fortes chuvas, eleições seguem tranquilas em São Paulo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula, e próximo prêmio será de R$ 300 milhões"
+        titulo: "Vontade das urnas precisa ser respeitada, afirma Fachin após votar"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Antes da urna, papel e caneta: prepare sua colinha para votar"
+        titulo: "Eleitores do DF acordam cedo para garantir voto no segundo turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Confira horário de votação neste domingo, segundo turno das eleições"
+        titulo: "Gol nega cancelamento de voos em massa para o Nordeste"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Veja em tempo real a apuração do 2ª turno na Agência Brasil"
+        titulo: "Nas duas primeiras horas de votação, 467 urnas foram substituídas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Eleitores vão às urnas hoje para escolher o presidente do país"
+        titulo: "Lula vota e enaltece mobilização popular: \"nunca vi nada igual\""
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Nunes Marques pede vigilância e senso crítico com notícias no 2º turno"
+        titulo: "Presidente do TRE-RJ pede aos eleitores que compareçam às urnas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Em Brasília, atos por Lula e Flávio ficam a 2 km de distância"
+        titulo: "Eleições: indígenas e quilombolas têm transporte garantido"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Candidatos à Presidência reúnem apoiadores no último dia de campanha"
+        titulo: "Chuva altera local de votação em Itapevi, no interior paulista"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Votação: eleitores podem usar itens que expressem preferência política"
+        titulo: "TRE-SP substitui 52 urnas que apresentaram problemas no estado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE agiliza aprovação de transporte para indígenas e quilombolas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ao votar no Rio de Janeiro, Flávio diz que representa a mudança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mudanças climáticas já causam aumento de doenças infecciosas no país"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Protestos na França ocorrem sob forte esquema de segurança"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério da Justiça faz operação para garantir segurança no 2º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ronaldinho Gaúcho anuncia volta aos gramados pelo italiano Ravenna"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-jogadoras da seleção de futebol incentivam alunas em escolas do Rio"
     }
 ];
