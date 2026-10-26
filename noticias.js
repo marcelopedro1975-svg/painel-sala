@@ -1,11 +1,67 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "No DF, urnas fecham antes de informação sobre prorrogação chegar"
+        titulo: "Lorenzo Pazolini vence o segundo turno e vai governar o Espírito Santo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TSE: seções eleitorais ainda abertas devem manter votação até as 19h"
+        titulo: "Arroio do Sal (RS) e Santana do Itararé (PR) definem novos prefeitos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Omar Aziz é eleito governador do Amazonas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mailza Assis é reeleita governadora do Acre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em SP, 80% das urnas estavam encerradas quando votação foi prorrogada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vicentinho Júnior é eleito governador do estado do Tocantins"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Celina Leão é reeleita governadora do Distrito Federal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OEA acompanha denúncias de falta de ônibus no dia da eleição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Centrais sindicais criticam falta de ônibus no dia da eleição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF vai apurar ataque a vereadora de Montes Claros, diz diretor-geral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitores relatam urnas fechadas e falta de transporte em Salvador"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Advogado vê sabotagem à democracia em falta de transporte de eleitores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE retoma contagem de votos em todo o país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-SP diz que determinação de Zanin está sendo cumprida no estado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pais levam filhos a seções eleitorais para ensinar democracia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-RJ diz que seções eleitorais ficarão abertas até as 19h"
     },
     {
         fonte: "Agência Brasil",
@@ -17,66 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Policial militar é preso acusado de venda de voto no estado do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Salvador: Procon atualiza para 544 total de ônibus parados em garagens"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Zanin manda ampliar horário de votação até as 19h em todo o país"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Nunes Marques dá meia hora para TRE-BA responder sobre transporte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha de Flávio pede votação até 19h por chuvas em alguns estados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha de Lula denuncia falta de transporte em nove estados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula pede prorrogação de votação em cidades com falhas no transporte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"Não poderia ficar de fora\", diz idoso que votou 10 dias após cirurgia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Procon identifica 370 ônibus parados em garagens de Salvador"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PT notifica TRE-SP por falta de ônibus na cidade neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mudanças climáticas já causam aumento de doenças infecciosas no país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça proíbe rede de supermercados de praticar assédio eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tribunais eleitorais definem urnas que serão auditadas no 2º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rebeca Andrade conquista o tri no Mundial de Ginástica na Holanda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bullying: cartórios têm recorde de atas que podem comprovar agressões"
     }
 ];
