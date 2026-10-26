@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Trump questiona eleição brasileira e Alckmin rebate: “equivocado”"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lucas Pinheiro abre temporada com ouro em slalom gigante na Áustria"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dengue: 3 milhões de adolescentes estão com vacinação incompleta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Líderes estrangeiros reconhecem vitória e parabenizam Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dia do Servidor Público: ponto facultativo será na sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TRE-BA revoga ordem de prisão de secretário de Mobilidade de Salvador"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes manda Flávio entregar passaporte e o proíbe de deixar o país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Posse de Lula será em 5 de janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF registrou 86 casos de possíveis crimes eleitorais no 2º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições 2026: oito partidos vão comandar 26 estados e o DF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas: as melhores laterais-esquerdas"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Prazo para empresas escolherem modelo do Simples acaba nesta sexta"
     },
     {
@@ -10,10 +62,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Em São Paulo, três municípios escolhem novos prefeitos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PM registra 7 ocorrências e 6 detidos até o meio-dia de domingo em SP"
     },
     {
         fonte: "Agência Brasil",
@@ -30,53 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fies 2: inscrições gratuitas para vagas remanescentes estão abertas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Plebiscito: eleitores de 6 cidades decidem transferência de distritos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE nega acusação de Flávio sobre expulsão de fiscais de sala-cofre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores de sete cidades escolheram seus prefeitos neste 2º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF investiga se problemas na circulação de ônibus prejudicaram eleitor"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em festa da vitória, Lula pede que público cante Hino da Independência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula agradece votos e diz que teve de vencer intromissão vinda de fora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flávio não reconhece vitória de Lula e tentará anulação do pleito"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "“Vamos mudar o jeito de governar este país”, diz Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Motta e Alcolumbre, líderes do Congresso Nacional, parabenizam Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin diz que vontade dos eleitores deve ser respeitada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nas redes sociais, líderes latino-americanos saúdam Lula pela vitória"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nunes Maques diz que decisão de Zanin dificultou processo eleitoral"
     }
 ];
