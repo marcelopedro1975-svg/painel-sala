@@ -1,19 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula agradece votos e diz que teve de vencer intromissão vinda de fora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flávio não reconhece vitória de Lula e tentará anulação do pleito"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "“Vamos mudar o jeito de governar este país”, diz Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Motta e Alcolumbre, líderes do Congresso Nacional, parabenizam Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin diz que vontade dos eleitores deve ser respeitada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nas redes sociais, líderes latino-americanos saúdam Lula pela vitória"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidente do TSE liga para Lula para parabenizar reeleição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nunes Maques diz que decisão de Zanin dificultou processo eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Imprensa internacional destaca vitória histórica de Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prorrogação da votação teve baixa procura e frustração de eleitores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio Grande do Norte elege Cadu de Lula governador do estado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula é reeleito presidente do Brasil em virada histórica"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lorenzo Pazolini vence o segundo turno e vai governar o Espírito Santo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arroio do Sal (RS) e Santana do Itararé (PR) definem novos prefeitos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Omar Aziz é eleito governador do Amazonas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mailza Assis é reeleita governadora do Acre"
     },
     {
         fonte: "Agência Brasil",
@@ -21,27 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Vicentinho Júnior é eleito governador do estado do Tocantins"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Celina Leão é reeleita governadora do Distrito Federal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OEA acompanha denúncias de falta de ônibus no dia da eleição"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Centrais sindicais criticam falta de ônibus no dia da eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF vai apurar ataque a vereadora de Montes Claros, diz diretor-geral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores relatam urnas fechadas e falta de transporte em Salvador"
     },
     {
         fonte: "Agência Brasil",
@@ -57,26 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pais levam filhos a seções eleitorais para ensinar democracia"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "TRE-RJ diz que seções eleitorais ficarão abertas até as 19h"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Horário de votação ampliado será apenas onde urnas não foram fechadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministros do TSE se reúnem a portas fechadas após decisão de Zanin"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin manda ampliar horário de votação até as 19h em todo o país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nunes Marques dá meia hora para TRE-BA responder sobre transporte"
     }
 ];
