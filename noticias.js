@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Força Nacional reforçará segurança na fronteira com a Colômbia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em festa da vitória, Lula pede que público cante Hino da Independência"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula agradece votos e diz que teve de vencer intromissão vinda de fora"
     },
     {
@@ -49,10 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lorenzo Pazolini vence o segundo turno e vai governar o Espírito Santo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Em SP, 80% das urnas estavam encerradas quando votação foi prorrogada"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TRE-RJ diz que seções eleitorais ficarão abertas até as 19h"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Horário de votação ampliado será apenas onde urnas não foram fechadas"
     }
 ];
