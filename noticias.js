@@ -1,7 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Força Nacional reforçará segurança na fronteira com a Colômbia"
+        titulo: "Prazo para empresas escolherem modelo do Simples acaba nesta sexta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Segundo turno das eleições registra menor abstenção em 20 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em São Paulo, três municípios escolhem novos prefeitos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PM registra 7 ocorrências e 6 detidos até o meio-dia de domingo em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula cresce em número de votos em todos os estados; Flávio recua em 6"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vitória de Lula repercute na imprensa europeia e asiática"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Votação de Lula é a maior já recebida por um presidenciável no país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fies 2: inscrições gratuitas para vagas remanescentes estão abertas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Plebiscito: eleitores de 6 cidades decidem transferência de distritos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE nega acusação de Flávio sobre expulsão de fiscais de sala-cofre"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitores de sete cidades escolheram seus prefeitos neste 2º turno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF investiga se problemas na circulação de ônibus prejudicaram eleitor"
     },
     {
         fonte: "Agência Brasil",
@@ -33,50 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidente do TSE liga para Lula para parabenizar reeleição"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Nunes Maques diz que decisão de Zanin dificultou processo eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Imprensa internacional destaca vitória histórica de Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prorrogação da votação teve baixa procura e frustração de eleitores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio Grande do Norte elege Cadu de Lula governador do estado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula é reeleito presidente do Brasil em virada histórica"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em SP, 80% das urnas estavam encerradas quando votação foi prorrogada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Centrais sindicais criticam falta de ônibus no dia da eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Advogado vê sabotagem à democracia em falta de transporte de eleitores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE retoma contagem de votos em todo o país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-SP diz que determinação de Zanin está sendo cumprida no estado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TRE-RJ diz que seções eleitorais ficarão abertas até as 19h"
     }
 ];
