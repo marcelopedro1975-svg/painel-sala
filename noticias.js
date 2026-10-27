@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena não tem ganhador; prêmio acumula para R$ 305 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PL, partido de Flávio, reconhece vitória de Lula nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Harry Kane e Alexia Putellas vencem prêmio Bola de Ouro de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNBB parabeniza Lula e pede atenção aos mais pobres"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Trump questiona eleição brasileira e Alckmin rebate: “equivocado”"
     },
     {
@@ -22,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Líderes estrangeiros reconhecem vitória e parabenizam Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dia do Servidor Público: ponto facultativo será na sexta-feira"
     },
     {
         fonte: "Agência Brasil",
@@ -65,18 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lula cresce em número de votos em todos os estados; Flávio recua em 6"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Vitória de Lula repercute na imprensa europeia e asiática"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Votação de Lula é a maior já recebida por um presidenciável no país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fies 2: inscrições gratuitas para vagas remanescentes estão abertas"
     }
 ];
