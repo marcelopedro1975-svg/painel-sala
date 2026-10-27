@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Gol nos acréscimos assegura Flamengo na liderança do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena não tem ganhador; prêmio acumula para R$ 305 milhões"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Em São Paulo, três municípios escolhem novos prefeitos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vitória de Lula repercute na imprensa europeia e asiática"
     }
 ];
