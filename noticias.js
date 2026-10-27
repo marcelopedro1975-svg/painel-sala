@@ -1,7 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas revela meio-campistas finalistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Número de superendividados no Brasil cresceu 75% em cinco anos, diz BC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Assédio eleitoral aos trabalhadores é crime; veja como denunciar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Investigações contra Flávio continuam no STF mesmo após fuga"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE contabiliza 34,3 mil votos após as 17h no 2º turno das eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula se solidariza com Juca Kfouri pela morte da filha, Camila Kfouri"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aliado de Trump diz que Flávio Bolsonaro chegou aos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Israelenses vão às urnas em eleição que pode tirar Netanyahu do poder"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anistia Internacional denunciará Milei à ONU por ataque a jornalistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça italiana adia julgamento sobre extradição de Zambelli"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inep divulga local de provas do Enem 2026; saiba como conferir"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPT registra quase 2 mil denúncias de assédio eleitoral no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Câncer de mama: mulheres negras morrem 3,8 vezes mais que brancas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zumbi, Finados e Proclamação: confira feriados nacionais de novembro"
     },
     {
         fonte: "Agência Brasil",
@@ -17,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Polícia investiga morte de engenheiro agredido em Santos"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Para conter oscilações, Tesouro anuncia nova recompra de títulos"
     },
     {
@@ -30,53 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Deputado do Rio volta a ser alvo da PF por suspeita de fraudes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo vai enviar MP do Imposto Seletivo e renova subvenção ao diesel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino manda PF apurar interferência externa no processo eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Banco Central diz que estabilidade financeira não está em risco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Concentração de gases do efeito estufa atingem níveis recordes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF investiga desvio de dinheiro em empresa de previdência de São Roque"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gol nos acréscimos assegura Flamengo na liderança do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena não tem ganhador; prêmio acumula para R$ 305 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PL, partido de Flávio, reconhece vitória de Lula nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Harry Kane e Alexia Putellas vencem prêmio Bola de Ouro de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNBB parabeniza Lula e pede atenção aos mais pobres"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trump questiona eleição brasileira e Alckmin rebate: “equivocado”"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula"
     }
 ];
