@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula novamente e prêmio vai a R$ 320 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula e eleitores idosos se emocionam em “festa de aniversário”"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Aliado de Trump diz que Flávio Bolsonaro chegou aos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Israelenses vão às urnas em eleição que pode tirar Netanyahu do poder"
     }
 ];
