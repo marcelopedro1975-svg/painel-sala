@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula e eleitores idosos se emocionam em “festa de aniversário”"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Coordenador de campanha se diz surpreso com fuga de Flávio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Indígenas relatam violência após resultado das eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MPSP passa a usar SmartSampa para combate ao crime organizado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo alerta sobre notícias falsas relacionadas a programas sociais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EBC tem quatro jornalistas entre os finalistas do prêmio +Admirados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após vitória nas urnas, Lula vai retomar viagens internacionais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "“Ato vergonhoso”, diz Lula sobre fuga de Flávio Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin arquiva três investigações do inquérito das Fake News"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministro pede prisão de PM que atropelou motociclista em SC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Imprensa internacional repercute fuga de Flávio Bolsonaro do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça proíbe deputada de incentivar demissão de opositores"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Prêmio TV Brasil Petrobras Para Elas revela meio-campistas finalistas"
     },
     {
@@ -9,7 +61,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Assédio eleitoral aos trabalhadores é crime; veja como denunciar"
+        titulo: "Assédio eleitoral: saiba como denunciar crime mesmo após eleições"
     },
     {
         fonte: "Agência Brasil",
@@ -21,62 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lula se solidariza com Juca Kfouri pela morte da filha, Camila Kfouri"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Aliado de Trump diz que Flávio Bolsonaro chegou aos EUA"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Israelenses vão às urnas em eleição que pode tirar Netanyahu do poder"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anistia Internacional denunciará Milei à ONU por ataque a jornalistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça italiana adia julgamento sobre extradição de Zambelli"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inep divulga local de provas do Enem 2026; saiba como conferir"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPT registra quase 2 mil denúncias de assédio eleitoral no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câncer de mama: mulheres negras morrem 3,8 vezes mais que brancas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zumbi, Finados e Proclamação: confira feriados nacionais de novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo buscará cumprir meta fiscal com diálogo, diz Durigan"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia Federal cancela passaportes de Flávio Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo prorroga por um mês subvenção de R$ 2,12 ao diesel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Para conter oscilações, Tesouro anuncia nova recompra de títulos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MPSP instaura inquérito para investigar vereador Lucas Pavanato"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Deputado do Rio volta a ser alvo da PF por suspeita de fraudes"
     }
 ];
