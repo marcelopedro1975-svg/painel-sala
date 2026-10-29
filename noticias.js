@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Aposta do Mato Grosso leva prêmio de mais de R$ 324 milhões da Mega"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão: Palmeiras fica no zero com o Santos e Flamengo agradece"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Morre Irene Santos, fotógrafa e pesquisadora da memória negra"
     },
     {
@@ -30,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Governo estuda restringir crédito a empresas por assédio eleitoral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Afiliada da TV Brasil estreia retransmissora em Ceres-GO"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "ONU aprova resolução contra embargo dos EUA a Cuba"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF indicia Vorcaro e mais 14 investigados no caso Master"
     }
 ];
