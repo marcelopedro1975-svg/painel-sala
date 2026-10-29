@@ -1,27 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Christine Lagarde renuncia à presidência do Banco Central Europeu"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Semana termina com previsão de chuva em grande parte do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Israel: sem vencedor declarado, partidos discutem coligações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil diminui em 43% área de vegetação nativa fragmentada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Marisa Monte fará show beneficente para Instituto da Providência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Espanha: equipes fazem buscas na esperança de encontrar sobreviventes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF cumpre no Rio novos mandados da Operação Unha e Carne"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economistas criticam usar corte de gastos para conter dívida pública"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Final brasileira garante 15º título do país na Libertadores Feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Remo volta a vencer após 12 jogos e complica Botafogo no Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Aposta do Mato Grosso leva prêmio de mais de R$ 324 milhões da Mega"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Brasileirão: Palmeiras fica no zero com o Santos e Flamengo agradece"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Morre Irene Santos, fotógrafa e pesquisadora da memória negra"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mães da Penha cobram justiça por mortes na Operação Contenção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio Uruguai está em elevação e atinge cota de alerta em Uruguaiana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Santos: Polícia apreende dois menores suspeitos da morte de engenheiro"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Corinthians é o 1º classificado à final da Libertadores Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trump diz que não vai se \"envolver\", após carta de Flávio Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil bate Polônia nos pênaltis e avança no Mundial Sub-17 Feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em carta golpista, Flávio agradece Milei e Trump por apoio para fuga"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça bloqueia R$ 327 mi do CV por venda ilegal de gás de cozinha"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo reforçará investigações de violência política no segundo turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ONU aprova resolução contra embargo dos EUA a Cuba"
     }
 ];
