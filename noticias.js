@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Christine Lagarde renuncia à presidência do Banco Central Europeu"
+        titulo: "MPT vai à Justiça para que Meta apague postagens de assédio eleitoral"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Semana termina com previsão de chuva em grande parte do país"
+        titulo: "Ancelotti convoca seleção para amistosos contra Japão e Singapura"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Israel: sem vencedor declarado, partidos discutem coligações"
+        titulo: "Dívida pública fica em 82,9% do PIB, e déficit soma R$ 5,5 bilhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil diminui em 43% área de vegetação nativa fragmentada"
+        titulo: "Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Marisa Monte fará show beneficente para Instituto da Providência"
+        titulo: "Unesco reconhece três lugares de memória da escravidão no Brasil"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Espanha: equipes fazem buscas na esperança de encontrar sobreviventes"
+        titulo: "Indígenas de MS denunciam casos de violência e ameaças após eleição"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PF cumpre no Rio novos mandados da Operação Unha e Carne"
+        titulo: "Brasil tem cinco regiões de recifes de corais costeiros sob ameaça"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Economistas criticam usar corte de gastos para conter dívida pública"
+        titulo: "Fachin arquiva mais cinco investigações do Inquérito das Fake News"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Final brasileira garante 15º título do país na Libertadores Feminina"
+        titulo: "Na 17ª edição, Festival de Cinema Francês forma olhares no Brasil"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Remo volta a vencer após 12 jogos e complica Botafogo no Brasileirão"
+        titulo: "Sob pressão de Trump, Cuba comemora aprovação na ONU contra bloqueio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Aposta do Mato Grosso leva prêmio de mais de R$ 324 milhões da Mega"
+        titulo: "Consumo nos lares acumula alta de 2,70% até setembro, diz Abras"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasileirão: Palmeiras fica no zero com o Santos e Flamengo agradece"
+        titulo: "Condenado por lesão corporal contra mulher fica inelegível, decide TSE"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Coordenador de campanha do PL admite não ter prova de fraude eleitoral"
+        titulo: "Fuga e carta golpista ampliam isolamento de Flávio Bolsonaro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas: as melhores atacantes do país"
+        titulo: "Governo alerta que cadastramento para o Pix MEI ainda não começou"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidente do TSE diz que eleições ocorreram dentro da normalidade"
+        titulo: "Denúncias de assédio eleitoral no trabalho disparam 75% após 2º turno"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo estuda restringir crédito a empresas por assédio eleitoral"
+        titulo: "Câmara Municipal de SP discute impeachment do prefeito Ricardo Nunes"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MEC Idiomas inclui curso gratuito de coreano, com aulas e exercícios"
+        titulo: "Escolas públicas têm até sábado para regularizar pendências com FNDE"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "União libera R$ 950 milhões para instalar Comitê do IBS"
+        titulo: "Governo autoriza contrato de R$ 30 bi para motoristas de aplicativos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ibovespa cai 2,68%, e dólar fecha em leve baixa a R$ 5,34"
+        titulo: "Perdão das dívidas de MEIs é medida fiscal “necessária”, diz ministro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Corinthians é o 1º classificado à final da Libertadores Feminina"
+        titulo: "Contas do governo têm superávit de R$ 4,8 bilhões em setembro"
     }
 ];
