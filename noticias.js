@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Defesa diz que 657 arquivos do celular de Vorcaro foram modificados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras anuncia 3ª descoberta de petróleo em poço na Foz do Amazonas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas vai reconhecer melhor gestão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN amplia em R$ 2 bi limite de crédito a estados e municípios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EBC conquista mais R$ 23 milhões para investimento na TV 3.0 no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Republicação de conteúdos após período de defeso eleitoral é concluída"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vorcaro diz que não fez nada errado e pede voto de confiança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporada de cruzeiros começa na sexta com projeção de mais empregos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Operação Contenção: DPRJ pede R$ 50 milhões em reparação a moradores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dívida Pública sobe 0,97% em setembro e encosta em R$ 9,4 trilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha orienta trabalhadores sobre denúncias de assédio eleitoral"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "MPT vai à Justiça para que Meta apague postagens de assédio eleitoral"
     },
     {
@@ -17,23 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Unesco reconhece três lugares de memória da escravidão no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Indígenas de MS denunciam casos de violência e ameaças após eleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil tem cinco regiões de recifes de corais costeiros sob ameaça"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fachin arquiva mais cinco investigações do Inquérito das Fake News"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Na 17ª edição, Festival de Cinema Francês forma olhares no Brasil"
     },
     {
         fonte: "Agência Brasil",
@@ -42,41 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Consumo nos lares acumula alta de 2,70% até setembro, diz Abras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Condenado por lesão corporal contra mulher fica inelegível, decide TSE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fuga e carta golpista ampliam isolamento de Flávio Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo alerta que cadastramento para o Pix MEI ainda não começou"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Denúncias de assédio eleitoral no trabalho disparam 75% após 2º turno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara Municipal de SP discute impeachment do prefeito Ricardo Nunes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escolas públicas têm até sábado para regularizar pendências com FNDE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo autoriza contrato de R$ 30 bi para motoristas de aplicativos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Perdão das dívidas de MEIs é medida fiscal “necessária”, diz ministro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Contas do governo têm superávit de R$ 4,8 bilhões em setembro"
     }
 ];
