@@ -1,23 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Família denuncia agressão a Marielle em grupo de WhatsApp da PUC-Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Terceira edição do CNU pode ter até 3 mil vagas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aneel mantém bandeira tarifária verde em novembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça manda Meta excluir posts sobre demissão por voto político"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caseiro explorado e usado como laranja no DF receberá pensão mensal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SUS detecta quase 10 mil testes positivos para HPV de alto risco"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesca na foz do Rio Doce volta a ser liberada depois de dez anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Países consideram insuficientes ações contra crise da biodiversidade"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Aneel prevê três leilões de transmissão de energia em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Funai aciona PF e pede apuração de casos de ataques contra indígenas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia de SP investiga venda de dados de mortos a funerárias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Finados: 2 milhões de passageiros devem passar por aeroportos do país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo alerta para golpe envolvendo o Auxílio Reconstrução"
     },
     {
         fonte: "Agência Brasil",
@@ -29,15 +49,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Motorista infarta e engavetamento de 20 veículos deixa feridos no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Oposição em Israel depende dos árabes para tirar Netanyahu do poder"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prazo para inscrever projetos na Lei Rouanet termina neste sábado"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prêmio TV Brasil Petrobras Para Elas destaca gol mais bonito de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acaba nesta sexta prazo para empresas escolherem modelo do Simples"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inscrições para o Programa Futuras Cientistas vão até 6 novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Risco de invasão de Cuba pelos EUA é real, avalia embaixador"
     }
 ];
