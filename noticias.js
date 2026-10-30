@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena não tem ganhador e prêmio sobe para R$ 6 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin devolve relatoria do caso do INSS a Mendonça e mantém Master"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Defesa diz que 657 arquivos do celular de Vorcaro foram modificados"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fachin arquiva mais cinco investigações do Inquérito das Fake News"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sob pressão de Trump, Cuba comemora aprovação na ONU contra bloqueio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Consumo nos lares acumula alta de 2,70% até setembro, diz Abras"
     }
 ];
