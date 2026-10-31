@@ -1,23 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil avança às quartas da AmeriCup no basquete masculino 3x3"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Protestos da Geração Z chegam à Alemanha; milhares se manifestam"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aluno é ameaçado de morte no DF por opção política"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Corinthians encerra jejum com vitória sobre o Mirassol: 2 a 0"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudo mostra necessidade de proteger soja para evitar perdas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Incêndio na APA Alter do Chão (PA) foi controlado, diz prefeitura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF determina soltura de desembargador preso na Operação Unha e Carne"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estudantes relatam violência relacionada à eleição presidencial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ação Popular pede suspensão de salário do senador Flávio Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP e Ferroviária empatam no 1º jogo da semifinal do Paulista F Sub-20"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Economistas propõem taxar ricos em vez de cortar gastos sociais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sistema Cantareira continuará a operar na faixa de atenção em novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inscrições para Prêmio Desenvolvimento em Jogo terminam neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Vieira encontra Rubio nos EUA após vitória de Lula e fuga de Flávio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inmet alerta para chuvas no Norte, Sudeste e Centro-Oeste"
     },
     {
         fonte: "Agência Brasil",
@@ -37,14 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cena Musical, da TV Brasil exibe show exclusivo do sambista Caxtrinho"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"Luto é permanente\", diz viúva 30 anos após acidente com Fokker da TAM"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Justiça manda Meta excluir posts sobre demissão por voto político"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caseiro explorado e usado como laranja no DF receberá pensão mensal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS detecta quase 10 mil testes positivos para HPV de alto risco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aneel prevê três leilões de transmissão de energia em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com muita disputa, Aneel leiloou oito lotes de transmissão de energia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil abre mercado em Bangladesh e Colômbia para pecuária"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Oposição em Israel depende dos árabes para tirar Netanyahu do poder"
     }
 ];
