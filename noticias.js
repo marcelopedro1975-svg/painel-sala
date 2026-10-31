@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "\"Luto é permanente\", diz viúva 30 anos após acidente com Fokker da TAM"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ato de estudantes da UFF deu pontapé em mobilização por virada de Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas destaca gol mais bonito de 2026"
     }
 ];
