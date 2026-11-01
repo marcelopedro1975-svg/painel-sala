@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula garante que programas sociais serão mantidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Palmeiras sai na frente do Vasco na semifinal da Copa do Brasil: 1 a 0"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil vira sobre a China e alcança semi da Copa do Mundo Sub-17"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fux atende AGU e inclui ministérios e Abras em debate sobre bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Denúncias de violência política quadriplicam em outubro no Disque 100"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Petrobras reajusta combustível de aviação em R$ 0,45 por litro"
     },
     {
@@ -33,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Recebimento de vales-alimentação e refeição mudam a partir do dia 7"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Surf: Luana Silva vence, Ítalo Ferreira e Miguel Pupo caem em Cloud 9"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Com virada, Corinthians bate Palmeiras na semi do Paulista F Sub-20"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Coritiba derrota Vitória e volta a vencer depois de sete jogos: 2 a 0"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil avança às quartas da AmeriCup no basquete masculino 3x3"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Protestos da Geração Z chegam à Alemanha; milhares se manifestam"
     }
 ];
