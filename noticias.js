@@ -1,23 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "MEC reúne denúncias de violência política em locais de ensino"
+        titulo: "Petrobras reajusta combustível de aviação em R$ 0,45 por litro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil contribui para avanços das ações de proteção da biodiversidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula; prêmio para sorteio de quarta vai a R$ 46 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Falta uma semana para o Enem 2026; veja horários e o que levar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleição nos Estados Unidos define futuro de Trump nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Indumentária de Mãe Bernadete é doada ao Museu Nacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Luisa Stefani e Gabriela Dabrowski levam vice no WTA 500 de Tóquio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Recebimento de vales-alimentação e refeição mudam a partir do dia 7"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Surf: Luana Silva vence, Ítalo Ferreira e Miguel Pupo caem em Cloud 9"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com reação incrível, Cruzeiro bate Corinthians e leva Libertadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC encaminha à PF denúncias de violência política"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Prêmio para mulheres cientistas tem inscrição prorrogada até novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novembro começa com chuvas no Norte, Centro-Oeste e Sudeste"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "As Aventuras de Tita estreia na programação infantil da TV Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Menino cego que abraçou Lula sonha em ser presidente e tem propostas"
     },
     {
         fonte: "Agência Brasil",
@@ -26,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Câncer de próstata matou 50 homens por dia no país em 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Hoje é Dia: datas, fatos e feriados de novembro de 2026"
     },
     {
         fonte: "Agência Brasil",
@@ -45,38 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Brasil avança às quartas da AmeriCup no basquete masculino 3x3"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Protestos da Geração Z chegam à Alemanha; milhares se manifestam"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aluno é ameaçado de morte no DF por opção política"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Corinthians encerra jejum com vitória sobre o Mirassol: 2 a 0"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudo mostra necessidade de proteger soja para evitar perdas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF determina soltura de desembargador preso na Operação Unha e Carne"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudantes relatam violência relacionada à eleição presidencial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ação Popular pede suspensão de salário do senador Flávio Bolsonaro"
     }
 ];
