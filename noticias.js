@@ -1,7 +1,39 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Com viradas, Corinthians bate Palmeiras na semi do Paulista F Sub-20"
+        titulo: "MEC reúne denúncias de violência política em locais de ensino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio para mulheres cientistas tem inscrição prorrogada até novembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novembro começa com chuvas no Norte, Centro-Oeste e Sudeste"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "As Aventuras de Tita estreia na programação infantil da TV Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Menino cego que abraçou Lula sonha em ser presidente e tem propostas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Campanha alerta para doença em diabéticos que pode causar cegueira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câncer de próstata matou 50 homens por dia no país em 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Hoje é Dia: datas, fatos e feriados de novembro de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com virada, Corinthians bate Palmeiras na semi do Paulista F Sub-20"
     },
     {
         fonte: "Agência Brasil",
@@ -37,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Incêndio na APA Alter do Chão (PA) foi controlado, diz prefeitura"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "STF determina soltura de desembargador preso na Operação Unha e Carne"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ação Popular pede suspensão de salário do senador Flávio Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP e Ferroviária empatam no 1º jogo da semifinal do Paulista F Sub-20"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Economistas propõem taxar ricos em vez de cortar gastos sociais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vieira encontra Rubio nos EUA após vitória de Lula e fuga de Flávio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Programa oferece cursos gratuitos sobre IA para professores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alcolumbre marca votação da PEC da Segurança Pública para terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça intima Jairinho a justificar apelação por morte de Henry Borel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acordo Mercosul-UE eleva exportações brasileiras em 21%"
     }
 ];
