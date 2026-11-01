@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Com viradas, Corinthians bate Palmeiras na semi do Paulista F Sub-20"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Coritiba derrota Vitória e volta a vencer depois de sete jogos: 2 a 0"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Acordo Mercosul-UE eleva exportações brasileiras em 21%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aneel mantém bandeira tarifária verde em novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça manda Meta excluir posts sobre demissão por voto político"
     }
 ];
