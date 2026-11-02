@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Eleitores dos EUA demonstram pessimismo em relação à economia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lembranças e saudades marcam Dia de Finados em Brasília"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "REC'n'Play 2026 será palco de tecnologia e criatividade em Recife"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inscrições para vagas remanescentes do Fies terminam na terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuva e calor ganham força no centro-sul do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Turismo de observação contribui para preservar baleias-jubarte"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporada das baleias-jubarte termina com menos filhotes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em 30 anos população de baleias-jubarte passou de 1,5 mil para 35 mil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Finados: lei amplia olhar e sensibilidade para vontades antes da morte"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Unesco: 189 jornalistas foram mortos no mundo em 2024 e 2025"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula garante que programas sociais serão mantidos"
     },
     {
@@ -25,15 +65,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil contribui para avanços das ações de proteção da biodiversidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula; prêmio para sorteio de quarta vai a R$ 46 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Falta uma semana para o Enem 2026; veja horários e o que levar"
+        titulo: "Falta uma semana para o Enem 2026: veja horários e o que levar"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Surf: Luana Silva vence, Ítalo Ferreira e Miguel Pupo caem em Cloud 9"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com reação incrível, Cruzeiro bate Corinthians e leva Libertadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC encaminha à PF denúncias de violência política"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio para mulheres cientistas tem inscrição prorrogada até novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha alerta para doença em diabéticos que pode causar cegueira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câncer de próstata matou 50 homens por dia no país em 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com virada, Corinthians bate Palmeiras na semi do Paulista F Sub-20"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Coritiba derrota Vitória e volta a vencer depois de sete jogos: 2 a 0"
     }
 ];
