@@ -1,43 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Vitória anuncia demissão do técnico Jair Ventura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "A menos de uma semana para o Enem 2026, MEC dá dicas aos participantes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Desembargador assume governo de MS após licença de governador e vice"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia investiga acidente com asa-delta que deixou dois mortos no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Impa Tech abre inscrições para graduação em matemática nesta terça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "ONU ressalta importância de proteger jornalistas e acesso à informação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Novas regras de atendimento ao consumidor começam a valer hoje"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Duas pessoas morrem em queda de asa-delta em São Conrado, no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Economista de Plano Real acusa BC de causar rombo fiscal via juros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas destaca ações contra feminicídio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "No Rio, familiares soltam balões em homenagem ao Dia de Finados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Eleitores dos EUA demonstram pessimismo em relação à economia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lembranças e saudades marcam Dia de Finados em Brasília"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "REC'n'Play 2026 será palco de tecnologia e criatividade em Recife"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Inscrições para vagas remanescentes do Fies terminam na terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuva e calor ganham força no centro-sul do Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Turismo de observação contribui para preservar baleias-jubarte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Temporada das baleias-jubarte termina com menos filhotes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em 30 anos população de baleias-jubarte passou de 1,5 mil para 35 mil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Finados: lei amplia olhar e sensibilidade para vontades antes da morte"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Unesco: 189 jornalistas foram mortos no mundo em 2024 e 2025"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Falta uma semana para o Enem 2026: veja horários e o que levar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleição nos Estados Unidos define futuro de Trump nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Luisa Stefani e Gabriela Dabrowski levam vice no WTA 500 de Tóquio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade"
     }
 ];
