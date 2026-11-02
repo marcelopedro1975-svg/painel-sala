@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Indumentária de Mãe Bernadete é doada ao Museu Nacional"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Luisa Stefani e Gabriela Dabrowski levam vice no WTA 500 de Tóquio"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Com virada, Corinthians bate Palmeiras na semi do Paulista F Sub-20"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Coritiba derrota Vitória e volta a vencer depois de sete jogos: 2 a 0"
     }
 ];
