@@ -1,7 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Com gols no primeiro tempo, Massa Bruta faz 2 a 1 e iguala os 47 ponto"
+        titulo: "Fux rebate críticas e diz ter percepção de que bets devem ser banidas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Site e aplicativo do Banco do Brasil apresentam instabilidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo quer enviar MP do Imposto Seletivo ainda hoje ao Congresso"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mercado eleva projeção para inflação, juros e dólar em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Terremoto de magnitude 5,6 atinge a Colômbia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa interdita parte de terminal no Porto de Santos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Força Nacional apoiará Funai na Terra Indígena Ituna-Itatá, no Pará"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Semana de Educação Midiática terá atividades em todas as regiões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fies 2: inscrições para vagas remanescentes terminam nesta terça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bragantino faz 2 a 1 no Santos e assume oitavo lugar"
     },
     {
         fonte: "Agência Brasil",
@@ -17,23 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Polícia investiga acidente com asa-delta que deixou dois mortos no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Impa Tech abre inscrições para graduação em matemática nesta terça"
     },
     {
         fonte: "Agência Brasil",
         titulo: "ONU ressalta importância de proteger jornalistas e acesso à informação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novas regras de atendimento ao consumidor começam a valer hoje"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Duas pessoas morrem em queda de asa-delta em São Conrado, no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula garante que programas sociais serão mantidos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Palmeiras sai na frente do Vasco na semifinal da Copa do Brasil: 1 a 0"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil vira sobre a China e alcança semi da Copa do Mundo Sub-17"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fux atende AGU e inclui ministérios e Abras em debate sobre bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Denúncias de violência política quadriplicam em outubro no Disque 100"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras reajusta combustível de aviação em R$ 0,45 por litro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Falta uma semana para o Enem 2026: veja horários e o que levar"
     }
 ];
