@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Com gols no primeiro tempo, Massa Bruta faz 2 a 1 e iguala os 47 ponto"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Vitória anuncia demissão do técnico Jair Ventura"
     },
     {
@@ -38,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prêmio TV Brasil Petrobras Para Elas destaca ações contra feminicídio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "No Rio, familiares soltam balões em homenagem ao Dia de Finados"
     },
     {
         fonte: "Agência Brasil",
