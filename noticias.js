@@ -1,15 +1,71 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Unicef: nenhum país do G20 tem maioridade penal abaixo dos 18 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Derrota de Trump pode frear política de intervenções na América Latina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: MEC garante segurança da prova e mantém regras da redação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Guerra, economia, IA e casos de corrupção derrotam Trump nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lei Rouanet tem recorde de 25,6 mil projetos e de R$ 1,67 bi captados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova primeiro medicamento de GLP-1 oral para obesidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Urbanização em favelas quase triplicou e vegetação diminuiu em 40 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Painel permite analisar mudanças climáticas no Brasil e América Latina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Racismo e desigualdades afetam aprendizagem das crianças, diz estudo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Exames do presidente Lula estão dentro da normalidade, diz boletim"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: confira dicas para cuidar do corpo e da mente na reta final"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Democratas conquistam Congresso em esmagadora rejeição a Trump"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Refinaria de Manguinhos será avaliada para aproveitamento da estrutura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entenda a diferença entre o voto proporcional e o voto distrital misto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio Nacional transmite Botafogo X Atlético-MG pelo Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Senado aprova PEC da Segurança Pública sem redução da maioridade penal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF inaugura laboratório para combater garimpo ilegal na Amazônia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes"
     },
     {
         fonte: "Agência Brasil",
@@ -17,66 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "El Niño 2026 registra mais um marco histórico de aquecimento"
+        titulo: "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Ministro aponta ligação entre bets e crime organizado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governabilidade de Lula exigirá negociação e acordos além da Esplanada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "AGU defende medida provisória que proibiu bets no país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cedae paralisa Sistema Guandu para se preparar para o verão no RJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Clubes de futebol criticam fim das bets; governo ressalta danos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Padilha defende proibição das bets e cita impacto no SUS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Novembro Roxo alerta para cuidados com prematuros após alta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atacante de 30 anos do Tenerife morre após choque durante partida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega da Virada: Caixa anuncia que prêmio deve superar R$ 1 bilhão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula vai a São Paulo para fazer exames de rotina nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF apura ameaças e ataques racistas contra deputada Talíria Petrone"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Manifestantes ocupam praças em Portugal por direito à moradia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Acessos a site e aplicativo do Banco do Brasil são normalizados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas: Vasco tem a goleadora do ano"
     }
 ];
