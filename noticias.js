@@ -9,11 +9,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Medina vence etapa nas Filipinas e assume vice-liderança da WSL"
+        titulo: "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes"
+        titulo: "Medina vence etapa nas Filipinas e assume vice-liderança da WSL"
     },
     {
         fonte: "Agência Brasil",
