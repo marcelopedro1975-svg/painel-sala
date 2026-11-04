@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Unicef: nenhum país do G20 tem maioridade penal abaixo dos 18 anos"
+        titulo: "Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita apreende 15 toneladas de produtos irregulares no Porto do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Banco Central surpreende e mantém juros básicos em 13,75% ao ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin dá 15 dias para PGR analisar indiciamento de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "OAB-RJ tem mais de 3 mil denúncias sobre golpe do falso advogado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil é dominado pela Nigéria e cai na Copa do Mundo Feminina Sub-17"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC Enem reúne recursos gratuitos para a reta final de preparação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Assédio eleitoral supera 7 mil denúncias, aponta ministério"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nos EUA, Flávio Bolsonaro vota remotamente a favor da PEC da Segurança"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleições nos EUA têm vitórias históricas de minorias sub-representadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo prevê decreto do fim da escala 6x1 para segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Projeto destina recursos à agricultura familiar no semiárido da Bahia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil cria 121,3 mil postos de trabalho em setembro, aponta Caged"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNJ determina registro de morte por intervenção policial"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Progressistas e minorias renovam democratas em vitória sobre Trump"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aquicultura em águas da União bate recorde com 179,6 mil toneladas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas: trio disputa Craque da Torcida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pé-de-Meia Universitário deve começar em 2027 para aluno do CadÚnico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça James Talarico, evangélico que derrotou nome de Trump no Texas"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Derrota de Trump pode frear política de intervenções na América Latina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: MEC garante segurança da prova e mantém regras da redação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Guerra, economia, IA e casos de corrupção derrotam Trump nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lei Rouanet tem recorde de 25,6 mil projetos e de R$ 1,67 bi captados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa aprova primeiro medicamento de GLP-1 oral para obesidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Urbanização em favelas quase triplicou e vegetação diminuiu em 40 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Painel permite analisar mudanças climáticas no Brasil e América Latina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Racismo e desigualdades afetam aprendizagem das crianças, diz estudo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Exames do presidente Lula estão dentro da normalidade, diz boletim"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: confira dicas para cuidar do corpo e da mente na reta final"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Democratas conquistam Congresso em esmagadora rejeição a Trump"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Refinaria de Manguinhos será avaliada para aproveitamento da estrutura"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entenda a diferença entre o voto proporcional e o voto distrital misto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite Botafogo X Atlético-MG pelo Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova PEC da Segurança Pública sem redução da maioridade penal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Medina vence etapa nas Filipinas e assume vice-liderança da WSL"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro aponta ligação entre bets e crime organizado"
     }
 ];
