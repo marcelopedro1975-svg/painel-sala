@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Senado aprova PEC da Segurança Pública sem redução da maioridade penal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF inaugura laboratório para combater garimpo ilegal na Amazônia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Medina vence etapa nas Filipinas e assume vice-liderança da WSL"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "El Niño 2026 registra mais um marco histórico de aquecimento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministro aponta ligação entre bets e crime organizado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governabilidade de Lula exigirá negociação e acordos além da Esplanada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU defende medida provisória que proibiu bets no país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cedae paralisa Sistema Guandu para se preparar para o verão no RJ"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Clubes de futebol criticam fim das bets; governo ressalta danos"
     },
     {
@@ -9,19 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Novembro Negro: 10 comunidades quilombolas recebem títulos fundiários"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Novembro Roxo alerta para cuidados com prematuros após alta"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Atacante de 30 anos do Tenerife morre após choque durante partida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mapas do caminho repercutem positivamente entre ambientalistas"
     },
     {
         fonte: "Agência Brasil",
@@ -37,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Presidência da COP30 lança mapas de transição energética e florestal"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Manifestantes ocupam praças em Portugal por direito à moradia"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prêmio TV Brasil Petrobras Para Elas: Vasco tem a goleadora do ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Eleitoral reabre cadastro e retoma serviços ao eleitor"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fux rebate críticas e diz ter percepção de que bets devem ser banidas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Site e aplicativo do Banco do Brasil apresentam instabilidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo quer enviar MP do Imposto Seletivo ainda hoje ao Congresso"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado eleva projeção para inflação, juros e dólar em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Terremoto de magnitude 5,6 atinge a Colômbia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa interdita parte de terminal no Porto de Santos"
     }
 ];
