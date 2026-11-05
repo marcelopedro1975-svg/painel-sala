@@ -1,7 +1,75 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "PF faz operação no Rio para conter repasses ilegais de arma a CACs"
+        titulo: "Dino marca audiência de conciliação sobre fim da escala 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Imposto do pecado: entenda cobrança sobre cigarros, bebidas e veículos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais de 2,4 milhões de casas precisam renovar desconto na conta de luz"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Derrota de Trump coloca em xeque relação histórica dos EUA com Israel"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Autoridades investigam quatro mortes relacionadas a temporais no Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "FGC alerta para vazamento de dados de investidores e risco de golpes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas indica destaques da temporada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TSE altera entendimento sobre cota de gênero e mantém mandato"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Renováveis ganham espaço, mas fósseis concentram 70% dos subsídios"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "GDF pede transferência de R$ 2,2 bilhões do pai de Vorcaro para BRB"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil no Mundo analisa eleições nos EUA e geopolítica internacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidente do Paraguai renuncia em meio à crise bancária; vice assume"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan diz que é preciso dar condições para a queda dos juros"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IBGE abre seleção para mais de 27 mil recenseadores temporários"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Operação mira rede ilegal de bets que movimentou R$ 734 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministro diz que novos impostos não trazem aumento de carga tributária"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Produção da indústria recua 0,8% em setembro; 4ª queda em cinco meses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo publica MP das alíquotas do Imposto Seletivo para 2027"
     },
     {
         fonte: "Agência Brasil",
@@ -10,73 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Juíza sugere medidas mais duras contra torcidas organizadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival discute uso de inteligência artificial na montagem de filmes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entenda as eleições de meio de mandato do presidente nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Programa Antes que Aconteça premia ações contra violência de gênero"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 55 milhões; confira os números sorteados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SUS e Einstein desenvolvem IA para identificação de doenças de pele"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anatel publica novas regras para prevenir fraudes por meio de SMS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entidades da indústria e do comércio recorrem ao STF contra fim da 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai a R$ 5,45 após eleições nos EUA e antes do Copom"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Orlando Luz e Rafael Matos arrematam vaga histórica no ATP Finals"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Setor produtivo critica manutenção da Selic em 13,75% ao ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sete brasileiros são eleitos para assembleias estaduais nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Banco Central surpreende e mantém juros básicos em 13,75% ao ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin dá 15 dias para PGR analisar indiciamento de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil é dominado pela Nigéria e cai na Copa do Mundo Feminina Sub-17"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC Enem reúne recursos gratuitos para a reta final de preparação"
     }
 ];
