@@ -1,11 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026"
+        titulo: "Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Receita apreende 15 toneladas de produtos irregulares no Porto do Rio"
+        titulo: "SUS e Einstein desenvolvem IA para identificação de doenças de pele"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anatel publica novas regras para prevenir fraudes por meio de SMS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pará registra maior exploração madeireira dos últimos cinco anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades da indústria e do comércio recorrem ao STF contra fim da 6x1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai a R$ 5,45 após eleições nos EUA e antes do Copom"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Orlando Luz e Rafael Matos arrematam vaga histórica no ATP Finals"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Setor produtivo critica manutenção da Selic em 13,75% ao ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sete brasileiros são eleitos para assembleias estaduais nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tornados e temporais atingem Santa Catarina e Rio Grande do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026"
     },
     {
         fonte: "Agência Brasil",
@@ -14,10 +50,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fachin dá 15 dias para PGR analisar indiciamento de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "OAB-RJ tem mais de 3 mil denúncias sobre golpe do falso advogado"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Projeto destina recursos à agricultura familiar no semiárido da Bahia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil cria 121,3 mil postos de trabalho em setembro, aponta Caged"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNJ determina registro de morte por intervenção policial"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Progressistas e minorias renovam democratas em vitória sobre Trump"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aquicultura em águas da União bate recorde com 179,6 mil toneladas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas: trio disputa Craque da Torcida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia Universitário deve começar em 2027 para aluno do CadÚnico"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conheça James Talarico, evangélico que derrotou nome de Trump no Texas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Derrota de Trump pode frear política de intervenções na América Latina"
     }
 ];
