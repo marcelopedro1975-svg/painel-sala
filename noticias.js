@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PF faz operação no Rio para conter repasses ilegais de arma a CACs"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem: cursinhos populares preparam alunos em vulnerabilidade social"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Juíza sugere medidas mais duras contra torcidas organizadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival discute uso de inteligência artificial na montagem de filmes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entenda as eleições de meio de mandato do presidente nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Programa Antes que Aconteça premia ações contra violência de gênero"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 55 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara"
     },
     {
@@ -10,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Anatel publica novas regras para prevenir fraudes por meio de SMS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pará registra maior exploração madeireira dos últimos cinco anos"
     },
     {
         fonte: "Agência Brasil",
@@ -37,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Tornados e temporais atingem Santa Catarina e Rio Grande do Sul"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "MEC Enem reúne recursos gratuitos para a reta final de preparação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Assédio eleitoral supera 7 mil denúncias, aponta ministério"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nos EUA, Flávio Bolsonaro vota remotamente a favor da PEC da Segurança"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleições nos EUA têm vitórias históricas de minorias sub-representadas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo prevê decreto do fim da escala 6x1 para segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projeto destina recursos à agricultura familiar no semiárido da Bahia"
     }
 ];
