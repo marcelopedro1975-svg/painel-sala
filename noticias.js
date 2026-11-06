@@ -9,6 +9,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Polícia de SP e Cruz Vermelha vão atuar para identificar desaparecidos"
     },
     {
@@ -41,7 +45,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lula quer economia arrumada para atrair investimentos"
+        titulo: "Lula quer “economia arrumada” para atrair investimentos"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Prêmio TV Brasil Petrobras Para Elas indica destaques da temporada"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE altera entendimento sobre cota de gênero e mantém mandato"
     }
 ];
