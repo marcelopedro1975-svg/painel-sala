@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar sobe para R$ 5,51, com dados de emprego nos EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula sanciona exame que irá avaliar qualidade de alunos de medicina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ex-funcionários e colaboradores da Oi começam a receber indenizações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem: cidades de Seara e Canoinhas (SC) têm locais de prova alterados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sem posição do Senado, regras sobre Flávio seguem indefinidas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin homologa delação de investigado no caso Master"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Federal rejeita ação de improbidade contra Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Eleitoral terá atendimento remoto em Libras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cursos populares ajudam mulheres a retomar estudos para o Enem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil tem maior juro real do mundo, seguido por Turquia e Argentina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Balança comercial tem maior superávit para outubro desde 1989"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula quer levar Brasil à condição de país desenvolvido em quatro anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "São Paulo confirma 67 casos de mpox em um mês"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Enem: descanso deve ser prioridade nas horas que antecedem a prova"
     },
     {
@@ -26,57 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Aprendizagem de alunos com deficiência avança no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Conceição Evaristo recebe título de doutor honoris causa pela UFRJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mudanças climáticas: 83,6% das áreas turísticas estão vulneráveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "País pode chegar a 860 mil casos prováveis de dengue em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBGE confirma crescimento de 3,4% da economia em 2024"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Médica é denunciada à Justiça após morte de paciente em lipoescultura"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: 90 itens, redação e 5h30 de duração; conheça estrutura da prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mulheres defendem articulação em rede para ampliar participação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin mantém prisão de cunhado de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula vai criar Ministério da Segurança Pública com Medida Provisória"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mendonça concede prisão domiciliar a investigado por descontos no INSS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin pede parecer da PGR sobre pedido de liberdade para Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo define minerais críticos prioritários para investimentos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Skatista Duda Ribeiro é prata na Olimpíada da Juventude, em Dacar"
     }
 ];
