@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mulheres defendem articulação em rede para ampliar participação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin mantém prisão de cunhado de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia de SP e Cruz Vermelha vão atuar para identificar desaparecidos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula vai criar Ministério da Segurança Pública com Medida Provisória"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mendonça concede prisão domiciliar a investigado por descontos no INSS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin pede parecer da PGR sobre pedido de liberdade para Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo define minerais críticos prioritários para investimentos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Skatista Duda Ribeiro é prata na Olimpíada da Juventude, em Dacar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Itamaraty: diplomatas indígenas e quilombolas tomam posse pela 1º vez"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar volta a aproximar-se de R$ 5,49 em dia de instabilidade global"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula quer economia arrumada para atrair investimentos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan discutirá medidas fiscais com Lula após viagem à COP31"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dino marca audiência de conciliação sobre fim da escala 6x1"
     },
     {
@@ -17,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Autoridades investigam quatro mortes relacionadas a temporais no Sul"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "FGC alerta para vazamento de dados de investidores e risco de golpes"
     },
     {
@@ -30,53 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "TSE altera entendimento sobre cota de gênero e mantém mandato"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Renováveis ganham espaço, mas fósseis concentram 70% dos subsídios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "GDF pede transferência de R$ 2,2 bilhões do pai de Vorcaro para BRB"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil no Mundo analisa eleições nos EUA e geopolítica internacional"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do Paraguai renuncia em meio à crise bancária; vice assume"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan diz que é preciso dar condições para a queda dos juros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBGE abre seleção para mais de 27 mil recenseadores temporários"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Operação mira rede ilegal de bets que movimentou R$ 734 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro diz que novos impostos não trazem aumento de carga tributária"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Produção da indústria recua 0,8% em setembro; 4ª queda em cinco meses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo publica MP das alíquotas do Imposto Seletivo para 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: cursinhos populares preparam alunos em vulnerabilidade social"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Juíza sugere medidas mais duras contra torcidas organizadas"
     }
 ];
