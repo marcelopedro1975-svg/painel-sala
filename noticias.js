@@ -1,19 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Enem: descanso deve ser prioridade nas horas que antecedem a prova"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNPE cria grupo para elaborar estratégia nacional de eletromobilidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitores dos EUA derrotam big techs e ações de IA despencam"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça autoriza volta do funcionamento de três bets no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem: EBC terá cobertura especial com live pós-prova na Agência Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo altera regras da perícia para concessão do auxílio-doença"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aprendizagem de alunos com deficiência avança no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conceição Evaristo recebe título de doutor honoris causa pela UFRJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mudanças climáticas: 83,6% das áreas turísticas estão vulneráveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "País pode chegar a 860 mil casos prováveis de dengue em 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IBGE confirma crescimento de 3,4% da economia em 2024"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Médica é denunciada à Justiça após morte de paciente em lipoescultura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem: 90 itens, redação e 5h30 de duração; conheça estrutura da prova"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mulheres defendem articulação em rede para ampliar participação"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Fachin mantém prisão de cunhado de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia de SP e Cruz Vermelha vão atuar para identificar desaparecidos"
     },
     {
         fonte: "Agência Brasil",
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Skatista Duda Ribeiro é prata na Olimpíada da Juventude, em Dacar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Itamaraty: diplomatas indígenas e quilombolas tomam posse pela 1º vez"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar volta a aproximar-se de R$ 5,49 em dia de instabilidade global"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula quer “economia arrumada” para atrair investimentos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan discutirá medidas fiscais com Lula após viagem à COP31"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino marca audiência de conciliação sobre fim da escala 6x1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Imposto do pecado: entenda cobrança sobre cigarros, bebidas e veículos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 2,4 milhões de casas precisam renovar desconto na conta de luz"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Derrota de Trump coloca em xeque relação histórica dos EUA com Israel"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "FGC alerta para vazamento de dados de investidores e risco de golpes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas indica destaques da temporada"
     }
 ];
