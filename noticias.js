@@ -1,11 +1,55 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático"
+        titulo: "Municípios da tríplice fronteira recebem mobilização contra o sarampo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Teto de loja de roupas desaba no Brás, em São Paulo"
+        titulo: "Do linguajar ao salário, estudo aponta racismo na “indústria do som”"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mostra de Cinema Adelia Sampaio homenageará cineastas de duas gerações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Proteção dos Montes Oceânicos avança com consulta pública no Nordeste"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio: Receita apreende entorpecentes em galpão de transportadora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: saiba o que levar no dia da prova"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lutador de jiu-jitsu é preso por tentativa de feminicídio no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: candidatos vivem expectativa sobre o tema da redação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "VR e VA podem ser aceitos em mais maquininhas a partir deste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cartórios fazem mutirão para prevenir golpes na compra de imóveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem: confira as regras da redação e dicas para um texto nota 1.000"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático"
     },
     {
         fonte: "Agência Brasil",
@@ -18,10 +62,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Alunos de escola pública em Goiás contam com aulões para o Enem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula apresentará avanços ambientais na COP31, na Turquia"
     },
     {
         fonte: "Agência Brasil",
@@ -38,45 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem: cidades de Seara e Canoinhas (SC) têm locais de prova alterados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sem posição do Senado, regras sobre Flávio seguem indefinidas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin homologa delação de investigado no caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Federal rejeita ação de improbidade contra Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Eleitoral terá atendimento remoto em Libras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cursos populares ajudam mulheres a retomar estudos para o Enem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil tem maior juro real do mundo, seguido por Turquia e Argentina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Balança comercial tem maior superávit para outubro desde 1989"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula quer levar Brasil à condição de país desenvolvido em quatro anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "São Paulo confirma 67 casos de mpox em um mês"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: descanso deve ser prioridade nas horas que antecedem a prova"
     }
 ];
