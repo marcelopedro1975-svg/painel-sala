@@ -1,6 +1,46 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Anvisa vai certificar insumos farmacêuticos ativos fabricados no país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil sofre goleada e termina em 4º lugar no Mundial Feminino Sub-17"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Covid-19: pelo menos 5 estados registram aumento de casos graves"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem: confira as regras, os horários e os itens proibidos na prova"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bombeiros continuam buscas em prédio que desabou no Brás"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGR pede suspensão de ações contra proibição de bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Professores comentam primeiro dia de provas ao vivo na Resenha do Enem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "\"O Projeto\" denuncia colonialismo e cobra responsabilidade da Europa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mostra une mulheres abolicionistas e luta antirracista contemporânea"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Municípios da tríplice fronteira recebem mobilização contra o sarampo"
     },
     {
@@ -13,19 +53,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Proteção dos Montes Oceânicos avança com consulta pública no Nordeste"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Rio: Receita apreende entorpecentes em galpão de transportadora"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Enem 2026: saiba o que levar no dia da prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lutador de jiu-jitsu é preso por tentativa de feminicídio no Rio"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem: confira as regras da redação e dicas para um texto nota 1.000"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça suspende decisão que liberou o funcionamento de três bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: candidato pode saber local de prova por telefone"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alunos de escola pública em Goiás contam com aulões para o Enem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar sobe para R$ 5,51, com dados de emprego nos EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula sanciona exame que irá avaliar qualidade de alunos de medicina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-funcionários e colaboradores da Oi começam a receber indenizações"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: cidades de Seara e Canoinhas (SC) têm locais de prova alterados"
     }
 ];
