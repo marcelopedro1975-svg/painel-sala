@@ -1,6 +1,30 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Teto de loja de roupas desaba no Brás, em São Paulo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça suspende decisão que liberou o funcionamento de três bets"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem: candidato pode saber local de prova por telefone"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alunos de escola pública em Goiás contam com aulões para o Enem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula apresentará avanços ambientais na COP31, na Turquia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar sobe para R$ 5,51, com dados de emprego nos EUA"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem: descanso deve ser prioridade nas horas que antecedem a prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNPE cria grupo para elaborar estratégia nacional de eletromobilidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores dos EUA derrotam big techs e ações de IA despencam"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça autoriza volta do funcionamento de três bets no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: EBC terá cobertura especial com live pós-prova na Agência Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo altera regras da perícia para concessão do auxílio-doença"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aprendizagem de alunos com deficiência avança no Brasil"
     }
 ];
