@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Professores avaliam tema da redação do Enem como relevante e acessível"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Seleção masculina inicia apresentação para últimos amistosos do ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tema da redação do Enem é “Valorização do SUS como direito universal”"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Portões se abrem e candidatos seguem para fazer o Enem 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aposta de Goiânia leva prêmio da Mega-Sena; veja dezenas sorteadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dez pessoas morrem em acidente em Barra Mansa, no Rio de Janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Enem 2026 estreia apoio emocional e novas regras de acessibilidade"
     },
     {
@@ -33,14 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Frente fria provoca queda de temperatura e risco de tempestades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio de Janeiro registra chuva intensa e rajadas de vento"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Anvisa vai certificar insumos farmacêuticos ativos fabricados no país"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem: confira as regras, os horários e os itens proibidos na prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR pede suspensão de ações contra proibição de bets"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Professores comentam primeiro dia de provas ao vivo na Resenha do Enem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Municípios da tríplice fronteira recebem mobilização contra o sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rio: Receita apreende entorpecentes em galpão de transportadora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: saiba o que levar no dia da prova"
     }
 ];
