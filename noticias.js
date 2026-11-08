@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Grêmio avança à final da Copa do Brasil após empate com Atlético-MG"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Frente fria provoca queda de temperatura e risco de tempestades"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Rio de Janeiro registra chuva intensa e rajadas de vento"
     },
     {
@@ -37,10 +45,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "\"O Projeto\" denuncia colonialismo e cobra responsabilidade da Europa"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Municípios da tríplice fronteira recebem mobilização contra o sarampo"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça suspende decisão que liberou o funcionamento de três bets"
     }
 ];
