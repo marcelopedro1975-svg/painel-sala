@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Enem 2026 estreia apoio emocional e novas regras de acessibilidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eliana Alves Cruz questiona ausência de autoras negras no Jabuti"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Livro resgata a história das pioneiras do futebol feminino no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Falecido deixou dívidas? Saiba quem deve pagar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copa do Brasil: Rádio Nacional transmite Vasco x Palmeiras às 17h"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Notas do Enem são critério de acesso para faculdades públicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: candidatos precisam chegar antes das 13h ao local da prova"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Grêmio avança à final da Copa do Brasil após empate com Atlético-MG"
     },
     {
@@ -33,10 +61,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bombeiros continuam buscas em prédio que desabou no Brás"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "PGR pede suspensão de ações contra proibição de bets"
     },
     {
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem 2026: saiba o que levar no dia da prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: candidatos vivem expectativa sobre o tema da redação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "VR e VA podem ser aceitos em mais maquininhas a partir deste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cartórios fazem mutirão para prevenir golpes na compra de imóveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: confira as regras da redação e dicas para um texto nota 1.000"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático"
     }
 ];
