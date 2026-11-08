@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Rio de Janeiro registra chuva intensa e rajadas de vento"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Anvisa vai certificar insumos farmacêuticos ativos fabricados no país"
     },
     {
@@ -37,19 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mostra une mulheres abolicionistas e luta antirracista contemporânea"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Municípios da tríplice fronteira recebem mobilização contra o sarampo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Do linguajar ao salário, estudo aponta racismo na “indústria do som”"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mostra de Cinema Adelia Sampaio homenageará cineastas de duas gerações"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +70,13 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem: confira as regras da redação e dicas para um texto nota 1.000"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça suspende decisão que liberou o funcionamento de três bets"
     }
 ];
