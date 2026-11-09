@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula se compromete com responsabilidade fiscal e busca conciliação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem registra aumento na participação de alunos da rede pública"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Palmeiras bate Vasco nos pênaltis e vai à final da Copa do Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Movimentações no Senado antecipam disputa pelo comando da Casa em 2027"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Justiça do RJ mantém prisão de lutador que agrediu vizinhas"
     },
     {
@@ -22,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Ministério informa ter adquirido 25 mil doses de vacina contra mpox"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa Civil diz não haver motivo para pânico por kit de emergência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pescador morre após embarcações virarem no interior paulista"
     },
     {
         fonte: "Agência Brasil",
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Enem 2026: candidatos precisam chegar antes das 13h ao local da prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Grêmio avança à final da Copa do Brasil após empate com Atlético-MG"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa vai certificar insumos farmacêuticos ativos fabricados no país"
     }
 ];
