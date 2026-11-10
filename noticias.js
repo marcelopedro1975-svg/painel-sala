@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Gás do Povo: governo prorroga vigência do auxílio até 2031"
+        titulo: "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fux suspende afastamento de juíza da Lava Jato punida pelo CNJ"
+        titulo: "STF: ministro Fachin arquiva inquérito das Fake News"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Anvisa determina recolhimento de emagrecedor Ultra Shape"
+        titulo: "COP31 pode consolidar legado brasileiro na agenda climática"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "ONU diz que 2026 será um dos anos mais quentes já registrados"
+        titulo: "Bolsa sobe 2,22% e registra maior alta diária desde outubro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mercado eleva projeção da Selic para 13,75% em 2026"
+        titulo: "Justiça suspende regra que ampliou aceitação de VR e VA em maquininhas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Planalto que abastece Pantanal perde 6,7 mi de hectares de vegetação"
+        titulo: "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas"
+        titulo: "Enem 2026: saiba quem tem direito à reaplicação do exame"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fux suspende todas as ações judiciais contra proibição de bets no país"
+        titulo: "Caixa apresenta nova identidade visual após quase 30 anos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Criança de 3 anos é morta a tiros dentro de casa no Rio de Janeiro"
+        titulo: "Brasil conquista 4 ouros em olimpíada latino-americana de astronomia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Girl Up Brasil lança almanaque para adolescentes sobre 1ª menstruação"
+        titulo: "Classe C: número de famílias sem dinheiro guardado cai de 61% para 29%"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lula se compromete com responsabilidade fiscal e busca conciliação"
+        titulo: "BC passa a divulgar lista de empresas aptas a operar com criptoativos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Enem registra aumento na participação de alunos da rede pública"
+        titulo: "CLDF vota proposta que libera reeleição de membros da Mesa Diretora"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Palmeiras bate Vasco nos pênaltis e vai à final da Copa do Brasil"
+        titulo: "Prefeitura de SP rompe contrato com ONG de produtora de Dark Horse"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Movimentações no Senado antecipam disputa pelo comando da Casa em 2027"
+        titulo: "Pix bate recorde e supera 319 milhões de transações em um dia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça do RJ mantém prisão de lutador que agrediu vizinhas"
+        titulo: "Meta nega ao TSE distribuição enviesada de conteúdo em campanhas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PF investiga ameaças recebidas pela deputada eleita Ana Elisa"
+        titulo: "Filipinas suspendem importação de carne suína brasileira por 60 dias"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ao vivo: professores comentam prova na live Resenha do Enem, às 19h30"
+        titulo: "Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Veja a opinião dos alunos sobre tema da redação do Enem 2026"
+        titulo: "PGR pede ao Supremo arquivamento do inquérito das fake news"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ministério informa ter adquirido 25 mil doses de vacina contra mpox"
+        titulo: "Enem: publicações da EBC são citadas na prova"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Professores avaliam tema da redação do Enem como relevante e acessível"
+        titulo: "Relator apresenta diretrizes da proposta de voto distrital misto"
     }
 ];
