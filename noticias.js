@@ -1,19 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Polícia investiga homem que gravou vídeo com Fernando Henrique Cardoso"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa registra duas novas canetas emagrecedoras de semaglutida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Entidades da pediatria defendem que bets devem continuar proibidas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalho: 10 ocupações detém um terço de notificações de acidentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil apresenta marco de financiamento para área de saúde na COP31"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa de Vorcaro reforça pedido de soltura no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasília recebe mutirão gratuito de saúde intestinal e nutrição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ata do Copom indica que desaceleração da economia não conteve inflação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Um terço dos jovens de 16 a 29 anos quer chegar à universidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa proíbe saneante e pó descolorante"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Articulação de facções exige resposta coordenada, diz procurador"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gás do Povo libera vale-recarga para 3,1 milhões de famílias"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Judiciário e MPU querem R$ 533 milhões para pagar penduricalhos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "STF: ministro Fachin arquiva inquérito das Fake News"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "COP31 pode consolidar legado brasileiro na agenda climática"
     },
     {
         fonte: "Agência Brasil",
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Caixa apresenta nova identidade visual após quase 30 anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil conquista 4 ouros em olimpíada latino-americana de astronomia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BC passa a divulgar lista de empresas aptas a operar com criptoativos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CLDF vota proposta que libera reeleição de membros da Mesa Diretora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prefeitura de SP rompe contrato com ONG de produtora de Dark Horse"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pix bate recorde e supera 319 milhões de transações em um dia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Meta nega ao TSE distribuição enviesada de conteúdo em campanhas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Filipinas suspendem importação de carne suína brasileira por 60 dias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR pede ao Supremo arquivamento do inquérito das fake news"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: publicações da EBC são citadas na prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Relator apresenta diretrizes da proposta de voto distrital misto"
     }
 ];
