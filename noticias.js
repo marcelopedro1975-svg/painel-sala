@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Novo painel de dados mostra chuva abaixo da média em 70% do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Deputados admitem rever isenções se IVA superar 26,5%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Porto de Santos: sistemas seguem afetados após ataque cibernético"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Falta de saneamento influencia no desempenho de estudantes no Enem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalhador poderá autorizar bancos a consultar extrato do FGTS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Número de jovens privados de liberdade caiu pela metade em dez anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IA pode ajudar a responder desastres naturais, dizem cientistas ao G20"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BC do Paraguai já ressarciu 93% dos clientes do banco Ueno"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil e Espanha firmam acordo para estimular taxação de super-ricos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Arthur Elias convoca seleção feminina para últimos amistosos de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil conclui destinação de R$ 28,3 bilhões em títulos sustentáveis"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dweck defende regulação tecnológica e papel indutor do Estado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino: audiência é sobre aplicação de 5x2 e não para questionar medida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caixa passa a pagar prêmios de loterias via Pix em apostas digitais"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa determina apreensão de suplementos alimentares"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dinheiro esquecido no sistema financeiro ultrapassa R$ 6 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Movimentos sociais denunciam proposta do mercado de corte de gastos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Especialistas alertam para risco de reinfecção da dengue"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça Federal desiste de R$ 209 mi extra para pagar penduricalhos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Polícia investiga homem que gravou vídeo com Fernando Henrique Cardoso"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa registra duas novas canetas emagrecedoras de semaglutida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Entidades da pediatria defendem que bets devem continuar proibidas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trabalho: 10 ocupações detém um terço de notificações de acidentes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil apresenta marco de financiamento para área de saúde na COP31"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa de Vorcaro reforça pedido de soltura no STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasília recebe mutirão gratuito de saúde intestinal e nutrição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ata do Copom indica que desaceleração da economia não conteve inflação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Um terço dos jovens de 16 a 29 anos quer chegar à universidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe saneante e pó descolorante"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Articulação de facções exige resposta coordenada, diz procurador"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gás do Povo libera vale-recarga para 3,1 milhões de famílias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Judiciário e MPU querem R$ 533 milhões para pagar penduricalhos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF: ministro Fachin arquiva inquérito das Fake News"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsa sobe 2,22% e registra maior alta diária desde outubro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça suspende regra que ampliou aceitação de VR e VA em maquininhas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: saiba quem tem direito à reaplicação do exame"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa apresenta nova identidade visual após quase 30 anos"
     }
 ];
