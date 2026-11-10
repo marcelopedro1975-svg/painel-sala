@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Judiciário e MPU querem R$ 533 milhões para pagar penduricalhos"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul"
     },
     {
@@ -34,10 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil conquista 4 ouros em olimpíada latino-americana de astronomia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Classe C: número de famílias sem dinheiro guardado cai de 61% para 29%"
     },
     {
         fonte: "Agência Brasil",
