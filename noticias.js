@@ -1,7 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Novo painel de dados mostra chuva abaixo da média em 70% do país"
+        titulo: "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolão de Iturama (MG) leva R$ 3,2 milhões na Mega-Sena"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Relator defende redução da maioridade penal com prisões separadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar sobe 1,46% e fecha no maior valor em 15 meses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula e presidente da Turquia se reúnem e falam de comércio bilateral"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nova plataforma do MDIC identificará oportunidades de comércio com UE"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiros encontram fake news com frequência, diz pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Instituto Evandro Chagas comemora 90 anos com congresso científico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "WTA Finals: após vitória na estreia, dupla de Stefani joga na quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC aprova diretrizes para uso de IA em cada etapa da educação"
     },
     {
         fonte: "Agência Brasil",
@@ -18,14 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Trabalhador poderá autorizar bancos a consultar extrato do FGTS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Número de jovens privados de liberdade caiu pela metade em dez anos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IA pode ajudar a responder desastres naturais, dizem cientistas ao G20"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dweck defende regulação tecnológica e papel indutor do Estado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino: audiência é sobre aplicação de 5x2 e não para questionar medida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa passa a pagar prêmios de loterias via Pix em apostas digitais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa determina apreensão de suplementos alimentares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dinheiro esquecido no sistema financeiro ultrapassa R$ 6 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Movimentos sociais denunciam proposta do mercado de corte de gastos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Especialistas alertam para risco de reinfecção da dengue"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Justiça Federal desiste de R$ 209 mi extra para pagar penduricalhos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia investiga homem que gravou vídeo com Fernando Henrique Cardoso"
     }
 ];
