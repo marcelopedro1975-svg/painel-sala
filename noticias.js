@@ -1,6 +1,10 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Receita apreende perfumes árabes falsificados no Porto do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil conclui destinação de R$ 28,3 bilhões em títulos sustentáveis"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dweck defende regulação tecnológica e papel indutor do Estado"
     }
 ];
