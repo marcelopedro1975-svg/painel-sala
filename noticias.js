@@ -1,7 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Receita apreende perfumes árabes falsificados no Porto do Rio"
+        titulo: "Movimento negro reivindica projetos de leis antirracistas para escolas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "34º Festival MixBrasil reúne cinema, teatro, games e literatura em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo apresentará texto que facilita adaptação à reforma tributária"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em alta, produção de veículos ultrapassa 250 mil unidades em outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Concurso da Transpetro terá novos locais de prova em quatro estados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso prorroga por 60 dias MP que proíbe bets no país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CLDF aprova reeleição de membros da Mesa Diretora"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalhadores espanhóis fazem primeira greve geral em 14 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula: planeta não pode esperar em meio a guerras e conflitos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saques da poupança superam depósitos em R$ 8,88 bilhões em outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Setor de serviços varia -0,1% em setembro, impactado pelos transportes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presença feminina no comando de prefeituras mais que dobrou em 24 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Faturamento da indústria sobe 0,8% em setembro, mostra CNI"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MP mira empresários ligados à Refit por fraude fiscal de R$ 5,5 bi"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apartamento de lutador de jiu-jítsu tem 15 dias para ser desocupado"
     },
     {
         fonte: "Agência Brasil",
@@ -10,10 +66,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolão de Iturama (MG) leva R$ 3,2 milhões na Mega-Sena"
     },
     {
         fonte: "Agência Brasil",
@@ -26,57 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula e presidente da Turquia se reúnem e falam de comércio bilateral"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nova plataforma do MDIC identificará oportunidades de comércio com UE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiros encontram fake news com frequência, diz pesquisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Instituto Evandro Chagas comemora 90 anos com congresso científico"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "WTA Finals: após vitória na estreia, dupla de Stefani joga na quarta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC aprova diretrizes para uso de IA em cada etapa da educação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Deputados admitem rever isenções se IVA superar 26,5%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Porto de Santos: sistemas seguem afetados após ataque cibernético"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Falta de saneamento influencia no desempenho de estudantes no Enem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trabalhador poderá autorizar bancos a consultar extrato do FGTS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BC do Paraguai já ressarciu 93% dos clientes do banco Ueno"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil e Espanha firmam acordo para estimular taxação de super-ricos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arthur Elias convoca seleção feminina para últimos amistosos de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil conclui destinação de R$ 28,3 bilhões em títulos sustentáveis"
     }
 ];
