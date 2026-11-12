@@ -1,6 +1,70 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras faz acordo para deter 100% da transportadora de etanol Logum"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Alcolumbre reafirma que decisão sobre CPMI do Banco Master cabe a ele"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo estuda novo modelo para concurso público unificado em 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Operação mira suspeitos de fraudar concurso de 2025 da Polícia Federal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Conheça as novas diretrizes da educação profissional e tecnológica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reúso de computadores pelo governo brasileiro gera economia de água"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula cobra pedido de desculpas da imprensa sobre triplex em Guarujá"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU institui exame prévio para ingresso em carreiras jurídicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Justiça determina que valor do triplex em Guarujá deve ir para OAS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa manda recolher lotes de insumos para canetas emagrecedoras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inflação perde força e fica em 0,14% em outubro; conta de luz cai"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "INPC, inflação que corrige salários, acumula 4,49% em 12 meses"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senado deve votar ajuste fiscal com previsão de economia de R$ 60 bi"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro"
     },
     {
@@ -14,69 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Letramento digital precisa vir antes de uso da IA, diz Unesco"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projetos de lei que envolvem saúde feminina avançam na Câmara"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras amplia capacidade de 11 plataformas sem novos investimentos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR envia ao Supremo parecer favorável a manter prisão de Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pacote fiscal prevê 120 dias para Congresso discutir supersalários"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita retém R$ 35 milhões em itens irregulares no Porto de Vitória"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Toffoli vota por fim da imunidade para crime patrimonial contra mulher"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: entenda como funciona a Teoria da Resposta ao Item"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Projetos de servidores públicos disputam sete prêmios de R$ 12 mil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BB e banco alemão farão aporte de 100 milhões de euros em bioeconomia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo anuncia medidas de ajuste para economia de até R$ 60 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC fixa novas normas para educação de alunos com altas habilidades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Definidas as regras para o sorteio dos grupos da Copa feminina de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Proposta que facilita transição tributária será enviada ao Congresso"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso prorroga por 60 dias MP que proíbe bets no país"
     }
 ];
