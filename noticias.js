@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF encerra processo sobre perdas inflacionárias em planos econômicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PGR é contra revisar condenação de Jair Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MP apura desvio de R$ 21 milhões em eventos esportivos na cidade de SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tesouro Nacional identifica vazamento de dados de 30 mil cadastros"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Professora é demitida de escola em SC após foto em apoio a Lula"
     },
     {
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras faz acordo para deter 100% da transportadora de etanol Logum"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Alcolumbre reafirma que decisão sobre CPMI do Banco Master cabe a ele"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo estuda novo modelo para concurso público unificado em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Operação mira suspeitos de fraudar concurso de 2025 da Polícia Federal"
     }
 ];
