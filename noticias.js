@@ -1,19 +1,59 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fifa abre venda de ingressos para Copa Feminina 2027 em 1º de dezembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Morre Claudette Soares, aos 91, no dia de lançamento do último álbum"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin defende indicação de ministra negra para o STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Confiança da indústria atinge menor nível desde maio de 2020"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Milton Leite se torna réu por suspeita de ligação com o PCC"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin suspende prazos processuais após instabilidade da Microsoft"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Associações do agro rebatem BB sobre alta da inadimplência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "INSS: mutirão oferece 7,9 mil vagas em 8 estados neste fim de semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Salto: fábrica de solventes no interior de SP é atingida por incêndio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Resenha do Enem: EBC prepara live para segundo dia de prova"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ministro da Justiça defende enfraquecimento econômico de facções"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Campanha reforça importância da presença de médico intensivista em UTI"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Radialista da Rádio Nacional é finalista do WME Awards 2026"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Psicóloga diz que proibição de bets é um começo, mas insuficiente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SC: campanha reúne doações para indígenas atingidos por tempestades"
     },
     {
         fonte: "Agência Brasil",
@@ -22,14 +62,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Rec’n’Play promove aulões gratuitos para estudantes que vão fazer Enem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF trabalha em sistema para aprimorar busca por pessoas desaparecidas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inmet emite alerta amarelo para tempestades em 15 estados e no DF"
     },
     {
         fonte: "Agência Brasil",
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Paulistas dominam finalistas do Prêmio TV Brasil Petrobras Para Elas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: saiba como controlar a ansiedade antes e durante a prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Outlook, Teams e Copilot, da Microsoft, ainda estão fora do ar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: revisão e gestão do tempo são foco na reta final"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF encerra processo sobre perdas inflacionárias em planos econômicos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PGR é contra revisar condenação de Jair Bolsonaro"
     }
 ];
