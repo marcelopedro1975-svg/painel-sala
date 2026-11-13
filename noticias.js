@@ -1,6 +1,74 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Campanha reforça importância da presença de médico intensivista em UTI"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Radialista da Rádio Nacional é finalista do WME Awards 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Psicóloga diz que proibição de bets é um começo, mas insuficiente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SC: campanha reúne doações para indígenas atingidos por tempestades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa manda recolher anestésico por amostra com \"partícula estranha\""
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rec’n’Play promove aulões gratuitos para estudantes que vão fazer Enem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "PF trabalha em sistema para aprimorar busca por pessoas desaparecidas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet emite alerta amarelo para tempestades em 15 estados e no DF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ex-tesoureiro da Caixa é condenado por desviar quase R$ 890 mil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo recebe sugestões para proteger crianças no ambiente digital"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Paulistas dominam finalistas do Prêmio TV Brasil Petrobras Para Elas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: saiba como controlar a ansiedade antes e durante a prova"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Outlook, Teams e Copilot, da Microsoft, ainda estão fora do ar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: revisão e gestão do tempo são foco na reta final"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi"
     },
     {
@@ -10,73 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "PGR é contra revisar condenação de Jair Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MP apura desvio de R$ 21 milhões em eventos esportivos na cidade de SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tesouro Nacional identifica vazamento de dados de 30 mil cadastros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Professora é demitida de escola em SC após foto em apoio a Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa Seguridade informa ataque cibernético e vazamento de dados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar dispara 1,58% e fecha a R$ 5,65, maior nível em 17 meses"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Zanin rejeita ação para determinar segundo turno para o governo do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Drauzio Varella é novo membro da Academia Brasileira de Letras"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sara dos Santos é ouro no boxe nos Jogos Olímpicos da Juventude"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copa do Mundo Feminina: taça está em exposição na sede da CBF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BB aponta recusa de parte dos produtores em renegociar dívidas do agro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF derruba imunidade para punir violência patrimonial contra mulheres"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula: nenhum país tem mais autoridade para falar de clima que Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dino mantém prazo inicial da 5x2, mas flexibiliza regra de transição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso aprova 24 projetos com crédito suplementar para ministérios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quase 70 milhões já emitiram a nova Carteira de Identidade Nacional"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino"
     }
 ];
