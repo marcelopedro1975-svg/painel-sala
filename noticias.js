@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula cita herói anticolonial das Filipinas ao comentar sua reeleição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copa do Mundo da vela chega ao Rio de Janeiro para 2ª edição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet: chuvas e tempestades predominam no país, neste fim de semana"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Coritiba lança camisa com Enedina Marques em alusão ao 20 de novembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo abre consulta pública sobre enfrentamento ao calor extremo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rádio MEC exibe neste domingo programa inédito da série de Ruy Castro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Programa na Rádio MEC celebra Proclamação da República neste sábado"
     },
     {
@@ -10,18 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "IA pode transformar país em celeiro de aplicações tecnológicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Apoio social, cultura e educação levaram jovem a abandonar crime"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em São Paulo, festival Melanina Acentuada tem atrações até domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fifa abre venda de ingressos para Copa Feminina 2027 em 1º de dezembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin defende indicação de ministra negra para o STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Confiança da indústria atinge menor nível desde maio de 2020"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fachin suspende prazos processuais após instabilidade da Microsoft"
     }
 ];
