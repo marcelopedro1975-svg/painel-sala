@@ -1,6 +1,38 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Programa na Rádio MEC celebra Proclamação da República neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil perde para o Japão com gol nos acréscimos: 3 a 2"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IA pode transformar país em celeiro de aplicações tecnológicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Apoio social, cultura e educação levaram jovem a abandonar crime"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em São Paulo, festival Melanina Acentuada tem atrações até domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem: confira os horários e o que levar no segundo dia de prova"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem em classe hospitalar garante prova a pacientes em salas especiais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasil terá três meio-campistas em amistoso contra Japão neste sábado"
     },
     {
@@ -37,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Morre Claudette Soares, aos 91, no dia de lançamento do último álbum"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fachin defende indicação de ministra negra para o STF"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Fachin suspende prazos processuais após instabilidade da Microsoft"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Associações do agro rebatem BB sobre alta da inadimplência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Resenha do Enem: EBC prepara live para segundo dia de prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministro da Justiça defende enfraquecimento econômico de facções"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Campanha reforça importância da presença de médico intensivista em UTI"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Psicóloga diz que proibição de bets é um começo, mas insuficiente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa manda recolher anestésico por amostra com \"partícula estranha\""
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rec’n’Play promove aulões gratuitos para estudantes que vão fazer Enem"
     }
 ];
