@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil terá três meio-campistas em amistoso contra Japão neste sábado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF tem 4 votos para manter início da escala 5x2 em dezembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gilmar diz que Moro agiu para impedir candidatura de Lula em 2018"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anac orienta passageiros a consultar aéreas sobre voos para os EUA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita cancelará dívidas de MEIs vencidas até esta sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo não renova subsídio de R$ 1,40 ao diesel importado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tesouro prevê normalizar sistemas fora do ar até segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana"
     },
     {
@@ -21,23 +49,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Milton Leite se torna réu por suspeita de ligação com o PCC"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fachin suspende prazos processuais após instabilidade da Microsoft"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Associações do agro rebatem BB sobre alta da inadimplência"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "INSS: mutirão oferece 7,9 mil vagas em 8 estados neste fim de semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Salto: fábrica de solventes no interior de SP é atingida por incêndio"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Rec’n’Play promove aulões gratuitos para estudantes que vão fazer Enem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-tesoureiro da Caixa é condenado por desviar quase R$ 890 mil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo recebe sugestões para proteger crianças no ambiente digital"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean"
     }
 ];
