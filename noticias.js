@@ -1,6 +1,74 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Lula vê oportunidades na Ásia para explorar minerais críticos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival de futebol feminino de várzea reúne 1,5 mil atletas em SP"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Rio de Janeiro tem primeira morte confirmada por mpox no país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dupla brasileira é campeã mundial de tênis de mesa paralímpico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vasco bate Chape e afasta risco de rebaixamento no Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Candidatos contam expectativas para o segundo dia de provas do Enem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja o que esperar do segundo dia de provas do Enem 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula para R$ 34 milhões; confira os números sorteados"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula quer ampliar relações comerciais com países da Asean"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inhotim encerra celebrações de seus 20 anos com duas novas atrações"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ao vivo: professores comentam 2º dia de prova na live Resenha do Enem"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: um a cada cinco participantes faz prova como treineiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Eleitores de Cabo Verde vão às urnas domingo escolher o presidente"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Oxê de Xangô, símbolo da justiça, será inaugurado no STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: candidatos fazem hoje 2º dia de provas em 1,9 mil cidades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prevenção da dengue deve começar agora, diz especialista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Novorizontino conquista a Série B e sobe junto com o Juventude"
     },
     {
@@ -9,74 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Circuito Cultural começa no Rio com celebração da Consciência Negra"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "REC'n'Play: rede social sem território não vira voto, diz deputado"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Lula cita herói anticolonial das Filipinas ao comentar sua reeleição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Copa do Mundo da vela chega ao Rio de Janeiro para 2ª edição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inmet: chuvas e tempestades predominam no país, neste fim de semana"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Coritiba lança camisa com Enedina Marques em alusão ao 20 de novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo abre consulta pública sobre enfrentamento ao calor extremo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil perde para o Japão com gol nos acréscimos: 3 a 2"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem: confira os horários e o que levar no segundo dia de prova"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem em classe hospitalar garante prova a pacientes em salas especiais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil terá três meio-campistas em amistoso contra Japão neste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF tem 4 votos para manter início da escala 5x2 em dezembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gilmar diz que Moro agiu para impedir candidatura de Lula em 2018"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anac orienta passageiros a consultar aéreas sobre voos para os EUA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita cancelará dívidas de MEIs vencidas até esta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo não renova subsídio de R$ 1,40 ao diesel importado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tesouro prevê normalizar sistemas fora do ar até segunda-feira"
     }
 ];
