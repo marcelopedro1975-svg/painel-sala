@@ -9,6 +9,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Circuito Cultural começa no Rio com celebração da Consciência Negra"
     },
     {
@@ -34,18 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Governo abre consulta pública sobre enfrentamento ao calor extremo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio MEC exibe neste domingo programa inédito da série de Ruy Castro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Programa na Rádio MEC celebra Proclamação da República neste sábado"
     },
     {
         fonte: "Agência Brasil",
@@ -78,5 +70,13 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Receita cancelará dívidas de MEIs vencidas até esta sexta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo não renova subsídio de R$ 1,40 ao diesel importado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tesouro prevê normalizar sistemas fora do ar até segunda-feira"
     }
 ];
