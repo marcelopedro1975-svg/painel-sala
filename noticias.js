@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Novorizontino conquista a Série B e sobe junto com o Juventude"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil e Filipinas assinam acordos sobre agro e livre concorrência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Circuito Cultural começa no Rio com celebração da Consciência Negra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "REC'n'Play: rede social sem território não vira voto, diz deputado"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Lula cita herói anticolonial das Filipinas ao comentar sua reeleição"
     },
     {
@@ -37,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "IA pode transformar país em celeiro de aplicações tecnológicas"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Enem: confira os horários e o que levar no segundo dia de prova"
     },
     {
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Receita cancelará dívidas de MEIs vencidas até esta sexta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo não renova subsídio de R$ 1,40 ao diesel importado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tesouro prevê normalizar sistemas fora do ar até segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana"
     }
 ];
