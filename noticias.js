@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Gabarito do Enem sai na quarta-feira, e resultado em 18 de janeiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Clubes, Ministério e FPF repudiam agressões em final Sub-20 feminina"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil encerra Grand Prix de Judô em 1º lugar no quadro de medalhas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inter conquista Copa do Brasil de futebol feminino sobre o Flamengo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pará tem 61 cidades em situação de emergência por incêndios florestais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Inmet prevê tempestades no Centro-Sul do país até segunda-feira"
     },
     {
@@ -33,10 +53,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Zezé Motta participa de tributo a Milton Nascimento nesta segunda"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Lula busca investimentos da Ásia para exploração de minerais críticos"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Veja o que esperar do segundo dia de provas do Enem 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula quer ampliar relações comerciais com países da Asean"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ao vivo: professores comentam 2º dia de prova na live Resenha do Enem"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: um a cada cinco participantes faz prova como treineiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Eleitores de Cabo Verde vão às urnas domingo escolher o presidente"
     }
 ];
