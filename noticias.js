@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasil assina na COP31 pacto global por IA sustentável e empregos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Regulação de big techs pode reduzir custos em até R$ 50 bilhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CDH do Senado pede federalização do desaparecimento de crianças no MA"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "EBC inaugura nova sede em São Paulo e amplia estrutura de produção"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anitta é indicada ao Grammy Internacional para melhor álbum global"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Recife se despede de Claudionor Germano, o rei do frevo"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Jovens com medida socioeducativa têm oficina de robótica no REC’n’Play"
     },
     {
@@ -18,18 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Lula e Sánchez defendem união contra o avanço da extrema-direita"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Diretor diz que recuperação de R$ 20 bilhões comprova eficiência da PF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Operação Fronteira apreende R$ 581 mi em produtos ilegais e drogas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estudo alerta para diminuição da conectividade de rios na Amazônia"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Caminhos da Reportagem mostra negócios de impacto social"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio TV Brasil Petrobras Para Elas: Yanne é eleita a craque do ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "“É só a cor”: estudante negra relata episódios de racismo na faculdade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Gabarito do Enem sai na quarta-feira, e resultado em 18 de janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Clubes, Ministério e FPF repudiam agressões em final Sub-20 feminina"
     }
 ];
