@@ -1,7 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil assina na COP31 pacto global por IA sustentável e empregos"
+        titulo: "Mulheres lideram 63% dos negócios da Rocinha, diz pesquisa"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil terá Sistema de Satélites de Defesa e Comunicações Estratégica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Parque do Albardão: de cemitério marinho a esperança de santuário"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Terça-feira será de chuva intensa na maior parte do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Hospitais privados oferecem vagas em cursos de medicina em 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mais de 276 mil trabalhadores ainda não sacaram o abono salarial 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil gasta R$ 14,5 bilhões por ano com guerra às drogas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio de R$ 34 milhões nesta terça-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan explica no Senado alíquota de 11,3% da CBS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Beneficiários com NIS de final 2 recebem Bolsa Família de novembro"
     },
     {
         fonte: "Agência Brasil",
@@ -10,26 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Regulação de big techs pode reduzir custos em até R$ 50 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CDH do Senado pede federalização do desaparecimento de crianças no MA"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "EBC inaugura nova sede em São Paulo e amplia estrutura de produção"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anitta é indicada ao Grammy Internacional para melhor álbum global"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Recife se despede de Claudionor Germano, o rei do frevo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jovens com medida socioeducativa têm oficina de robótica no REC’n’Play"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Atividade econômica tem queda de 0,9% no terceiro trimestre"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado reduz projeções para inflação e crescimento econômico em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caixa começa a pagar parcela do Bolsa Família de novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caminhos da Reportagem mostra negócios de impacto social"
     }
 ];
