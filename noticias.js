@@ -1,19 +1,75 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Mulheres lideram 63% dos negócios da Rocinha, diz pesquisa"
+        titulo: "PGR é a favor de prorrogação de investigação do caso Dark Horse"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil terá Sistema de Satélites de Defesa e Comunicações Estratégica"
+        titulo: "Brasil simplifica exportação de cosméticos para América Latina"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Parque do Albardão: de cemitério marinho a esperança de santuário"
+        titulo: "Clima afeta produção e eleva preço do tomate em diversas capitais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Terça-feira será de chuva intensa na maior parte do país"
+        titulo: "SC retoma alojamento de aves após controle da Doença de Newcastle"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mostra gratuita no Rio debate quem se beneficia com a mineração"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Congresso pede que STF julgue lei que beneficia condenados pelo 8/1"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileiros percebem racismo estrutural e defendem ações de combate"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan prevê impacto inicial da reforma tributária sobre inflação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bukele, de El Salvador, projeta poder no Caribe com operação no Haiti"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dino decide que escala 5x2 será julgada de forma definitiva pelo STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Capobianco reforça responsabilidades de países na COP31 na Turquia"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Durigan defende alíquota da reforma e estima média efetiva de 8,5%"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vini Jr. brilha e Brasil goleia Singapura em último confronto do ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Reforma tributária: Receita descarta punição a erros de boa-fé"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Suplementos alimentares têm fabricação e venda suspensas no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Botox poderá ser usado no relaxamento do músculo da mastigação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fies: candidatos pré-selecionados devem validar dados da inscrição"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mulheres lideram 63% dos negócios na Rocinha, diz pesquisa"
     },
     {
         fonte: "Agência Brasil",
@@ -22,61 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mais de 276 mil trabalhadores ainda não sacaram o abono salarial 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil gasta R$ 14,5 bilhões por ano com guerra às drogas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio de R$ 34 milhões nesta terça-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Durigan explica no Senado alíquota de 11,3% da CBS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Beneficiários com NIS de final 2 recebem Bolsa Família de novembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Regulação de big techs pode reduzir custos em até R$ 50 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa proíbe dois tira-manchas à base de percarbonato de sódio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fies 2026: chamada para vagas remanescentes sai nesta segunda-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula e Sánchez defendem união contra o avanço da extrema-direita"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil alcança meta de turismo internacional de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mpox: com quase 400 casos, Rio passa a atualizar diariamente os dados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enem 2026: começa prazo para pedir reaplicação de provas em dezembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atividade econômica tem queda de 0,9% no terceiro trimestre"
     }
 ];
