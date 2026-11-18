@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Parque do Albardão faz oito meses com impactos econômicos em debate"
+        titulo: "SP recebe novas doses da vacina contra a mpox; saiba quem pode receber"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Chuvas e trovoadas permanecem intensas na maior parte do país"
+        titulo: "PRF inicia operação para garantir a segurança nas estradas no feriadão"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Agências bancárias fecham para atendimento presencial nesta sexta (20)"
+        titulo: "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bolsa Família: Caixa paga beneficiários com NIS de final 3 a 0"
+        titulo: "Caso Master: PF entregará ao STF relatórios sobre citações a ministros"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Indígenas isolados se aproximam de aldeia e governo fica em alerta"
+        titulo: "Estados Unidos entram em alerta após sucessivas panes tecnológicas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Defesa pede que Supremo julgue pedido para soltar Vorcaro"
+        titulo: "Na FAO, Wellington Dias celebra avanços no combate à fome"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF inaugura símbolo da Justiça na tradição iorubá"
+        titulo: "Usinas solares avançam sobre a vegetação nativa da Caatinga"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fachin sinaliza que STF pode julgar Lei da Dosimetria neste ano"
+        titulo: "Violência doméstica atinge 34% das mulheres negras, aponta pesquisa"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Repórter da Agência Brasil é finalista em prêmio de proteção animal"
+        titulo: "MEC amplia até dia 23 prazo para adesão ao Selo de Alfabetização"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil avança a 2 semifinais do Mundial de tênis de mesa paralímpico"
+        titulo: "Mais de 40 mil vagas de estágio serão abertas até o início de 2027"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Senado adia votação de destaques do projeto de ajuste fiscal"
+        titulo: "Protesto vai cobrar justiça por professor espancado ao defender mulher"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Decreto que regulamenta escala 5x2 será assinado na quinta-feira"
+        titulo: "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PGR é a favor de prorrogação de investigação do caso Dark Horse"
+        titulo: "Número de desempregados há dois anos ou mais é o menor já registrado"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil simplifica exportação de cosméticos para América Latina"
+        titulo: "Investigados na Cash Out moveram R$ 11 bilhões, diz MPF"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Clima afeta produção e eleva preço do tomate em diversas capitais"
+        titulo: "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Congresso pede que STF julgue lei que beneficia condenados pelo 8/1"
+        titulo: "Operação Cash Out investiga esquema de bets e bloqueia R$ 2,3 bilhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Durigan prevê impacto inicial da reforma tributária sobre inflação"
+        titulo: "Inep divulga gabarito oficial do Enem 2026; veja como consultar"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bukele, de El Salvador, projeta poder no Caribe com operação no Haiti"
+        titulo: "Fies: candidatos têm até hoje para validar informações da inscrição"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dino decide que escala 5x2 será julgada de forma definitiva pelo STF"
+        titulo: "IBGE: percentual de negros com ensino superior é metade do de brancos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Durigan defende alíquota da reforma e estima média efetiva de 8,5%"
+        titulo: "Pretos e pardos ocupam apenas 30,7% dos cargos gerenciais, mostra IBGE"
     }
 ];
