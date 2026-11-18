@@ -1,6 +1,22 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Parque do Albardão faz oito meses com impactos econômicos em debate"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas e trovoadas permanecem intensas na maior parte do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Agências bancárias fecham para atendimento presencial nesta sexta (20)"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsa Família: Caixa paga beneficiários com NIS de final 3 a 0"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Indígenas isolados se aproximam de aldeia e governo fica em alerta"
     },
     {
@@ -26,10 +42,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Senado adia votação de destaques do projeto de ajuste fiscal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caso Miguel: Mirtes cobra justiça no dia que filho faria 12 anos"
     },
     {
         fonte: "Agência Brasil",
@@ -66,17 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Durigan defende alíquota da reforma e estima média efetiva de 8,5%"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Vini Jr. brilha e Brasil goleia Singapura em último confronto do ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Reforma tributária: Receita descarta punição a erros de boa-fé"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Suplementos alimentares têm fabricação e venda suspensas no Brasil"
     }
 ];
