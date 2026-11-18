@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Indígenas isolados se aproximam de aldeia e governo fica em alerta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa pede que Supremo julgue pedido para soltar Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF inaugura símbolo da Justiça na tradição iorubá"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin sinaliza que STF pode julgar Lei da Dosimetria neste ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Repórter da Agência Brasil é finalista em prêmio de proteção animal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil avança a 2 semifinais do Mundial de tênis de mesa paralímpico"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Senado adia votação de destaques do projeto de ajuste fiscal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caso Miguel: Mirtes cobra justiça no dia que filho faria 12 anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Decreto que regulamenta escala 5x2 será assinado na quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "PGR é a favor de prorrogação de investigação do caso Dark Horse"
     },
     {
@@ -13,19 +49,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "SC retoma alojamento de aves após controle da Doença de Newcastle"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mostra gratuita no Rio debate quem se beneficia com a mineração"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Congresso pede que STF julgue lei que beneficia condenados pelo 8/1"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiros percebem racismo estrutural e defendem ações de combate"
     },
     {
         fonte: "Agência Brasil",
@@ -38,10 +62,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dino decide que escala 5x2 será julgada de forma definitiva pelo STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Capobianco reforça responsabilidades de países na COP31 na Turquia"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Suplementos alimentares têm fabricação e venda suspensas no Brasil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Botox poderá ser usado no relaxamento do músculo da mastigação"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fies: candidatos pré-selecionados devem validar dados da inscrição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mulheres lideram 63% dos negócios na Rocinha, diz pesquisa"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Hospitais privados oferecem vagas em cursos de medicina em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 276 mil trabalhadores ainda não sacaram o abono salarial 2026"
     }
 ];
