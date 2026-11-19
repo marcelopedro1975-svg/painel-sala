@@ -1,15 +1,71 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Quinta-feira será de calor e chuva em quase todo o país"
+        titulo: "Xi, Trump e Putin sinalizam disposição para diálogo entre potências"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Direito de transexual à cirurgia será julgada em corte internacional"
+        titulo: "Festival Nicho apresenta cinema negro com exibições gratuitas em SP"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena sorteia prêmio de R$ 40 milhões nesta quinta-feira"
+        titulo: "Lula regulariza terra do povo Kayapó e promete dignidade aos indígenas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Intelectual baiano Edison Carneiro será próximo homenageado da Flipelô"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja como será o cálculo da hora extra com a escala de trabalho 5x2"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MinC abre consulta pública sobre novas regras da Lei Rouanet para 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BNDES injetou R$ 254 bi de crédito na economia de janeiro a setembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporada de réveillon do Rio começa antes do Natal e vai até dia 3"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mapas do caminho ainda podem voltar à decisão final da COP31"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula: transporte gratuito no fim de semana complementaria escala 5x2"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Uso de drones em guerra interna da Colômbia cresce 132% sob Espriella"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prevendo judicialização, Lula cobra atenção à aplicação da escala 5x2"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula promete manter direitos e diz que controle fiscal é prioridade"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Escola pública do Rio vence Prêmio Melhores Escolas do Mundo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tribunal da ONU conclui que Mianmar cometeu genocídio contra rohingyas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Termina em um dia prazo para pedir reaplicação do Enem 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trump, Xi e Putin encerram reunião histórica na China"
     },
     {
         fonte: "Agência Brasil",
@@ -22,61 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Guia orienta passageiros a agirem em casos de racismo em aeroportos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival Animage reúne mais de 280 filmes de animação no Recife"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agência Brasil e Rádio Nacional ganham prêmio de direitos humanos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Encontro dos Tambores valoriza tradições negras da Amazônia em Macapá"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP recebe novas doses da vacina contra a mpox; saiba quem pode receber"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caso Master: PF entregará ao STF relatórios sobre citações a ministros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Estados Unidos entram em alerta após sucessivas panes tecnológicas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Na FAO, Wellington Dias celebra avanços no combate à fome"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC amplia até dia 23 prazo para adesão ao Selo de Alfabetização"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mais de 40 mil vagas de estágio serão abertas até o início de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Número de desempregados há dois anos ou mais é o menor já registrado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Investigados na Cash Out moveram R$ 11 bilhões, diz MPF"
     }
 ];
