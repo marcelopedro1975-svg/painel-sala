@@ -1,6 +1,18 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Quinta-feira será de calor e chuva em quase todo o país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Direito de transexual à cirurgia será julgada em corte internacional"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena sorteia prêmio de R$ 40 milhões nesta quinta-feira"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Andrei entrega a Fachin relatórios sobre ministros no caso Master"
     },
     {
@@ -26,14 +38,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Encontro dos Tambores valoriza tradições negras da Amazônia em Macapá"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sesc-DF celebra mês da Consciência Negra com arte e cultura"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Defesa Civil de SP envia 17 alertas de chuvas fortes para o estado"
     },
     {
         fonte: "Agência Brasil",
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Investigados na Cash Out moveram R$ 11 bilhões, diz MPF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas"
     }
 ];
