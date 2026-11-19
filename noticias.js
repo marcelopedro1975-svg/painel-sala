@@ -1,11 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "SP recebe novas doses da vacina contra a mpox; saiba quem pode receber"
+        titulo: "Andrei entrega a Fachin relatórios sobre ministros no caso Master"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "PRF inicia operação para garantir a segurança nas estradas no feriadão"
+        titulo: "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Guia orienta passageiros a agirem em casos de racismo em aeroportos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Festival Animage reúne mais de 280 filmes de animação no Recife"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Agência Brasil e Rádio Nacional ganham prêmio de direitos humanos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Encontro dos Tambores valoriza tradições negras da Amazônia em Macapá"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sesc-DF celebra mês da Consciência Negra com arte e cultura"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Defesa Civil de SP envia 17 alertas de chuvas fortes para o estado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "SP recebe novas doses da vacina contra a mpox; saiba quem pode receber"
     },
     {
         fonte: "Agência Brasil",
@@ -25,23 +57,11 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Usinas solares avançam sobre a vegetação nativa da Caatinga"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Violência doméstica atinge 34% das mulheres negras, aponta pesquisa"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "MEC amplia até dia 23 prazo para adesão ao Selo de Alfabetização"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Mais de 40 mil vagas de estágio serão abertas até o início de 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Protesto vai cobrar justiça por professor espancado ao defender mulher"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Operação Cash Out investiga esquema de bets e bloqueia R$ 2,3 bilhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Inep divulga gabarito oficial do Enem 2026; veja como consultar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Fies: candidatos têm até hoje para validar informações da inscrição"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IBGE: percentual de negros com ensino superior é metade do de brancos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pretos e pardos ocupam apenas 30,7% dos cargos gerenciais, mostra IBGE"
     }
 ];
