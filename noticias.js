@@ -1,6 +1,14 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Termina nesta sexta prazo para pedir reaplicação do Enem 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Zumbi é farol para luta em defesa da democracia, diz pesquisador"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena acumula e prêmio vai para R$ 45 milhões"
     },
     {
@@ -70,13 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Escola pública do Rio vence Prêmio Melhores Escolas do Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tribunal da ONU conclui que Mianmar cometeu genocídio contra rohingyas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Termina em um dia prazo para pedir reaplicação do Enem 2026"
     }
 ];
