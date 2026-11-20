@@ -1,19 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula e prêmio vai para R$ 45 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmio Brasil Olímpico 2026 revela finalistas a melhor atleta do ano"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN amplia controle sobre recolhimentos de tributos dos bancos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Banco Central amplia acesso de cooperativas ao mercado aberto"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo lança campanha para proteger mulheres no meio digital"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Manifestantes reúnem-se na Lapa para cobrar justiça por André Aires"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Xi, Trump e Putin sinalizam disposição para diálogo entre potências"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Festival Nicho apresenta cinema negro com exibições gratuitas em SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula regulariza terra do povo Kayapó e promete dignidade aos indígenas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Intelectual baiano Edison Carneiro será próximo homenageado da Flipelô"
     },
     {
         fonte: "Agência Brasil",
@@ -21,19 +49,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MinC abre consulta pública sobre novas regras da Lei Rouanet para 2027"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "BNDES injetou R$ 254 bi de crédito na economia de janeiro a setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Temporada de réveillon do Rio começa antes do Natal e vai até dia 3"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mapas do caminho ainda podem voltar à decisão final da COP31"
     },
     {
         fonte: "Agência Brasil",
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Termina em um dia prazo para pedir reaplicação do Enem 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Trump, Xi e Putin encerram reunião histórica na China"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Andrei entrega a Fachin relatórios sobre ministros no caso Master"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal"
     }
 ];
