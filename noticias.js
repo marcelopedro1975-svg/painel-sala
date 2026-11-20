@@ -1,11 +1,51 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Termina nesta sexta prazo para pedir reaplicação do Enem 2026"
+        titulo: "Protestos estudantis eclodem em toda a Europa com diversos temas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Zumbi é farol para luta em defesa da democracia, diz pesquisador"
+        titulo: "Estragos no RS atingem mais cidades além de Tupanciretã"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em lados opostos: Stefani e Dabrowski duelarão na Billie Jean King Cup"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Presidente do Supremo mantém prisão de Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Maranhão: professores usam filmes e comida para educação antirracista"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Total de pacientes canábicos passa de 1 milhão no Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Trabalhadores e estudantes protestam por salários e serviços na Itália"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Arquitetura de Brasília é racista e excludente, defendem pesquisadores"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempestade deixa três mortos em Tupanciretã, no Rio Grande do Sul"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fachin manda quebrar sigilo de relatório da PF com menções a Mendonça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasileirão: Rádio Nacional transmite duelo entre Palmeiras e Flamengo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Termina nesta sexta prazo para pedir reaplicação do Enem 2026"
     },
     {
         fonte: "Agência Brasil",
@@ -33,50 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo lança campanha para proteger mulheres no meio digital"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Manifestantes reúnem-se na Lapa para cobrar justiça por André Aires"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Xi, Trump e Putin sinalizam disposição para diálogo entre potências"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Veja como será o cálculo da hora extra com a escala de trabalho 5x2"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "BNDES injetou R$ 254 bi de crédito na economia de janeiro a setembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula: transporte gratuito no fim de semana complementaria escala 5x2"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Uso de drones em guerra interna da Colômbia cresce 132% sob Espriella"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prevendo judicialização, Lula cobra atenção à aplicação da escala 5x2"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula promete manter direitos e diz que controle fiscal é prioridade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escola pública do Rio vence Prêmio Melhores Escolas do Mundo"
     }
 ];
