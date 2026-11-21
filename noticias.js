@@ -1,6 +1,54 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Dez vezes Flamengo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Deputada Talíria Petrone é ameaçada de morte e violência sexual"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Flamengo empata com Palmeiras e é campeão brasileiro de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Força Nacional do SUS avalia instalar posto médico em Tupanciretã"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mostra apresenta legado de Milton Santos para pensar o Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil vence Irlanda por 2 a 1 em estreia na Copa do Mundo Sub-17"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Cocal dos Alves: como a matemática mudou destino de município do Piauí"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Manifestantes marcham em Lisboa contra aumento no custo de vida"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pigossi e Stefani deixam Brasil na frente do Canadá na Billie Jean"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Duas reportagens da EBC ficam entre finalistas de prêmio de jornalismo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ex-presidente Jair Bolsonaro está internado em UTI no Distrito Federal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil ganha primeira medalha no Mundial de Parataekwondo na Coreia"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "\"O sistema financeiro não vai me ensinar a dirigir o Brasil\", diz Lula"
     },
     {
@@ -9,15 +57,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TV Brasil exibe show do trio Pietá no Cena Musical deste sábado"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Arthur Elias chama Taina Maranhão para Data FIFA da Seleção Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ernesto Xavier é o convidado do Conversa com o Autor deste domingo"
     },
     {
         fonte: "Agência Brasil",
@@ -25,23 +65,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo terá novas ações para combater casamento infantil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Temporais provocam alagamentos e danos em imóveis no estado de SP"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sem Censura, da TV Brasil, conquista novamente Prêmio Melhores do Ano"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Terremoto de magnitude 6,8 graus atinge o Peru"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tempestade no Rio Grande do Sul afeta 19,6 mil pessoas em 33 cidades"
     },
     {
         fonte: "Agência Brasil",
@@ -54,29 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Portugal estreia com vitória de virada na Copa do Mundo de vela no RJ"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "PF diz que não há conversas de Mendonça com Vorcaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Filme Camisas Negras retrata luta do Vasco contra o racismo em 1923"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsonaro é internado com quadro de dor e distensão abdominal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Em lados opostos: Stefani e Dabrowski duelarão na Billie Jean King Cup"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Presidente do Supremo mantém prisão de Vorcaro"
     }
 ];
