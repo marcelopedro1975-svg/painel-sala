@@ -1,11 +1,47 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Protestos estudantis eclodem em toda a Europa com diversos temas"
+        titulo: "Portugal estreia com vitória de virada na Copa do Mundo de vela no RJ"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estragos no RS atingem mais cidades além de Tupanciretã"
+        titulo: "PF diz que não há conversas de Mendonça com Vorcaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "RS: ex-vereador está entre as vítimas da tempestade em Tupanciretã"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Renda de 73% de negras vítimas de violência é de até 2 salários mínimo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Filme Camisas Negras retrata luta do Vasco contra o racismo em 1923"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sociedade civil diz que COP31 poderá ser a pior da história"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsonaro é internado com quadro de dor e distensão abdominal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Homenagens lembram legado de Zumbi e desafios da juventude negra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Denúncias de racismo chegam ao maior número da série histórica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporal no RS: governo envia equipes da Defesa Civil para Tupanciretã"
     },
     {
         fonte: "Agência Brasil",
@@ -29,14 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Arquitetura de Brasília é racista e excludente, defendem pesquisadores"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tempestade deixa três mortos em Tupanciretã, no Rio Grande do Sul"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Fachin manda quebrar sigilo de relatório da PF com menções a Mendonça"
     },
     {
@@ -50,33 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mega-Sena acumula e prêmio vai para R$ 45 milhões"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Prêmio Brasil Olímpico 2026 revela finalistas a melhor atleta do ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CMN amplia controle sobre recolhimentos de tributos dos bancos"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Banco Central amplia acesso de cooperativas ao mercado aberto"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro"
     }
 ];
