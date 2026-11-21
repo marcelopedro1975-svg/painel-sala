@@ -41,10 +41,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Temporal no RS: governo envia equipes da Defesa Civil para Tupanciretã"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Em lados opostos: Stefani e Dabrowski duelarão na Billie Jean King Cup"
     },
     {
@@ -78,5 +74,9 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Mega-Sena acumula e prêmio vai para R$ 45 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde"
     }
 ];
