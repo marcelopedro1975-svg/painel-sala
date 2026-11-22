@@ -1,27 +1,63 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Bolsonaro segue internado na UTI sem previsão de alta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil fecha Mundial Júnior de Judô com bronze por equipes mistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mega-Sena acumula e deverá pagar 65 milhões no próximo sorteio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com impasse sobre combustíveis fósseis, COP31 termina sem acordo final"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Chuvas no RS afetam mais de 25 mil pessoas em 42 cidades"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após temporal, governo reconhece calamidade pública em Tupanciretã"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Boca Juniors vence Sul-Americana sobre o Atlético-MG"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil vence Canadá e volta à elite da Billie Jean King Cup"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "MEC apresenta programa Toda Matemática em evento nacional no Maranhão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IA na educação exige capacitação de professores, dizem especialistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CNJ cria regra para corrigir registros por mortes em ações policiais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dez vezes Flamengo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sobe para 4 o número de mortos em Tupanciretã, no Sul"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Deputada Talíria Petrone é ameaçada de morte e violência sexual"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Flamengo empata com Palmeiras e é campeão brasileiro de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Força Nacional do SUS avalia instalar posto médico em Tupanciretã"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mostra apresenta legado de Milton Santos para pensar o Brasil"
     },
     {
         fonte: "Agência Brasil",
@@ -42,41 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Duas reportagens da EBC ficam entre finalistas de prêmio de jornalismo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ex-presidente Jair Bolsonaro está internado em UTI no Distrito Federal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil ganha primeira medalha no Mundial de Parataekwondo na Coreia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "\"O sistema financeiro não vai me ensinar a dirigir o Brasil\", diz Lula"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Países vão negociar regulamentação de “robôs assassinos” até 2028"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Arthur Elias chama Taina Maranhão para Data FIFA da Seleção Feminina"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula presta solidariedade à cidade gaúcha devastada por tempestade"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Terremoto de magnitude 6,8 graus atinge o Peru"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dossiê mapeia desafios do ensino de matemática e sugere soluções"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "70% dos cursos de pedagogia dedicam apenas 2,5% da grade horária"
     }
 ];
