@@ -5,6 +5,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
+        titulo: "Sobe para 4 o número de mortos em Tupanciretã, no Sul"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Deputada Talíria Petrone é ameaçada de morte e violência sexual"
     },
     {
@@ -74,9 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "70% dos cursos de pedagogia dedicam apenas 2,5% da grade horária"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Portugal estreia com vitória de virada na Copa do Mundo de vela no RJ"
     }
 ];
