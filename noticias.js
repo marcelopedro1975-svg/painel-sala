@@ -1,6 +1,42 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Thaís Lima e Evelin são convocadas para última Data Fifa de 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Escolas já podem se inscrever para a Olitef 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Temporais atingem 46 municípios e mais de 25 mil pessoas no RS"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "“Não vamos recuar”, promete organizador de parada LGBTI+ do Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Nova plataforma de streaming exibirá filmes de países do Brics"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Simpósio de matemática premia professores e expõe soluções de ensino"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tempestades no Paraná deixam mais de 250 casas danificadas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Último dia do Mundial de taekwondo paralímpico tem bronze brasileiro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "COP não terminava sem acordo desde 2009"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Bolsonaro segue internado na UTI sem previsão de alta"
     },
     {
@@ -10,22 +46,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Brasil fecha Mundial Júnior de Judô com bronze por equipes mistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula e deverá pagar 65 milhões no próximo sorteio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com impasse sobre combustíveis fósseis, COP31 termina sem acordo final"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Chuvas no RS afetam mais de 25 mil pessoas em 42 cidades"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Após temporal, governo reconhece calamidade pública em Tupanciretã"
     },
     {
         fonte: "Agência Brasil",
@@ -58,25 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Flamengo empata com Palmeiras e é campeão brasileiro de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil vence Irlanda por 2 a 1 em estreia na Copa do Mundo Sub-17"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Cocal dos Alves: como a matemática mudou destino de município do Piauí"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Manifestantes marcham em Lisboa contra aumento no custo de vida"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pigossi e Stefani deixam Brasil na frente do Canadá na Billie Jean"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Duas reportagens da EBC ficam entre finalistas de prêmio de jornalismo"
     }
 ];
