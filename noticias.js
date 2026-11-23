@@ -1,6 +1,66 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Negra, mãe e vítima de agressão; estudo traça perfil de detentas no RJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara pode votar ajuste fiscal nesta segunda-feira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Fazenda reduz previsão do PIB e eleva inflação para 2027"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Palmeiras e Tarumã-AM medem forças em rodada de abertura da Copinha F"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "AGU defende dispensa de liminar de Dino sobre escala 5x2"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes determina citação de Flávio sobre calúnia contra Lula"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil defende fortalecimento da cooperação internacional em saúde"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Abin apresenta estratégia para criptografia pós-quântica"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Uso racional de antibióticos pode diminuir bactérias resistentes"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa aprova novo medicamento para tratar câncer de mama"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Anvisa manda recolher xampu anticaspa para crianças"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Celpe-Bras: provas serão aplicadas no exterior a partir desta terça"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mercado eleva projeção do dólar para R$ 5,55 em 2026"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Receita amplia participação em piloto da CBS para todas as empresas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sebrae abre inscrições para empreendedores negros"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Thaís Lima e Evelin são convocadas para última Data Fifa de 2026"
     },
     {
@@ -9,23 +69,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Temporais atingem 46 municípios e mais de 25 mil pessoas no RS"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "“Não vamos recuar”, promete organizador de parada LGBTI+ do Rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Nova plataforma de streaming exibirá filmes de países do Brics"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Simpósio de matemática premia professores e expõe soluções de ensino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tempestades no Paraná deixam mais de 250 casas danificadas"
     },
     {
         fonte: "Agência Brasil",
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "COP não terminava sem acordo desde 2009"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Bolsonaro segue internado na UTI sem previsão de alta"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil fecha Mundial Júnior de Judô com bronze por equipes mistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Boca Juniors vence Sul-Americana sobre o Atlético-MG"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil vence Canadá e volta à elite da Billie Jean King Cup"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC apresenta programa Toda Matemática em evento nacional no Maranhão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "IA na educação exige capacitação de professores, dizem especialistas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CNJ cria regra para corrigir registros por mortes em ações policiais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dez vezes Flamengo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Flamengo empata com Palmeiras e é campeão brasileiro de 2026"
     }
 ];
