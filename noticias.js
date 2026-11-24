@@ -1,7 +1,43 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Negra, mãe e vítima de agressão; estudo traça perfil de detentas no RJ"
+        titulo: "Câmara aprova texto-base do projeto de ajuste fiscal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "BRB diz que banco segue funcionando após suspensão da CVM"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Bolsonaro é diagnosticado com pneumonia e continuará internado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Petrobras aprova pagamento de R$ 15,6 bilhões a acionistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Jornada 5x2: veja como ficam regras de salário, folgas e horas extras"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara aprova urgência para votação do projeto de ajuste fiscal"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Saúde repassa R$ 200 milhões para maternidades filantrópicas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "México, EUA, Costa Rica e Jamaica serão sedes da Copa Feminina de 2031"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Deputada de SP tem entrada na Cisjordânia negada por governo de Israel"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CVM suspende registro do BRB e de mais quatro empresas"
     },
     {
         fonte: "Agência Brasil",
@@ -29,10 +65,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Abin apresenta estratégia para criptografia pós-quântica"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Uso racional de antibióticos pode diminuir bactérias resistentes"
     },
     {
@@ -46,37 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Celpe-Bras: provas serão aplicadas no exterior a partir desta terça"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mercado eleva projeção do dólar para R$ 5,55 em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Receita amplia participação em piloto da CBS para todas as empresas"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Sebrae abre inscrições para empreendedores negros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Thaís Lima e Evelin são convocadas para última Data Fifa de 2026"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Escolas já podem se inscrever para a Olitef 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Simpósio de matemática premia professores e expõe soluções de ensino"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Último dia do Mundial de taekwondo paralímpico tem bronze brasileiro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "COP não terminava sem acordo desde 2009"
     }
 ];
