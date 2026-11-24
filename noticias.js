@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Câmara aprova texto-base do projeto de ajuste fiscal"
+        titulo: "Ministério Público pede intervenção judicial no Corinthians por dívida"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "BRB diz que banco segue funcionando após suspensão da CVM"
+        titulo: "BCs de países de língua portuguesa criam rede de cooperação"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bolsonaro é diagnosticado com pneumonia e continuará internado"
+        titulo: "Cidade de São Paulo encerra transmissão de casos importados de sarampo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Petrobras aprova pagamento de R$ 15,6 bilhões a acionistas"
+        titulo: "Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Jornada 5x2: veja como ficam regras de salário, folgas e horas extras"
+        titulo: "Brasília International Film Festival 2026 chega a Paraty"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Câmara aprova urgência para votação do projeto de ajuste fiscal"
+        titulo: "Anvisa determina apreensão de água mineral por falhas na fabricação"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Saúde repassa R$ 200 milhões para maternidades filantrópicas"
+        titulo: "ONU: 5 mulheres foram mortas por hora por parceiro ou parente em 2025"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "México, EUA, Costa Rica e Jamaica serão sedes da Copa Feminina de 2031"
+        titulo: "Governo publica regras para jornadas especiais até a próxima semana"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Deputada de SP tem entrada na Cisjordânia negada por governo de Israel"
+        titulo: "INSS começa a pagar décimo terceiro salário nesta terça-feira (24)"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CVM suspende registro do BRB e de mais quatro empresas"
+        titulo: "Justiça marca audiência sobre morte de médicos em quiosque no Rio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Câmara pode votar ajuste fiscal nesta segunda-feira"
+        titulo: "Polícia de São Paulo investiga feminicídio na zona leste"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fazenda reduz previsão do PIB e eleva inflação para 2027"
+        titulo: "Petrobras adquire participação em empresa que produz etanol"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Palmeiras e Tarumã-AM medem forças em rodada de abertura da Copinha F"
+        titulo: "Fraudes no INSS: Mendonça manda soltar ex-número 2 da Previdência"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "AGU defende dispensa de liminar de Dino sobre escala 5x2"
+        titulo: "Copa do Mundo Feminina: governo prevê legado com salas para denúncias"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Moraes determina citação de Flávio sobre calúnia contra Lula"
+        titulo: "Nova ferramenta do Open Finance automatizará repasses entre bancos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil defende fortalecimento da cooperação internacional em saúde"
+        titulo: "MPRJ quer reverter absolvição de acusados por mortes no Ninho do Urubu"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Uso racional de antibióticos pode diminuir bactérias resistentes"
+        titulo: "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Anvisa aprova novo medicamento para tratar câncer de mama"
+        titulo: "Inmet emite aviso de grande perigo para tempestades na Região Sul"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Anvisa manda recolher xampu anticaspa para crianças"
+        titulo: "TV Brasil transmite a abertura da Copinha F Petrobras 2026 nesta terça"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Celpe-Bras: provas serão aplicadas no exterior a partir desta terça"
+        titulo: "Empresas têm até 30 de novembro para pagar primeira parcela do 13º"
     }
 ];
