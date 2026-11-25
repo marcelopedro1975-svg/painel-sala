@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "DPU questiona decisão que suspende reparação à família de João Cândido"
+        titulo: "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sob acusação de furto qualificado, ex-diretor da Hurb é preso no Rio"
+        titulo: "Ministério da Justiça bloqueia 4 mil celulares em presídios"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Estoque do Hemorio atende emergência em mais de 100 hospitais públicos"
+        titulo: "Primeiros vice-campeões, Botafogo e Inter se enfrentam pela Copinha F"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Representantes de sedes da Copa Feminina garantem campos híbridos"
+        titulo: "Governo deve renovar subsídio ao diesel por mais 30 dias"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Prêmios Quirino de animação têm inscrições abertas até esta quarta"
+        titulo: "Moraes rejeita indicar recursos para pagar penduricalhos do MPU"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pressão imobiliária e \"engorda\" reacendem conflitos em Ponta Negra"
+        titulo: "STF marca julgamento sobre eleições no Rio para 4 de dezembro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo libera R$ 3,43 bilhões do Orçamento após ajuste fiscal"
+        titulo: "IA generativa não vai acabar com profissões criativas, diz professora"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados"
+        titulo: "Exposição com obras de Renoir chega a Brasília nesta quinta-feira"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MPF pede mudanças na gestão de políticas para população de rua em SP"
+        titulo: "ABI divulga série de vídeos pelo fim da violência contra mulheres"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Projeto de regulação das big techs será votado na próxima semana"
+        titulo: "Governo lança campanha Copa Mais Brasileira do Mundo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Plano busca fortalecer protagonismo das mulheres no agronegócio"
+        titulo: "Comissão fixa carga mínima de filosofia e sociologia no ensino médio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Queda de árvore em escola pública em SP deixa cinco pessoas feridas"
+        titulo: "Congo do ES e Quilombo Frechal (MA) tornam-se patrimônios culturais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Dólar cai para R$ 5,91 com expectativa de ajuste fiscal"
+        titulo: "Violência contra mulher atingiu nível de atrocidade, diz Cármen Lúcia"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Flamengo: engenheiros são condenados em 2ª instância por incêndio"
+        titulo: "Com tema Ciência Delas, Semana de Ciência e Tecnologia vai até sábado"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "ONU aprova proposta do Brasil de turismo amigável para muçulmanos"
+        titulo: "Brasil decide que embaixador não deve voltar à Argentina de Milei"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Moraes nega diminuir pena de Carla Zambelli"
+        titulo: "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Entenda o pacote fiscal que prevê ajuste de até R$ 56 bilhões"
+        titulo: "Anvisa determina apreensão de suplementos alimentares"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lula sanciona ajuste fiscal aprovado no Congresso"
+        titulo: "Anvisa manda apreender medicamentos falsificados para tratar câncer"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Julgamento de extradição de Zambelli é adiado novamente na Itália"
+        titulo: "Efeito Americanas: CCJ do Senado tipifica crime de fraude contábil"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia começa a pagar oitava parcela de 2026 a estudantes"
+        titulo: "Operação da PF, Receita e MPF combate garimpo ilegal em Mato Grosso"
     }
 ];
