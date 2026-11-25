@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Ministério Público pede intervenção judicial no Corinthians por dívida"
+        titulo: "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "BCs de países de língua portuguesa criam rede de cooperação"
+        titulo: "MPF pede mudanças na gestão de políticas para população de rua em SP"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Cidade de São Paulo encerra transmissão de casos importados de sarampo"
+        titulo: "Projeto de regulação das big techs será votado na próxima semana"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro"
+        titulo: "Plano busca fortalecer protagonismo das mulheres no agronegócio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasília International Film Festival 2026 chega a Paraty"
+        titulo: "Queda de árvore em escola pública em SP deixa cinco pessoas feridas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Anvisa determina apreensão de água mineral por falhas na fabricação"
+        titulo: "Dólar cai para R$ 5,91 com expectativa de ajuste fiscal"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "ONU: 5 mulheres foram mortas por hora por parceiro ou parente em 2025"
+        titulo: "Flamengo: engenheiros são condenados em 2ª instância por incêndio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo publica regras para jornadas especiais até a próxima semana"
+        titulo: "Condenado pela morte de Marielle, major Ronald é demitido da PM"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "INSS começa a pagar décimo terceiro salário nesta terça-feira (24)"
+        titulo: "Mineradora é multada em R$ 16,9 milhões no Pará por poluição de rio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Justiça marca audiência sobre morte de médicos em quiosque no Rio"
+        titulo: "Ministério cria protocolo policial com foco em raça e gênero"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Polícia de São Paulo investiga feminicídio na zona leste"
+        titulo: "ONU aprova proposta do Brasil de turismo amigável para muçulmanos"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Petrobras adquire participação em empresa que produz etanol"
+        titulo: "Moraes nega diminuir pena de Carla Zambelli"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Fraudes no INSS: Mendonça manda soltar ex-número 2 da Previdência"
+        titulo: "Entenda o pacote fiscal que prevê ajuste de até R$ 56 bilhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Copa do Mundo Feminina: governo prevê legado com salas para denúncias"
+        titulo: "Lula sanciona ajuste fiscal aprovado no Congresso"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Nova ferramenta do Open Finance automatizará repasses entre bancos"
+        titulo: "Julgamento de extradição de Zambelli é adiado novamente na Itália"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "MPRJ quer reverter absolvição de acusados por mortes no Ninho do Urubu"
+        titulo: "Pé-de-Meia começa a pagar oitava parcela de 2026 a estudantes"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção"
+        titulo: "Lula lamenta falta de acordo na COP31 e pede união pelo meio ambiente"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inmet emite aviso de grande perigo para tempestades na Região Sul"
+        titulo: "MEC divulga regras para distribuição de verbas adicionais do Fundeb"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "TV Brasil transmite a abertura da Copinha F Petrobras 2026 nesta terça"
+        titulo: "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Empresas têm até 30 de novembro para pagar primeira parcela do 13º"
+        titulo: "Jurista Fabio Konder Comparato morre aos 90 anos"
     }
 ];
