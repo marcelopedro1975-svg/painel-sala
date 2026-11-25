@@ -1,6 +1,34 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "DPU questiona decisão que suspende reparação à família de João Cândido"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Sob acusação de furto qualificado, ex-diretor da Hurb é preso no Rio"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Estoque do Hemorio atende emergência em mais de 100 hospitais públicos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Representantes de sedes da Copa Feminina garantem campos híbridos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Prêmios Quirino de animação têm inscrições abertas até esta quarta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pressão imobiliária e \"engorda\" reacendem conflitos em Ponta Negra"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo libera R$ 3,43 bilhões do Orçamento após ajuste fiscal"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados"
     },
     {
@@ -29,18 +57,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Condenado pela morte de Marielle, major Ronald é demitido da PM"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Mineradora é multada em R$ 16,9 milhões no Pará por poluição de rio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério cria protocolo policial com foco em raça e gênero"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "ONU aprova proposta do Brasil de turismo amigável para muçulmanos"
     },
     {
@@ -62,21 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pé-de-Meia começa a pagar oitava parcela de 2026 a estudantes"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Lula lamenta falta de acordo na COP31 e pede união pelo meio ambiente"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "MEC divulga regras para distribuição de verbas adicionais do Fundeb"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Jurista Fabio Konder Comparato morre aos 90 anos"
     }
 ];
