@@ -1,6 +1,58 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Gana é eleita na ONU Turismo e Brasil assume vice-presidência"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Pesquisadoras recebem prêmio por inovações e valorizam trajetória"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Câmara aprova protocolo nacional para combater racismo nas escolas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "CMN e BC anunciam novas regras para conter endividamento das famílias"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF mantém indicação prévia de valor em ações trabalhistas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Amcham participará de consulta dos EUA sobre tarifas ao Brasil"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Moraes autoriza Débora do Batom a comparecer à apresentação do filho"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Acusado de espancar professor André Aires no centro do Rio vira réu"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Atlético-MG e Corinthians movimentam pontas da tabela do Brasileirão"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil critica possível novo tarifaço dos EUA e diz que não cederá"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Tupanciretã: governo envia equipe e kits emergenciais para atendimento"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "TCU afasta multas a Dilma e auxiliares por irregularidades fiscais"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda"
     },
     {
@@ -25,58 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "IA generativa não vai acabar com profissões criativas, diz professora"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Exposição com obras de Renoir chega a Brasília nesta quinta-feira"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "ABI divulga série de vídeos pelo fim da violência contra mulheres"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Governo lança campanha Copa Mais Brasileira do Mundo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Comissão fixa carga mínima de filosofia e sociologia no ensino médio"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Congo do ES e Quilombo Frechal (MA) tornam-se patrimônios culturais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Violência contra mulher atingiu nível de atrocidade, diz Cármen Lúcia"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Com tema Ciência Delas, Semana de Ciência e Tecnologia vai até sábado"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil decide que embaixador não deve voltar à Argentina de Milei"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa determina apreensão de suplementos alimentares"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Anvisa manda apreender medicamentos falsificados para tratar câncer"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Efeito Americanas: CCJ do Senado tipifica crime de fraude contábil"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Operação da PF, Receita e MPF combate garimpo ilegal em Mato Grosso"
     }
 ];
