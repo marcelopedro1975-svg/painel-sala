@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "PGR denuncia deputado Gustavo Gayer por desvio de cota parlamentar"
+        titulo: "Trabuco aceita convite de Lula para comandar a Fazenda, diz Planalto"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Contas públicas: demanda por financiamento cresceu 27,1% em 2025"
+        titulo: "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasil atinge recorde de 10,6 milhões de matrículas no ensino superior"
+        titulo: "Inca lança atlas sobre características do câncer em brasileiros"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Contas externas têm déficit de US$ 4 bilhões em outubro"
+        titulo: "Casal trans denuncia agressão por dois homens em supermercado no DF"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Após 24 anos, política de saúde de povos indígenas é atualizada"
+        titulo: "Raio atinge plataforma da Petrobras a 200 quilômetros da costa do Rio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Polícia Civil de São Paulo faz operação contra Grupo Fictor"
+        titulo: "Iphan aprova tombamento do antigo prédio do DOI-Codi no Rio"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Restauração de biomas no Brasil mais do que triplica em cinco anos"
+        titulo: "Pix terá novas regras de segurança e melhorias em 2027"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "IPCA-15 teve alta de 0,22% em novembro"
+        titulo: "SP lança edital em busca de patrocínio para 780 blocos de carnaval"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inmet alerta para tempestades em boa parte do país"
+        titulo: "Receita apreende 58 toneladas de roupas e tênis não declarados"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "China: questões comerciais com EUA devem ser resolvidas com diálogo"
+        titulo: "STF: estados e municípios são obrigados a pagar piso dos professores"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Itaipu atrai estudantes e empreendedores para festival de inovação"
+        titulo: "Ergonomia e home office: estudos mostram que o problema é ficar parado"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Copinha F: Internacional vence Botafogo no encerramento da 1ª rodada"
+        titulo: "Lula e Cleitinho debatem negociação de dívida de Minas Gerais"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado"
+        titulo: "CMO aprova relatório do Orçamento de 2027 com corte de R$ 2,09 bilhões"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Gana é eleita na ONU Turismo e Brasil assume vice-presidência"
+        titulo: "BB e Google bloqueiam mais de 77 mil chamadas fraudulentas"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pesquisadoras recebem prêmio por inovações e valorizam trajetória"
+        titulo: "Governo prorroga subsídio de R$ 2,12 ao diesel por mais 30 dias"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CMN e BC anunciam novas regras para conter endividamento das famílias"
+        titulo: "Sedentarismo e sintomas depressivos elevam risco cardiometabólico"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF mantém indicação prévia de valor em ações trabalhistas"
+        titulo: "Com 40 anos na política, Benedita abriu caminhos para mulheres negras"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Amcham participará de consulta dos EUA sobre tarifas ao Brasil"
+        titulo: "Turismo estrangeiro movimentou R$ 53 bi na economia brasileira em 2026"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Moraes autoriza Débora do Batom a comparecer à apresentação do filho"
+        titulo: "Feijoada e peixe? Ministério quer ampliar consumo de pescado no país"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Acusado de espancar professor André Aires no centro do Rio vira réu"
+        titulo: "Quase 70% dos consumidores já se sentiram enganados na Black Friday"
     }
 ];
