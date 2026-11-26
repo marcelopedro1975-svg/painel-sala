@@ -1,6 +1,54 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PGR denuncia deputado Gustavo Gayer por desvio de cota parlamentar"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Contas públicas: demanda por financiamento cresceu 27,1% em 2025"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil atinge recorde de 10,6 milhões de matrículas no ensino superior"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Contas externas têm déficit de US$ 4 bilhões em outubro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Após 24 anos, política de saúde de povos indígenas é atualizada"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Polícia Civil de São Paulo faz operação contra Grupo Fictor"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Restauração de biomas no Brasil mais do que triplica em cinco anos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "IPCA-15 teve alta de 0,22% em novembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inmet alerta para tempestades em boa parte do país"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "China: questões comerciais com EUA devem ser resolvidas com diálogo"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Itaipu atrai estudantes e empreendedores para festival de inovação"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Copinha F: Internacional vence Botafogo no encerramento da 1ª rodada"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado"
     },
     {
@@ -10,10 +58,6 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Pesquisadoras recebem prêmio por inovações e valorizam trajetória"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Câmara aprova protocolo nacional para combater racismo nas escolas"
     },
     {
         fonte: "Agência Brasil",
@@ -34,49 +78,5 @@ var NOTICIAS = [
     {
         fonte: "Agência Brasil",
         titulo: "Acusado de espancar professor André Aires no centro do Rio vira réu"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Atlético-MG e Corinthians movimentam pontas da tabela do Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil critica possível novo tarifaço dos EUA e diz que não cederá"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Tupanciretã: governo envia equipe e kits emergenciais para atendimento"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TCU afasta multas a Dilma e auxiliares por irregularidades fiscais"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Ministério da Justiça bloqueia 4 mil celulares em presídios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Primeiros vice-campeões, Botafogo e Inter se enfrentam pela Copinha F"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo deve renovar subsídio ao diesel por mais 30 dias"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Moraes rejeita indicar recursos para pagar penduricalhos do MPU"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "STF marca julgamento sobre eleições no Rio para 4 de dezembro"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Governo lança campanha Copa Mais Brasileira do Mundo"
     }
 ];
