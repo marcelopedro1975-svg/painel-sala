@@ -1,82 +1,82 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
-        titulo: "Mega-Sena não tem ganhador e prêmio acumula para R$ 82 milhões"
+        titulo: "Ferramenta gratuita reúne mudanças para MEIs e pequenos negócios"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Veja a repercussão da escolha de Trabuco para o Ministério da Fazenda"
+        titulo: "Selo Não é Não – Mulheres Seguras é lançado hoje em bares brasileiros"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo e produtores repudiam crítica de Macron à carne brasileira"
+        titulo: "Brasil tem 387 mil crianças e adolescentes em união conjugal"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Amazonas, Pará e Roraima passam por apagão de energia nesta quinta"
+        titulo: "Guia orienta estados e municípios a acolher migrantes e refugiados"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Angra dos Reis registra maior volume de chuva no estado nesta quinta"
+        titulo: "Lula garante benefícios em novo governo, mas defende revisão"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Trabuco aceita convite de Lula para comandar a Fazenda, diz Planalto"
+        titulo: "Fachin mantém prisão de Paulo Henrique Costa, ex-presidente do BRB"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74"
+        titulo: "Manaus suspende atividades em parques após piora na qualidade do ar"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Inca lança atlas sobre características do câncer em brasileiros"
+        titulo: "Polícia Civil prende líder de milícia no Rio de Janeiro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Casal trans denuncia agressão por dois homens em supermercado no DF"
+        titulo: "Contas do governo têm superávit de R$ 52,3 bilhões em outubro"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Raio atinge plataforma da Petrobras a 200 quilômetros da costa do Rio"
+        titulo: "Fachin prorroga por 60 dias investigação da PF sobre filme Dark Horse"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Pix terá novas regras de segurança e melhorias em 2027"
+        titulo: "Enade 2026: estudantes de 18 áreas fazem a prova neste domingo"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Receita apreende 58 toneladas de roupas e tênis não declarados"
+        titulo: "Pé-de-Meia: nascidos em setembro e outubro recebem parcela de R$ 200"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "STF: estados e municípios são obrigados a pagar piso dos professores"
+        titulo: "TSE prepara medida contra infiltração do crime organizado nas eleições"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Ergonomia e home office: estudos mostram que o problema é ficar parado"
+        titulo: "Famílias mais pobres são 21,7%, mas ficam com apenas 4,7% da renda"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Lula e Cleitinho debatem negociação de dívida de Minas Gerais"
+        titulo: "Brasileiros estão gastando mais com alimentação e saúde, aponta IBGE"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "CMO aprova relatório do Orçamento de 2027 com corte de R$ 2,09 bilhões"
+        titulo: "Rendimento real do trabalhador cresceu 3,5% em um ano"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "BB e Google bloqueiam mais de 77 mil chamadas fraudulentas"
+        titulo: "Rádio Nacional transmite Fluminense e Cruzeiro pelo Brasileirão"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Sedentarismo e sintomas depressivos elevam risco cardiometabólico"
+        titulo: "Meninas do Tarumã superam incertezas por oportunidade na Copinha F"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Com 40 anos na política, Benedita abriu caminhos para mulheres negras"
+        titulo: "Licenciaturas crescem e somam 1,7 milhão de matrículas em 2025"
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Feijoada e peixe? Ministério quer ampliar consumo de pescado no país"
+        titulo: "Equador: Noboa tenta se consolidar em eleição com oposição reduzida"
     }
 ];
