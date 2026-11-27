@@ -1,6 +1,26 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "Mega-Sena não tem ganhador e prêmio acumula para R$ 82 milhões"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Veja a repercussão da escolha de Trabuco para o Ministério da Fazenda"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo e produtores repudiam crítica de Macron à carne brasileira"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Amazonas, Pará e Roraima passam por apagão de energia nesta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Angra dos Reis registra maior volume de chuva no estado nesta quinta"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Trabuco aceita convite de Lula para comandar a Fazenda, diz Planalto"
     },
     {
@@ -21,15 +41,7 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Iphan aprova tombamento do antigo prédio do DOI-Codi no Rio"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Pix terá novas regras de segurança e melhorias em 2027"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "SP lança edital em busca de patrocínio para 780 blocos de carnaval"
     },
     {
         fonte: "Agência Brasil",
@@ -57,10 +69,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Governo prorroga subsídio de R$ 2,12 ao diesel por mais 30 dias"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Sedentarismo e sintomas depressivos elevam risco cardiometabólico"
     },
     {
@@ -69,14 +77,6 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Turismo estrangeiro movimentou R$ 53 bi na economia brasileira em 2026"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Feijoada e peixe? Ministério quer ampliar consumo de pescado no país"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Quase 70% dos consumidores já se sentiram enganados na Black Friday"
     }
 ];
