@@ -1,19 +1,67 @@
 var NOTICIAS = [
     {
         fonte: "Agência Brasil",
+        titulo: "PM do Rio ocupa comunidades de Jacarepaguá por tempo indeterminado"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Dólar cai quase 4% e fecha em R$ 5,51, após anúncio de Trabuco"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Distribuidoras de energia oferecem descontos para renegociar dívidas"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Com bandeira tarifária verde, energia não terá custo extra em dezembro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Inauguração da Árvore de Natal da Lagoa terá queima de fogos e drones"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Ato marca um ano do duplo feminicídio de servidoras no Cefet-RJ"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Vendas do Tesouro Direto registram melhor outubro da história"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Brasil quer aproximar Mercosul de mercados do Caribe e América Central"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "STF: Dino suspende emendas parlamentares de Flávio Bolsonaro"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Mostra no Recife destaca diversidade de filmes de animação africanos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Enem 2026: resultado de pedidos de reaplicação já está disponível"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Lula quer espaço de lazer e atenção para idosos"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Governo avalia que novo tarifaço dos EUA busca proteger big techs"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Aumento de casos de covid-19 pode estar relacionado a nova variante"
+    },
+    {
+        fonte: "Agência Brasil",
+        titulo: "Em encontro com Lula, estudantes destacam programas de acesso a ensino"
+    },
+    {
+        fonte: "Agência Brasil",
         titulo: "Ferramenta gratuita reúne mudanças para MEIs e pequenos negócios"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Selo Não é Não – Mulheres Seguras é lançado hoje em bares brasileiros"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasil tem 387 mil crianças e adolescentes em união conjugal"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Guia orienta estados e municípios a acolher migrantes e refugiados"
     },
     {
         fonte: "Agência Brasil",
@@ -25,58 +73,10 @@ var NOTICIAS = [
     },
     {
         fonte: "Agência Brasil",
-        titulo: "Manaus suspende atividades em parques após piora na qualidade do ar"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Polícia Civil prende líder de milícia no Rio de Janeiro"
-    },
-    {
-        fonte: "Agência Brasil",
         titulo: "Contas do governo têm superávit de R$ 52,3 bilhões em outubro"
     },
     {
         fonte: "Agência Brasil",
         titulo: "Fachin prorroga por 60 dias investigação da PF sobre filme Dark Horse"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Enade 2026: estudantes de 18 áreas fazem a prova neste domingo"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Pé-de-Meia: nascidos em setembro e outubro recebem parcela de R$ 200"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "TSE prepara medida contra infiltração do crime organizado nas eleições"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Famílias mais pobres são 21,7%, mas ficam com apenas 4,7% da renda"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Brasileiros estão gastando mais com alimentação e saúde, aponta IBGE"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rendimento real do trabalhador cresceu 3,5% em um ano"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Rádio Nacional transmite Fluminense e Cruzeiro pelo Brasileirão"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Meninas do Tarumã superam incertezas por oportunidade na Copinha F"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Licenciaturas crescem e somam 1,7 milhão de matrículas em 2025"
-    },
-    {
-        fonte: "Agência Brasil",
-        titulo: "Equador: Noboa tenta se consolidar em eleição com oposição reduzida"
     }
 ];
